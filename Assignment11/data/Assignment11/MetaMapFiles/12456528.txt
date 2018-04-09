@@ -1,0 +1,1396 @@
+Processing 00000000.tx.1: Costs of dementia A. 
+
+Phrase: "Costs of dementia A."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0010186:Costs [Quantitative Concept]
+   770   C0220812:Costs [Quantitative Concept]
+Processing 00000000.tx.2: Bianchetti, F. 
+
+Phrase: "Bianchetti,"
+
+Phrase: "F."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+  1000   C0439133:(f) [Intellectual Product]
+  1000   C1553038:[f] [Quantitative Concept]
+Processing 00000000.tx.3: Castelletti and M. 
+
+Phrase: "Castelletti"
+
+Phrase: "and"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.4: Trabucchi Geriatric Research Group, Via Romanino 1 - 25122 Brescia, Italy EDITED BY KHALIDA ISMAIL Declaration of interest The CoDem Study was funded by a grant from Bayer Pharmaceuticals, Milan, Italy. 
+
+Phrase: "Trabucchi Geriatric Research Group,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   812   C0441833:Group [Idea or Concept]
+   812   C0687744:group [Population Group]
+   812   C1257890:Group [Population Group]
+   812   C1552516:Group [Health Care Related Organization]
+   812   C1705428:Group [Conceptual Entity]
+   812   C1705429:Group [Population Group]
+
+Phrase: "Via Romanino 1 - 25122 Brescia,"
+
+Phrase: "Italy EDITED BY KHALIDA ISMAIL Declaration of"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   714   C0868955:Edit [Occupational Activity]
+
+Phrase: "interest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0543488:Interest [Mental Process]
+
+Phrase: "The CoDem Study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+
+Phrase: "was"
+
+Phrase: "funded by a grant"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0016820:funded [Quantitative Concept]
+   770   C0018173:Grant [Quantitative Concept]
+   770   C1548284:Grant [Idea or Concept]
+
+Phrase: "from Bayer Pharmaceuticals,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C1135440:Pharmaceuticals [Therapeutic or Preventive Procedure]
+   861   C1254351:Pharmaceuticals [Pharmacologic Substance]
+   827 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+
+Phrase: "Milan,"
+
+Phrase: "Italy."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0022277:Italy [Geographic Area]
+Processing 00000000.tx.5: A.B. and M.T. have received financial support from various pharmaceutical companies to attend educational meetings. 
+
+Phrase: "A.B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1440044:A,B [Immunologic Factor]
+
+Phrase: "and"
+
+Phrase: "M.T."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "have"
+
+Phrase: "received financial support from various pharmaceutical companies to"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0016118:Financial Support [Idea or Concept]
+   744   C0183683:Support [Medical Device]
+   744   C0376243:financial [Quantitative Concept]
+   744   C1521721:Support [Conceptual Entity]
+   744   C2350008:Financial [Qualitative Concept]
+
+Phrase: "attend"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999232:attend [Functional Concept]
+
+Phrase: "educational meetings."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0556656:Meeting [Health Care Activity]
+Processing 00000000.tx.6: M.T. has received fees for making educational contributions to meetings sponsored by pharmaceutical companies. 
+
+Phrase: "M.T."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "has"
+
+Phrase: "received fees for making educational contributions"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0015751:Fees [Quantitative Concept]
+   753   C0220828:fees [Quantitative Concept]
+   748   C1555686:education fees [Quantitative Concept]
+
+Phrase: "to meetings"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0556656:Meeting [Health Care Activity]
+
+Phrase: "sponsored by pharmaceutical companies."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0815266:Pharmaceutical Company [Health Care Related Organization]
+   770   C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   770   C0683757:Company [Manufactured Object,Organization]
+   770   C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   737   C1711305:Sponsor [Human]
+   737   C2347796:SPONSOR [Organization]
+Processing 00000000.tx.7: In their recent paper, Wolstenholme et al (2002) demonstrated that changes in cognitive and functional status have independent and significant effects on the costs of care in dementia. 
+
+Phrase: "In their recent paper,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0030351:Paper [Manufactured Object]
+   861   C1547566:Paper [Idea or Concept]
+
+Phrase: "Wolstenholme et al (2002"
+
+Phrase: ")"
+
+Phrase: "demonstrated"
+
+Phrase: "that changes in cognitive"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   819   C1392786:COGNITIVE CHANGES [Mental or Behavioral Dysfunction]
+   770   C0392747:changes [Functional Concept]
+   770   C0443172:changes [Quantitative Concept]
+   737 E C1705241:Change [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "functional status"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0598463:Functional Status [Finding]
+   861   C0449438:Status [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "independent"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0085862:Independent [Idea or Concept]
+  1000   C1299583:Independent [Finding]
+
+Phrase: "and"
+
+Phrase: "significant effects on the costs of care"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   748   C1280500:effects [Qualitative Concept]
+   714 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "in dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.8: We agree with the authors that models of costs based solely on measures of cognitive changes are inappropriate to describe variables influencing the costs of dementia. 
+
+Phrase: "We"
+
+Phrase: "agree with the authors"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0221193:Authors [Professional or Occupational Group]
+   770   C3641827:Agree [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "models of costs"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0010186:Costs [Quantitative Concept]
+   790   C0220812:Costs [Quantitative Concept]
+   790   C3161035:Model [Intellectual Product]
+
+Phrase: "based"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C1527178:Based [Functional Concept]
+  1000   C1705938:Based [Idea or Concept]
+   966 E C0002055:base [Inorganic Chemical]
+   966 E C0178499:Base [Chemical Viewed Functionally]
+   966 E C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "solely on measures of cognitive changes"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   790   C1392786:COGNITIVE CHANGES [Mental or Behavioral Dysfunction]
+   753   C0079809:Measures [Quantitative Concept]
+   753   C0392747:changes [Functional Concept]
+   753   C0443172:changes [Quantitative Concept]
+   753   C1516691:Cognitive [Functional Concept]
+   753   C1879489:Measures [Functional Concept]
+   719 E C0242485:Measure [Functional Concept]
+   719 E C1705241:Change [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "inappropriate to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C1548788:Inappropriate [Qualitative Concept]
+   861   C3537135:Inappropriate [Qualitative Concept]
+   861   C3542467:Inappropriate [Qualitative Concept]
+
+Phrase: "describe"
+
+Phrase: "variables"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439828:variables [Qualitative Concept]
+
+Phrase: "influencing"
+
+Phrase: "the costs of dementia."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0010186:Costs [Quantitative Concept]
+   770   C0220812:Costs [Quantitative Concept]
+Processing 00000000.tx.9: From 1994 to 1999 we conducted in Italy a longitudinal study on costs of Alzheimer's disease (the CoDem Study), based on information obtained every 6 months from a sample of 148 patients with Alzheimer's disease living at home (73.6% female, mean (s.d.) age 78 (7.8) years, mean (s.d.) Mini-Mental State Examination (MMSE) score at baseline 8.9 (8.3)), estimating direct and indirect costs of dementia (Trabucchi et al, 1996). 
+
+Phrase: "From 1994"
+
+Phrase: "to 1999"
+
+Phrase: "we"
+
+Phrase: "conducted in Italy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0022277:Italy [Geographic Area]
+   756   C0004927:Conduct [Individual Behavior]
+
+Phrase: "a longitudinal study on costs of Alzheimer's disease"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0023981:Longitudinal Study [Research Activity]
+   744   C0205127:Longitudinal [Spatial Concept]
+   744   C0557651:Study [Manufactured Object]
+   744   C2603343:Study [Research Activity]
+
+Phrase: "("
+
+Phrase: "the CoDem Study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "based on information"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   790   C1527178:Based [Functional Concept]
+   790   C1533716:Information [Idea or Concept]
+   790   C1705938:Based [Idea or Concept]
+   756 E C0002055:base [Inorganic Chemical]
+   756 E C0178499:Base [Chemical Viewed Functionally]
+   756 E C1880279:Base [Biomedical or Dental Material]
+   718 E C3242430:informational [Idea or Concept]
+
+Phrase: "obtained"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C1301820:Obtained [Functional Concept]
+   966 E C1706701:Obtain [Activity]
+   928 E C1517378:Gain [Quantitative Concept]
+   907 E C0205217:Increased [Quantitative Concept]
+   907 E C0439661:Acquired [Temporal Concept]
+   907 E C0442805:Increase [Functional Concept]
+   907 E C0442808:Increasing [Functional Concept]
+   907 E C3245488:acquired [Intellectual Product]
+
+Phrase: "every 6 months from a sample of 148 patients"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   790   C0585339:Every 6 months [Temporal Concept]
+   745   C0332177:Every month [Temporal Concept]
+   745   C0439507:Every Month [Temporal Concept]
+       E   /month
+   742   C0439231:months [Temporal Concept]
+
+Phrase: "with Alzheimer's disease living"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0376558:Living [Idea or Concept]
+   734   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   734   C1521724:Alzheimer's Disease [Pathologic Function]
+
+Phrase: "at home"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0442519:Home [Conceptual Entity]
+
+Phrase: "(73.6% female,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   827   C0015780:Female [Finding]
+   827   C0043210:female [Population Group]
+   827   C0086287:female [Population Group]
+   827   C1705497:Female [Qualitative Concept]
+   827   C1705498:Female [Qualitative Concept]
+
+Phrase: "mean"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0444504:Mean [Quantitative Concept]
+  1000   C2347634:Mean [Quantitative Concept]
+  1000   C2348143:Mean [Quantitative Concept]
+
+Phrase: "(s.d.) age 78"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0001779:Age [Organism Attribute]
+   812   C2603362:S' [Clinical Attribute]
+
+Phrase: "(7.8"
+
+Phrase: ")"
+
+Phrase: "years,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0439234:years [Temporal Concept]
+   966 E C0439508:/year [Temporal Concept]
+
+Phrase: "mean"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0444504:Mean [Quantitative Concept]
+  1000   C2347634:Mean [Quantitative Concept]
+  1000   C2348143:Mean [Quantitative Concept]
+
+Phrase: "(s.d.) Mini-Mental State Examination (MMSE) score"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   913   C2960235:Mini-mental state examination score [Finding]
+   879   C1532985:Mini mental state score [Intellectual Product]
+   795   C0449820:Score [Quantitative Concept]
+   710   C0451306:Mini-mental state examination [Diagnostic Procedure]
+
+Phrase: "at baseline 8.9"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0168634:baseline [Biomedical or Dental Material]
+   827   C1442488:Baseline [Quantitative Concept]
+
+Phrase: "(8.3"
+
+Phrase: ")"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "estimating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750572:estimating [Quantitative Concept]
+
+Phrase: "direct"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439851:Direct [Qualitative Concept]
+  1000   C1947931:Direct [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "indirect costs of dementia"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C1517106:Indirect Costs [Quantitative Concept]
+   770   C0010186:Costs [Quantitative Concept]
+   770   C0220812:Costs [Quantitative Concept]
+
+Phrase: "(Trabucchi et al,"
+
+Phrase: "1996"
+
+Phrase: ")."
+Processing 00000000.tx.10: In a preliminary analysis after the first year of observation, using a logistic regression analysis, we found that greater annual costs for Alzheimer's disease are significantly associated more with disability than with cognitive decline (Bianchetti et al, 1998). 
+
+Phrase: "In a preliminary analysis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0936012:Analysis [Research Activity]
+   861   C1524024:analysis [Functional Concept]
+
+Phrase: "after the first year"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439234:year [Temporal Concept]
+   861   C0439508:/year [Temporal Concept]
+
+Phrase: "of observation,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0302523:Observation [Research Activity]
+  1000   C0700325:observation [Health Care Activity]
+  1000   C1964257:Observation [Diagnostic Procedure]
+   928 E C1518527:OBSERVATIONAL [Research Activity]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "a logistic regression analysis,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0681925:logistic regression analysis [Research Activity]
+   901   C0034980:Regression Analysis [Intellectual Product]
+   827   C0002778:Analysis [Laboratory Procedure]
+   827   C0936012:Analysis [Research Activity]
+   827   C1524024:analysis [Functional Concept]
+   734   C0206031:Logistic Regression [Research Activity]
+
+Phrase: "we"
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "that greater annual costs for Alzheimer's disease"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   774   C0162698:Disease Costs [Quantitative Concept]
+   748   C0010186:Costs [Quantitative Concept]
+   748   C0220812:Costs [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "significantly"
+
+Phrase: "associated"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332281:Associated [Qualitative Concept]
+   966 E C0750490:Associate [Idea or Concept]
+   966 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "more with disability"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   790   C0205172:More [Functional Concept]
+   790   C0231170:Disability [Finding]
+   718 E C0018576:Disabled [Patient or Disabled Group]
+   718 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: "than"
+
+Phrase: "with cognitive decline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0338656:Cognitive decline [Mental or Behavioral Dysfunction]
+
+Phrase: "(Bianchetti et al,"
+
+Phrase: "1998"
+
+Phrase: ")."
+Processing 00000000.tx.11: Following this line of investigation, we evaluated the modification of costs with the progression of the disease at the end of the 6-year longitudinal study with a Markov state transition model based on the comparison of costs for different states of cognitive and functional decline (measured using the MMSE and the Basic Activities of Daily Living (BADL) scale) (Jnsson et al, 1999). 
+
+Phrase: "Following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "this line of investigation,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0205132:Line [Spatial Concept]
+   770   C1550648:Line [Substance]
+   770   C1552960:Line [Quantitative Concept]
+
+Phrase: "we"
+
+Phrase: "evaluated"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0220825:Evaluated [Functional Concept]
+
+Phrase: "the modification of costs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0392747:Modification [Functional Concept]
+   770   C1554963:modification [Qualitative Concept]
+
+Phrase: "with the progression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0242656:progression [Pathologic Function]
+  1000   C0449258:Progression [Functional Concept]
+
+Phrase: "of the disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "at the end"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0444930:End [Spatial Concept]
+  1000   C2746065:End [Temporal Concept]
+   944 E C0205088:Terminal [Temporal Concept]
+   944 E C1705314:Terminal [Manufactured Object]
+   944 E C1705315:Terminal [Spatial Concept]
+
+Phrase: "of the 6-year longitudinal study"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0023981:Longitudinal Study [Research Activity]
+   812   C0205127:Longitudinal [Spatial Concept]
+   812   C0557651:Study [Manufactured Object]
+   812   C2603343:Study [Research Activity]
+
+Phrase: "with a Markov state transition model"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   861   C1554158:State transition [Idea or Concept]
+   812   C0599156:Transition [Cell or Molecular Dysfunction]
+   812   C1301808:State [Geographic Area]
+   812   C1442792:State [Functional Concept]
+   812   C2700061:Transition [Activity]
+   812   C3148680:State [Geographic Area]
+   812   C3161035:Model [Intellectual Product]
+   741 E C1182674:Transitional [Spatial Concept]
+   741 E C1548597:Transitional [Idea or Concept]
+
+Phrase: "based on the comparison of costs"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   753   C0010186:Costs [Quantitative Concept]
+   753   C0220812:Costs [Quantitative Concept]
+   753   C1527178:Based [Functional Concept]
+   753   C1705938:Based [Idea or Concept]
+   753   C1707455:Comparison [Activity]
+   719 E C0002055:base [Inorganic Chemical]
+   719 E C0178499:Base [Chemical Viewed Functionally]
+   719 E C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "for different states"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C1301808:states [Geographic Area]
+   827 E C1442792:State [Functional Concept]
+   827 E C3148680:State [Geographic Area]
+
+Phrase: "of cognitive"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1516691:Cognitive [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "functional decline"
+
+Phrase: "("
+
+Phrase: "measured"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0444706:Measured [Qualitative Concept]
+  1000   C3541902:MEASURED [Diagnostic Procedure]
+   966 E C0079809:Measure [Quantitative Concept]
+   966 E C0242485:Measure [Functional Concept]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "the MMSE"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0850338:mental state examination [Therapeutic or Preventive Procedure]
+   734   C0278060:Mental state [Finding]
+
+Phrase: "and"
+
+Phrase: "the Basic Activities of Daily Living (BADL) scale"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   891   C1290927:Basic activity of daily living [Daily or Recreational Activity]
+   853   C0001288:Activities of Daily Living [Daily or Recreational Activity]
+           Activities, Daily Living
+       E   Daily Activity
+   774   C0871707:daily activities [Daily or Recreational Activity]
+   748   C0441655:Activities [Activity]
+   714 E C0205177:Activity [Functional Concept]
+   714 E C0439167:% activity [Quantitative Concept]
+   714 E C1561536:*Activity [Idea or Concept]
+
+Phrase: ") (Jnsson et al, 1999)."
+Processing 00000000.tx.12: In our study total costs (per year) for dementia care varied from [UNK]15 450 (9972) for independent patients (BADL lost=0), to [UNK]21 463 (13 853) for partially independent subjects (1-3 BADL lost) and [UNK]23 762 (15 336) for totally dependent patients (4-6 BADL lost). 
+
+Phrase: "In our study total costs"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0947343:Study.total [Finding]
+   827   C0010186:Costs [Quantitative Concept]
+   827   C0220812:Costs [Quantitative Concept]
+   827   C0439175:% total [Quantitative Concept]
+   827   C0439810:Total [Qualitative Concept]
+
+Phrase: "("
+
+Phrase: "per year"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439234:year [Temporal Concept]
+  1000   C0439508:/year [Temporal Concept]
+
+Phrase: ")"
+
+Phrase: "for dementia care"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1947933:Care [Activity]
+
+Phrase: "varied from"
+
+Phrase: "[UNK"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1823916:UNK [Gene or Genome]
+
+Phrase: "]15 450"
+
+Phrase: "(per year) for dementia care varied from [UNK]15 450 (9972"
+
+Phrase: ")"
+
+Phrase: "for independent patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "(9972) for independent patients (BADL"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   993   C1290927:Basic activity of daily living [Daily or Recreational Activity]
+   926   C0001288:Activities of Daily Living [Daily or Recreational Activity]
+           Activities, Daily Living
+       E   Daily Activity
+   797   C0871707:daily activities [Daily or Recreational Activity]
+   760   C0441655:Activities [Activity]
+   726 E C0205177:Activity [Functional Concept]
+   726 E C0439167:% activity [Quantitative Concept]
+   726 E C1561536:*Activity [Idea or Concept]
+
+Phrase: "lost"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0745777:Lost [Functional Concept]
+
+Phrase: "=0"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "to [UNK"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1823916:UNK [Gene or Genome]
+
+Phrase: "]21 463"
+
+Phrase: "(BADL lost=0), to [UNK]21 463 (13 853"
+
+Phrase: ")"
+
+Phrase: "for partially independent subjects"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   793   C0681850:Subject [Group]
+   793   C1550501:{Subject} [Idea or Concept]
+   793   C1706203:Subject [Idea or Concept]
+   793   C2349001:Subject [Human]
+   793   C2697811:Subject [Functional Concept]
+
+Phrase: "(13 853) for partially independent subjects (1-3 BADL"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   891   C1290927:Basic activity of daily living [Daily or Recreational Activity]
+   853   C0001288:Activities of Daily Living [Daily or Recreational Activity]
+           Activities, Daily Living
+       E   Daily Activity
+   774   C0871707:daily activities [Daily or Recreational Activity]
+   748   C0441655:Activities [Activity]
+   714 E C0205177:Activity [Functional Concept]
+   714 E C0439167:% activity [Quantitative Concept]
+   714 E C1561536:*Activity [Idea or Concept]
+
+Phrase: "lost"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0745777:Lost [Functional Concept]
+
+Phrase: ")"
+
+Phrase: "and ["
+
+Phrase: "UNK"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1823916:UNK [Gene or Genome]
+
+Phrase: "]23 762"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0450348:23 [Quantitative Concept]
+
+Phrase: "(1-3 BADL lost) and [UNK]23 762 (15 336"
+
+Phrase: ")"
+
+Phrase: "for totally dependent patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0581116:dependent patients [Functional Concept]
+   827   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "(15 336) for totally dependent patients (4-6 BADL"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   891   C1290927:Basic activity of daily living [Daily or Recreational Activity]
+   853   C0001288:Activities of Daily Living [Daily or Recreational Activity]
+           Activities, Daily Living
+       E   Daily Activity
+   774   C0871707:daily activities [Daily or Recreational Activity]
+   748   C0441655:Activities [Activity]
+   714 E C0205177:Activity [Functional Concept]
+   714 E C0439167:% activity [Quantitative Concept]
+   714 E C1561536:*Activity [Idea or Concept]
+
+Phrase: "lost"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0745777:Lost [Functional Concept]
+
+Phrase: ") for totally dependent patients (4-6 BADL lost)."
+Processing 00000000.tx.13: Using the MMSE, the costs varied from [UNK]18 024 (11 633) for patients with mild Alzheimer's disease (MMSE >20), to [UNK]19 665 (12 692) for patients with moderate decline (MMSE 15-20) and [UNK]25 351 (17 077) for patients with severe cognitive decline (MMSE 8-14) (Trabucchi, 1999). 
+
+Phrase: "Using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "the MMSE,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0850338:mental state examination [Therapeutic or Preventive Procedure]
+   734   C0278060:Mental state [Finding]
+
+Phrase: "the costs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0010186:Costs [Quantitative Concept]
+  1000   C0220812:Costs [Quantitative Concept]
+
+Phrase: "varied from"
+
+Phrase: "[UNK"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1823916:UNK [Gene or Genome]
+
+Phrase: "]18 024"
+
+Phrase: "(4-6 BADL lost). Using the MMSE, the costs varied from [UNK]18 024 (11 633"
+
+Phrase: ")"
+
+Phrase: "for patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with mild Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   901   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   901   C1521724:Alzheimer's Disease [Pathologic Function]
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(11 633) for patients with mild Alzheimer's disease (MMSE"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0850338:mental state examination [Therapeutic or Preventive Procedure]
+   734   C0278060:Mental state [Finding]
+
+Phrase: ">20"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "to [UNK"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1823916:UNK [Gene or Genome]
+
+Phrase: "]19 665"
+
+Phrase: "(MMSE >20), to [UNK]19 665 (12 692"
+
+Phrase: ")"
+
+Phrase: "for patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with moderate decline"
+
+Phrase: "(12 692) for patients with moderate decline (MMSE 15-20"
+Meta Candidates (Total=11; Excluded=5; Pruned=0; Remaining=6)
+   884   C0850338:mental state examination [Therapeutic or Preventive Procedure]
+   840   C0278060:Mental state [Finding]
+   804   C0229992:mental [Mental Process]
+   804   C1301808:State [Geographic Area]
+   804   C1442792:State [Functional Concept]
+   804   C3148680:State [Geographic Area]
+   721 E C0229993:Psychic [Functional Concept]
+   704 E C0011980:Diaphragm [Body Part, Organ, or Organ Component]
+   704 E C0042241:DIAPHRAGM [Medical Device]
+   704 E C1279038:Diaphragm [Body Part, Organ, or Organ Component]
+   704 E C1705367:Diaphragm [Medical Device]
+
+Phrase: ")"
+
+Phrase: "and ["
+
+Phrase: "UNK"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1823916:UNK [Gene or Genome]
+
+Phrase: "]25 351"
+
+Phrase: "(MMSE 15-20) and [UNK]25 351 (17 077"
+
+Phrase: ")"
+
+Phrase: "for patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with severe cognitive decline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   901   C0338656:Cognitive decline [Mental or Behavioral Dysfunction]
+
+Phrase: "(17 077) for patients with severe cognitive decline (MMSE 8-14"
+Meta Candidates (Total=11; Excluded=5; Pruned=0; Remaining=6)
+   884   C0850338:mental state examination [Therapeutic or Preventive Procedure]
+   840   C0278060:Mental state [Finding]
+   804   C0229992:mental [Mental Process]
+   804   C1301808:State [Geographic Area]
+   804   C1442792:State [Functional Concept]
+   804   C3148680:State [Geographic Area]
+   721 E C0229993:Psychic [Functional Concept]
+   704 E C0011980:Diaphragm [Body Part, Organ, or Organ Component]
+   704 E C0042241:DIAPHRAGM [Medical Device]
+   704 E C1279038:Diaphragm [Body Part, Organ, or Organ Component]
+   704 E C1705367:Diaphragm [Medical Device]
+
+Phrase: ")"
+
+Phrase: "(MMSE 8-14) (Trabucchi,"
+
+Phrase: "1999"
+
+Phrase: ") (Trabucchi, 1999)."
+Processing 00000000.tx.14: Our data, obtained in a sample of subjects with Alzheimer's disease living in a different social and cultural context, strengthen those obtained by Wolstenholme and colleagues, emphasising in particular the need to demonstrate an effect on functional status in the cost-effectiveness analysis of interventions in dementia. 
+
+Phrase: "Our data,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1511726:Data [Idea or Concept]
+  1000   C3245479:data [Medical Device]
+
+Phrase: "obtained in a sample of subjects"
+Meta Candidates (Total=10; Excluded=1; Pruned=0; Remaining=9)
+   783   C1277697:Sample obtained [Finding]
+   753   C0370003:Sample [Substance]
+   753   C1301820:Obtained [Functional Concept]
+   753   C2347026:Sample [Conceptual Entity]
+   719   C0681850:Subject [Group]
+   719   C1550501:{Subject} [Idea or Concept]
+   719   C1706203:Subject [Idea or Concept]
+   719 E C1706701:Obtain [Activity]
+   719   C2349001:Subject [Human]
+   719   C2697811:Subject [Functional Concept]
+
+Phrase: "with Alzheimer's disease living"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0376558:Living [Idea or Concept]
+   734   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   734   C1521724:Alzheimer's Disease [Pathologic Function]
+
+Phrase: "in a different social"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0728831:Social [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "cultural context,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0449255:Context [Finding]
+   861   C0542559:Context [Functional Concept]
+
+Phrase: "strengthen"
+
+Phrase: "those"
+
+Phrase: "obtained by Wolstenholme"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   790   C1301820:Obtained [Functional Concept]
+   756 E C1706701:Obtain [Activity]
+   718 E C1517378:Gain [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "colleagues,"
+
+Phrase: "emphasising in particular"
+
+Phrase: "the need to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0027552:Need [Qualitative Concept]
+   861   C0686904:need [Functional Concept]
+
+Phrase: "demonstrate"
+
+Phrase: "an effect on functional status"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1280500:Effect [Qualitative Concept]
+   760   C2348382:Effect [Qualitative Concept]
+
+Phrase: "in the cost-effectiveness analysis"
+Meta Candidates (Total=10; Excluded=1; Pruned=0; Remaining=9)
+  1000   C1511536:Cost Effectiveness Analysis [Occupational Activity]
+   913   C0010171:Cost Analysis [Occupational Activity]
+   901   C0010181:Cost Effectiveness [Quantitative Concept]
+   827   C0002778:Analysis [Laboratory Procedure]
+   827   C0010186:Cost [Quantitative Concept]
+   827   C0220812:cost [Quantitative Concept]
+   827   C0936012:Analysis [Research Activity]
+   827   C1280519:Effectiveness [Qualitative Concept]
+   827   C1524024:analysis [Functional Concept]
+   755 E C1704419:Effective [Qualitative Concept]
+
+Phrase: "of interventions"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+  1000   C0886296:interventions [Health Care Activity]
+  1000   C1273869:Interventions [Health Care Activity]
+  1000   C2979881:Interventions [Clinical Attribute]
+  1000   C3542921:Interventions [Classification]
+   966 E C1948041:Intervention [Therapeutic or Preventive Procedure]
+   916 E C3274035:INTERVENTIONAL [Research Activity]
+
+Phrase: "in dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.15: REFERENCES Bianchetti, A., Frisoni, G. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Bianchetti,"
+
+Phrase: "A.,"
+
+Phrase: "Frisoni,"
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.16: B., Ghisla, K. 
+
+Phrase: "B.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+
+Phrase: "Ghisla,"
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.17: M., et al (1998) Clinical predictors of the indirect costs of Alzheimer's disease. 
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "et al, 1999). In our study total costs (per year) for dementia care varied from [UNK]15 450 (9972) for independent patients (BADL lost=0), to [UNK]21 463 (13 853) for partially independent subjects (1-3 BADL lost) and [UNK]23 762 (15 336) for totally dependent patients (4-6 BADL lost). Using the MMSE, the costs varied from [UNK]18 024 (11 633) for patients with mild Alzheimer's disease (MMSE >20), to [UNK]19 665 (12 692) for patients with moderate decline (MMSE 15-20) and [UNK]25 351 (17 077) for patients with severe cognitive decline (MMSE 8-14) (Trabucchi, 1999). Our data, obtained in a sample of subjects with Alzheimer's disease living in a different social and cultural context, strengthen those obtained by Wolstenholme and colleagues, emphasising in particular the need to demonstrate an effect on functional status in the cost-effectiveness analysis of interventions in dementia. REFERENCES Bianchetti, A., Frisoni, G. B., Ghisla, K. M., et al (1998"
+
+Phrase: ")"
+
+Phrase: "Clinical predictors of the indirect costs of Alzheimer's disease."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   708   C2698872:Predictor [Idea or Concept]
+Processing 00000000.tx.18: Archives of Neurology, 55, 130-131.[Free FullText] Jnsson, L., Lindgren, P., Wimo, A., et al (1999) The cost-effectiveness of donepezil in Swedish patients with Alzheimer's disease: a Markov model. 
+
+Phrase: "Archives of Neurology,"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   790   C0003738:Archives [Manufactured Object]
+   790   C0027855:Neurology [Biomedical Occupation or Discipline]
+   790   C1554162:Archive [Idea or Concept]
+   718 E C0205494:Neurologic [Qualitative Concept]
+   718 E C2707261:Neurological [Clinical Attribute]
+
+Phrase: "55,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450382:55 [Intellectual Product]
+
+Phrase: "130-131."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Jnsson,"
+
+Phrase: "L.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+
+Phrase: "Lindgren,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Wimo,"
+
+Phrase: "A.,"
+
+Phrase: "et al (1998) Clinical predictors of the indirect costs of Alzheimer's disease. Archives of Neurology, 55, 130-131.[Free FullText] Jnsson, L., Lindgren, P., Wimo, A., et al (1999"
+
+Phrase: ")"
+
+Phrase: "The cost-effectiveness of donepezil"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   806   C0010181:Cost Effectiveness [Quantitative Concept]
+   760   C0010186:Cost [Quantitative Concept]
+   760   C0220812:cost [Quantitative Concept]
+   760   C1280519:Effectiveness [Qualitative Concept]
+
+Phrase: "in Swedish patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "a Markov model."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3161035:Model [Intellectual Product]
+Processing 00000000.tx.19: Clinical Therapeutics, 21, 1230-1240.[CrossRef][Medline] Trabucchi, M. 
+
+Phrase: "Clinical Therapeutics,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0039796:Therapeutics [Therapeutic or Preventive Procedure]
+   861   C0723712:therapeutics [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "21,"
+
+Phrase: "1230-1240."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Trabucchi,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.20: (1999) An economic perspective on Alzheimer's disease. 
+
+Phrase: "(1999) The cost-effectiveness of donepezil in Swedish patients with Alzheimer's disease: a Markov model. Clinical Therapeutics, 21, 1230-1240.[CrossRef][Medline] Trabucchi, M. (1999"
+
+Phrase: ")"
+
+Phrase: "An economic perspective on Alzheimer's disease."
+Processing 00000000.tx.21: Journal of Geriatric Psychiatry and Neurology, 12, 29-38.[Medline] Trabucchi, M., Ghisla, M. 
+
+Phrase: "Journal of Geriatric Psychiatry"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "and"
+
+Phrase: "Neurology,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0027855:Neurology [Biomedical Occupation or Discipline]
+   928 E C0205494:Neurologic [Qualitative Concept]
+   928 E C2707261:Neurological [Clinical Attribute]
+   907 E C0027763:Nervous System [Body System]
+   907 E C0422837:NERVOUS SYSTEM [Finding]
+   907 E C1269560:Nervous system [Body System]
+
+Phrase: "12,"
+
+Phrase: "29-38."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Trabucchi,"
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "Ghisla,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.22: K. 
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.23: & Bianchetti, A. 
+
+Phrase: "& Bianchetti,"
+
+Phrase: "A."
+Processing 00000000.tx.24: (1996) CODEM: longitudinal study on Alzheimer disease costs. 
+
+Phrase: "(1999) An economic perspective on Alzheimer's disease. Journal of Geriatric Psychiatry and Neurology, 12, 29-38.[Medline] Trabucchi, M., Ghisla, M. K. & Bianchetti, A. (1996"
+
+Phrase: ")"
+
+Phrase: "CODEM"
+
+Phrase: ":"
+
+Phrase: "longitudinal study on Alzheimer disease costs."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0023981:Longitudinal Study [Research Activity]
+   753   C0205127:Longitudinal [Spatial Concept]
+   753   C0557651:Study [Manufactured Object]
+   753   C2603343:Study [Research Activity]
+Processing 00000000.tx.25: In Alzheimer Disease: Therapeutic Strategies (eds E. Giacobini & R. Becker), pp. 
+
+Phrase: "In Alzheimer Disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "Therapeutic Strategies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0679199:strategies [Mental Process]
+
+Phrase: "(1996) CODEM: longitudinal study on Alzheimer disease costs. In Alzheimer Disease: Therapeutic Strategies (eds E. Giacobini & R. Becker"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "pp."
+Processing 00000000.tx.26: 561-565. 
+
+Phrase: "561-565."
+Processing 00000000.tx.27: Boston, MA: Birkhuser. 
+
+Phrase: "Boston,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0006037:Boston [Geographic Area]
+
+Phrase: "MA"
+
+Phrase: ":"
+
+Phrase: "Birkhuser."
+Processing 00000000.tx.28: Wolstenholme, J., Fenn, P., Gray, A., et al (2002) Estimating the relationship between disease progression and cost of care in dementia. 
+
+Phrase: "Wolstenholme,"
+
+Phrase: "J.,"
+
+Phrase: "Fenn,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Gray,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0556636:gray [Quantitative Concept]
+  1000   C1269776:Gray [Qualitative Concept]
+
+Phrase: "A.,"
+
+Phrase: "et al (1999) The cost-effectiveness of donepezil in Swedish patients with Alzheimer's disease: a Markov model. Clinical Therapeutics, 21, 1230-1240.[CrossRef][Medline] Trabucchi, M. (1999) An economic perspective on Alzheimer's disease. Journal of Geriatric Psychiatry and Neurology, 12, 29-38.[Medline] Trabucchi, M., Ghisla, M. K. & Bianchetti, A. (1996) CODEM: longitudinal study on Alzheimer disease costs. In Alzheimer Disease: Therapeutic Strategies (eds E. Giacobini & R. Becker), pp. 561-565. Boston, MA: Birkhuser. Wolstenholme, J., Fenn, P., Gray, A., et al (2002"
+
+Phrase: ")"
+
+Phrase: "Estimating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750572:estimating [Quantitative Concept]
+
+Phrase: "the relationship between disease progression"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   797   C1707789:Disease Relationship [Conceptual Entity]
+   760   C0439849:Relationship [Qualitative Concept]
+   760   C1705630:Relationship [Idea or Concept]
+   760   C1706279:Relationship [Idea or Concept]
+   760   C3540605:Relationship [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "cost of care"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0010186:Cost [Quantitative Concept]
+   790   C0220812:cost [Quantitative Concept]
+
+Phrase: "in dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.29: British Journal of Psychiatry, 181, 36-42.[Abstract/Free FullText] This Article Submit a response Alert me when this article is cited Alert me when eLetters are posted Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in PubMed Alert me to new issues of the journal Download to citation manager Google Scholar Articles by Bianchetti, A. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "181,"
+
+Phrase: "36-42."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "]"
+
+Phrase: "This Article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "Submit"
+
+Phrase: "a response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "eLetters"
+
+Phrase: "are"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal Download"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0162443:Journal [Intellectual Product,Manufactured Object]
+   744   C0205314:New [Temporal Concept]
+   711   C0033213:Issue [Finding]
+   711   C1706387:Issue [Intellectual Product]
+
+Phrase: "to citation manager Google Scholar Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   771   C1706852:Article [Intellectual Product]
+
+Phrase: "by Bianchetti,"
+
+Phrase: "A."
+Processing 00000000.tx.30: Articles by Trabucchi, M. 
+
+Phrase: "Articles by Trabucchi,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.31: Articles citing this Article PubMed PubMed Citation Articles by Bianchetti, A. 
+
+Phrase: "Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1706852:Article [Intellectual Product]
+
+Phrase: "citing"
+
+Phrase: "this Article PubMed PubMed Citation Articles by Bianchetti,"
+
+Phrase: "A."
+Processing 00000000.tx.32: Articles by Trabucchi, M. 
+
+Phrase: "Articles by Trabucchi,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.33: HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin Advances in Psychiatric Treatment All RCPsych Journals
+
+Phrase: "HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   738   C0039224:Table [Manufactured Object]
+   738   C1706073:Table [Medical Device]
+   738   C1706074:Table [Intellectual Product]
+
+Phrase: "Advances in Psychiatric Treatment"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   833   C0204523:psychiatric treatment [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0205487:Psychiatric [Functional Concept]
+   770   C0725066:Advance [Medical Device]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "All RCPsych Journals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0162443:journals [Intellectual Product,Manufactured Object]
+

@@ -1,0 +1,5215 @@
+Processing 00000000.tx.1: Tacrolimus therapy in rheumatoid arthritis D. 
+
+Phrase: "Tacrolimus therapy in rheumatoid arthritis D."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   783   C0872310:arthritis therapy [Therapeutic or Preventive Procedure]
+   753   C0039798:therapy [Functional Concept]
+   753   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   753   C1363945:Therapy [Finding]
+Processing 00000000.tx.2: W. 
+
+Phrase: "W."
+Processing 00000000.tx.3: McCarey, H. 
+
+Phrase: "McCarey,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.4: A. 
+
+Phrase: "A."
+Processing 00000000.tx.5: Capell and R. 
+
+Phrase: "Capell"
+
+Phrase: "and"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.6: Madhok Centre for Rheumatic Diseases, Glasgow Royal Infirmary, 84 Castle Street, Glasgow G4 0SF, UK Correspondence to: R. 
+
+Phrase: "Madhok Centre for Rheumatic Diseases,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0205099:Center [Spatial Concept]
+
+Phrase: "Glasgow Royal Infirmary,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0221502:infirmary [Health Care Related Organization]
+
+Phrase: "84 Castle Street,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0442658:Street [Manufactured Object]
+   827   C1301826:Street [Finding]
+
+Phrase: "Glasgow G4 0SF,"
+
+Phrase: "UK Correspondence to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0282413:Correspondence [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.7: Madhok. 
+
+Phrase: "Madhok."
+Processing 00000000.tx.8: E-mail: gcl103{at}clinmed.gla.ac.uk Our understanding of the pathogenesis of rheumatoid arthritis (RA) has recently improved significantly and this has been paralleled by the availability of highly effective agents directed against TNF- as well as the more effective use of existing agents, often in combination. 
+
+Phrase: "E-mail"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+   861   C0024492:Mail [Manufactured Object]
+   861   C1538057:MAIL [Gene or Genome]
+   861   C1547565:Mail [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "gcl103{at}clinmed.gla.ac.uk"
+
+Phrase: "Our understanding of the pathogenesis of rheumatoid arthritis (RA)"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0162340:Understanding [Mental Process]
+
+Phrase: "has"
+
+Phrase: "recently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332185:Recently [Temporal Concept]
+
+Phrase: "improved"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0184511:Improved [Qualitative Concept]
+  1000   C0332272:Improved [Qualitative Concept]
+  1000   C1561611:Improved [Intellectual Product]
+
+Phrase: "significantly"
+
+Phrase: "and"
+
+Phrase: "this"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "paralleled by the availability of highly effective agents"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   770   C0470187:Availability of [Functional Concept]
+           Availability
+   744   C0205250:Highly [Qualitative Concept]
+   744   C1280519:effective [Qualitative Concept]
+   744   C1704419:Effective [Qualitative Concept]
+   711   C0450442:Agent [Chemical Viewed Functionally]
+   711   C1254351:Agent [Pharmacologic Substance]
+   711   C1521826:Agent [Intellectual Product]
+   711   C2348042:Parallel [Qualitative Concept]
+   711   C2826345:PARALLEL [Research Activity]
+
+Phrase: "directed against TNF-"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   756   C0439851:Direct [Qualitative Concept]
+   756   C1947931:Direct [Qualitative Concept]
+
+Phrase: "as well as"
+
+Phrase: "the more effective use of existing agents,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   778   C1524063:Use of [Functional Concept]
+   748   C0042153:use [Functional Concept]
+   748   C0457083:Use [Functional Concept]
+   748   C1947944:Use [Intellectual Product]
+   743   C0042115:effectiveness use [Idea or Concept]
+
+Phrase: "often in combination."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0205195:Combination [Qualitative Concept]
+   790   C0332183:Often [Temporal Concept]
+   790   C1947911:Combination [Physical Object]
+Processing 00000000.tx.9: However, a sizeable proportion of patients are unresponsive to these therapeutic approaches. 
+
+Phrase: "However,"
+
+Phrase: "a sizeable proportion of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1709707:Proportion [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "unresponsive to these therapeutic approaches."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205269:Unresponsive [Functional Concept]
+   760   C0237284:Unresponsive [Finding]
+Processing 00000000.tx.10: Furthermore the long-term consequences of continued TNF- blockade are not known. 
+
+Phrase: "Furthermore"
+
+Phrase: "the long-term consequences of continued TNF- blockade"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   754   C0686907:Consequence of [Functional Concept]
+           consequences
+
+Phrase: "are"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "known."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205309:Known [Qualitative Concept]
+Processing 00000000.tx.11: It is therefore critically important for us to continue to develop new therapeutic strategies that target the broad range of cell types that we consider to be important in the initiation and perpetuation of inflammatory synovitis. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "therefore critically important for us to"
+
+Phrase: "continue"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0549178:Continue [Idea or Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "develop"
+
+Phrase: "new therapeutic strategies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0679199:strategies [Mental Process]
+
+Phrase: "that"
+
+Phrase: "target"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1521840:Target [Functional Concept]
+  1000   C2986546:TARGET [Diagnostic Procedure]
+
+Phrase: "the broad range of cell types"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C1514721:Range [Quantitative Concept]
+   753   C2348147:Range [Quantitative Concept]
+   753   C3542016:Range [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "we"
+
+Phrase: "consider"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "important in the initiation"
+
+Phrase: "and"
+
+Phrase: "perpetuation of inflammatory synovitis."
+Processing 00000000.tx.12: Rather than focusing narrowly on the targeting of specific effector molecules such as TNF-, there is a strong case to be made for improving our capability further upstream in the inflammatory cascade, for example in T-cell inhibition. 
+
+Phrase: "Rather than"
+
+Phrase: "focusing narrowly on the targeting of specific effector molecules"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   742   C0000936:focusing [Clinical Attribute]
+   742   C2981153:Focusing [Finding]
+   708 E C0205234:Focus [Spatial Concept]
+   708 E C1285542:focus [Functional Concept]
+
+Phrase: "such as TNF-,"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "a strong case to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0868928:Case [Functional Concept]
+   827   C1706255:CASE [Medical Device]
+   827   C1706256:Case [Conceptual Entity]
+
+Phrase: "be"
+
+Phrase: "made for improving"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C1272745:Improving [Qualitative Concept]
+   756   C1881534:Make [Functional Concept]
+
+Phrase: "our capability"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2698977:Capability [Qualitative Concept]
+
+Phrase: "further upstream in the inflammatory cascade,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0522505:Upstream [Spatial Concept]
+
+Phrase: "for example"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "in T-cell inhibition."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   827   C0021467:Inhibition [Mental Process]
+   827   C0021469:Inhibition [Molecular Function]
+   827   C1628982:% inhibition [Quantitative Concept]
+   827   C3463820:Inhibition [Activity]
+   755 E C0311403:Inhibited [Qualitative Concept]
+   734   C0039194:T-cell [Cell]
+Processing 00000000.tx.13: For some time now it has been clear that the T cell has a critical role in the pathogenesis of RA [1]. 
+
+Phrase: "For some time now"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0040223:Time [Temporal Concept]
+   861   C3541383:Time [Temporal Concept]
+   805 E C0442043:Temporal [Spatial Concept]
+   805 E C2362314:Temporal [Temporal Concept]
+   777 E C1632851:Times [Quantitative Concept]
+
+Phrase: "it"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "clear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "the T cell"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0039194:T-cell [Cell]
+   861   C0007634:Cell [Cell]
+   861   C1269647:Cell [Cell]
+   861   C1704653:Cell [Medical Device]
+   861   C1948049:Cell [Spatial Concept]
+
+Phrase: "has"
+
+Phrase: "a critical role in the pathogenesis of RA"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C0035820:Role [Social Behavior]
+   742   C1705810:Role [Conceptual Entity]
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.14: At the tissue level, T-cell infiltrates are prominent in RA synovitis [2]. 
+
+Phrase: "At the tissue level,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   861   C0040300:Tissue [Tissue]
+   861   C0441889:Level [Qualitative Concept]
+   861   C0456079:Level [Classification]
+   861   C1547707:Level [Geographic Area]
+   861   C1547928:Tissue [Intellectual Product]
+   861   C2946261:Level [Pharmacologic Substance]
+
+Phrase: "T-cell infiltrates"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   827   C0332448:INFILTRATES [Pathologic Function]
+   793 E C1546677:Infiltrate [Intellectual Product]
+   793 E C1549537:Infiltrate [Functional Concept]
+   734   C0039194:T-cell [Cell]
+
+Phrase: "are"
+
+Phrase: "prominent in RA synovitis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0205402:Prominent [Qualitative Concept]
+
+Phrase: "[2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.15: Further circumstantial evidence is provided by the fact that antigen-specific T-cell responses in animal models of RA, such as collagen-induced arthritis, are of pivotal importance [3]. 
+
+Phrase: "Further circumstantial evidence"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0332120:Evidence [Functional Concept]
+   755   C0233649:Circumstantiality [Mental or Behavioral Dysfunction]
+
+Phrase: "is"
+
+Phrase: "provided by the fact"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1999230:Provided [Activity]
+
+Phrase: "that antigen-specific T-cell responses in animal models"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   745   C1314973:antigen response [Clinical Attribute]
+   742   C0871261:responses [Organism Attribute]
+   708 E C1704632:Response [Finding]
+   708 E C1706817:Response [Intellectual Product]
+   708 E C2911692:Response [Mental Process]
+
+Phrase: "of RA,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "such as collagen-induced arthritis,"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C0971858:Arthritis, Collagen-Induced [Experimental Model of Disease]
+           Collagen Arthritis
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0009325:Collagen [Amino Acid, Peptide, or Protein,Biologically Active Substance,Biomedical or Dental Material]
+   827   C0205263:Induced [Functional Concept]
+   827   C1167364:collagen [Cell Component]
+   755 E C0439689:Collagenous [Qualitative Concept]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "are of pivotal importance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1551058:Are [Quantitative Concept]
+
+Phrase: "[3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.16: Indeed, autoreactive T cells directed at various antigens have been identified in patients with RA [4, 5]. 
+
+Phrase: "Indeed,"
+
+Phrase: "autoreactive T cells"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   901   C0039194:T-Cells [Cell]
+   827   C0007634:Cells [Cell]
+   827   C3282337:Cells [Cell]
+   793 E C1269647:Cell [Cell]
+   793 E C1704653:Cell [Medical Device]
+   793 E C1948049:Cell [Spatial Concept]
+
+Phrase: "directed at various antigens"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0003320:Antigens [Immunologic Factor]
+   770   C0440102:Various [Indicator, Reagent, or Diagnostic Aid]
+   737   C0439851:Direct [Qualitative Concept]
+   737   C1947931:Direct [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "identified in patients"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0030705:Patients [Patient or Disabled Group]
+   790   C0205396:Identified [Qualitative Concept]
+   790   C1550043:Identified [Finding]
+   790   C1551388:Identified [Functional Concept]
+
+Phrase: "with RA"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "[4,"
+
+Phrase: "5"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: "]."
+Processing 00000000.tx.17: Finally, the strongest known genetic link with RA is the susceptibility epitope found in HLA DR1 and HLA DR4 [6], the MHC-II complex being critical to antigen presentation to CD4+ T cells [7]. 
+
+Phrase: "Finally,"
+
+Phrase: "the strongest known genetic link with RA"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C1517892:Link [Intellectual Product]
+   744   C1704666:Link [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "the susceptibility epitope"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0003316:Epitope [Immunologic Factor]
+
+Phrase: "found in HLA DR1"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   833   C0019768:HLA-DR1 [Immunologic Factor]
+   770   C0150312:Found [Quantitative Concept]
+   770   C1333247:DR1 [Gene or Genome]
+   737 E C0243095:Find [Finding]
+
+Phrase: "and"
+
+Phrase: "HLA DR4"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0019774:HLA-DR4 [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C1881023:HLA-DR4 [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "[6"
+
+Phrase: "],"
+
+Phrase: "the MHC-II complex"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0439855:Complex [Qualitative Concept]
+   827   C1704241:Complex [Chemical Viewed Structurally]
+
+Phrase: "being"
+
+Phrase: "critical to antigen presentation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1511545:Critical [Qualitative Concept]
+
+Phrase: "to CD4+ T cells"
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+   913   C0039215:cd4 cells [Cell]
+   901   C0039194:T-Cells [Cell]
+   896 E C3251824:CD4+ cell [Cell]
+   827   C0007634:Cells [Cell]
+   827   C3282337:Cells [Cell]
+   793 E C1269647:Cell [Cell]
+   793 E C1704653:Cell [Medical Device]
+   793 E C1948049:Cell [Spatial Concept]
+
+Phrase: "[7"
+
+Phrase: "]."
+Processing 00000000.tx.18: This body of evidence has supported the development of a number of T-cell-suppressive therapies of varying degrees of specificity, such as cyclosporin and leflunomide. 
+
+Phrase: "This body of evidence"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0242821:body [Human]
+   770   C0460148:Body [Anatomical Structure]
+   770   C1268086:Body [Anatomical Structure]
+
+Phrase: "has"
+
+Phrase: "supported"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1521721:Supported [Conceptual Entity]
+   966 E C0183683:Support [Medical Device]
+
+Phrase: "the development of a number of T-cell-suppressive therapies"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   777   C1515126:T-Cell Development [Cell Function]
+   757   C0815089:cell development [Cell Function]
+   739   C0243107:development [Physiologic Function]
+   739   C0678723:Development [Organism Function]
+   739   C1527148:Development [Functional Concept]
+   705   C0556496:Developmental therapy [Therapeutic or Preventive Procedure]
+   705   C1522647:Developmental Therapy [Research Activity]
+
+Phrase: "of varying degrees"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0449286:degrees [Quantitative Concept]
+   861   C0542560:degrees [Intellectual Product]
+   827 E C0441889:Degree [Qualitative Concept]
+   827 E C1561545:degree [Quantitative Concept]
+   827 E C2348088:Degree [Quantitative Concept]
+
+Phrase: "of specificity,"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0037791:Specificity [Quantitative Concept]
+  1000   C1511884:Specificity [Quantitative Concept]
+   928 E C0205369:Specific [Qualitative Concept]
+   928 E C1552740:specific [Intellectual Product]
+
+Phrase: "such as cyclosporin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0010592:Ciclosporin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "leflunomide."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0063041:leflunomide [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.19: These agents are now familiar to us in the clinical setting and have established themselves as useful therapeutic options in the treatment of RA. 
+
+Phrase: "These agents"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C0450442:Agent [Chemical Viewed Functionally]
+   966   C1254351:Agent [Pharmacologic Substance]
+   966   C1521826:Agent [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: "now familiar to us"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0205309:Familiar [Qualitative Concept]
+
+Phrase: "in the clinical setting"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C3176918:Clinical setting [Spatial Concept]
+   861   C0542559:setting [Functional Concept]
+   861   C1318139:{Setting} [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "have"
+
+Phrase: "established"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0443211:Established [Qualitative Concept]
+  1000   C1272684:Established [Qualitative Concept]
+
+Phrase: "themselves"
+
+Phrase: "as"
+
+Phrase: "useful therapeutic options in the treatment of RA."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   762   C0683525:options treatment [Therapeutic or Preventive Procedure]
+   742   C1518601:Options [Functional Concept]
+   708 E C1550456:option [Idea or Concept]
+Processing 00000000.tx.20: More recently, with the advent of the biological agents, highly specific T-cell therapies have been developed. 
+
+Phrase: "More recently,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205172:More [Functional Concept]
+   861   C0332185:Recently [Temporal Concept]
+
+Phrase: "with the advent"
+
+Phrase: "of the biological agents,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C2979985:Biological Agents [Biologically Active Substance,Pharmacologic Substance]
+   827   C0450442:Agent [Chemical Viewed Functionally]
+   827   C1254351:Agent [Pharmacologic Substance]
+   827   C1521826:Agent [Intellectual Product]
+
+Phrase: "highly specific T-cell therapies"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   867   C0545322:T cell therapy [Therapeutic or Preventive Procedure]
+   840   C0302189:cell therapies [Therapeutic or Preventive Procedure]
+   804   C0087111:therapies [Therapeutic or Preventive Procedure]
+   771 E C0039798:therapy [Functional Concept]
+   771 E C1363945:Therapy [Finding]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "developed."
+Processing 00000000.tx.21: Anti-CD4 antibodies have been used in therapeutic trials but, despite reasonable efficacy data, problems with lymphopenia and rash have given rise to concerns regarding the safety of this therapeutic approach [8]. 
+
+Phrase: "Anti-CD4 antibodies"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   913   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   896 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827   C3541261:CD4 [Laboratory Procedure]
+   793 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "used in therapeutic trials"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+   833   C1515364:Therapeutic Trials [Research Activity]
+   802   C0039795:therapeutic use [Therapeutic or Preventive Procedure]
+   770   C0039796:Therapeutic [Therapeutic or Preventive Procedure]
+   770   C0302350:Therapeutic [Functional Concept]
+   770   C1273517:used [Finding]
+   737   C0008976:Trial [Research Activity]
+   737 E C0042153:use [Functional Concept]
+   737 E C0457083:Use [Functional Concept]
+   737 E C1947944:Use [Intellectual Product]
+
+Phrase: "but"
+
+Phrase: ","
+
+Phrase: "despite reasonable efficacy data,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1511726:Data [Idea or Concept]
+   827   C3245479:data [Medical Device]
+
+Phrase: "problems with lymphopenia"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C1546466:Problems [Idea or Concept]
+   756 E C0033213:Problem [Finding]
+
+Phrase: "and"
+
+Phrase: "rash"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0015230:Rash [Disease or Syndrome]
+
+Phrase: "have"
+
+Phrase: "given rise to concerns"
+
+Phrase: "regarding"
+
+Phrase: "the safety of this therapeutic approach"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0036043:Safety [Human-caused Phenomenon or Process]
+   753   C1705187:SAFETY [Research Activity]
+
+Phrase: "[8"
+
+Phrase: "]."
+Processing 00000000.tx.22: Another novel approach to T-cell suppression has been to block the second, costimulatory signal from the antigen-presenting cell required for optimal T-cell activation. 
+
+Phrase: "Another novel approach to T-cell suppression"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0449445:Approach [Spatial Concept]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "block"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0028778:Block [Pathologic Function]
+  1000   C0332206:Block [Functional Concept]
+  1000   C1533157:Block [Substance]
+  1000   C1706084:Block [Geographic Area]
+  1000   C2828370:Block [Quantitative Concept]
+
+Phrase: "the second,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0205436:Second [Quantitative Concept]
+  1000   C0457385:Second [Temporal Concept]
+  1000   C0565930:/second [Quantitative Concept]
+  1000   C1561503:second [Idea or Concept]
+  1000   C1705190:Second [Qualitative Concept]
+   928 E C0027627:secondary [Neoplastic Process]
+   928 E C0175668:Secondary [Temporal Concept]
+
+Phrase: "costimulatory signal from the antigen-presenting cell"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   774   C0037083:signal cell [Cell Function]
+   748   C1710082:Signal [Phenomenon or Process]
+
+Phrase: "required for optimal T-cell activation."
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   833   C1155065:T-Cell Activation [Cell Function]
+   790   C0039194:T-cell [Cell]
+   790   C1326120:cell activation [Cell Function]
+   753   C0007634:Cell [Cell]
+   753   C1269647:Cell [Cell]
+   753   C1514873:Required [Functional Concept]
+   753   C1704653:Cell [Medical Device]
+   753   C1879547:Activation [Activity]
+   753   C1948049:Cell [Spatial Concept]
+   753   C2698651:Optimal [Qualitative Concept]
+Processing 00000000.tx.23: CTLA4Ig is the product of the fusion of cytotoxic T-lymphocyte-associated antigen 4 with the heavy-chain constant region of human IgG1 [9]. 
+
+Phrase: "CTLA4Ig"
+
+Phrase: "is"
+
+Phrase: "the product of the fusion of cytotoxic T-lymphocyte-associated antigen 4"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   751   C0598797:lymphocyte product [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   736   C1514468:product [Entity]
+   736   C1704444:Product [Quantitative Concept]
+
+Phrase: "with the heavy-chain constant region"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   812   C0017446:Region [Geographic Area]
+   812   C0205147:Region [Spatial Concept]
+   812   C1547014:*Constant [Quantitative Concept]
+   812   C1948059:Constant [Qualitative Concept]
+   741 E C0205276:Regional [Spatial Concept]
+   741 E C1947913:Regional [Spatial Concept]
+
+Phrase: "of human IgG1"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0020855:IgG1 [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "[9"
+
+Phrase: "]."
+Processing 00000000.tx.24: Kremer et al. 
+
+Phrase: "Kremer et al."
+Processing 00000000.tx.25: [9] recently published the results of a 6-month, double-blind, randomized, placebo-controlled study of CTLA4Ig in addition to pre-existing methotrexate therapy. 
+
+Phrase: "[9"
+
+Phrase: "] recently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332185:Recently [Temporal Concept]
+
+Phrase: "published"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034037:Published [Occupational Activity]
+  1000   C1704324:Published [Intellectual Product]
+
+Phrase: "the results of a 6-month,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   719   C1274040:Result [Functional Concept]
+   719   C1546471:Result [Idea or Concept]
+   719   C2825142:Result [Finding]
+
+Phrase: "double-blind,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0013072:DOUBLE BLIND [Research Activity]
+   861   C0150108:Blind [Research Activity]
+   861   C0205173:Double [Functional Concept]
+   861   C0456909:Blind [Disease or Syndrome]
+   861   C0525065:blind [Patient or Disabled Group]
+   861   C1705764:Double [Activity]
+   861   C1705765:Double [Qualitative Concept]
+
+Phrase: "randomized"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0034656:randomized [Research Activity]
+
+Phrase: ","
+
+Phrase: "placebo-controlled study of CTLA4Ig"
+Meta Candidates (Total=14; Excluded=4; Pruned=0; Remaining=10)
+   862   C0599724:placebo-controlled study [Intellectual Product,Research Activity]
+   806   C0681867:Controlled Study [Research Activity]
+   806   C1706408:placebo-controlled [Research Activity]
+           PLACEBO
+   797   C0683952:placebo study [Research Activity]
+   760   C0032042:placebo [Therapeutic or Preventive Procedure]
+   760   C0557651:Study [Manufactured Object]
+   760   C1696465:placebo [Biomedical or Dental Material]
+   760   C2587213:Controlled [Functional Concept]
+   760   C2603343:Study [Research Activity]
+   726 E C0243148:control [Qualitative Concept]
+   726 E C1550141:Control [Substance]
+   726 E C1882979:Control [Conceptual Entity]
+   726 E C3274648:Control [Qualitative Concept]
+
+Phrase: "in addition to pre-existing methotrexate therapy."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   902   C1882440:Pre-Therapy [Temporal Concept]
+   812   C0039798:therapy [Functional Concept]
+   812   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   812   C1363945:Therapy [Finding]
+Processing 00000000.tx.26: Patients receiving the higher dose of CTLA4Ig (10 mg/kg intravenously on days 1, 15 and 30, and monthly thereafter for a total of 6 months) derived significant benefit from 2 months onwards. 
+
+Phrase: "Patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "receiving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1514756:Receive [Qualitative Concept]
+
+Phrase: "the higher dose of CTLA4Ig"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0444956:High dose [Quantitative Concept]
+   760   C0178602:Dose [Quantitative Concept]
+   760   C0869039:Dose [Quantitative Concept]
+   760   C1114758:Dose # [Clinical Attribute]
+
+Phrase: "(10 mg/kg intravenously on days 1,"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   789   C0439400:mg/day/kg [Quantitative Concept]
+   778   C0439272:mg kg [Quantitative Concept]
+   757   C0439418:kg/day [Quantitative Concept]
+   757   C0439422:day mg [Quantitative Concept]
+   757   C0439423:mg/day [Quantitative Concept]
+   748   C0022718:KG [Geographic Area]
+   748   C0439209:kg [Quantitative Concept]
+   748   C0439269:mg% [Quantitative Concept]
+   748   C1960952:mg % [Quantitative Concept]
+   748   C2346927:Mg++ [Element, Ion, or Isotope,Pharmacologic Substance]
+
+Phrase: "15"
+
+Phrase: "and"
+
+Phrase: "30,"
+
+Phrase: "and"
+
+Phrase: "monthly thereafter for a total of 6 months"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   744   C0332177:Monthly [Temporal Concept]
+   744   C0439175:% total [Quantitative Concept]
+   744   C0439231:months [Temporal Concept]
+   744   C0439507:Monthly [Temporal Concept]
+       E   /month
+   744   C0439810:Total [Qualitative Concept]
+
+Phrase: ")"
+
+Phrase: "derived"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1441547:Derived [Qualitative Concept]
+  1000   C3245521:derived [Idea or Concept]
+
+Phrase: "significant benefit from 2 months onwards."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0814225:Benefit [Quantitative Concept]
+Processing 00000000.tx.27: The ACR20 response was 60% and the ACR50 response was 36.5%. 
+
+Phrase: "The ACR20 response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+
+Phrase: "was"
+
+Phrase: "60%"
+
+Phrase: "and"
+
+Phrase: "the ACR50 response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+
+Phrase: "was"
+
+Phrase: "36.5%."
+Processing 00000000.tx.28: The drug was tolerated well and no significant excess of adverse events was noted. 
+
+Phrase: "The drug"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0013227:Drug [Pharmacologic Substance]
+  1000   C1254351:Drug [Pharmacologic Substance]
+   944 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   944 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   907 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "was"
+
+Phrase: "tolerated"
+
+Phrase: "well"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205170:Well [Qualitative Concept]
+  1000   C3146287:Well [Manufactured Object]
+
+Phrase: "and"
+
+Phrase: "no significant excess of adverse events"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1979886:Excess [Qualitative Concept]
+
+Phrase: "was"
+
+Phrase: "noted."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1316572:Note [Clinical Attribute]
+   966   C1317574:Note [Intellectual Product]
+   966   C1369612:Note [Clinical Attribute]
+Processing 00000000.tx.29: This provides further evidence that T-cell-suppressive therapy is potentially effective and safe in the treatment of RA. 
+
+Phrase: "This"
+
+Phrase: "provides"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0359589:provides [Food]
+  1000   C1999230:Provide [Activity]
+
+Phrase: "further evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "that T-cell-suppressive therapy"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   923   C0545322:T cell therapy [Therapeutic or Preventive Procedure]
+   875   C0302189:Cell Therapy [Therapeutic or Preventive Procedure]
+   812   C0039798:therapy [Functional Concept]
+   812   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   812   C1363945:Therapy [Finding]
+
+Phrase: "is"
+
+Phrase: "potentially effective"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1280519:effective [Qualitative Concept]
+   861   C1704419:Effective [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "safe in the treatment of RA."
+Processing 00000000.tx.30: In this issue of Rheumatology, Yocum et al. report a long-term safety trial for another T-cell-suppressive agent [10]. 
+
+Phrase: "In this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: "of Rheumatology,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0035452:Rheumatology [Biomedical Occupation or Discipline]
+  1000   C0334889:Rheumatology [Professional or Occupational Group]
+
+Phrase: "Yocum et al."
+
+Phrase: "report"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0684224:Report [Intellectual Product]
+  1000   C0700287:Report [Health Care Activity]
+  1000   C3273238:Report [Intellectual Product]
+
+Phrase: "a long-term safety trial for another T-cell-suppressive agent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   738   C0008976:Trial [Research Activity]
+
+Phrase: "[10"
+
+Phrase: "]."
+Processing 00000000.tx.31: Tacrolimus is an orally available, T-cell-specific, immunomodulatory and anti-inflammatory drug that has been proposed as a therapeutic agent in RA. 
+
+Phrase: "Tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "an orally available, T-cell-specific, immunomodulatory"
+
+Phrase: "and"
+
+Phrase: "anti-inflammatory drug"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C0003209:anti inflammatory drug [Pharmacologic Substance]
+           Anti-inflammatory
+   901   C1515999:Anti-inflammatory [Qualitative Concept]
+   827   C0013227:Drug [Pharmacologic Substance]
+   827   C0333348:Inflammatory [Functional Concept]
+   827   C1254351:Drug [Pharmacologic Substance]
+   771 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   771 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   734 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "that"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "proposed as a therapeutic agent"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   806   C0304231:Therapeutic agent [Intellectual Product]
+   806   C1611640:Therapeutic agent [Pharmacologic Substance]
+   760   C0039796:Therapeutic [Therapeutic or Preventive Procedure]
+   760   C0302350:Therapeutic [Functional Concept]
+   760   C0450442:Agent [Chemical Viewed Functionally]
+   760   C1254351:Agent [Pharmacologic Substance]
+   760   C1441414:PROPOSED [Idea or Concept]
+   760   C1521826:Agent [Intellectual Product]
+   760   C1553874:Proposed [Qualitative Concept]
+   760   C1578820:Proposed [Idea or Concept]
+
+Phrase: "in RA."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.32: Previously known as FK-506, it is a macrolide calcineurin inhibitor which down-regulates the synthesis of inflammatory cytokines such as TNF- and interferon (IFN-) by activated T-cells [11] and, as such, is closely related to cyclosporin. 
+
+Phrase: "Previously"
+
+Phrase: "known as FK-506,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   833   C0729218:FK-506 [Organic Chemical,Pharmacologic Substance]
+   770   C0205309:Known [Qualitative Concept]
+   770   C0349396:FK [Geographic Area]
+   770   C1150640:FK [Molecular Function]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "a macrolide calcineurin inhibitor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C1562036:Calcineurin inhibitor [Pharmacologic Substance]
+   827   C1999216:Inhibitor [Qualitative Concept]
+
+Phrase: "which"
+
+Phrase: "down-regulates"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+
+Phrase: "the synthesis of inflammatory cytokines"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   781   C1155099:cytokine synthesis [Molecular Function]
+   760   C0220781:synthesis [Biologic Function]
+   760   C1883254:Synthesis [Activity]
+
+Phrase: "such as TNF-"
+
+Phrase: "and"
+
+Phrase: "interferon (IFN-) by activated T-cells"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0021747:Interferon [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   760   C0733470:Interferon [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "[11"
+
+Phrase: "]"
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "as"
+
+Phrase: "such,"
+
+Phrase: "is"
+
+Phrase: "closely"
+
+Phrase: "related to cyclosporin."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0010592:Ciclosporin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   790   C0439849:Related [Qualitative Concept]
+   790   C0445223:Related [Finding]
+   756 E C0163712:Relate [Organic Chemical]
+Processing 00000000.tx.33: Tacrolimus is established in the field of transplantation in the prevention of allograft rejection and has also been studied in the context of inflammatory bowel disease [12, 13]. 
+
+Phrase: "Tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "established"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0443211:Established [Qualitative Concept]
+  1000   C1272684:Established [Qualitative Concept]
+
+Phrase: "in the field of transplantation"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   862   C3539073:In the Field [Spatial Concept]
+           FIELD
+   760   C0150312:In [Quantitative Concept]
+   760   C0332285:In [Spatial Concept]
+   760   C0440042:Field's [Indicator, Reagent, or Diagnostic Aid]
+   760   C1521738:Field [Conceptual Entity]
+   760   C2346620:Field [Conceptual Entity]
+   760   C2349184:Field [Conceptual Entity]
+
+Phrase: "in the prevention"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0199176:Prevention [Therapeutic or Preventive Procedure]
+  1000   C1706420:PREVENTION [Research Activity]
+  1000   C2700409:prevention [Qualitative Concept]
+
+Phrase: "of allograft rejection"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C2984265:Allograft rejection [Functional Concept]
+   861   C0035015:Rejection [Social Behavior]
+   861   C0040739:allograft [Therapeutic or Preventive Procedure]
+   861   C0450127:Allograft [Biomedical or Dental Material]
+   861   C1548437:Rejection [Idea or Concept]
+   861   C1882923:REJECTION [Phenomenon or Process]
+   861   C2700401:Rejection [Activity]
+
+Phrase: "and"
+
+Phrase: "has"
+
+Phrase: "also"
+
+Phrase: "been"
+
+Phrase: "studied in the context of inflammatory bowel disease"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   800   C0021390:Inflammatory bowel disease [Disease or Syndrome]
+   770   C0021831:bowel disease [Disease or Syndrome]
+   767   C1290884:Inflammatory disease [Disease or Syndrome]
+   744   C0012634:Disease [Disease or Syndrome]
+   744   C0021853:Bowel [Body Part, Organ, or Organ Component]
+   744   C0333348:Inflammatory [Functional Concept]
+   744   C0449255:Context [Finding]
+   744   C0542559:Context [Functional Concept]
+   711   C0557651:Study [Manufactured Object]
+   711   C2603343:Study [Research Activity]
+
+Phrase: "[12,"
+
+Phrase: "13"
+
+Phrase: "]."
+Processing 00000000.tx.34: A number of studies of tacrolimus in the treatment of RA have now been performed and the results suggest that it may have a useful role as a disease-modifying agent [1417]. 
+
+Phrase: "A number of studies of tacrolimus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0237753:*Number [Quantitative Concept]
+   753   C0449788:Number [Quantitative Concept]
+
+Phrase: "in the treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0039798:treatment [Functional Concept]
+  1000   C0087111:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treatment [Functional Concept]
+  1000   C1533734:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1705169:Treatment [Conceptual Entity]
+  1000   C3538994:TREATMENT [Research Activity]
+
+Phrase: "of RA"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "have"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "been"
+
+Phrase: "performed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0884358:Performed [Functional Concept]
+   966 E C2947996:Perform [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "the results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1274040:Result [Functional Concept]
+   966   C1546471:Result [Idea or Concept]
+   966   C2825142:Result [Finding]
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "it"
+
+Phrase: "may"
+
+Phrase: "have"
+
+Phrase: "a useful role as a disease-modifying agent"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0035820:Role [Social Behavior]
+   744   C1705810:Role [Conceptual Entity]
+
+Phrase: "[1417"
+
+Phrase: "]."
+Processing 00000000.tx.35: The present study from the Tacrolimus RA Study Group seeks to address concerns regarding the safety of the drug in the context of RA [10]. 
+
+Phrase: "The present study from the Tacrolimus RA Study Group"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   739   C0150312:Present [Quantitative Concept]
+   739   C0449450:Present [Idea or Concept]
+   739   C0557651:Study [Manufactured Object]
+   739   C2603343:Study [Research Activity]
+
+Phrase: "seeks"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "address"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0376649:Address [Intellectual Product]
+  1000   C1442065:Address [Spatial Concept]
+
+Phrase: "concerns"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699424:Concerns [Idea or Concept]
+
+Phrase: "regarding"
+
+Phrase: "the safety of the drug"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   797   C0678800:drug safety [Qualitative Concept]
+   760   C0036043:Safety [Human-caused Phenomenon or Process]
+   760   C1705187:SAFETY [Research Activity]
+
+Phrase: "in the context"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0449255:Context [Finding]
+  1000   C0542559:Context [Functional Concept]
+
+Phrase: "of RA"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "[10"
+
+Phrase: "]."
+Processing 00000000.tx.36: A small pilot study by Gremillion et al. 
+
+Phrase: "A small pilot study by Gremillion et al."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0031928:Pilot Study [Research Activity]
+   744   C0473169:Pilot [Professional or Occupational Group]
+   744   C0557651:Study [Manufactured Object]
+   744   C1414316:PILOT [Gene or Genome]
+   744   C2603343:Study [Research Activity]
+Processing 00000000.tx.37: [14] published in 1999 was the first to show a benefit of tacrolimus therapy in RA. 
+
+Phrase: "[14"
+
+Phrase: "]"
+
+Phrase: "published in 1999"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0034037:Published [Occupational Activity]
+   790   C1704324:Published [Intellectual Product]
+
+Phrase: "was"
+
+Phrase: "the first to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205435:First [Quantitative Concept]
+   861   C1279901:First [Qualitative Concept]
+
+Phrase: "show"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "a benefit of tacrolimus therapy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0814225:Benefit [Quantitative Concept]
+
+Phrase: "in RA."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.38: Twelve patients with active RA who had failed on serial DMARDs were treated in an open-label study. 
+
+Phrase: "Twelve patients with active RA"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "who"
+
+Phrase: "had"
+
+Phrase: "failed on serial DMARDs"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0031082:serial [Intellectual Product,Manufactured Object]
+   770   C0231175:Failed [Functional Concept]
+   770   C0242708:dmards [Pharmacologic Substance]
+
+Phrase: "were"
+
+Phrase: "treated in an open-label study."
+Meta Candidates (Total=10; Excluded=1; Pruned=0; Remaining=9)
+   833   C1709323:Open Label Study [Research Activity]
+           OPEN LABEL
+   753   C0175566:Open [Spatial Concept]
+   753   C0181496:Label [Manufactured Object]
+   753   C0332293:treated [Therapeutic or Preventive Procedure]
+   753   C0557651:Study [Manufactured Object]
+   753   C1522326:Treated [Functional Concept]
+   753   C2603343:Study [Research Activity]
+   753   C2827499:Label [Governmental or Regulatory Activity]
+   719 E C1292734:TREAT [Functional Concept]
+Processing 00000000.tx.39: Unfortunately, only seven of the 12 patients tolerated the drug, almost certainly due to the wide dose range that was employed: 26 mg/day. 
+
+Phrase: "Unfortunately,"
+
+Phrase: "only seven of the 12 patients"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0030705:Patients [Patient or Disabled Group]
+   753   C0205171:Only [Quantitative Concept]
+   753   C0205453:Seven [Quantitative Concept]
+   753   C1720467:Only [Intellectual Product]
+
+Phrase: "tolerated"
+
+Phrase: "the drug,"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0013227:Drug [Pharmacologic Substance]
+  1000   C1254351:Drug [Pharmacologic Substance]
+   944 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   944 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   907 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "almost certainly due to the wide dose range"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   770   C0678226:Due to [Functional Concept]
+           due
+   744   C0178602:Dose [Quantitative Concept]
+   744   C0332464:Wide [Spatial Concept]
+   744   C0869039:Dose [Quantitative Concept]
+   744   C1114758:Dose # [Clinical Attribute]
+   744   C1514721:Range [Quantitative Concept]
+   744   C2348147:Range [Quantitative Concept]
+   744   C3146286:Due [Idea or Concept]
+   744   C3542016:Range [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "was"
+
+Phrase: "employed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0557351:Employed [Finding]
+   966 E C0457083:Employ [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "26 mg/day."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0439422:mg day [Quantitative Concept]
+   901   C0439423:mg/day [Quantitative Concept]
+   827   C0332173:/day [Temporal Concept]
+   827   C0439228:day [Temporal Concept]
+   827   C0439505:/day [Temporal Concept]
+Processing 00000000.tx.40: The main reason given for withdrawal from the study was gastrointestinal upset, although no effect on creatinine or blood pressure was observed. 
+
+Phrase: "The main reason"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0392360:Reason [Idea or Concept]
+
+Phrase: "given for withdrawal"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   790   C1442162:GIVEN [Conceptual Entity]
+   790   C1550718:given [Idea or Concept]
+   790   C2349954:Withdrawal [Activity]
+   790   C2825032:Withdrawal [Mental or Behavioral Dysfunction]
+   790   C3244317:given [Intellectual Product]
+   756 E C1947971:Give [Functional Concept]
+
+Phrase: "from the study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "was"
+
+Phrase: "gastrointestinal upset,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2697368:Gastrointestinal upset [Disease or Syndrome]
+   861   C0700361:Upset [Mental or Behavioral Dysfunction]
+
+Phrase: "although"
+
+Phrase: "no effect on creatinine"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C1301751:No effect [Qualitative Concept]
+   770   C1280500:Effect [Qualitative Concept]
+   770   C2348382:Effect [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "blood pressure"
+Meta Candidates (Total=16; Excluded=7; Pruned=0; Remaining=9)
+  1000   C0005823:Blood Pressure [Organism Function]
+  1000   C1271104:Blood Pressure [Finding]
+  1000   C1272641:Blood pressure [Finding]
+   861   C0005767:Blood [Tissue]
+   861   C0005768:blood [Body Substance]
+   861   C0033095:Pressure [Phenomenon or Process]
+   861   C0229664:Blood [Body Substance]
+   861   C0460139:Pressure [Finding]
+   861   C1306345:Pressure [Functional Concept]
+   789 E C0333275:Bloody [Qualitative Concept]
+   777 E C0005847:Blood Vessel [Body Part, Organ, or Organ Component]
+   777 E C0392895:Bloods [Population Group]
+   777 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   777 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C1558950:VASCULAR [Finding]
+   761 E C1801960:Vascular [Qualitative Concept]
+
+Phrase: "was"
+
+Phrase: "observed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+Processing 00000000.tx.41: The response in the patients who did tolerate the drug was, however, encouraging. 
+
+Phrase: "The response in the patients"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0871261:Response [Organism Attribute]
+   760   C1704632:Response [Finding]
+   760   C1706817:Response [Intellectual Product]
+   760   C2911692:Response [Mental Process]
+
+Phrase: "who"
+
+Phrase: "did"
+
+Phrase: "tolerate"
+
+Phrase: "the drug"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0013227:Drug [Pharmacologic Substance]
+  1000   C1254351:Drug [Pharmacologic Substance]
+   944 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   944 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   907 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "was"
+
+Phrase: ","
+
+Phrase: "however,"
+
+Phrase: "encouraging."
+Processing 00000000.tx.42: All of the patients who completed the study achieved an ACR20 response while five of seven achieved an ACR50 response. 
+
+Phrase: "All of the patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C0444868:All [Quantitative Concept]
+   770   C3539085:All [Idea or Concept]
+
+Phrase: "who"
+
+Phrase: "completed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205197:COMPLETED [Qualitative Concept]
+
+Phrase: "the study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "achieved"
+
+Phrase: "an ACR20 response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+
+Phrase: "while"
+
+Phrase: "five of seven"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0205451:Five [Quantitative Concept]
+   790   C0205453:Seven [Quantitative Concept]
+
+Phrase: "achieved"
+
+Phrase: "an ACR50 response."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+Processing 00000000.tx.43: Very significant improvements were noted both in tender and swollen joint counts. 
+
+Phrase: "Very significant improvements"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C2986411:Improvement [Conceptual Entity]
+
+Phrase: "were"
+
+Phrase: "noted"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1316572:Note [Clinical Attribute]
+   966   C1317574:Note [Intellectual Product]
+   966   C1369612:Note [Clinical Attribute]
+
+Phrase: "both in tender"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0234234:Tender [Qualitative Concept]
+   790   C0238767:Both [Spatial Concept]
+   790   C1706086:Both [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "swollen joint counts."
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   988   C0451521:Swollen joint count [Intellectual Product]
+   827   C0439157:counts [Quantitative Concept]
+   793 E C0750480:Count [Activity]
+   793 E C1705566:Count [Quantitative Concept]
+   734   C0152031:Swollen joint [Sign or Symptom]
+Processing 00000000.tx.44: It was not until 2002 that the first more rigorous trial of tacrolimus in RA was published, by Furst et al. 
+
+Phrase: "It"
+
+Phrase: "was"
+
+Phrase: "not until 2002"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1518422:Not [Functional Concept]
+
+Phrase: "that"
+
+Phrase: "the first more rigorous trial of tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0008976:Trial [Research Activity]
+
+Phrase: "in RA"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "was"
+
+Phrase: "published"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034037:Published [Occupational Activity]
+  1000   C1704324:Published [Intellectual Product]
+
+Phrase: ","
+
+Phrase: "by Furst et al."
+Processing 00000000.tx.45: [15]. 
+
+Phrase: "[15"
+
+Phrase: "]."
+Processing 00000000.tx.46: This was designed as a phase II, double-blind, randomized, placebo-controlled, dose-ranging study comparing 1, 3 and 5 mg/day of tacrolimus with placebo. 
+
+Phrase: "This"
+
+Phrase: "was"
+
+Phrase: "designed as a phase II,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0205390:Phase [Temporal Concept]
+   726   C1707689:Design [Activity]
+   726   C2983265:DESIGN [Intellectual Product]
+
+Phrase: "double-blind,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0013072:DOUBLE BLIND [Research Activity]
+   861   C0150108:Blind [Research Activity]
+   861   C0205173:Double [Functional Concept]
+   861   C0456909:Blind [Disease or Syndrome]
+   861   C0525065:blind [Patient or Disabled Group]
+   861   C1705764:Double [Activity]
+   861   C1705765:Double [Qualitative Concept]
+
+Phrase: "randomized"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0034656:randomized [Research Activity]
+
+Phrase: ","
+
+Phrase: "placebo-controlled,"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+  1000   C1706408:placebo-controlled [Research Activity]
+           PLACEBO
+   861   C0032042:placebo [Therapeutic or Preventive Procedure]
+   861   C1696465:placebo [Biomedical or Dental Material]
+   861   C2587213:Controlled [Functional Concept]
+   827 E C0243148:control [Qualitative Concept]
+   827 E C1550141:Control [Substance]
+   827 E C1882979:Control [Conceptual Entity]
+   827 E C3274648:Control [Qualitative Concept]
+
+Phrase: "dose-ranging study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0557651:Study [Manufactured Object]
+   827   C2603343:Study [Research Activity]
+
+Phrase: "comparing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1707455:Compare [Activity]
+
+Phrase: "1,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "and"
+
+Phrase: "5 mg/day of tacrolimus"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0439422:mg day [Quantitative Concept]
+   806   C0439423:mg/day [Quantitative Concept]
+   760   C0332173:/day [Temporal Concept]
+   760   C0439228:day [Temporal Concept]
+   760   C0439505:/day [Temporal Concept]
+
+Phrase: "with placebo."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0032042:placebo [Therapeutic or Preventive Procedure]
+  1000   C1696465:placebo [Biomedical or Dental Material]
+  1000   C1706408:PLACEBO [Research Activity]
+Processing 00000000.tx.47: Two hundred and sixty-eight patients were enrolled in the study and discontinued previous DMARDs at least 4 weeks prior to initiation of the study drug. 
+
+Phrase: "Two hundred"
+
+Phrase: "and"
+
+Phrase: "sixty-eight patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "were"
+
+Phrase: "enrolled in the study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0557651:Study [Manufactured Object]
+   770   C2603343:Study [Research Activity]
+
+Phrase: "and"
+
+Phrase: "discontinued previous DMARDs at least 4 weeks"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0242708:dmards [Pharmacologic Substance]
+
+Phrase: "prior to initiation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0589507:Initiation [Mental Process]
+  1000   C1158830:Initiation [Genetic Function]
+  1000   C1704686:Initiation [Functional Concept]
+
+Phrase: "of the study drug."
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0013175:study drug [Research Activity]
+   861   C0013227:Drug [Pharmacologic Substance]
+   861   C0557651:Study [Manufactured Object]
+   861   C1254351:Drug [Pharmacologic Substance]
+   861   C2603343:Study [Research Activity]
+   805 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   805 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   768 E C0456386:Medicament [Pharmacologic Substance]
+Processing 00000000.tx.48: The study drug was administered for 6 months and the prespecified primary endpoints were ACR20 response and change in tender and swollen joint counts. 
+
+Phrase: "The study drug"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0013175:study drug [Research Activity]
+   861   C0013227:Drug [Pharmacologic Substance]
+   861   C0557651:Study [Manufactured Object]
+   861   C1254351:Drug [Pharmacologic Substance]
+   861   C2603343:Study [Research Activity]
+   805 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   805 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   768 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "was"
+
+Phrase: "administered for 6 months"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   770   C0439231:months [Temporal Concept]
+   770   C1521801:Administered [Functional Concept]
+   737 E C0439507:/month [Temporal Concept]
+   737 E C1621583:Administer [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "the prespecified primary endpoints"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   884   C2986535:Primary Endpoint [Indicator, Reagent, or Diagnostic Aid]
+   827   C2349179:endpoints [Qualitative Concept]
+   793 E C2826544:ENDPOINT [Quantitative Concept]
+
+Phrase: "were"
+
+Phrase: "ACR20 response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+
+Phrase: "and"
+
+Phrase: "change in tender"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0392747:Change [Functional Concept]
+   790   C0443172:change [Quantitative Concept]
+   790   C1705241:Change [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "swollen joint counts."
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   988   C0451521:Swollen joint count [Intellectual Product]
+   827   C0439157:counts [Quantitative Concept]
+   793 E C0750480:Count [Activity]
+   793 E C1705566:Count [Quantitative Concept]
+   734   C0152031:Swollen joint [Sign or Symptom]
+Processing 00000000.tx.49: The results of the trial indicated a fairly narrow therapeutic window for tacrolimus in RA. 
+
+Phrase: "The results of the trial"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   726   C1274040:Result [Functional Concept]
+   726   C1546471:Result [Idea or Concept]
+   726   C2825142:Result [Finding]
+
+Phrase: "indicated"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1444656:Indicated [Finding]
+
+Phrase: "a fairly"
+
+Phrase: "narrow"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205168:Narrow [Qualitative Concept]
+  1000   C0332463:Narrow [Spatial Concept]
+  1000   C0333164:Narrow [Quantitative Concept]
+
+Phrase: "therapeutic window for tacrolimus"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0039796:Therapeutic [Therapeutic or Preventive Procedure]
+   770   C0302350:Therapeutic [Functional Concept]
+   770   C0557702:Window [Manufactured Object]
+   770   C1272706:Window [Temporal Concept]
+   770   C1704674:Window [Manufactured Object]
+
+Phrase: "in RA."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.50: A clear doseresponse effect was observed when considering the ACR20 response, with 15.5, 29, 34.4 and 50% response rates in the 0, 1, 3 and 5 mg/day groups respectively. 
+
+Phrase: "A clear doseresponse effect"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1280500:Effect [Qualitative Concept]
+   827   C2348382:Effect [Qualitative Concept]
+
+Phrase: "was"
+
+Phrase: "observed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+
+Phrase: "when"
+
+Phrase: "considering"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considering [Idea or Concept]
+
+Phrase: "the ACR20 response,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+
+Phrase: "with 15.5,"
+
+Phrase: "29,"
+
+Phrase: "34.4"
+
+Phrase: "and"
+
+Phrase: "50% response rates in the 0,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   783   C0237629:rates response [Temporal Concept]
+   753   C0871261:Response [Organism Attribute]
+   753   C1704632:Response [Finding]
+   753   C1706817:Response [Intellectual Product]
+   753   C2911692:Response [Mental Process]
+   719   C0871208:Rate [Activity]
+   719   C1521828:Rate [Quantitative Concept]
+
+Phrase: "1,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "and"
+
+Phrase: "5 mg/day"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0439422:mg day [Quantitative Concept]
+   901   C0439423:mg/day [Quantitative Concept]
+   827   C0332173:/day [Temporal Concept]
+   827   C0439228:day [Temporal Concept]
+   827   C0439505:/day [Temporal Concept]
+
+Phrase: "groups"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0441833:Group [Idea or Concept]
+  1000   C0687744:group [Population Group]
+  1000   C1257890:Group [Population Group]
+  1000   C1552516:Group [Health Care Related Organization]
+  1000   C1552839:groups [Idea or Concept]
+  1000   C1705428:Group [Conceptual Entity]
+  1000   C1705429:Group [Population Group]
+
+Phrase: "respectively."
+Processing 00000000.tx.51: ACR50 response rates in the same groups were rather disappointing at 1.4, 14.5, 17.2 and 14.1% respectively, perhaps suggesting a plateau in efficacy at or above 3 mg/day. 
+
+Phrase: "ACR50 response rates in the same groups"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   774   C0237629:rates response [Temporal Concept]
+   748   C0871261:Response [Organism Attribute]
+   748   C1704632:Response [Finding]
+   748   C1706817:Response [Intellectual Product]
+   748   C2911692:Response [Mental Process]
+   714   C0871208:Rate [Activity]
+   714   C1521828:Rate [Quantitative Concept]
+
+Phrase: "were"
+
+Phrase: "rather"
+
+Phrase: "disappointing"
+
+Phrase: "at 1.4,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C1412113:AT-1 [Gene or Genome]
+   827   C1516077:At [Spatial Concept]
+
+Phrase: "14.5,"
+
+Phrase: "17.2"
+
+Phrase: "and"
+
+Phrase: "14.1% respectively,"
+
+Phrase: "perhaps"
+
+Phrase: "suggesting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "a plateau in efficacy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C2964353:Plateau [Quantitative Concept]
+
+Phrase: "at"
+
+Phrase: "or above 3 mg/day."
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   806   C0439422:mg day [Quantitative Concept]
+   806   C0439423:mg/day [Quantitative Concept]
+   760   C0332173:/day [Temporal Concept]
+   760   C0439228:day [Temporal Concept]
+   760   C0439269:mg% [Quantitative Concept]
+   760   C0439505:/day [Temporal Concept]
+   760   C1960952:mg % [Quantitative Concept]
+   760   C2346927:Mg++ [Element, Ion, or Isotope,Pharmacologic Substance]
+Processing 00000000.tx.52: Unfortunately, there was very clear evidence of dose-dependent toxicity, with a significant (40%) rise in creatinine observed in 28.1% of the patients who received the highest dose. 
+
+Phrase: "Unfortunately,"
+
+Phrase: "there"
+
+Phrase: "was"
+
+Phrase: "very"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0442824:Very [Qualitative Concept]
+
+Phrase: "clear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+
+Phrase: "evidence of dose-dependent toxicity,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C0332120:Evidence of [Functional Concept]
+           Evidence
+
+Phrase: "with a significant"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0237881:significant [Quantitative Concept]
+  1000   C0750502:Significant [Idea or Concept]
+  1000   C1546944:Significant [Qualitative Concept]
+
+Phrase: "(40%"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: ")"
+
+Phrase: "rise in creatinine"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   858   C0742904:creatinine rise [Finding]
+   790   C0010294:Creatinine [Biologically Active Substance,Organic Chemical]
+   790   C1561535:Creatinine [Finding]
+
+Phrase: "observed in 28.1% of the patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0030705:Patients [Patient or Disabled Group]
+   748   C1441672:Observed [Functional Concept]
+
+Phrase: "who"
+
+Phrase: "received"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514756:Received [Qualitative Concept]
+
+Phrase: "the highest dose."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   983   C0444956:High dose [Quantitative Concept]
+   861   C0178602:Dose [Quantitative Concept]
+   861   C0869039:Dose [Quantitative Concept]
+   861   C1114758:Dose # [Clinical Attribute]
+Processing 00000000.tx.53: There was also evidence of a significant increase in diastolic blood pressure in the higher dose groups, although the absolute increases observed were small. 
+
+Phrase: "There"
+
+Phrase: "was"
+
+Phrase: "also evidence of a significant increase"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0332120:Evidence of [Functional Concept]
+           Evidence
+
+Phrase: "in diastolic blood pressure"
+Meta Candidates (Total=20; Excluded=7; Pruned=0; Remaining=13)
+  1000   C0428883:Diastolic blood pressure [Clinical Attribute]
+           Diastolic Pressure
+  1000   C1305849:diastolic blood pressure [Diagnostic Procedure]
+   901   C0005823:Blood Pressure [Organism Function]
+   901   C1271104:Blood Pressure [Finding]
+   901   C1272641:Blood pressure [Finding]
+   827   C0005767:Blood [Tissue]
+   827   C0005768:blood [Body Substance]
+   827   C0012000:Diastolic [Clinical Attribute]
+   827   C0033095:Pressure [Phenomenon or Process]
+   827   C0229664:Blood [Body Substance]
+   827   C0460139:Pressure [Finding]
+   827   C1306345:Pressure [Functional Concept]
+   755 E C0333275:Bloody [Qualitative Concept]
+   743 E C0005847:Blood Vessel [Body Part, Organ, or Organ Component]
+   743 E C0392895:Bloods [Population Group]
+   743 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   743 E C1511228:VESSEL, BLOOD [Tissue]
+   727 E C1558950:VASCULAR [Finding]
+   727 E C1801960:Vascular [Qualitative Concept]
+
+Phrase: "in the higher dose groups,"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   827   C0441833:Group [Idea or Concept]
+   827   C0687744:group [Population Group]
+   827   C1257890:Group [Population Group]
+   827   C1552516:Group [Health Care Related Organization]
+   827   C1552839:groups [Idea or Concept]
+   827   C1705428:Group [Conceptual Entity]
+   827   C1705429:Group [Population Group]
+   717   C0444956:High dose [Quantitative Concept]
+
+Phrase: "although"
+
+Phrase: "the absolute increases"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442805:increases [Functional Concept]
+
+Phrase: "observed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+
+Phrase: "were"
+
+Phrase: "small."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700321:Small [Quantitative Concept]
+Processing 00000000.tx.54: Taken together, the efficacy and safety data suggested to the investigators that the optimal therapeutic dose of tacrolimus in RA appeared to lie somewhere between 1 and 3 mg/day. 
+
+Phrase: "Taken"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883727:Taken [Conceptual Entity]
+   966 E C1515187:Take [Health Care Activity]
+
+Phrase: "together,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883357:Together [Qualitative Concept]
+
+Phrase: "the efficacy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1280519:Efficacy [Qualitative Concept]
+  1000   C1707887:EFFICACY [Research Activity]
+
+Phrase: "and"
+
+Phrase: "safety data"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1511726:Data [Idea or Concept]
+   861   C3245479:data [Medical Device]
+
+Phrase: "suggested to the investigators"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0035173:Investigators [Professional or Occupational Group]
+   737   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "the optimal therapeutic dose of tacrolimus"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   783   C1148278:Tacrolimus Dose [Clinical Attribute]
+   753   C0039796:Therapeutic [Therapeutic or Preventive Procedure]
+   753   C0178602:Dose [Quantitative Concept]
+   753   C0302350:Therapeutic [Functional Concept]
+   753   C0869039:Dose [Quantitative Concept]
+   753   C1114758:Dose # [Clinical Attribute]
+
+Phrase: "in RA"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "appeared"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "lie"
+
+Phrase: "somewhere between 1"
+
+Phrase: "and"
+
+Phrase: "3 mg/day."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0439422:mg day [Quantitative Concept]
+   901   C0439423:mg/day [Quantitative Concept]
+   827   C0332173:/day [Temporal Concept]
+   827   C0439228:day [Temporal Concept]
+   827   C0439505:/day [Temporal Concept]
+Processing 00000000.tx.55: A phase III study which followed this has recently been published [16]. 
+
+Phrase: "A phase III study"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0282461:Phase 3 Study [Research Activity]
+   827   C0205390:Phase [Temporal Concept]
+   827   C0439070:III [Intellectual Product]
+   827   C0557651:Study [Manufactured Object]
+   827   C1705160:III [Qualitative Concept]
+   827   C2603343:Study [Research Activity]
+
+Phrase: "which"
+
+Phrase: "followed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0332283:followed [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "this"
+
+Phrase: "has"
+
+Phrase: "recently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332185:Recently [Temporal Concept]
+
+Phrase: "been"
+
+Phrase: "published"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034037:Published [Occupational Activity]
+  1000   C1704324:Published [Intellectual Product]
+
+Phrase: "[16"
+
+Phrase: "]."
+Processing 00000000.tx.56: This was a trial of similar design, comparing tacrolimus monotherapy at doses of 2 and 3 mg/day with placebo in 464 patients, many of whom rolled over into the present long-term safety study. 
+
+Phrase: "This"
+
+Phrase: "was"
+
+Phrase: "a trial of similar design,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   797   C3641234:Trial Design [Intellectual Product]
+   760   C0008976:Trial [Research Activity]
+
+Phrase: "comparing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1707455:Compare [Activity]
+
+Phrase: "tacrolimus monotherapy at doses of 2"
+
+Phrase: "and"
+
+Phrase: "3 mg/day with placebo"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0439422:mg day [Quantitative Concept]
+   806   C0439423:mg/day [Quantitative Concept]
+   760   C0332173:/day [Temporal Concept]
+   760   C0439228:day [Temporal Concept]
+   760   C0439505:/day [Temporal Concept]
+
+Phrase: "in 464 patients,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "many of whom"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0439064:Many [Quantitative Concept]
+   790   C0747726:many [Conceptual Entity]
+
+Phrase: "rolled"
+
+Phrase: "over into the present long-term safety study."
+Meta Candidates (Total=15; Excluded=0; Pruned=0; Remaining=15)
+   793   C0023981:long-term study [Research Activity]
+   770   C0443252:Long-term [Temporal Concept]
+   770   C1705187:Safety Study [Research Activity]
+           SAFETY
+   744   C0036043:Safety [Human-caused Phenomenon or Process]
+   744   C0150312:Present [Quantitative Concept]
+   744   C0205136:Over [Spatial Concept]
+   744   C0205166:Long [Qualitative Concept]
+   744   C0449450:Present [Idea or Concept]
+   744   C0557651:Study [Manufactured Object]
+   744   C1515273:Term [Temporal Concept]
+   744   C1705313:Term [Idea or Concept]
+   744   C1706317:Long [Qualitative Concept]
+   744   C2603343:Study [Research Activity]
+   744   C2826302:TERM [Intellectual Product]
+Processing 00000000.tx.57: Once more there was evidence of superiority over placebo and, arguably, a doseresponse effect. 
+
+Phrase: "Once"
+
+Phrase: "more there"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205172:More [Functional Concept]
+
+Phrase: "was"
+
+Phrase: "evidence of superiority"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   882   C0332120:Evidence of [Functional Concept]
+           Evidence
+
+Phrase: "over placebo"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0032042:placebo [Therapeutic or Preventive Procedure]
+  1000   C1696465:placebo [Biomedical or Dental Material]
+  1000   C1706408:PLACEBO [Research Activity]
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "arguably,"
+
+Phrase: "a doseresponse effect."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1280500:Effect [Qualitative Concept]
+   861   C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.58: ACR20 response rates were lower in this study, at 13.4, 21.4 and 32% in the placebo, 2 mg/day and 3 mg/day groups respectively. 
+
+Phrase: "ACR20 response rates"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   867   C0237629:Response Rate [Temporal Concept]
+   827   C0871261:Response [Organism Attribute]
+   827   C1704632:Response [Finding]
+   827   C1706817:Response [Intellectual Product]
+   827   C2911692:Response [Mental Process]
+   793   C0871208:Rate [Activity]
+   793   C1521828:Rate [Quantitative Concept]
+
+Phrase: "were"
+
+Phrase: "lower in this study,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0441994:Lower [Spatial Concept]
+   770   C1548802:Lower [Body Location or Region]
+   770   C2003888:Lower [Activity]
+
+Phrase: "at 13.4,"
+
+Phrase: "21.4"
+
+Phrase: "and"
+
+Phrase: "32% in the placebo,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0032042:placebo [Therapeutic or Preventive Procedure]
+   770   C1696465:placebo [Biomedical or Dental Material]
+   770   C1706408:PLACEBO [Research Activity]
+
+Phrase: "2 mg/day"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0439422:mg day [Quantitative Concept]
+   901   C0439423:mg/day [Quantitative Concept]
+   827   C0332173:/day [Temporal Concept]
+   827   C0439228:day [Temporal Concept]
+   827   C0439505:/day [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "3 mg/day"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0439422:mg day [Quantitative Concept]
+   901   C0439423:mg/day [Quantitative Concept]
+   827   C0332173:/day [Temporal Concept]
+   827   C0439228:day [Temporal Concept]
+   827   C0439505:/day [Temporal Concept]
+
+Phrase: "groups"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0441833:Group [Idea or Concept]
+  1000   C0687744:group [Population Group]
+  1000   C1257890:Group [Population Group]
+  1000   C1552516:Group [Health Care Related Organization]
+  1000   C1552839:groups [Idea or Concept]
+  1000   C1705428:Group [Conceptual Entity]
+  1000   C1705429:Group [Population Group]
+
+Phrase: "respectively."
+Processing 00000000.tx.59: One reason for these disappointing response rates may be the high dropout rate in the study, with only 46.9% of tacrolimus-treated patients completing 6 months of therapy on the study. 
+
+Phrase: "One reason for these disappointing response rates"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0392360:Reason [Idea or Concept]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "the high dropout rate in the study,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0871208:Rate [Activity]
+   748   C1521828:Rate [Quantitative Concept]
+
+Phrase: "with only 46.9%"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0205171:Only [Quantitative Concept]
+   827   C1720467:Only [Intellectual Product]
+
+Phrase: "of tacrolimus-treated patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "completing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0205197:Complete [Qualitative Concept]
+
+Phrase: "6 months of therapy"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   770   C0439231:months [Temporal Concept]
+   737 E C0439507:/month [Temporal Concept]
+
+Phrase: "on the study."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+Processing 00000000.tx.60: Analysis of the ACR component scores is informative, with much clearer evidence of improvement in swollen and tender joint counts (median decrease of 30% in each score) than in the subjective patient global score (median decrease of 13.6%) in the 3 mg/day tacrolimus group, suggesting a greater benefit in terms of suppression of synovitis rather than in general patient well-being. 
+
+Phrase: "Analysis of the ACR component scores"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0002778:Analysis [Laboratory Procedure]
+   753   C0936012:Analysis [Research Activity]
+   753   C1524024:analysis [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "informative,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2986490:Informative [Qualitative Concept]
+
+Phrase: "with much clearer evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "of improvement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2986411:Improvement [Conceptual Entity]
+
+Phrase: "in swollen"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0038999:Swollen [Finding]
+
+Phrase: "and"
+
+Phrase: "tender joint counts"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   988   C0451530:Tender joint count [Intellectual Product]
+   827   C0439157:counts [Quantitative Concept]
+   793 E C0750480:Count [Activity]
+   793 E C1705566:Count [Quantitative Concept]
+
+Phrase: "(median decrease of 30%"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0392756:Decrease [Qualitative Concept]
+   770   C0547047:Decrease [Quantitative Concept]
+
+Phrase: "in each score"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449820:Score [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "than"
+
+Phrase: "in the subjective patient global score"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0449820:Score [Quantitative Concept]
+
+Phrase: "(median decrease of 13.6%"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0392756:Decrease [Qualitative Concept]
+   760   C0547047:Decrease [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "in the 3 mg/day tacrolimus group,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   804   C0441833:Group [Idea or Concept]
+   804   C0687744:group [Population Group]
+   804   C1257890:Group [Population Group]
+   804   C1552516:Group [Health Care Related Organization]
+   804   C1705428:Group [Conceptual Entity]
+   804   C1705429:Group [Population Group]
+
+Phrase: "suggesting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "a greater benefit in terms of suppression of synovitis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C0814225:Benefit [Quantitative Concept]
+
+Phrase: "rather than in general patient well-being."
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   804   C2939150:General well-being [Finding]
+   778   C0018684:Well-being [Idea or Concept]
+   778   C0031206:well-being [Finding]
+   748   C0030705:*^patient [Patient or Disabled Group]
+   748   C0205170:Well [Qualitative Concept]
+   748   C0205246:General [Spatial Concept]
+   748   C1553889:General [Idea or Concept]
+   748   C3146287:Well [Manufactured Object]
+Processing 00000000.tx.61: Overall, it appeared that tacrolimus was fairly effective in patients in whom the drug was tolerated. 
+
+Phrase: "Overall,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0282416:Overall [Intellectual Product]
+  1000   C1561607:Overall [Qualitative Concept]
+
+Phrase: "it"
+
+Phrase: "appeared"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "that tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "was"
+
+Phrase: "fairly effective in patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C1280519:effective [Qualitative Concept]
+   770   C1704419:Effective [Qualitative Concept]
+
+Phrase: "in whom"
+
+Phrase: "the drug"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0013227:Drug [Pharmacologic Substance]
+  1000   C1254351:Drug [Pharmacologic Substance]
+   944 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   944 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   907 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "was"
+
+Phrase: "tolerated."
+Processing 00000000.tx.62: Safety and tolerability data from this study were generally reassuring. 
+
+Phrase: "Safety"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0036043:Safety [Human-caused Phenomenon or Process]
+  1000   C1705187:SAFETY [Research Activity]
+
+Phrase: "and"
+
+Phrase: "tolerability data from this study"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   797   C0681873:study data [Research Activity]
+   760   C1511726:Data [Idea or Concept]
+   760   C3245479:data [Medical Device]
+
+Phrase: "were"
+
+Phrase: "generally reassuring."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0557055:Reassuring [Health Care Activity]
+Processing 00000000.tx.63: A similar number of patients withdrew in each group due to adverse events (18 in the placebo group, 21 in the 2 mg/day group and 20 in the 3 mg/day group), although there were slightly more serious adverse events noted in the tacrolimus-treated than in the placebo-treated patients. 
+
+Phrase: "A similar number of patients"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   862   C2360800:Number of patients [Finding]
+   781   C1830427:Patient number [Intellectual Product]
+   760   C0237753:*Number [Quantitative Concept]
+   760   C0449788:Number [Quantitative Concept]
+
+Phrase: "withdrew in each group"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   770   C0441833:Group [Idea or Concept]
+   770   C0687744:group [Population Group]
+   770   C1257890:Group [Population Group]
+   770   C1552516:Group [Health Care Related Organization]
+   770   C1705428:Group [Conceptual Entity]
+   770   C1705429:Group [Population Group]
+   737   C2349954:Withdraw [Activity]
+
+Phrase: "due to adverse events"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0877248:adverse events [Finding]
+  1000   C1705413:Adverse Events [Idea or Concept]
+   861   C0441471:Events [Event]
+   861   C3541888:Events [Classification]
+
+Phrase: "(18 in the placebo group,"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   760   C0032042:placebo [Therapeutic or Preventive Procedure]
+   760   C0441833:Group [Idea or Concept]
+   760   C0687744:group [Population Group]
+   760   C1257890:Group [Population Group]
+   760   C1552516:Group [Health Care Related Organization]
+   760   C1696465:placebo [Biomedical or Dental Material]
+   760   C1705428:Group [Conceptual Entity]
+   760   C1705429:Group [Population Group]
+   760   C1706408:PLACEBO [Research Activity]
+
+Phrase: "21 in the 2 mg/day group"
+Meta Candidates (Total=16; Excluded=0; Pruned=0; Remaining=16)
+   778   C0439422:mg day [Quantitative Concept]
+   778   C0439423:mg/day [Quantitative Concept]
+   774   C0441865:Group 2 [Intellectual Product]
+   774   C2346927:Mg+2 [Element, Ion, or Isotope,Pharmacologic Substance]
+           Mg++
+   748   C0332173:/day [Temporal Concept]
+   748   C0439228:day [Temporal Concept]
+   748   C0439269:mg% [Quantitative Concept]
+   748   C0439505:/day [Temporal Concept]
+   748   C0441833:Group [Idea or Concept]
+   748   C0687744:group [Population Group]
+   748   C1257890:Group [Population Group]
+   748   C1552516:Group [Health Care Related Organization]
+   748   C1705428:Group [Conceptual Entity]
+   748   C1705429:Group [Population Group]
+   748   C1960952:mg % [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "20 in the 3 mg/day group"
+Meta Candidates (Total=15; Excluded=0; Pruned=0; Remaining=15)
+   778   C0439422:mg day [Quantitative Concept]
+   778   C0439423:mg/day [Quantitative Concept]
+   774   C0441869:Group 3 [Intellectual Product]
+   748   C0332173:/day [Temporal Concept]
+   748   C0439228:day [Temporal Concept]
+   748   C0439269:mg% [Quantitative Concept]
+   748   C0439505:/day [Temporal Concept]
+   748   C0441833:Group [Idea or Concept]
+   748   C0687744:group [Population Group]
+   748   C1257890:Group [Population Group]
+   748   C1552516:Group [Health Care Related Organization]
+   748   C1705428:Group [Conceptual Entity]
+   748   C1705429:Group [Population Group]
+   748   C1960952:mg % [Quantitative Concept]
+   748   C2346927:Mg++ [Element, Ion, or Isotope,Pharmacologic Substance]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "although"
+
+Phrase: "there"
+
+Phrase: "were"
+
+Phrase: "slightly more serious adverse events"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   851   C1519255:Serious Adverse Event [Finding]
+   840   C0877248:adverse events [Finding]
+   840   C1705413:Adverse Events [Idea or Concept]
+   836   C2826307:Serious Event [Qualitative Concept]
+   804   C0205404:Serious [Qualitative Concept]
+   804   C0441471:Events [Event]
+   804   C3541888:Events [Classification]
+   733 E C0871902:seriousness [Individual Behavior]
+
+Phrase: "noted in the tacrolimus-"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+   737   C1316572:Note [Clinical Attribute]
+   737   C1317574:Note [Intellectual Product]
+   737   C1369612:Note [Clinical Attribute]
+
+Phrase: "treated than"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   833   C0332293:treated [Therapeutic or Preventive Procedure]
+   833   C1522326:Treated [Functional Concept]
+   799 E C1292734:TREAT [Functional Concept]
+
+Phrase: "in the placebo-treated patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.64: As with previous studies of tacrolimus and in view of the known toxicity profile of its close relation, cyclosporin, attention was closely focused on hypertension and impairment in renal function. 
+
+Phrase: "As with previous studies of tacrolimus"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   753   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+   753   C0205156:Previous [Temporal Concept]
+   753   C0947630:studies [Laboratory Procedure]
+   753   C1552607:previous [Temporal Concept]
+   719 E C0557651:Study [Manufactured Object]
+   719 E C2603343:Study [Research Activity]
+
+Phrase: "and in view of the known toxicity profile of its close relation,"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   736   C0040539:toxicity [Qualitative Concept]
+   736   C0080103:Relation [Family Group]
+   736   C0205309:Known [Qualitative Concept]
+   736   C0449911:View [Spatial Concept]
+   736   C0587267:Close [Functional Concept]
+   736   C0600688:Toxicity [Injury or Poisoning]
+   736   C0869014:relation [Social Behavior]
+   736   C1515981:And [Idea or Concept]
+   736   C1979963:Profile [Laboratory Procedure]
+   736   C2003903:Profile [Functional Concept]
+
+Phrase: "cyclosporin,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0010592:Ciclosporin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: "attention"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004268:Attention [Mental Process]
+
+Phrase: "was"
+
+Phrase: "closely"
+
+Phrase: "focused on hypertension"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0020538:Hypertension [Disease or Syndrome]
+   790   C0205234:Focused [Spatial Concept]
+   790   C1285542:focused [Functional Concept]
+   790   C1963138:Hypertension [Finding]
+
+Phrase: "and"
+
+Phrase: "impairment in renal function."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   819   C0035078:Renal Impairment [Disease or Syndrome]
+   819   C0341697:Renal impairment [Disease or Syndrome]
+   770   C0684336:Impairment [Pathologic Function]
+Processing 00000000.tx.65: Effects on blood pressure appeared modest, with no clear evidence of dose-dependent toxicity. 
+
+Phrase: "Effects on blood pressure"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   770   C1280500:effects [Qualitative Concept]
+   737 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "appeared"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "modest,"
+
+Phrase: "with no clear evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "of dose-dependent toxicity."
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   827   C0040539:toxicity [Qualitative Concept]
+   827   C0600688:Toxicity [Injury or Poisoning]
+   755 E C1407029:Toxic [Qualitative Concept]
+   734 E C0032346:Poison [Hazardous or Poisonous Substance]
+   734   C1512045:Dose-dependent [Quantitative Concept]
+   734 E C1548769:Poison [Intellectual Product]
+   734 E C1550590:poison [Idea or Concept]
+Processing 00000000.tx.66: Increases in creatinine were common in tacrolimus-treated patients (29.1% of patients experienced 40% increase from baseline in the higher dose group); 
+
+Phrase: "Increases in creatinine"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0442805:increases [Functional Concept]
+
+Phrase: "were"
+
+Phrase: "common in tacrolimus-treated patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0205214:Common [Quantitative Concept]
+   760   C1522138:Common [Functional Concept]
+   760   C3245511:common [Intellectual Product]
+
+Phrase: "(29.1% of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "experienced"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0237607:experience [Mental Process]
+   966   C0596545:Experience [Mental Process]
+
+Phrase: "40% increase from baseline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0442805:Increase [Functional Concept]
+
+Phrase: "in the higher dose group"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   827   C0441833:Group [Idea or Concept]
+   827   C0687744:group [Population Group]
+   827   C1257890:Group [Population Group]
+   827   C1552516:Group [Health Care Related Organization]
+   827   C1705428:Group [Conceptual Entity]
+   827   C1705429:Group [Population Group]
+   717   C0444956:High dose [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: ";"
+Processing 00000000.tx.67: however, absolute levels of creatinine remained largely acceptable. 
+
+Phrase: "however,"
+
+Phrase: "absolute levels of creatinine"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   819   C0428279:creatinine levels [Laboratory or Test Result]
+   770   C0441889:Levels [Qualitative Concept]
+   737 E C0456079:Level [Classification]
+   737 E C1547707:Level [Geographic Area]
+   737 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "remained"
+
+Phrase: "largely acceptable."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C1879533:Acceptable [Qualitative Concept]
+   861   C3539083:Acceptable [Qualitative Concept]
+   789 E C0814633:acceptability [Qualitative Concept]
+   789 E C3645535:Acceptability [Qualitative Concept]
+Processing 00000000.tx.68: One other common adverse event was tremor. 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "other common adverse event"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0877248:Adverse event [Finding]
+   827   C0441471:Event [Event]
+
+Phrase: "was"
+
+Phrase: "tremor."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0040822:Tremor [Sign or Symptom]
+  1000   C1963252:Tremor [Finding]
+Processing 00000000.tx.69: The authors rightly point out that all these and other adverse events occurred at much lower rates in this trial than in transplantation trials, as might reasonably be expected with the lower dose of drug used. 
+
+Phrase: "The authors rightly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "point"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552961:Point [Quantitative Concept]
+  1000   C2347617:point [Quantitative Concept]
+
+Phrase: "out"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439787:Out [Spatial Concept]
+  1000   C0849355:Out [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "all these"
+
+Phrase: "and"
+
+Phrase: "other adverse events"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0877248:adverse events [Finding]
+  1000   C1705413:Adverse Events [Idea or Concept]
+   861   C0441471:Events [Event]
+   861   C3541888:Events [Classification]
+
+Phrase: "occurred at much lower rates"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   760   C0441994:Lower [Spatial Concept]
+   760   C1548802:Lower [Body Location or Region]
+   760   C1709305:Occurred [Activity]
+   760   C2003888:Lower [Activity]
+   726   C0871208:Rate [Activity]
+   726   C1521828:Rate [Quantitative Concept]
+   726 E C2745955:OCCUR [Temporal Concept]
+
+Phrase: "in this trial"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008976:Trial [Research Activity]
+
+Phrase: "than"
+
+Phrase: "in transplantation trials,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0008976:Trial [Research Activity]
+
+Phrase: "as"
+
+Phrase: "might"
+
+Phrase: "reasonably"
+
+Phrase: "be"
+
+Phrase: "expected with the lower dose of drug"
+Meta Candidates (Total=15; Excluded=3; Pruned=0; Remaining=12)
+   774   C0678766:Drug dose [Quantitative Concept]
+   762   C0445550:Low dose [Quantitative Concept]
+   762   C1708745:Low-Dose [Research Activity]
+   748   C0013227:Drug [Pharmacologic Substance]
+   748   C0178602:Dose [Quantitative Concept]
+   748   C0441994:Lower [Spatial Concept]
+   748   C0869039:Dose [Quantitative Concept]
+   748   C1114758:Dose # [Clinical Attribute]
+   748   C1254351:Drug [Pharmacologic Substance]
+   748   C1517001:Expected [Idea or Concept]
+   748   C1548802:Lower [Body Location or Region]
+   748   C2003888:Lower [Activity]
+   714 E C0205251:low [Qualitative Concept]
+   714 E C1299352:Low [Qualitative Concept]
+   714 E C1550472:low [Idea or Concept]
+
+Phrase: "used."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1273517:used [Finding]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+Processing 00000000.tx.70: One other trial of tacrolimus in RA was published at the end of last year by Kremer et al. 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "other trial of tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0008976:Trial [Research Activity]
+
+Phrase: "in RA"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "was"
+
+Phrase: "published at the end of last year"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   748   C0034037:Published [Occupational Activity]
+   748   C0439234:year [Temporal Concept]
+   748   C0439508:/year [Temporal Concept]
+   748   C0444930:End [Spatial Concept]
+   748   C1704324:Published [Intellectual Product]
+   748   C2746065:End [Temporal Concept]
+
+Phrase: "by Kremer et al."
+Processing 00000000.tx.71: [17]. 
+
+Phrase: "[17"
+
+Phrase: "]."
+Processing 00000000.tx.72: This differed from the other studies in that tacrolimus was investigated as an adjunctive therapy in patients already established on methotrexate therapy. 
+
+Phrase: "This"
+
+Phrase: "differed from the"
+
+Phrase: "other studies in"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   790   C0947630:studies [Laboratory Procedure]
+   756 E C0557651:Study [Manufactured Object]
+   756 E C2603343:Study [Research Activity]
+
+Phrase: "that tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "was"
+
+Phrase: "investigated as an adjunctive therapy"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   806   C0677850:adjunctive therapy [Therapeutic or Preventive Procedure]
+   760   C0039798:therapy [Functional Concept]
+   760   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   760   C1292732:investigated [Functional Concept]
+   760   C1363945:Therapy [Finding]
+   760   C2825951:Adjunctive [Therapeutic or Preventive Procedure]
+
+Phrase: "in patients already"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "established on methotrexate therapy."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0025677:Methotrexate [Organic Chemical,Pharmacologic Substance]
+   770   C0039798:therapy [Functional Concept]
+   770   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   770   C0443211:Established [Qualitative Concept]
+   770   C1272684:Established [Qualitative Concept]
+   770   C1363945:Therapy [Finding]
+Processing 00000000.tx.73: Patients were enrolled in the study if they had active disease despite ongoing oral methotrexate therapy and were simply treated on an open-label basis with the addition of tacrolimus 3 mg/day. 
+
+Phrase: "Patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "were"
+
+Phrase: "enrolled in the study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0557651:Study [Manufactured Object]
+   770   C2603343:Study [Research Activity]
+
+Phrase: "if"
+
+Phrase: "they"
+
+Phrase: "had"
+
+Phrase: "active disease despite ongoing oral methotrexate therapy"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   774   C0026636:Oral Disease [Disease or Syndrome]
+   748   C0012634:Disease [Disease or Syndrome]
+   748   C0205177:Active [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "were"
+
+Phrase: "simply"
+
+Phrase: "treated on an open-label basis"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   790   C1709323:OPEN LABEL [Research Activity]
+   753   C0175566:Open [Spatial Concept]
+   753   C0181496:Label [Manufactured Object]
+   753   C0332293:treated [Therapeutic or Preventive Procedure]
+   753   C1522326:Treated [Functional Concept]
+   753   C1527178:Basis [Functional Concept]
+   753   C1874451:Basis [Pharmacologic Substance]
+   753   C2827499:Label [Governmental or Regulatory Activity]
+   719 E C1292734:TREAT [Functional Concept]
+
+Phrase: "with the addition"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883712:Addition [Functional Concept]
+   928 E C1524062:Additional [Functional Concept]
+
+Phrase: "of tacrolimus 3 mg/day."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   861   C0439422:mg day [Quantitative Concept]
+   861   C0439423:mg/day [Quantitative Concept]
+   812   C0332173:/day [Temporal Concept]
+   812   C0439228:day [Temporal Concept]
+   812   C0439505:/day [Temporal Concept]
+Processing 00000000.tx.74: As might be expected in an open-label trial, the response rates were higher than in other studies: ACR20, ACR50 and ACR70 response rates were 52.5, 28.8 and 13.8% respectively. 
+
+Phrase: "As"
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "expected in an open-label trial,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   790   C1709323:OPEN LABEL [Research Activity]
+   753   C0008976:Trial [Research Activity]
+   753   C0175566:Open [Spatial Concept]
+   753   C0181496:Label [Manufactured Object]
+   753   C1517001:Expected [Idea or Concept]
+   753   C2827499:Label [Governmental or Regulatory Activity]
+
+Phrase: "the response rates"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   966   C0237629:Response Rate [Temporal Concept]
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+   827   C0871208:Rate [Activity]
+   827   C1521828:Rate [Quantitative Concept]
+
+Phrase: "were"
+
+Phrase: "higher than"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   799   C0205250:High [Qualitative Concept]
+   799   C1299351:High [Qualitative Concept]
+   799   C2700149:HIGH [Intellectual Product]
+   750 E C0489786:Height [Organism Attribute]
+
+Phrase: "in other studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: ":"
+
+Phrase: "ACR20,"
+
+Phrase: "ACR50"
+
+Phrase: "and"
+
+Phrase: "ACR70 response rates"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   867   C0237629:Response Rate [Temporal Concept]
+   827   C0871261:Response [Organism Attribute]
+   827   C1704632:Response [Finding]
+   827   C1706817:Response [Intellectual Product]
+   827   C2911692:Response [Mental Process]
+   793   C0871208:Rate [Activity]
+   793   C1521828:Rate [Quantitative Concept]
+
+Phrase: "were"
+
+Phrase: "52.5,"
+
+Phrase: "28.8"
+
+Phrase: "and"
+
+Phrase: "13.8% respectively."
+Processing 00000000.tx.75: Renal toxicity was less pronounced than may have been expected, with modest elevations in creatinine, which were reversible on discontinuation of the drug, and no significant effect on blood pressure was observed. 
+
+Phrase: "Renal toxicity"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0595916:renal toxicity [Disease or Syndrome]
+   861   C0040539:toxicity [Qualitative Concept]
+   861   C0600688:Toxicity [Injury or Poisoning]
+   789 E C1407029:Toxic [Qualitative Concept]
+   768 E C0032346:Poison [Hazardous or Poisonous Substance]
+   768 E C1548769:Poison [Intellectual Product]
+   768 E C1550590:poison [Idea or Concept]
+
+Phrase: "was"
+
+Phrase: "less"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439092:less [Intellectual Product]
+  1000   C0547044:Less [Qualitative Concept]
+
+Phrase: "pronounced than"
+
+Phrase: "may"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "expected"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1517001:Expected [Idea or Concept]
+
+Phrase: ","
+
+Phrase: "with modest elevations"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0702240:elevations [Spatial Concept]
+   827 E C0439775:Elevation [Therapeutic or Preventive Procedure]
+
+Phrase: "in creatinine,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0010294:Creatinine [Biologically Active Substance,Organic Chemical]
+  1000   C1561535:Creatinine [Finding]
+
+Phrase: "which"
+
+Phrase: "were"
+
+Phrase: "reversible on discontinuation of the drug,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0205343:Reversible [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "no significant effect on blood pressure"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   783   C1301751:No effect [Qualitative Concept]
+   753   C1280500:Effect [Qualitative Concept]
+   753   C2348382:Effect [Qualitative Concept]
+
+Phrase: "was"
+
+Phrase: "observed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+Processing 00000000.tx.76: The present study represents the largest single investigation of the safety of tacrolimus therapy in RA to date [10]. 
+
+Phrase: "The present study"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0150312:Present [Quantitative Concept]
+   861   C0449450:Present [Idea or Concept]
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+
+Phrase: "represents"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1882932:Represent [Activity]
+
+Phrase: "the largest single investigation of the safety of tacrolimus therapy"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   739   C1261322:Investigation [Health Care Activity]
+   739   C1552578:investigation [Idea or Concept]
+   722   C0949266:Therapy, Investigational [Therapeutic or Preventive Procedure]
+
+Phrase: "in RA"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "to date"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011008:Date [Temporal Concept]
+  1000   C2348077:Date [Food]
+
+Phrase: "[10"
+
+Phrase: "]."
+Processing 00000000.tx.77: Yocum et al. allowed 311 patients from their placebo-controlled trial [16] to roll over into this study and, in addition, recruited 585 new patients. 
+
+Phrase: "Yocum et al."
+
+Phrase: "allowed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allowed [Social Behavior]
+
+Phrase: "311 patients from their placebo-controlled trial"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "[16"
+
+Phrase: "] to roll over into this study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0517067:roll over [Finding]
+   790   C0543436:roll over [Finding]
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "in addition,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883712:Addition [Functional Concept]
+   928 E C1524062:Additional [Functional Concept]
+
+Phrase: "recruited"
+
+Phrase: "585 new patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.78: This long-term safety study was designed as a 12-month, open-label assessment of the tolerability and safety of tacrolimus therapy in RA, using a dose of 3 mg/day with no additional DMARD therapy allowed. 
+
+Phrase: "This long-term safety study"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   923   C0023981:long-term study [Research Activity]
+   861   C1705187:Safety Study [Research Activity]
+   812   C0557651:Study [Manufactured Object]
+   812   C2603343:Study [Research Activity]
+
+Phrase: "was"
+
+Phrase: "designed as a 12-month,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0439231:month [Temporal Concept]
+   760   C0439507:/month [Temporal Concept]
+   726   C1707689:Design [Activity]
+   726   C2983265:DESIGN [Intellectual Product]
+
+Phrase: "open-label assessment of the tolerability"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1261322:Assessment [Health Care Activity]
+   753   C1516048:Assessment [Activity]
+
+Phrase: "and"
+
+Phrase: "safety of tacrolimus therapy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0036043:Safety [Human-caused Phenomenon or Process]
+   770   C1705187:SAFETY [Research Activity]
+
+Phrase: "in RA,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "a dose of 3 mg/day"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0178602:Dose [Quantitative Concept]
+   753   C0869039:Dose [Quantitative Concept]
+   753   C1114758:Dose # [Clinical Attribute]
+
+Phrase: "with no additional DMARD therapy"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   913   C1706712:Additional Therapy [Finding]
+   827   C0039798:therapy [Functional Concept]
+   827   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   827   C1363945:Therapy [Finding]
+
+Phrase: "allowed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allowed [Social Behavior]
+Processing 00000000.tx.79: Of the initial 896 patients, 489 patients (54.6%) managed to complete the full year's treatment, giving a fairly large cohort for the study of the safety of this drug in RA. 
+
+Phrase: "Of the initial 896 patients,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "489 patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "(54.6%"
+
+Phrase: ")"
+
+Phrase: "managed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1273870:Managed [Occupational Activity]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "complete"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205197:Complete [Qualitative Concept]
+
+Phrase: "the full year's treatment,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   827   C0039798:treatment [Functional Concept]
+   827   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   827   C1522326:Treatment [Functional Concept]
+   827   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   827   C1705169:Treatment [Conceptual Entity]
+   827   C3538994:TREATMENT [Research Activity]
+
+Phrase: "giving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1947971:Give [Functional Concept]
+
+Phrase: "a fairly large cohort for the study of the safety of this drug"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   749   C0009247:Cohort Study [Quantitative Concept]
+   735   C0599755:Cohort [Population Group]
+
+Phrase: "in RA."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.80: Around a fifth of patients withdrew due to adverse events and one in eight withdrew due to lack of efficacy. 
+
+Phrase: "Around a fifth"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205439:Fifth [Quantitative Concept]
+
+Phrase: "of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "withdrew due to adverse events"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   806   C0678226:Due to [Functional Concept]
+           due
+   806   C0877248:adverse events [Finding]
+   806   C1705413:Adverse Events [Idea or Concept]
+   760   C0441471:Events [Event]
+   760   C3146286:Due [Idea or Concept]
+   760   C3541888:Events [Classification]
+   726   C2349954:Withdraw [Activity]
+
+Phrase: "and"
+
+Phrase: "one in eight"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0205447:One [Quantitative Concept]
+
+Phrase: "withdrew due to lack of efficacy."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   833   C0235828:Lack of Efficacy [Finding]
+           Efficacy Lack
+   790   C0678226:Due to [Functional Concept]
+           due
+   753   C0332268:lack [Qualitative Concept]
+   753   C1280519:Efficacy [Qualitative Concept]
+   753   C1707887:EFFICACY [Research Activity]
+   753   C3146286:Due [Idea or Concept]
+   719   C2349954:Withdraw [Activity]
+Processing 00000000.tx.81: Only 2.7% of patients experienced serious adverse events, these being very varied, as detailed in the paper. 
+
+Phrase: "Only 2.7% of patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0030705:Patients [Patient or Disabled Group]
+   760   C0205171:Only [Quantitative Concept]
+   760   C1720467:Only [Intellectual Product]
+
+Phrase: "experienced"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0237607:experience [Mental Process]
+   966   C0596545:Experience [Mental Process]
+
+Phrase: "serious adverse events,"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   966   C1519255:Serious Adverse Event [Finding]
+   901   C0877248:adverse events [Finding]
+   901   C1705413:Adverse Events [Idea or Concept]
+   896   C2826307:Serious Event [Qualitative Concept]
+   827   C0205404:Serious [Qualitative Concept]
+   827   C0441471:Events [Event]
+   827   C3541888:Events [Classification]
+   755 E C0871902:seriousness [Individual Behavior]
+
+Phrase: "these"
+
+Phrase: "being"
+
+Phrase: "very"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0442824:Very [Qualitative Concept]
+
+Phrase: "varied"
+
+Phrase: ","
+
+Phrase: "as"
+
+Phrase: "detailed in the paper."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0030351:Paper [Manufactured Object]
+   770   C1522508:Detailed [Qualitative Concept]
+   770   C1547566:Paper [Idea or Concept]
+   737 E C1561567:detail [Functional Concept]
+Processing 00000000.tx.82: One patient died during the study from pneumonia and renal failure, although the authors conclude that this was unrelated to the study drug. 
+
+Phrase: "One patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "died during the study"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   773   C2348570:Study Terminated [Functional Concept]
+   770   C0011065:Died [Organism Function]
+   770   C0557651:Study [Manufactured Object]
+   770   C1546956:Died [Finding]
+   770   C2603343:Study [Research Activity]
+
+Phrase: "from pneumonia"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0032285:Pneumonia [Disease or Syndrome]
+   907 E C0024109:LUNGS [Body Part, Organ, or Organ Component]
+   907 E C0819757:LUNG [Tissue]
+   907 E C1278908:Lung [Body Part, Organ, or Organ Component]
+   893 E C2707265:Pulmonary [Clinical Attribute]
+   893 E C2709248:Pulmonary [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "renal failure,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0035078:Renal Failure [Disease or Syndrome]
+  1000   C1963154:Renal failure [Finding]
+   861   C0022646:Renal [Body Part, Organ, or Organ Component]
+   861   C0231174:Failure [Functional Concept]
+   861   C0680095:failure [Individual Behavior]
+
+Phrase: "although"
+
+Phrase: "the authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "conclude"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0917903:conclude [Biomedical or Dental Material,Organic Chemical]
+
+Phrase: "that"
+
+Phrase: "this"
+
+Phrase: "was"
+
+Phrase: "unrelated to the study drug."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0445356:Unrelated [Finding]
+   760   C1704623:Unrelated [Qualitative Concept]
+Processing 00000000.tx.83: Clearly, longer-term surveillance is required to establish that there is no excess mortality associated with this therapy in RA. 
+
+Phrase: "Clearly,"
+
+Phrase: "longer-term surveillance"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0220920:surveillance [Functional Concept]
+   827   C0733511:Surveillance [Health Care Activity]
+   701   C0443252:Long-term [Temporal Concept]
+
+Phrase: "is"
+
+Phrase: "required"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "establish"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443211:establish [Qualitative Concept]
+
+Phrase: "that there"
+
+Phrase: "is"
+
+Phrase: "no excess mortality"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0079320:Mortality, Excess [Quantitative Concept]
+   861   C0026565:Mortality [Quantitative Concept]
+   861   C0026566:mortality [Quantitative Concept]
+
+Phrase: "associated with this therapy"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   833   C0332281:Associated with [Qualitative Concept]
+           Associated
+   770   C0039798:therapy [Functional Concept]
+   770   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   770   C1363945:Therapy [Finding]
+   737 E C0750490:Associate [Idea or Concept]
+   737 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "in RA."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.84: Once again, renal impairment was a common finding in this study and as many as 40% of patients experienced an increase of 30% in creatinine levels from baseline, although the absolute level of creatinine rarely gave cause for concern. 
+
+Phrase: "Once"
+
+Phrase: "again,"
+
+Phrase: "renal impairment"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0035078:Renal Impairment [Disease or Syndrome]
+  1000   C0341697:Renal impairment [Disease or Syndrome]
+   861   C0022646:Renal [Body Part, Organ, or Organ Component]
+   861   C0684336:Impairment [Pathologic Function]
+
+Phrase: "was"
+
+Phrase: "a common finding in this study"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0037088:Finding [Sign or Symptom]
+   753   C0243095:Finding [Finding]
+   753   C2825141:Finding [Finding]
+
+Phrase: "and as many as 40% of patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C0030705:Patients [Patient or Disabled Group]
+   748   C0439509:/40 [Temporal Concept]
+   748   C1515981:And [Idea or Concept]
+
+Phrase: "experienced"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0237607:experience [Mental Process]
+   966   C0596545:Experience [Mental Process]
+
+Phrase: "an increase of 30%"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0442805:Increase [Functional Concept]
+
+Phrase: "in creatinine levels"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0428279:creatinine levels [Laboratory or Test Result]
+   861   C0441889:Levels [Qualitative Concept]
+   827 E C0456079:Level [Classification]
+   827 E C1547707:Level [Geographic Area]
+   827 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "from baseline,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0168634:baseline [Biomedical or Dental Material]
+  1000   C1442488:Baseline [Quantitative Concept]
+
+Phrase: "although"
+
+Phrase: "the absolute level of creatinine rarely"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   783   C0428279:Creatinine level [Laboratory or Test Result]
+   753   C0441889:Level [Qualitative Concept]
+   753   C0456079:Level [Classification]
+   753   C1547707:Level [Geographic Area]
+   753   C2946261:Level [Pharmacologic Substance]
+
+Phrase: "gave"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1947971:Give [Functional Concept]
+
+Phrase: "cause for concern."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0015127:cause [Functional Concept]
+   790   C1524003:Cause [Conceptual Entity]
+Processing 00000000.tx.85: Although hypertension was reported as an adverse event in 9.2% of patients, the mean systolic and diastolic blood pressures differed little, if at all, at the end of the study compared with baseline. 
+
+Phrase: "Although"
+
+Phrase: "hypertension"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0020538:Hypertension [Disease or Syndrome]
+  1000   C1963138:Hypertension [Finding]
+
+Phrase: "was"
+
+Phrase: "reported as an adverse event"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   833   C1521800:Adverse Event Report [Intellectual Product]
+   806   C0877248:Adverse event [Finding]
+   760   C0441471:Event [Event]
+   760   C0684224:Reported [Intellectual Product]
+   760   C0700287:Reported [Health Care Activity]
+   760   C3496591:Reported [Clinical Attribute]
+   726 E C3273238:Report [Intellectual Product]
+
+Phrase: "in 9.2%"
+
+Phrase: "of patients,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "the mean"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0444504:Mean [Quantitative Concept]
+  1000   C2347634:Mean [Quantitative Concept]
+  1000   C2348143:Mean [Quantitative Concept]
+
+Phrase: "systolic"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039155:Systolic [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "diastolic blood pressures differed little,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   804   C0023882:Little NOS [Congenital Abnormality,Disease or Syndrome]
+   804   C0700321:Little [Quantitative Concept]
+   804   C2700395:Little [Quantitative Concept]
+   701   C0428883:Diastolic blood pressure [Clinical Attribute]
+   701   C1305849:diastolic blood pressure [Diagnostic Procedure]
+
+Phrase: "if at all,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0750557:If [Qualitative Concept]
+
+Phrase: "at the end"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0444930:End [Spatial Concept]
+  1000   C2746065:End [Temporal Concept]
+   944 E C0205088:Terminal [Temporal Concept]
+   944 E C1705314:Terminal [Manufactured Object]
+   944 E C1705315:Terminal [Spatial Concept]
+
+Phrase: "of the study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "compared with baseline."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0168634:baseline [Biomedical or Dental Material]
+   790   C1442488:Baseline [Quantitative Concept]
+   790   C1707455:Compared [Activity]
+Processing 00000000.tx.86: As with other studies previously, drug-induced hyperglycaemia was rarely encountered. 
+
+Phrase: "As with other studies previously,"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   760   C0947630:studies [Laboratory Procedure]
+   726 E C0557651:Study [Manufactured Object]
+   726 E C2603343:Study [Research Activity]
+
+Phrase: "drug-induced hyperglycaemia"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0362086:Drug-induced hyperglycaemia [Injury or Poisoning]
+   827   C0020456:Hyperglycaemia [Disease or Syndrome]
+   734   C0458082:Drug-induced [Functional Concept]
+
+Phrase: "was"
+
+Phrase: "rarely"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0522498:Rarely [Qualitative Concept]
+
+Phrase: "encountered."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C0545082:Encounter [Behavior]
+   966   C1512346:encounter [Health Care Activity]
+   966   C1947978:Encounter [Behavior]
+Processing 00000000.tx.87: Efficacy data from an open trial such as this must always be interpreted with caution. 
+
+Phrase: "Efficacy data from an open trial"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1511726:Data [Idea or Concept]
+   753   C3245479:data [Medical Device]
+
+Phrase: "such as this"
+
+Phrase: "must"
+
+Phrase: "always"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2003902:Always [Temporal Concept]
+
+Phrase: "be"
+
+Phrase: "interpreted with caution."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1285553:interpreted [Functional Concept]
+Processing 00000000.tx.88: ACR20, ACR50 and ACR70 response rates in this trial are comparable to other studies, at 38.4, 18.6 and 9% respectively. 
+
+Phrase: "ACR20,"
+
+Phrase: "ACR50"
+
+Phrase: "and"
+
+Phrase: "ACR70 response rates in this trial"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   783   C0237629:rates response [Temporal Concept]
+   753   C0871261:Response [Organism Attribute]
+   753   C1704632:Response [Finding]
+   753   C1706817:Response [Intellectual Product]
+   753   C2911692:Response [Mental Process]
+   719   C0871208:Rate [Activity]
+   719   C1521828:Rate [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "comparable to other studies,"
+
+Phrase: "at 38.4,"
+
+Phrase: "18.6"
+
+Phrase: "and"
+
+Phrase: "9% respectively."
+Processing 00000000.tx.89: It is interesting to note that they are a good deal lower than the results obtained by Kremer et al. in the trial of tacrolimus in combination with methotrexate. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "interesting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0543488:interesting [Mental Process]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "note"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1316572:Note [Clinical Attribute]
+  1000   C1317574:Note [Intellectual Product]
+  1000   C1369612:Note [Clinical Attribute]
+
+Phrase: "that"
+
+Phrase: "they"
+
+Phrase: "are"
+
+Phrase: "a good deal"
+
+Phrase: "lower than the results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0441994:Lower [Spatial Concept]
+   770   C1548802:Lower [Body Location or Region]
+   770   C2003888:Lower [Activity]
+
+Phrase: "obtained by Kremer et al."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   760   C1301820:Obtained [Functional Concept]
+   760   C1441631:Kremer [Laboratory Procedure]
+   726 E C1706701:Obtain [Activity]
+
+Phrase: "in the trial"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008976:Trial [Research Activity]
+
+Phrase: "of tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "in combination"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205195:Combination [Qualitative Concept]
+  1000   C1947911:Combination [Physical Object]
+
+Phrase: "with methotrexate."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025677:Methotrexate [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.90: Once more it was observed that if a patient tolerated the drug well, he or she had a good chance of obtaining clinical benefit. 
+
+Phrase: "Once"
+
+Phrase: "more"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205172:More [Functional Concept]
+
+Phrase: "it"
+
+Phrase: "was"
+
+Phrase: "observed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+
+Phrase: "that"
+
+Phrase: "if"
+
+Phrase: "a patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "tolerated"
+
+Phrase: "the drug well,"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0013227:Drug [Pharmacologic Substance]
+   861   C1254351:Drug [Pharmacologic Substance]
+   805 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   805 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   768 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "he"
+
+Phrase: "or"
+
+Phrase: "she"
+
+Phrase: "had"
+
+Phrase: "a good chance of obtaining clinical benefit."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0237506:Chance [Qualitative Concept]
+Processing 00000000.tx.91: Tacrolimus is undoubtedly an effective T-cell-suppressive agent. 
+
+Phrase: "Tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "undoubtedly"
+
+Phrase: "an effective T-cell-suppressive agent."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0450442:Agent [Chemical Viewed Functionally]
+   804   C1254351:Agent [Pharmacologic Substance]
+   804   C1521826:Agent [Intellectual Product]
+Processing 00000000.tx.92: Trial data so far indicate that it is effective to a degree in treating active synovitis in RA. 
+
+Phrase: "Trial data"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1511726:Data [Idea or Concept]
+   861   C3245479:data [Medical Device]
+
+Phrase: "so"
+
+Phrase: "far"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205108:far [Spatial Concept]
+
+Phrase: "indicate"
+
+Phrase: "that"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "effective to a degree"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C1280519:effective [Qualitative Concept]
+   770   C1704419:Effective [Qualitative Concept]
+
+Phrase: "in treating active synovitis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0039103:Synovitis [Disease or Syndrome]
+
+Phrase: "in RA."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.93: The relative lack of a subjective benefit to the patient is, however, of concern. 
+
+Phrase: "The relative lack of a subjective benefit"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0332268:lack [Qualitative Concept]
+
+Phrase: "to the patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "is"
+
+Phrase: ","
+
+Phrase: "however,"
+
+Phrase: "of concern."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699424:Concern [Idea or Concept]
+Processing 00000000.tx.94: This will undoubtedly contribute to problems with tolerability and compliance and, together with concerns regarding toxicity, may limit the utility of this therapy in the clinic. 
+
+Phrase: "This"
+
+Phrase: "will"
+
+Phrase: "undoubtedly"
+
+Phrase: "contribute to problems"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C1546466:Problems [Idea or Concept]
+   790   C1880177:Contribute [Activity]
+   756 E C0033213:Problem [Finding]
+
+Phrase: "with tolerability"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3274448:TOLERABILITY [Research Activity]
+
+Phrase: "and"
+
+Phrase: "compliance"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0009563:Compliance [Quantitative Concept]
+  1000   C1321605:Compliance [Individual Behavior]
+  1000   C3244300:compliance [Activity]
+   928 E C0566588:Compliant [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "together with concerns"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699424:Concerns [Idea or Concept]
+
+Phrase: "regarding"
+
+Phrase: "toxicity,"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+  1000   C0040539:toxicity [Qualitative Concept]
+  1000   C0600688:Toxicity [Injury or Poisoning]
+   928 E C1407029:Toxic [Qualitative Concept]
+   907 E C0032346:Poison [Hazardous or Poisonous Substance]
+   907 E C1548769:Poison [Intellectual Product]
+   907 E C1550590:poison [Idea or Concept]
+
+Phrase: "may"
+
+Phrase: "limit"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439801:limit [Functional Concept]
+  1000   C1549649:Limit [Idea or Concept]
+  1000   C2349209:Limit [Conceptual Entity]
+
+Phrase: "the utility of this therapy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0582205:utility [Organization]
+
+Phrase: "in the clinic."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0002424:Clinic [Health Care Related Organization,Manufactured Object]
+  1000   C0442592:Clinic [Health Care Related Organization,Manufactured Object]
+   928 E C0205210:Clinical [Qualitative Concept]
+Processing 00000000.tx.95: Despite a lesser degree of renal impairment and hypertension than may have been anticipated, we must proceed with caution in using this drug outwith the confines of the clinical trial and in patients with a greater burden of comorbidity. 
+
+Phrase: "Despite a lesser degree"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   861   C0441889:Degree [Qualitative Concept]
+   861   C0449286:Degree [Quantitative Concept]
+   861   C0542560:Degree [Intellectual Product]
+   861   C1561545:degree [Quantitative Concept]
+   861   C2348088:Degree [Quantitative Concept]
+
+Phrase: "of renal impairment"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0035078:Renal Impairment [Disease or Syndrome]
+  1000   C0341697:Renal impairment [Disease or Syndrome]
+   861   C0022646:Renal [Body Part, Organ, or Organ Component]
+   861   C0684336:Impairment [Pathologic Function]
+
+Phrase: "and"
+
+Phrase: "hypertension than"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   833   C0020538:Hypertension [Disease or Syndrome]
+   833   C1963138:Hypertension [Finding]
+
+Phrase: "may"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "anticipated"
+
+Phrase: ","
+
+Phrase: "we"
+
+Phrase: "must"
+
+Phrase: "proceed with caution"
+
+Phrase: "in"
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "this drug outwith the"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   770   C0013227:Drug [Pharmacologic Substance]
+   770   C1254351:Drug [Pharmacologic Substance]
+   715 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   715 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+
+Phrase: "confines of the clinical trial"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   806   C0008976:Clinical Trial [Research Activity]
+           Trial
+   806   C1096775:Clinical Trial [Intellectual Product]
+   760   C0205210:Clinical [Qualitative Concept]
+
+Phrase: "and in patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0030705:Patients [Patient or Disabled Group]
+   790   C1515981:And [Idea or Concept]
+
+Phrase: "with a greater burden"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2828008:Burden [Idea or Concept]
+
+Phrase: "of comorbidity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0009488:Comorbidity [Idea or Concept]
+Processing 00000000.tx.96: Tacrolimus may now be considered a realistic therapeutic option in the treatment of active RA. 
+
+Phrase: "Tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "may"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "be"
+
+Phrase: "considered"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considered [Idea or Concept]
+
+Phrase: "a realistic therapeutic option in the treatment of active RA."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   754   C0683525:treatment option [Therapeutic or Preventive Procedure]
+   738   C1518601:Option [Functional Concept]
+   738   C1550456:option [Idea or Concept]
+Processing 00000000.tx.97: Its efficacy in monotherapy does, however, seem somewhat limited and perhaps the little evidence that we have regarding its use in combination with methotrexate may suggest to us that it is more attractive as a component for use in combination DMARD therapeutic strategies. 
+
+Phrase: "Its efficacy in monotherapy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C1280519:Efficacy [Qualitative Concept]
+   770   C1707887:EFFICACY [Research Activity]
+
+Phrase: "does"
+
+Phrase: ","
+
+Phrase: "however,"
+
+Phrase: "seem"
+
+Phrase: "somewhat"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2984079:Somewhat [Intellectual Product]
+
+Phrase: "limited"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0439801:Limited [Functional Concept]
+  1000   C3542948:Limited [Intellectual Product]
+   966 E C1549649:Limit [Idea or Concept]
+   966 E C2349209:Limit [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "perhaps"
+
+Phrase: "the little evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "that"
+
+Phrase: "we"
+
+Phrase: "have"
+
+Phrase: "regarding"
+
+Phrase: "its use in combination"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0042153:use [Functional Concept]
+   770   C0457083:Use [Functional Concept]
+   770   C1947944:Use [Intellectual Product]
+
+Phrase: "with methotrexate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025677:Methotrexate [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "may"
+
+Phrase: "suggest to us"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "more attractive as a component"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C2346874:Attractive [Qualitative Concept]
+
+Phrase: "for use"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0042153:use [Functional Concept]
+  1000   C0457083:Use [Functional Concept]
+  1000   C1947944:Use [Intellectual Product]
+
+Phrase: "in combination DMARD therapeutic strategies."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0679199:strategies [Mental Process]
+Processing 00000000.tx.98: The authors have declared no conflict of interest. 
+
+Phrase: "The authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "have"
+
+Phrase: "declared"
+
+Phrase: "no conflict of interest."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0079152:Conflict of Interest [Idea or Concept]
+   827   C0009671:Conflict [Individual Behavior]
+   827   C0543488:Interest [Mental Process]
+   827   C1705242:Conflict [Qualitative Concept]
+Processing 00000000.tx.99: References Fox DA. 
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Fox DA."
+Processing 00000000.tx.100: The role of T cells in the immunopathogenesis of rheumatoid arthritis: new perspectives. 
+
+Phrase: "The role of T cells"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0035820:Role [Social Behavior]
+   760   C1705810:Role [Conceptual Entity]
+
+Phrase: "in the immunopathogenesis"
+
+Phrase: "of rheumatoid arthritis"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ":"
+
+Phrase: "new perspectives."
+Processing 00000000.tx.101: Arthritis Rheum 1997;40:598609.[Medline] van Boxel JA, Paget SA. 
+
+Phrase: "Arthritis Rheum 1997"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";40"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: ":"
+
+Phrase: "598609."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] van Boxel JA,"
+
+Phrase: "Paget SA."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0036243:SA [Geographic Area]
+   861   C1539696:SA [Gene or Genome]
+   861   C1825840:SA [Gene or Genome]
+   861   C3539736:Sa [Spatial Concept]
+Processing 00000000.tx.102: Predominantly T-cell infiltrate in rheumatoid synovial membranes. 
+
+Phrase: "Predominantly T-cell infiltrate in rheumatoid synovial membranes."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0332448:Infiltrate [Pathologic Function]
+   744   C1546677:Infiltrate [Intellectual Product]
+   744   C1549537:Infiltrate [Functional Concept]
+Processing 00000000.tx.103: N Engl J Med 1975;293:51720.[Abstract] Courtenay JS, Dallman MJ, Dayan AD, Martin A, Mosedale B. 
+
+Phrase: "N Engl J Med 1975"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   804   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C0441922:N+ [Intellectual Product]
+   804   C1414400:ENGL [Gene or Genome]
+   804   C1553036:[n] [Quantitative Concept]
+
+Phrase: ";293"
+
+Phrase: ":"
+
+Phrase: "51720."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Courtenay JS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1552154:Js [Body Part, Organ, or Organ Component]
+
+Phrase: "Dallman MJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439254:MJ [Medical Device]
+
+Phrase: "Dayan AD,"
+
+Phrase: "Martin A,"
+
+Phrase: "Mosedale B."
+Processing 00000000.tx.104: Immunisation against heterologous type II collagen induces arthritis in mice. 
+
+Phrase: "Immunisation against heterologous type II collagen"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0020971:Immunisation [Therapeutic or Preventive Procedure]
+   753   C0042196:immunisation [Therapeutic or Preventive Procedure]
+   753   C3244291:immunization [Functional Concept]
+
+Phrase: "induces"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "arthritis in mice."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0003864:Arthritis [Disease or Syndrome]
+Processing 00000000.tx.105: Nature 1980;283:6668.[ISI][Medline] Verheijden GF, Rijnders AW, Bos E et al. 
+
+Phrase: "Nature 1980"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0349590:Nature [Idea or Concept]
+   861   C1262865:Nature [Functional Concept]
+   789 E C0205296:Natural [Functional Concept]
+
+Phrase: ";283"
+
+Phrase: ":"
+
+Phrase: "6668."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Verheijden GF,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0016703:GF [Geographic Area]
+   861   C1551081:gf [Quantitative Concept]
+
+Phrase: "Rijnders AW,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0282379:AW [Geographic Area]
+   861   C0332281:AW [Qualitative Concept]
+
+Phrase: "Bos E et al."
+Processing 00000000.tx.106: Human cartilage glycoprotein-39 as a candidate autoantigen in rheumatoid arthritis. 
+
+Phrase: "Human cartilage glycoprotein-39 as a candidate autoantigen"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0528649:human cartilage glycoprotein-39 [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   800   C1413387:CARTILAGE GLYCOPROTEIN 39 [Gene or Genome]
+   744   C0004359:Autoantigen [Immunologic Factor]
+   744   C0007301:Cartilage [Tissue]
+   744   C0017968:Glycoprotein [Amino Acid, Peptide, or Protein,Carbohydrate]
+   744   C0086418:Human [Human]
+
+Phrase: "in rheumatoid arthritis."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.107: Arthritis Rheum 1997;40:111525.[ISI][Medline] Li NL, Zhang DQ, Zhou KY et al. 
+
+Phrase: "Arthritis Rheum 1997"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";40"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: ":"
+
+Phrase: "111525."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Li NL,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0027778:NL [Geographic Area]
+   861   C0560008:nL [Quantitative Concept]
+
+Phrase: "Zhang DQ,"
+
+Phrase: "Zhou KY et al."
+Processing 00000000.tx.108: Isolation and characteristics of autoreactive T cells specific to aggrecan G1 domain from rheumatoid arthritis patients. 
+
+Phrase: "Isolation"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0204727:Isolation [Therapeutic or Preventive Procedure]
+  1000   C0205409:Isolation [Functional Concept]
+  1000   C0220862:isolation [Laboratory Procedure]
+   928 E C1548221:Isolated [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "characteristics of autoreactive T cells"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1521970:Characteristics [Qualitative Concept]
+
+Phrase: "specific to aggrecan G1 domain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205369:Specific [Qualitative Concept]
+   760   C1552740:specific [Intellectual Product]
+
+Phrase: "from rheumatoid arthritis patients."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0030705:Patients [Patient or Disabled Group]
+   734   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+   734   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+Processing 00000000.tx.109: Cell Res 2000;10:3949.[ISI][Medline] Weyand CM, Hicok KC, Conn DL, Goronzy JJ. 
+
+Phrase: "Cell Res 2000"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   827   C0007634:Cell [Cell]
+   827   C1269647:Cell [Cell]
+   827   C1704653:Cell [Medical Device]
+   827   C1948049:Cell [Spatial Concept]
+   827   C2347379:RES [Finding]
+
+Phrase: ";10"
+
+Phrase: ":"
+
+Phrase: "3949."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Weyand CM,"
+
+Phrase: "Hicok KC,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022575:kc [Disease or Syndrome]
+   861   C1705783:KC [Gene or Genome]
+
+Phrase: "Conn DL,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3642216:/dL [Quantitative Concept]
+
+Phrase: "Goronzy JJ."
+Processing 00000000.tx.110: The influence of HLA-DRB1 genes on disease severity in rheumatoid arthritis. 
+
+Phrase: "The influence of HLA-DRB1 genes"
+
+Phrase: "on disease severity"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0521117:disease severity [Qualitative Concept]
+   861   C0439793:Severity [Qualitative Concept]
+   861   C2983285:Severity [Intellectual Product]
+   789 E C0205082:Severe [Qualitative Concept]
+
+Phrase: "in rheumatoid arthritis."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.111: Ann Intern Med 1992;117:8013.[ISI][Medline] Stern LJ, Brown JH, Jardetzky TS et al. 
+
+Phrase: "Ann Intern Med 1992"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1144859:INTERN [Professional or Occupational Group]
+
+Phrase: ";117"
+
+Phrase: ":"
+
+Phrase: "8013."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Stern LJ,"
+
+Phrase: "Brown JH,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0268060:JH [Disease or Syndrome]
+   861   C1415529:JH [Gene or Genome]
+
+Phrase: "Jardetzky TS et al."
+Processing 00000000.tx.112: Structure of the human class II MHC protein HLA-DR1 complexed with an influenza virus peptide. 
+
+Phrase: "Structure of the human class II MHC protein HLA-DR1"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   757   C0175168:protein structure [Amino Acid, Peptide, or Protein]
+   757   C1510464:Protein Structure [Amino Acid, Peptide, or Protein]
+   739   C0678594:Structure [Spatial Concept]
+   722 E C0582263:Structural protein [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "complexed with an influenza virus peptide."
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   790   C0029341:Influenza virus [Virus]
+   753   C0021400:Influenza [Disease or Syndrome]
+   753   C0021403:INFLUENZA [Immunologic Factor,Pharmacologic Substance]
+   753   C0030956:Peptide [Amino Acid, Peptide, or Protein]
+   753   C0042776:Virus [Virus]
+   753   C0319157:virus [Virus]
+   719   C0439855:Complex [Qualitative Concept]
+   719   C1704241:Complex [Chemical Viewed Structurally]
+Processing 00000000.tx.113: Nature 1994;368:21521.[CrossRef][ISI][Medline] Choy EH, Panayi GS, Emery P et al. 
+
+Phrase: "Nature 1994"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0349590:Nature [Idea or Concept]
+   861   C1262865:Nature [Functional Concept]
+   789 E C0205296:Natural [Functional Concept]
+
+Phrase: ";368"
+
+Phrase: ":"
+
+Phrase: "21521."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Choy EH,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1520135:EH [Geographic Area]
+
+Phrase: "Panayi GS,"
+
+Phrase: "Emery P et al."
+Processing 00000000.tx.114: Repeat-cycle study of high-dose intravenous 4162W94 anti-CD4 humanized monoclonal antibody in rheumatoid arthritis. 
+
+Phrase: "Repeat-cycle study of high-dose intravenous 4162W94 anti-CD4"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   739   C0557651:Study [Manufactured Object]
+   739   C2603343:Study [Research Activity]
+
+Phrase: "humanized"
+
+Phrase: "monoclonal antibody in rheumatoid arthritis."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   806   C0003250:Monoclonal antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   760   C0003241:Antibody [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   760   C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   760   C0746619:monoclonal [Finding]
+Processing 00000000.tx.115: A randomized placebo-controlled trial. 
+
+Phrase: "A randomized placebo-controlled trial."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   923   C0282440:randomized controlled trial [Intellectual Product,Research Activity]
+   923   C1096777:Randomized Controlled Trial [Intellectual Product,Research Activity]
+   812   C0008976:Trial [Research Activity]
+Processing 00000000.tx.116: Rheumatology 2002;41:11428.[Abstract/Free FullText] Kremer JM, Westhovens R, Leon M et al. 
+
+Phrase: "Rheumatology 2002"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0035452:Rheumatology [Biomedical Occupation or Discipline]
+   861   C0334889:Rheumatology [Professional or Occupational Group]
+
+Phrase: ";41"
+
+Phrase: ":"
+
+Phrase: "11428."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Kremer JM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0022337:JM [Geographic Area]
+
+Phrase: "Westhovens R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Leon M et al."
+Processing 00000000.tx.117: Treatment of rheumatoid arthritis by selective inhibition of T-cell activation with fusion protein CTLA4Ig. 
+
+Phrase: "Treatment of rheumatoid arthritis"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "by selective inhibition"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   861   C0021467:Inhibition [Mental Process]
+   861   C0021469:Inhibition [Molecular Function]
+   861   C1628982:% inhibition [Quantitative Concept]
+   861   C3463820:Inhibition [Activity]
+   789 E C0311403:Inhibited [Qualitative Concept]
+
+Phrase: "of T-cell activation"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C1155065:T-Cell Activation [Cell Function]
+   901   C1326120:cell activation [Cell Function]
+   827   C1879547:Activation [Activity]
+   734   C0039194:T-cell [Cell]
+
+Phrase: "with fusion protein CTLA4Ig."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   734   C0162768:Fusion protein [Amino Acid, Peptide, or Protein,Neuroreactive Substance or Biogenic Amine]
+Processing 00000000.tx.118: N Engl J Med 2003;349:190715.[Abstract/Free FullText] Yocum DE, Furst DE, Bensen WG et al. 
+
+Phrase: "N Engl J Med 2003"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   804   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C0441922:N+ [Intellectual Product]
+   804   C1414400:ENGL [Gene or Genome]
+   804   C1553036:[n] [Quantitative Concept]
+
+Phrase: ";349"
+
+Phrase: ":"
+
+Phrase: "190715."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Yocum DE,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011198:DE [Geographic Area]
+   861   C0017480:DE [Geographic Area]
+   861   C3541240:DE [Idea or Concept]
+
+Phrase: "Furst DE,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011198:DE [Geographic Area]
+   861   C0017480:DE [Geographic Area]
+   861   C3541240:DE [Idea or Concept]
+
+Phrase: "Bensen WG et al."
+Processing 00000000.tx.119: Safety of tacrolimus in patients with rheumatoid arthritis: long-term experience. 
+
+Phrase: "Safety of tacrolimus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0036043:Safety [Human-caused Phenomenon or Process]
+   790   C1705187:SAFETY [Research Activity]
+
+Phrase: "in patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with rheumatoid arthritis"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ":"
+
+Phrase: "long-term experience."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0237607:experience [Mental Process]
+   827   C0596545:Experience [Mental Process]
+   734   C0443252:Long-term [Temporal Concept]
+Processing 00000000.tx.120: Rheumatology 2004;43:9929. 
+
+Phrase: "Rheumatology 2004"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0035452:Rheumatology [Biomedical Occupation or Discipline]
+   861   C0334889:Rheumatology [Professional or Occupational Group]
+
+Phrase: ";43"
+
+Phrase: ":"
+
+Phrase: "9929."
+Processing 00000000.tx.121: First published March 10, 2004: 10.1093/rheumatology/keh155.[Abstract/Free FullText] Andersson J, Nagy S, Groth CG, Andersson U. 
+
+Phrase: "First"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205435:First [Quantitative Concept]
+  1000   C1279901:First [Qualitative Concept]
+
+Phrase: "published"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034037:Published [Occupational Activity]
+  1000   C1704324:Published [Intellectual Product]
+
+Phrase: "March 10,"
+
+Phrase: "2004"
+
+Phrase: ":"
+
+Phrase: "10.1093/rheumatology/keh155."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Andersson J,"
+
+Phrase: "Nagy S,"
+
+Phrase: "Groth CG,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0054868:CG [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C3540479:CG [Gene or Genome]
+
+Phrase: "Andersson U."
+Processing 00000000.tx.122: Effects of FK506 and cyclosporin A on cytokine production studied in vitro at a single-cell level. 
+
+Phrase: "Effects of FK506"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C1280500:effects [Qualitative Concept]
+   756 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "cyclosporin A on cytokine production"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C0010592:Cyclosporin A [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+           Ciclosporin
+
+Phrase: "studied"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0557651:Study [Manufactured Object]
+   966   C2603343:Study [Research Activity]
+
+Phrase: "in vitro at a single-cell level."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   778   C0021135:In Vitro [Intellectual Product]
+   778   C1533691:in vitro [Qualitative Concept]
+           vitro
+   778   C2827718:In Vitro [Functional Concept]
+Processing 00000000.tx.123: Immunology 1992;75:13642.[ISI][Medline] Djamali A, Premasathian N, Pirsch JD. 
+
+Phrase: "Immunology 1992"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0152036:Immunology [Biomedical Occupation or Discipline]
+   861   C1522005:immunology [Qualitative Concept]
+   789 E C0205470:Immunological [Functional Concept]
+
+Phrase: ";75"
+
+Phrase: ":"
+
+Phrase: "13642."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Djamali A,"
+
+Phrase: "Premasathian N,"
+
+Phrase: "Pirsch JD."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1549972:JD [Intellectual Product]
+Processing 00000000.tx.124: Outcomes in kidney transplantation. 
+
+Phrase: "Outcomes in kidney transplantation."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C1274040:Outcome [Functional Concept]
+Processing 00000000.tx.125: Semin Nephrol 2003;23:30616.[CrossRef][ISI][Medline] Baumgart DC, Wiedenmann B, Dignass AU. 
+
+Phrase: "Semin Nephrol 2003"
+
+Phrase: ";23"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450348:23 [Quantitative Concept]
+
+Phrase: ":"
+
+Phrase: "30616."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Baumgart DC,"
+
+Phrase: "Wiedenmann B,"
+
+Phrase: "Dignass AU."
+Processing 00000000.tx.126: Rescue therapy with tacrolimus is effective in patients with severe and refractory inflammatory bowel disease. 
+
+Phrase: "Rescue therapy with tacrolimus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0039798:therapy [Functional Concept]
+   770   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   770   C1363945:Therapy [Finding]
+
+Phrase: "is"
+
+Phrase: "effective in patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C1280519:effective [Qualitative Concept]
+   790   C1704419:Effective [Qualitative Concept]
+
+Phrase: "with severe"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205082:Severe [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "refractory inflammatory bowel disease."
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   923   C0021390:Inflammatory bowel disease [Disease or Syndrome]
+   902   C1514815:Refractory Disease [Finding]
+   875   C1290884:Inflammatory disease [Disease or Syndrome]
+   861   C0021831:bowel disease [Disease or Syndrome]
+   812   C0012634:Disease [Disease or Syndrome]
+   812   C0021853:Bowel [Body Part, Organ, or Organ Component]
+   812   C0333348:Inflammatory [Functional Concept]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.127: Aliment Pharmacol Ther 2003;17:127381.[CrossRef][ISI][Medline] Gremillion RB, Posever JO, Manek N, West JP, van Volen-Hoven RF. 
+
+Phrase: "Aliment Pharmacol Ther 2003"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   719   C0016452:Food [Food]
+
+Phrase: ";17"
+
+Phrase: ":"
+
+Phrase: "127381."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Gremillion RB,"
+
+Phrase: "Posever JO,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0022418:JO [Geographic Area]
+
+Phrase: "Manek N,"
+
+Phrase: "West JP,"
+
+Phrase: "van Volen-Hoven RF."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0035448:RF [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   812   C0201660:RF [Laboratory Procedure]
+   812   C0748398:RF [Finding]
+Processing 00000000.tx.128: Tacrolimus (FK506) in the treatment of severe, refractory rheumatoid arthritis: initial experience in 12 patients. 
+
+Phrase: "Tacrolimus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "(FK506"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0729218:FK506 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ")"
+
+Phrase: "in the treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0039798:treatment [Functional Concept]
+  1000   C0087111:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treatment [Functional Concept]
+  1000   C1533734:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1705169:Treatment [Conceptual Entity]
+  1000   C3538994:TREATMENT [Research Activity]
+
+Phrase: "of severe, refractory rheumatoid arthritis"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   861   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+   861   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   812   C0003864:Arthritis [Disease or Syndrome]
+   719 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ":"
+
+Phrase: "initial experience in 12 patients."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0237607:experience [Mental Process]
+   760   C0596545:Experience [Mental Process]
+Processing 00000000.tx.129: J Rheumatol 1999;26:23326.[ISI][Medline] Furst DE, Saag K, Fleischmann R et al. 
+
+Phrase: "J Rheumatol 1999"
+
+Phrase: ";26"
+
+Phrase: ":"
+
+Phrase: "23326."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Furst DE,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011198:DE [Geographic Area]
+   861   C0017480:DE [Geographic Area]
+   861   C3541240:DE [Idea or Concept]
+
+Phrase: "Saag K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Fleischmann R et al."
+Processing 00000000.tx.130: Efficacy of tacrolimus in rheumatoid arthritis patients failing methotrexate: a six-month, double-blind, randomized, dose ranging study. 
+
+Phrase: "Efficacy of tacrolimus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C1280519:Efficacy [Qualitative Concept]
+   790   C1707887:EFFICACY [Research Activity]
+
+Phrase: "in rheumatoid arthritis patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0030705:Patients [Patient or Disabled Group]
+   734   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+   734   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+
+Phrase: "failing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0231175:failing [Functional Concept]
+
+Phrase: "methotrexate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025677:Methotrexate [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ":"
+
+Phrase: "a six-month,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439231:month [Temporal Concept]
+   861   C0439507:/month [Temporal Concept]
+
+Phrase: "double-blind,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0013072:DOUBLE BLIND [Research Activity]
+   861   C0150108:Blind [Research Activity]
+   861   C0205173:Double [Functional Concept]
+   861   C0456909:Blind [Disease or Syndrome]
+   861   C0525065:blind [Patient or Disabled Group]
+   861   C1705764:Double [Activity]
+   861   C1705765:Double [Qualitative Concept]
+
+Phrase: "randomized"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0034656:randomized [Research Activity]
+
+Phrase: ","
+
+Phrase: "dose ranging study."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0557651:Study [Manufactured Object]
+   827   C2603343:Study [Research Activity]
+Processing 00000000.tx.131: Arthritis Rheum 2002;46:20208.[CrossRef][ISI][Medline] Yocum DE, Furst DE, Kaine JL et al. 
+
+Phrase: "Arthritis Rheum 2002"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";46"
+
+Phrase: ":"
+
+Phrase: "20208."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Yocum DE,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011198:DE [Geographic Area]
+   861   C0017480:DE [Geographic Area]
+   861   C3541240:DE [Idea or Concept]
+
+Phrase: "Furst DE,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011198:DE [Geographic Area]
+   861   C0017480:DE [Geographic Area]
+   861   C3541240:DE [Idea or Concept]
+
+Phrase: "Kaine JL et al."
+Processing 00000000.tx.132: Efficacy and safety of tacrolimus in patients with rheumatoid arthritis: a double-blind trial. 
+
+Phrase: "Efficacy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1280519:Efficacy [Qualitative Concept]
+  1000   C1707887:EFFICACY [Research Activity]
+
+Phrase: "and"
+
+Phrase: "safety of tacrolimus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0036043:Safety [Human-caused Phenomenon or Process]
+   790   C1705187:SAFETY [Research Activity]
+
+Phrase: "in patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with rheumatoid arthritis"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ":"
+
+Phrase: "a double-blind trial."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0008976:Trial [Research Activity]
+   734   C0013072:DOUBLE BLIND [Research Activity]
+Processing 00000000.tx.133: Arthritis Rheum 2003;48:332837.[CrossRef][ISI][Medline] Kremer J, Habros J, Kolba K et al. 
+
+Phrase: "Arthritis Rheum 2003"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";48"
+
+Phrase: ":"
+
+Phrase: "332837."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Kremer J,"
+
+Phrase: "Habros J,"
+
+Phrase: "Kolba K et al."
+Processing 00000000.tx.134: Tacrolimus in rheumatoid arthritis patients receiving concomitant methotrexate: a six-month, open label study. 
+
+Phrase: "Tacrolimus in rheumatoid arthritis patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0085149:Tacrolimus [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "receiving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1514756:Receive [Qualitative Concept]
+
+Phrase: "concomitant methotrexate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025677:Methotrexate [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ":"
+
+Phrase: "a six-month,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439231:month [Temporal Concept]
+   861   C0439507:/month [Temporal Concept]
+
+Phrase: "open label study."
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+  1000   C1709323:Open Label Study [Research Activity]
+           OPEN LABEL
+   827   C0175566:Open [Spatial Concept]
+   827   C0181496:Label [Manufactured Object]
+   827   C0557651:Study [Manufactured Object]
+   827   C2603343:Study [Research Activity]
+   827   C2827499:Label [Governmental or Regulatory Activity]
+   755 E C0547049:Openness [Spatial Concept]
+Processing 00000000.tx.135: Arthritis Rheum 2003;48:27638.[CrossRef][ISI][Medline] This Article Full Text (PDF) All Versions of this Article: 43/8/946 most recent keh234v1 Alert me when this article is cited Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in ISI Web of Science Similar articles in PubMed Alert me to new issues of the journal Add to My Personal Archive Download to citation manager Search for citing articles in: ISI Web of Science (2) Disclaimer Request Permissions Google Scholar Articles by McCarey, D. 
+
+Phrase: "Arthritis Rheum 2003"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";48"
+
+Phrase: ":"
+
+Phrase: "27638."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "This Article Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "All Versions of this Article"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0333052:versions [Functional Concept]
+   726 E C2607870:Version [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "43/8/946 most recent keh234v1"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in ISI Web"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282111:Web [Manufactured Object]
+
+Phrase: "of Science Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0162443:Journal [Intellectual Product,Manufactured Object]
+   748   C0205314:New [Temporal Concept]
+   714   C0033213:Issue [Finding]
+   714   C1706387:Issue [Intellectual Product]
+
+Phrase: "Add to My Personal Archive Download"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0003738:archive [Manufactured Object]
+   753   C0024552:MY [Geographic Area]
+   753   C1519021:Personal [Organism Attribute]
+   753   C1554162:Archive [Idea or Concept]
+   753   C1883712:Add [Functional Concept]
+
+Phrase: "to citation manager Search"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1552603:search [Intellectual Product]
+   827   C1706202:Search [Activity]
+
+Phrase: "for citing articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1706852:Article [Intellectual Product]
+
+Phrase: "in"
+
+Phrase: ":"
+
+Phrase: "ISI Web of Science"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0282111:Web [Manufactured Object]
+
+Phrase: "(2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: ")"
+
+Phrase: "Disclaimer Request Permissions Google Scholar Articles by McCarey,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   711   C1706852:Article [Intellectual Product]
+
+Phrase: "D."
+Processing 00000000.tx.136: W. 
+
+Phrase: "W."
+Processing 00000000.tx.137: Articles by Madhok, R. 
+
+Phrase: "Articles by Madhok,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.138: PubMed PubMed Citation Articles by McCarey, D. 
+
+Phrase: "PubMed PubMed Citation Articles by McCarey,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   719   C1706852:Article [Intellectual Product]
+
+Phrase: "D."
+Processing 00000000.tx.139: W. 
+
+Phrase: "W."
+Processing 00000000.tx.140: Articles by Madhok, R. 
+
+Phrase: "Articles by Madhok,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.141: Related Collections Rheumatoid Arthritis Online ISSN 1462-0332 - Print ISSN 1462-0324 Copyright  2006 British Society for Rheumatology Oxford Journals Oxford University Press Site Map Privacy Policy Frequently Asked Questions Other Oxford University Press sites: Oxford University Press American National Biography Booksellers' Information Service Children's Fiction and Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights and Permissions Science School Books Social Sciences Very Short Introductions World's Classics
+
+Phrase: "Related Collections Rheumatoid Arthritis Online ISSN 1462-0332 - Print ISSN 1462-0324 Copyright  2006 British Society"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   785   C0037455:society [Organization]
+
+Phrase: "for Rheumatology Oxford Journals Oxford University Press Site Map Privacy Policy Frequently"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   801   C2735290:Privacy policy [Intellectual Product]
+   788   C0242456:Policy [Intellectual Product]
+
+Phrase: "Asked"
+
+Phrase: "Questions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1522634:Question [Intellectual Product]
+
+Phrase: "Other Oxford University Press sites"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0205145:Sites [Spatial Concept]
+   779 E C1515974:Site [Body Location or Region]
+   779 E C2825164:Site [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "Oxford University Press American National Biography Booksellers' Information Service Children's Fiction"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   788   C0887933:fiction [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary"
+
+Phrase: "of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   852   C0947619:Finger.right [Body Part, Organ, or Organ Component]
+   782   C0035621:Rights [Qualitative Concept]
+   782   C0205090:Right [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "Permissions Science School Books Social Sciences Very Short Introductions World's Classics"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   788   C0439658:classics [Qualitative Concept]
+   755 E C0439858:Classic [Qualitative Concept]
+

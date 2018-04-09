@@ -1,0 +1,1183 @@
+Processing 00000000.tx.1: Organic brain dysfunction in late-onset depression A. 
+
+Phrase: "Organic brain dysfunction in late-onset depression A."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0262405:brain dysfunction [Disease or Syndrome]
+   744   C0031847:dysfunction [Functional Concept]
+   744   C0277785:Dysfunction, NOS [Qualitative Concept]
+Processing 00000000.tx.2: B. 
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.3: Kaimal and U.V. 
+
+Phrase: "Kaimal"
+
+Phrase: "and"
+
+Phrase: "U.V."
+Processing 00000000.tx.4: Nair Hergest Unit, Bangor LL57 2PW, UK. 
+
+Phrase: "Nair Hergest Unit,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0439148:Unit [Quantitative Concept]
+   827   C1519795:Unit [Quantitative Concept]
+   827   C1704753:Unit [Manufactured Object]
+   827   C1880519:Unit [Quantitative Concept]
+
+Phrase: "Bangor LL57 2PW,"
+
+Phrase: "UK."
+Processing 00000000.tx.5: E-mail: arunrajkaimal{at}hotmail.com EDITED BY KIRIAKOS XENITIDIS Medical comorbidity is common in late-onset depression. 
+
+Phrase: "E-mail"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+   861   C0024492:Mail [Manufactured Object]
+   861   C1538057:MAIL [Gene or Genome]
+   861   C1547565:Mail [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "arunrajkaimal{at}hotmail.com EDITED BY KIRIAKOS XENITIDIS Medical comorbidity"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   706   C0868955:Edit [Occupational Activity]
+
+Phrase: "is"
+
+Phrase: "common in late-onset depression."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0205214:Common [Quantitative Concept]
+   760   C1522138:Common [Functional Concept]
+   760   C3245511:common [Intellectual Product]
+Processing 00000000.tx.6: Some studies suggest the presence of mild cognitive impairment in up to 60% of patients with late-onset depression; 
+
+Phrase: "Some studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "the presence of mild cognitive impairment"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0392148:Presence [Therapeutic or Preventive Procedure]
+
+Phrase: "in"
+
+Phrase: "up to 60%"
+
+Phrase: "of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with late-onset depression"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   827   C0011570:Depression [Mental or Behavioral Dysfunction]
+   827   C0011581:Depression [Mental or Behavioral Dysfunction]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   827   C0344315:Depression [Finding]
+   827   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   827   C0460137:Depression [Functional Concept]
+   755 E C0549249:DEPRESSED [Finding]
+
+Phrase: ";"
+Processing 00000000.tx.7: this constitutes a major diagnostic problem in geriatric psychiatry. 
+
+Phrase: "this"
+
+Phrase: "constitutes"
+
+Phrase: "a major diagnostic problem in geriatric psychiatry."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   778   C0679836:diagnostic problem [Finding]
+   748   C0033213:Problem [Finding]
+   738   C1306597:Psychiatric problem [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.8: In response to the study of neurological findings in late-onset depression by Baldwin et al (2005) we performed an abstract review of Medline publications using the search term LATE ONSET DEPRESSION to identify the possible aetiological factors behind the increased occurrence of neurological signs in late-onset depression. 
+
+Phrase: "In response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "to the study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "of neurological findings"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0422837:Neurological findings [Finding]
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+
+Phrase: "in late-onset depression"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   827   C0011570:Depression [Mental or Behavioral Dysfunction]
+   827   C0011581:Depression [Mental or Behavioral Dysfunction]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   827   C0344315:Depression [Finding]
+   827   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   827   C0460137:Depression [Functional Concept]
+   755 E C0549249:DEPRESSED [Finding]
+
+Phrase: "by Baldwin et al (2005"
+
+Phrase: ")"
+
+Phrase: "we"
+
+Phrase: "performed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0884358:Performed [Functional Concept]
+   966 E C2947996:Perform [Pharmacologic Substance]
+
+Phrase: "an abstract review of Medline publications"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0282443:Review [Intellectual Product]
+   753   C1552617:Review [Idea or Concept]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "the search term LATE ONSET DEPRESSION to"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   799   C0011570:Depression [Mental or Behavioral Dysfunction]
+   799   C0011581:Depression [Mental or Behavioral Dysfunction]
+   799   C0205087:Late [Temporal Concept]
+   799   C0332162:Onset [Qualitative Concept]
+   799   C0344315:Depression [Finding]
+   799   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   799   C0460137:Depression [Functional Concept]
+   727 E C0549249:DEPRESSED [Finding]
+
+Phrase: "identify"
+
+Phrase: "the possible aetiological factors behind the increased occurrence of neurological signs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   704   C1521761:Factor [Functional Concept]
+   704   C2827422:Factor [Conceptual Entity]
+
+Phrase: "in late-onset depression."
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   827   C0011570:Depression [Mental or Behavioral Dysfunction]
+   827   C0011581:Depression [Mental or Behavioral Dysfunction]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   827   C0344315:Depression [Finding]
+   827   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   827   C0460137:Depression [Functional Concept]
+   755 E C0549249:DEPRESSED [Finding]
+Processing 00000000.tx.9: We identified 93 citations published between 1975 and 2005, of which 75 titles were relevant. 
+
+Phrase: "We"
+
+Phrase: "identified"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+
+Phrase: "93 citations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0552371:citations [Intellectual Product]
+
+Phrase: "published between 1975"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0034037:Published [Occupational Activity]
+   790   C1704324:Published [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "2005,"
+
+Phrase: "of which 75 titles"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1519530:Title [Idea or Concept]
+   827   C1704446:title [Idea or Concept]
+   827   C1705823:Title [Intellectual Product]
+   827   C1705824:TITLE [Intellectual Product]
+
+Phrase: "were"
+
+Phrase: "relevant."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347946:Relevant [Qualitative Concept]
+Processing 00000000.tx.10: After reading all citations we found 63 abstracts discussing different aspects of late-onset depression which we have included in the review. 
+
+Phrase: "After"
+
+Phrase: "reading"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034754:Reading [Daily or Recreational Activity]
+  1000   C1705179:Reading [Finding]
+
+Phrase: "all citations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0552371:citations [Intellectual Product]
+
+Phrase: "we"
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "63 abstracts"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0600678:Abstracts [Intellectual Product]
+   827 E C0000857:Abstract [Occupational Activity]
+   827 E C1552863:Abstract [Idea or Concept]
+
+Phrase: "discussing"
+
+Phrase: "different aspects of late-onset depression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   719   C1547011:Aspect [Quantitative Concept]
+   719   C1879746:Aspect [Qualitative Concept]
+
+Phrase: "which we"
+
+Phrase: "have"
+
+Phrase: "included in the review."
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   770   C0282443:Review [Intellectual Product]
+   770   C0332257:included [Functional Concept]
+   770   C1552617:Review [Idea or Concept]
+   770   C3538986:INCLUDED [Gene or Genome]
+   737 E C1552866:include [Idea or Concept]
+   737 E C2700399:Include [Activity]
+Processing 00000000.tx.11: The main findings are outlined here briefly. 
+
+Phrase: "The main findings"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+
+Phrase: "are"
+
+Phrase: "outlined"
+
+Phrase: "here briefly."
+Processing 00000000.tx.12: Although early-onset and late-onset depression are similar phenotypically, there is a possible difference in aetiology. 
+
+Phrase: "Although"
+
+Phrase: "early-onset"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1833334:Early-onset [Finding]
+   861   C0332162:Onset [Qualitative Concept]
+   861   C1279919:Early [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "late-onset depression"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   827   C0011570:Depression [Mental or Behavioral Dysfunction]
+   827   C0011581:Depression [Mental or Behavioral Dysfunction]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   827   C0344315:Depression [Finding]
+   827   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   827   C0460137:Depression [Functional Concept]
+   755 E C0549249:DEPRESSED [Finding]
+
+Phrase: "are"
+
+Phrase: "similar phenotypically,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2348205:Similar [Qualitative Concept]
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "a possible difference in aetiology."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1705241:*Difference [Quantitative Concept]
+   760   C1705242:Difference [Qualitative Concept]
+Processing 00000000.tx.13: Vascular comorbidity, including an increased prevalence of hypertension, is common in late-onset depression. 
+
+Phrase: "Vascular comorbidity,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0009488:Comorbidity [Idea or Concept]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "an increased prevalence of hypertension,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0033105:Prevalence [Quantitative Concept]
+   760   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "is"
+
+Phrase: "common in late-onset depression."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0205214:Common [Quantitative Concept]
+   760   C1522138:Common [Functional Concept]
+   760   C3245511:common [Intellectual Product]
+Processing 00000000.tx.14: There is much clinical and biological overlap between late-onset depression and dementia, sometimes the former being the prodrome of the latter. 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "much clinical"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205210:Clinical [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "biological overlap between late-onset depression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0185027:overlap [Therapeutic or Preventive Procedure]
+   753   C1948020:Overlap [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "dementia,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "sometimes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1998882:Sometimes [Temporal Concept]
+
+Phrase: "the former"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205156:Former [Temporal Concept]
+  1000   C0750523:FORMER [Idea or Concept]
+
+Phrase: "being"
+
+Phrase: "the prodrome of the latter."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0240805:Prodrome [Sign or Symptom]
+Processing 00000000.tx.15: There are at least a dozen studies showing some structural, functional and electro-physiological links between late-onset depression and Alzheimers disease. 
+
+Phrase: "There"
+
+Phrase: "are at least"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1551058:Are [Quantitative Concept]
+
+Phrase: "a dozen studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "some structural, functional"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205245:Functional [Functional Concept]
+   861   C0542341:Functional [Functional Concept]
+   861   C2700217:Functional [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "electro-physiological links between late-onset depression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   714   C1517892:Link [Intellectual Product]
+   714   C1704666:Link [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "Alzheimers disease."
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0002395:Alzheimers disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.16: There were observations that late-onset depression is not a prodrome for any particular type of dementia but the majority of patients who develop dementia will acquire Alzheimers disease or vascular dementia, as they are the most common forms. 
+
+Phrase: "There"
+
+Phrase: "were"
+
+Phrase: "observations"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0302523:observations [Research Activity]
+  1000   C0700325:observations [Health Care Activity]
+  1000   C3244290:observations [Functional Concept]
+   966 E C1964257:Observation [Diagnostic Procedure]
+   916 E C1518527:OBSERVATIONAL [Research Activity]
+
+Phrase: "that late-onset depression"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   827   C0011570:Depression [Mental or Behavioral Dysfunction]
+   827   C0011581:Depression [Mental or Behavioral Dysfunction]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   827   C0344315:Depression [Finding]
+   827   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   827   C0460137:Depression [Functional Concept]
+   755 E C0549249:DEPRESSED [Finding]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "a prodrome for any particular type of dementia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0240805:Prodrome [Sign or Symptom]
+
+Phrase: "but"
+
+Phrase: "the majority of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0680220:majority [Social Behavior]
+
+Phrase: "who"
+
+Phrase: "develop"
+
+Phrase: "dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "will"
+
+Phrase: "acquire"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C1706701:Acquire [Activity]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442805:Increase [Functional Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "Alzheimers disease"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0002395:Alzheimers disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "or"
+
+Phrase: "vascular dementia,"
+Meta Candidates (Total=14; Excluded=8; Pruned=0; Remaining=6)
+  1000   C0011269:Dementia, Vascular [Disease or Syndrome]
+   861   C0005847:vascular [Body Part, Organ, or Organ Component]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   861   C1558950:VASCULAR [Finding]
+   861   C1801960:Vascular [Qualitative Concept]
+   805 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   805 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C0005767:Blood [Tissue]
+   761 E C0005768:blood [Body Substance]
+   761 E C0229664:Blood [Body Substance]
+   761 E C0392895:Bloods [Population Group]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+   745 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: "as"
+
+Phrase: "they"
+
+Phrase: "are"
+
+Phrase: "the most common forms."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0348078:forms [Qualitative Concept]
+   827   C0376315:Forms [Manufactured Object]
+   793 E C1522492:Form [Functional Concept]
+Processing 00000000.tx.17: From several studies an association with genetic factors or apolipoprotein E could not be established for late-onset depression. 
+
+Phrase: "From several"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439064:Several [Quantitative Concept]
+  1000   C0443302:Several [Quantitative Concept]
+
+Phrase: "studies"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C0947630:studies [Laboratory Procedure]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "an association with genetic factors"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   797   C1328885:genetic association [Occupation or Discipline]
+   760   C0004083:Association [Mental Process]
+   760   C0439849:Association [Qualitative Concept]
+   760   C0596306:Association [Phenomenon or Process]
+   760   C0699792:association [Social Behavior]
+
+Phrase: "or"
+
+Phrase: "apolipoprotein E"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0003595:Apolipoprotein E [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   861   C0003591:Apolipoprotein [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "could"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "be"
+
+Phrase: "established for late-onset depression."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   760   C0011570:Depression [Mental or Behavioral Dysfunction]
+   760   C0011581:Depression [Mental or Behavioral Dysfunction]
+   760   C0205087:Late [Temporal Concept]
+   760   C0332162:Onset [Qualitative Concept]
+   760   C0344315:Depression [Finding]
+   760   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   760   C0443211:Established [Qualitative Concept]
+   760   C0460137:Depression [Functional Concept]
+   760   C1272684:Established [Qualitative Concept]
+Processing 00000000.tx.18: There are a number of structural or vascular factors identified mainly through imaging studies. 
+
+Phrase: "There"
+
+Phrase: "are"
+
+Phrase: "a number of structural"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0237753:*Number [Quantitative Concept]
+   770   C0449788:Number [Quantitative Concept]
+
+Phrase: "or"
+
+Phrase: "vascular factors"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   983   C0078057:vascular factor [Amino Acid, Peptide, or Protein]
+   827   C1521761:Factor [Functional Concept]
+   827   C2827422:Factor [Conceptual Entity]
+
+Phrase: "identified"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+
+Phrase: "mainly through imaging studies."
+Meta Candidates (Total=9; Excluded=5; Pruned=0; Remaining=4)
+   799   C1881134:Image Study [Diagnostic Procedure]
+   770   C0011923:Imaging [Diagnostic Procedure]
+   770   C0079595:Imaging [Diagnostic Procedure]
+   770   C0947630:studies [Laboratory Procedure]
+   737 E C0557651:Study [Manufactured Object]
+   737 E C1704254:Image [Intellectual Product]
+   737 E C1704922:Image [Entity]
+   737 E C2603343:Study [Research Activity]
+   737 E C3542466:Image [Intellectual Product]
+Processing 00000000.tx.19: Region-specific decreases in grey matter (decreased volume of frontal and temporal lobes), ventricular enlargement, sulcal widening and decreased volume of hippocampus and caudate nucleus were reported in more than one study. 
+
+Phrase: "Region-specific decreases in grey matter"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   753   C0547047:decreases [Quantitative Concept]
+   719 E C0392756:Decrease [Qualitative Concept]
+
+Phrase: "(decreased volume of frontal"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0449468:*Volume [Quantitative Concept]
+   770   C1690016:% volume [Qualitative Concept]
+   770   C1705102:Volume [Intellectual Product]
+   770   C2700258:Volume [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "temporal lobes"
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+  1000   C0039485:TEMPORAL LOBES [Body Part, Organ, or Organ Component]
+   966 E C1268978:Temporal lobe [Body Part, Organ, or Organ Component]
+   861   C0442043:Temporal [Spatial Concept]
+   861   C0796494:lobes [Body Part, Organ, or Organ Component]
+   861   C2362314:Temporal [Temporal Concept]
+   827 E C1428707:Lobe [Gene or Genome]
+   827 E C3539671:Lobe [Gene or Genome]
+   777 E C1522010:Lobar [Qualitative Concept]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "ventricular enlargement,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C2675972:Ventricular enlargement [Finding]
+   861   C0020564:Enlargement, NOS [Pathologic Function]
+   861   C1293134:Enlargement [Therapeutic or Preventive Procedure]
+   861   C2711450:Enlargement [Anatomical Abnormality]
+
+Phrase: "sulcal widening"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332464:Widening [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "decreased volume of hippocampus"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0449468:*Volume [Quantitative Concept]
+   770   C1690016:% volume [Qualitative Concept]
+   770   C1705102:Volume [Intellectual Product]
+   770   C2700258:Volume [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "caudate nucleus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0007461:Caudate Nucleus [Body Part, Organ, or Organ Component]
+  1000   C1269580:Caudate nucleus [Body Part, Organ, or Organ Component]
+   861   C0007610:Nucleus [Cell Component]
+
+Phrase: "were"
+
+Phrase: "reported in more"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0684224:Reported [Intellectual Product]
+   790   C0700287:Reported [Health Care Activity]
+   790   C3496591:Reported [Clinical Attribute]
+   756 E C3273238:Report [Intellectual Product]
+
+Phrase: "than one study."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+Processing 00000000.tx.20: Deep white matter lesions and increased evidence of vascular events were also found in late-onset depression. 
+
+Phrase: "Deep white matter lesions"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   923   C2752009:White matter lesions [Finding]
+   886   C1707653:Deep Lesion [Finding]
+   861   C0682708:White matter [Tissue]
+   812   C0007457:White [Population Group]
+   812   C0043157:White [Population Group]
+   812   C0220938:White [Qualitative Concept]
+   812   C0221198:lesions [Finding]
+   779 E C1546698:Lesion [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "increased evidence of vascular events"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C0332120:Evidence of [Functional Concept]
+           Evidence
+
+Phrase: "were"
+
+Phrase: "also"
+
+Phrase: "found in late-onset depression."
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   760   C0011570:Depression [Mental or Behavioral Dysfunction]
+   760   C0011581:Depression [Mental or Behavioral Dysfunction]
+   760   C0150312:Found [Quantitative Concept]
+   760   C0205087:Late [Temporal Concept]
+   760   C0332162:Onset [Qualitative Concept]
+   760   C0344315:Depression [Finding]
+   760   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   760   C0460137:Depression [Functional Concept]
+   726 E C0243095:Find [Finding]
+Processing 00000000.tx.21: Functional imaging studies showed an association of impairment of regional cerebral blood flow in the left anterior temporal and left anterior frontal regions associated with late-onset depression. 
+
+Phrase: "Functional imaging studies"
+Meta Candidates (Total=13; Excluded=5; Pruned=0; Remaining=8)
+   901   C1517324:Functional Imaging [Diagnostic Procedure]
+   867   C1881134:Image Study [Diagnostic Procedure]
+   827   C0011923:Imaging [Diagnostic Procedure]
+   827   C0079595:Imaging [Diagnostic Procedure]
+   827   C0205245:Functional [Functional Concept]
+   827   C0542341:Functional [Functional Concept]
+   827   C0947630:studies [Laboratory Procedure]
+   827   C2700217:Functional [Conceptual Entity]
+   793 E C0557651:Study [Manufactured Object]
+   793 E C1704254:Image [Intellectual Product]
+   793 E C1704922:Image [Entity]
+   793 E C2603343:Study [Research Activity]
+   793 E C3542466:Image [Intellectual Product]
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "an association of impairment of regional cerebral blood flow"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   742   C0004083:Association [Mental Process]
+   742   C0439849:Association [Qualitative Concept]
+   742   C0596306:Association [Phenomenon or Process]
+   742   C0699792:association [Social Behavior]
+
+Phrase: "in the left anterior temporal"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0442043:Temporal [Spatial Concept]
+   827   C2362314:Temporal [Temporal Concept]
+   734   C0441998:Left anterior [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "left anterior frontal regions"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   861   C0016733:frontal regions [Body Part, Organ, or Organ Component]
+   861   C0549224:frontal regions [Body Location or Region]
+   827 E C1280991:Frontal region [Body Location or Region]
+   812   C0205123:Frontal [Spatial Concept]
+   779   C0017446:Region [Geographic Area]
+   779   C0205147:Region [Spatial Concept]
+   729 E C0205276:Regional [Spatial Concept]
+   729 E C1947913:Regional [Spatial Concept]
+
+Phrase: "associated with late-onset depression."
+Meta Candidates (Total=11; Excluded=2; Pruned=0; Remaining=9)
+   806   C0332281:Associated with [Qualitative Concept]
+           Associated
+   760   C0011570:Depression [Mental or Behavioral Dysfunction]
+   760   C0011581:Depression [Mental or Behavioral Dysfunction]
+   760   C0205087:Late [Temporal Concept]
+   760   C0332162:Onset [Qualitative Concept]
+   760   C0344315:Depression [Finding]
+   760   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   760   C0460137:Depression [Functional Concept]
+   726 E C0750490:Associate [Idea or Concept]
+   726 E C1706221:Associate [Professional or Occupational Group]
+Processing 00000000.tx.22: There is evidence of more frequent electroencephalographic changes in late-onset depression compared with early-onset depression. 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "evidence of more frequent electroencephalographic changes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0332120:Evidence of [Functional Concept]
+           Evidence
+
+Phrase: "in late-onset depression"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   827   C0011570:Depression [Mental or Behavioral Dysfunction]
+   827   C0011581:Depression [Mental or Behavioral Dysfunction]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   827   C0344315:Depression [Finding]
+   827   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   827   C0460137:Depression [Functional Concept]
+   755 E C0549249:DEPRESSED [Finding]
+
+Phrase: "compared with early-onset depression."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   806   C1833334:Early-onset [Finding]
+   760   C0011570:Depression [Mental or Behavioral Dysfunction]
+   760   C0011581:Depression [Mental or Behavioral Dysfunction]
+   760   C0332162:Onset [Qualitative Concept]
+   760   C0344315:Depression [Finding]
+   760   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   760   C0460137:Depression [Functional Concept]
+   760   C1279919:Early [Temporal Concept]
+   760   C1707455:Compared [Activity]
+Processing 00000000.tx.23: Moreover, a few studies examining psychological factors concluded that there is less association between life events and late-onset depression than early-onset depression. 
+
+Phrase: "Moreover,"
+
+Phrase: "a few studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "examining"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332128:examining [Finding]
+  1000   C2004054:Examining [Activity]
+
+Phrase: "psychological factors"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0033898:Psychological Factors [Mental Process]
+   861   C0205486:Psychological [Functional Concept]
+   861   C1306597:PSYCHOLOGICAL [Mental or Behavioral Dysfunction]
+   827   C1521761:Factor [Functional Concept]
+   827   C2827422:Factor [Conceptual Entity]
+   789 E C0033909:Psychology [Biomedical Occupation or Discipline]
+   789 E C1524060:psychology [Functional Concept]
+
+Phrase: "concluded"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0917903:conclude [Biomedical or Dental Material,Organic Chemical]
+
+Phrase: "that there"
+
+Phrase: "is"
+
+Phrase: "less association between life events"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0004083:Association [Mental Process]
+   760   C0439849:Association [Qualitative Concept]
+   760   C0596306:Association [Phenomenon or Process]
+   760   C0699792:association [Social Behavior]
+
+Phrase: "and"
+
+Phrase: "late-onset depression than early-onset depression."
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   748   C0011570:Depression [Mental or Behavioral Dysfunction]
+   748   C0011581:Depression [Mental or Behavioral Dysfunction]
+   748   C0205087:Late [Temporal Concept]
+   748   C0332162:Onset [Qualitative Concept]
+   748   C0344315:Depression [Finding]
+   748   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   748   C0460137:Depression [Functional Concept]
+Processing 00000000.tx.24: These findings stress the importance of thorough physical examination in late-onset depression, as recommended by Baldwin et al (2005). 
+
+Phrase: "These findings stress"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0038435:Stress [Finding]
+   789 E C0231297:Stressful [Functional Concept]
+
+Phrase: "the importance of thorough physical examination"
+
+Phrase: "in late-onset depression,"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   827   C0011570:Depression [Mental or Behavioral Dysfunction]
+   827   C0011581:Depression [Mental or Behavioral Dysfunction]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   827   C0344315:Depression [Finding]
+   827   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   827   C0460137:Depression [Functional Concept]
+   755 E C0549249:DEPRESSED [Finding]
+
+Phrase: "as"
+
+Phrase: "recommended by Baldwin et al (2005"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0034866:Recommended [Idea or Concept]
+
+Phrase: ")."
+Processing 00000000.tx.25: In the absence of clear guidelines for neuroimaging in psychiatry, a detailed physical examination is necessary for the identification of the patient group in which more expensive and invasive investigations are indicated. 
+
+Phrase: "In the absence"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0332197:absence [Quantitative Concept]
+  1000   C1689985:Absence [Anatomical Abnormality]
+   928 E C2699517:ABSENT [Finding]
+
+Phrase: "of clear guidelines"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0162791:Guidelines [Intellectual Product]
+   861   C0220845:guidelines [Intellectual Product]
+   861   C0282423:guidelines [Intellectual Product]
+
+Phrase: "for neuroimaging"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0679575:Neuroimaging [Diagnostic Procedure]
+
+Phrase: "in psychiatry,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0033872:Psychiatry [Professional or Occupational Group]
+  1000   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   928 E C0205487:Psychiatric [Functional Concept]
+
+Phrase: "a detailed physical examination"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0031809:Physical Examination [Health Care Activity]
+           Physical
+   827   C0205485:Physical [Functional Concept]
+   827   C1509143:Physical [Finding]
+
+Phrase: "is"
+
+Phrase: "necessary for the identification of the patient group"
+
+Phrase: "in which more expensive"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   789   C0680864:expense [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "invasive investigations"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C1261322:Investigations [Health Care Activity]
+   827 E C1552578:investigation [Idea or Concept]
+   777 E C1517586:Investigational [Qualitative Concept]
+   777 E C3245491:investigational [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: "indicated."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1444656:Indicated [Finding]
+Processing 00000000.tx.26: REFERENCES Baldwin, R., Jeffries, S., Jackson, A., et al (2005) Neurological findings in late-onset depressive disorder: comparison of individuals with and without depression. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Baldwin,"
+
+Phrase: "R.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+
+Phrase: "Jeffries,"
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Jackson,"
+
+Phrase: "A.,"
+
+Phrase: "et al (2005"
+
+Phrase: ")"
+
+Phrase: "Neurological findings in late-onset depressive disorder"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   778   C0422837:Neurological findings [Finding]
+   757   C0221423:Finding / disorder [Finding]
+   748   C2607943:findings [Functional Concept]
+   748   C2926606:Findings [Clinical Attribute]
+   748   C3539655:Findings [Intellectual Product]
+   714 E C0037088:Finding [Sign or Symptom]
+   714 E C0243095:Finding [Finding]
+   714 E C2825141:Finding [Finding]
+
+Phrase: ":"
+
+Phrase: "comparison of individuals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1707455:Comparison [Activity]
+
+Phrase: "with"
+
+Phrase: "and without depression."
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   790   C0011570:Depression [Mental or Behavioral Dysfunction]
+   790   C0011581:Depression [Mental or Behavioral Dysfunction]
+   790   C0344315:Depression [Finding]
+   790   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   790   C0460137:Depression [Functional Concept]
+   790   C1515981:And [Idea or Concept]
+   718 E C0549249:DEPRESSED [Finding]
+Processing 00000000.tx.27: British Journal of Psychiatry, 186, 308 -313.[Abstract/Free FullText] This Article Full Text (PDF) Submit a response Alert me when this article is cited Alert me when eLetters are posted Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in PubMed Alert me to new issues of the journal Download to citation manager Google Scholar Articles by Kaimal, A. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "186,"
+
+Phrase: "308 -313."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "]"
+
+Phrase: "This Article Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "Submit"
+
+Phrase: "a response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "eLetters"
+
+Phrase: "are"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal Download"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0162443:Journal [Intellectual Product,Manufactured Object]
+   744   C0205314:New [Temporal Concept]
+   711   C0033213:Issue [Finding]
+   711   C1706387:Issue [Intellectual Product]
+
+Phrase: "to citation manager Google Scholar Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   771   C1706852:Article [Intellectual Product]
+
+Phrase: "by Kaimal,"
+
+Phrase: "A."
+Processing 00000000.tx.28: B. 
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.29: Articles by Nair, U.V. 
+
+Phrase: "Articles by Nair,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "U.V."
+Processing 00000000.tx.30: Articles citing this Article PubMed PubMed Citation Articles by Kaimal, A. 
+
+Phrase: "Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1706852:Article [Intellectual Product]
+
+Phrase: "citing"
+
+Phrase: "this Article PubMed PubMed Citation Articles by Kaimal,"
+
+Phrase: "A."
+Processing 00000000.tx.31: B. 
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.32: Articles by Nair, U.V. 
+
+Phrase: "Articles by Nair,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "U.V."
+Processing 00000000.tx.33: HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin Advances in Psychiatric Treatment All RCPsych Journals
+
+Phrase: "HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   738   C0039224:Table [Manufactured Object]
+   738   C1706073:Table [Medical Device]
+   738   C1706074:Table [Intellectual Product]
+
+Phrase: "Advances in Psychiatric Treatment"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   833   C0204523:psychiatric treatment [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0205487:Psychiatric [Functional Concept]
+   770   C0725066:Advance [Medical Device]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "All RCPsych Journals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0162443:journals [Intellectual Product,Manufactured Object]
+

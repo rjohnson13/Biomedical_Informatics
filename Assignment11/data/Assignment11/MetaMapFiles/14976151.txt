@@ -1,0 +1,4429 @@
+Processing 00000000.tx.1: Dehydroepiandrosterone (DHEA): A Misunderstood Adrenal Hormone and Spine-Tingling Neurosteroid? 
+
+Phrase: "Dehydroepiandrosterone (DHEA)"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: ":"
+
+Phrase: "A Misunderstood Adrenal Hormone"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   901   C1445654:Adrenal hormone [Hormone,Organic Chemical,Pharmacologic Substance]
+   827   C0019932:Hormone [Hormone]
+   755 E C0458083:Hormonal [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "Spine-Tingling Neurosteroid?"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0815278:neurosteroid [Neuroreactive Substance or Biogenic Amine,Steroid]
+Processing 00000000.tx.2: Sheryl G. 
+
+Phrase: "Sheryl G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.3: Beck and Robert J. 
+
+Phrase: "Beck"
+
+Phrase: "and"
+
+Phrase: "Robert J."
+Processing 00000000.tx.4: Handa Pediatrics Department (S.G.B.) 
+
+Phrase: "Handa Pediatrics Department"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1704729:Department [Organization]
+
+Phrase: "(S.G."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439267:g% [Quantitative Concept]
+   861   C2603362:S' [Clinical Attribute]
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+
+Phrase: ")"
+Processing 00000000.tx.5: Childrens Hospital of Philadelphia and University of Pennsylvania Philadelphia, Pennsylvania 19104 and Department of Biomedical Sciences (R.J.H.) 
+
+Phrase: "Childrens Hospital of Philadelphia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   770   C1510665:Hospital [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "University of Pennsylvania Philadelphia,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0031525:Philadelphia [Geographic Area]
+
+Phrase: "Pennsylvania 19104"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030853:Pennsylvania [Geographic Area]
+
+Phrase: "and"
+
+Phrase: "Department of Biomedical Sciences"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1704729:Department [Organization]
+
+Phrase: "(R.J."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+
+Phrase: ")"
+Processing 00000000.tx.6: College of Veterinary Medicine Colorado State University Fort Collins, Colorado 80523 Address all correspondence and requests for reprints to: Robert Handa, College of Veterinary Medicine, Department of Biomedical Sciences, Colorado State University, Fort Collins, Colorado 80523-1617. 
+
+Phrase: "College of Veterinary Medicine Colorado State University Fort Collins,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C0557806:College [Manufactured Object]
+
+Phrase: "Colorado 80523"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0009399:Colorado [Geographic Area]
+
+Phrase: "Address"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0376649:Address [Intellectual Product]
+  1000   C1442065:Address [Spatial Concept]
+
+Phrase: "all correspondence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0282413:Correspondence [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "requests for reprints"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   882   C0686900:Request for [Functional Concept]
+           request
+   790   C1272683:Request [Functional Concept]
+   790   C1522634:Request [Intellectual Product]
+   756   C3273171:Reprint [Intellectual Product]
+
+Phrase: "to"
+
+Phrase: ":"
+
+Phrase: "Robert Handa,"
+
+Phrase: "College of Veterinary Medicine,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0557806:College [Manufactured Object]
+
+Phrase: "Department of Biomedical Sciences,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1704729:Department [Organization]
+
+Phrase: "Colorado State University,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   827   C0009399:Colorado [Geographic Area]
+   827   C0041740:University [Manufactured Object,Organization]
+   827   C1301808:State [Geographic Area]
+   827   C1442792:State [Functional Concept]
+   827   C3148680:State [Geographic Area]
+
+Phrase: "Fort Collins,"
+
+Phrase: "Colorado 80523-1617."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0009399:Colorado [Geographic Area]
+Processing 00000000.tx.7: E-mail: robert.handa{at}colostate.edu . The sex steroid hormones have pronounced effects in areas of the brain that are not involved in sexual behavior or reproduction. 
+
+Phrase: "E-mail"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+   861   C0024492:Mail [Manufactured Object]
+   861   C1538057:MAIL [Gene or Genome]
+   861   C1547565:Mail [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "robert.handa{at}colostate.edu ."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0059804:EDU [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "The sex steroid hormones"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0036884:Sex Steroid Hormones [Hormone,Pharmacologic Substance]
+           Sex Hormones
+   901   C0301818:steroid hormones [Hormone,Steroid]
+   827   C0019932:Hormones [Hormone]
+   743 E C0458083:Hormonal [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "pronounced effects in areas of the brain"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   748   C1280500:effects [Qualitative Concept]
+   714 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "involved in sexual behavior"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0036864:Sexual Behavior [Behavior]
+           Sexual
+   833   C3495422:Sexual behavior [Finding]
+   770   C0004927:Behavior [Individual Behavior]
+   770   C1314939:Involved [Functional Concept]
+   770   C2707008:Behavior [Clinical Attribute]
+
+Phrase: "or"
+
+Phrase: "reproduction."
+Meta Candidates (Total=16; Excluded=15; Pruned=0; Remaining=1)
+  1000   C0035150:Reproduction [Organism Function]
+   944 E C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   944 E C0314603:Genetic [Functional Concept]
+   944 E C0559522:Genital [Body System]
+   944 E C1546649:Genital [Intellectual Product]
+   944 E C1550642:Genital [Body Substance]
+   916 E C0005615:Birth [Organism Function]
+   916 E C0079946:origin [Classification]
+   916 E C0439659:Origin [Temporal Concept]
+   916 E C1550512:origin [Intellectual Product]
+   916 E C1550722:birth [Idea or Concept]
+   916 E C3245487:birth [Intellectual Product]
+   900 E C0454729:Natal [Geographic Area]
+   893 E C0205313:Original [Idea or Concept]
+   893 E C2347409:Original [Occupational Activity]
+   880 E C0598240:originality [Mental Process]
+Processing 00000000.tx.8: The actions of the sex hormones have been a topic of recent research. 
+
+Phrase: "The actions of the sex hormones"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   753   C0441472:actions [Functional Concept]
+   719 E C3266814:Action [Activity]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "a topic of recent research."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1522168:TOPIC [Functional Concept]
+   760   C1555712:topic [Idea or Concept]
+Processing 00000000.tx.9: One area of interest is their effects on hippocampal neuron spine formation. 
+
+Phrase: "One area of interest"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0017446:Area [Geographic Area]
+   770   C0205146:Area [Spatial Concept]
+
+Phrase: "is"
+
+Phrase: "their effects on hippocampal neuron spine formation."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   748   C1280500:effects [Qualitative Concept]
+   714 E C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.10: The paper by Hajszan et al. 
+
+Phrase: "The paper by Hajszan et al."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0030351:Paper [Manufactured Object]
+   753   C1547566:Paper [Idea or Concept]
+Processing 00000000.tx.11: (1) presented in this issue now reports that dehydroepiandrosterone (DHEA), the adrenal hormone, also alters spine formation, and the effect may be due to its metabolism to estrogen in brain. 
+
+Phrase: "(1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: "presented in this issue now"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   760   C0033213:Issue [Finding]
+   760   C0449450:Presented [Idea or Concept]
+   760   C1706387:Issue [Intellectual Product]
+   760   C1948052:Now [Temporal Concept]
+   726 E C0150312:Present [Quantitative Concept]
+
+Phrase: "reports"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0684224:Report [Intellectual Product]
+  1000   C0700287:Report [Health Care Activity]
+  1000   C3273238:Report [Intellectual Product]
+
+Phrase: "that dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "(DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "the adrenal hormone,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C1445654:Adrenal hormone [Hormone,Organic Chemical,Pharmacologic Substance]
+   861   C0019932:Hormone [Hormone]
+   789 E C0458083:Hormonal [Qualitative Concept]
+
+Phrase: "also"
+
+Phrase: "alters"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   916   C0392747:Altered [Functional Concept]
+
+Phrase: "spine formation,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0220781:formation [Biologic Function]
+   861   C0439634:formation [Spatial Concept]
+   861   C1522492:Formation [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "the effect"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1280500:Effect [Qualitative Concept]
+  1000   C2348382:Effect [Qualitative Concept]
+
+Phrase: "may"
+
+Phrase: "be due to its metabolism"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   806   C0678226:Due to [Functional Concept]
+           due
+   760   C0025519:Metabolism [Organism Function]
+   760   C0025520:metabolism [Functional Concept]
+   760   C2987476:Be [Conceptual Entity]
+   760   C3146286:Due [Idea or Concept]
+
+Phrase: "to estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+  1000   C2936882:Estrogen [Pharmacologic Substance]
+   928 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "in brain."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0006104:Brain [Body Part, Organ, or Organ Component]
+  1000   C1269537:Brain [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.12: The adrenal cortex is the source of a variety of hormones, and the best known of these are the C21 steroids: mineralocorticoids, such as aldosterone, and glucocorticoids, such as cortisol. 
+
+Phrase: "The adrenal cortex"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0001613:Adrenal Cortex [Body Part, Organ, or Organ Component]
+   861   C0007776:Cortex [Body Part, Organ, or Organ Component]
+   861   C1176472:Cortex [Body Part, Organ, or Organ Component]
+   861   C2700441:Cortex [Plant]
+
+Phrase: "is"
+
+Phrase: "the source of a variety of hormones,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0449416:Source [Finding]
+   748   C1705919:Source [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "the best known of these"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   760   C0205309:Known [Qualitative Concept]
+   760   C1522427:Best [Qualitative Concept]
+   726 E C0205170:Well [Qualitative Concept]
+   726 E C3146287:Well [Manufactured Object]
+
+Phrase: "are"
+
+Phrase: "the C21 steroids"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   983   C0033006:C21 steroid [Steroid]
+   861   C0038317:Steroids [Steroid]
+
+Phrase: ":"
+
+Phrase: "mineralocorticoids,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0026160:Mineralocorticoids [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "such as aldosterone,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0002006:Aldosterone [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "and"
+
+Phrase: "glucocorticoids,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017710:Glucocorticoids [Hormone,Steroid]
+
+Phrase: "such as cortisol."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0020268:Cortisol [Hormone,Pharmacologic Substance,Steroid]
+Processing 00000000.tx.13: The C19 steroids of the adrenal gland are androgens, the most potent of this class being testosterone. 
+
+Phrase: "The C19 steroids of the adrenal gland"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   762   C0599683:C19 steroid [Steroid]
+   748   C0038317:Steroids [Steroid]
+
+Phrase: "are"
+
+Phrase: "androgens,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0002844:Androgens [Hormone,Pharmacologic Substance]
+   966 E C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "the most potent of this class"
+
+Phrase: "being"
+
+Phrase: "testosterone."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0039601:Testosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0113075:Depo-testosterone [Hormone,Pharmacologic Substance,Steroid]
+Processing 00000000.tx.14: However, testosterone is synthesized in only small amounts by the adrenal gland (2). 
+
+Phrase: "However,"
+
+Phrase: "testosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0039601:Testosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0113075:Depo-testosterone [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "is"
+
+Phrase: "synthesized in only small amounts"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0205171:Only [Quantitative Concept]
+   760   C0700321:Small [Quantitative Concept]
+   760   C1265611:amounts [Quantitative Concept]
+   760   C1720467:Only [Intellectual Product]
+   760   C1883254:Synthesized [Activity]
+
+Phrase: "by the adrenal gland"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0001625:Adrenal gland [Body Part, Organ, or Organ Component]
+  1000   C1268989:Adrenal gland [Body Part, Organ, or Organ Component]
+  1000   C1515890:GLAND, ADRENAL [Tissue]
+   861   C1285092:Gland [Body Part, Organ, or Organ Component]
+
+Phrase: "(2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: ")."
+Processing 00000000.tx.15: Androstenedione, DHEA, and the sulfated derivative of DHEA, DHEA-sulfate (DHEAS), are the most highly circulating adrenal androgens, but these bind androgen receptors with low affinity (3) and thus are considered weak androgens. 
+
+Phrase: "Androstenedione,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0002860:Androstenedione [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "DHEA,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "the sulfated derivative of DHEA,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1527240:Derivative [Functional Concept]
+
+Phrase: "DHEA-sulfate"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+  1000   C0057277:Dehydroepiandrosterone Sulfate [Biologically Active Substance,Pharmacologic Substance,Steroid]
+  1000   C0201983:Dehydroepiandrosterone Sulfate [Laboratory Procedure]
+   861   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   861   C0038720:Sulfate [Inorganic Chemical]
+   861   C0475337:sulfate [Element, Ion, or Isotope,Inorganic Chemical]
+   861   C3536965:SULFATE [Element, Ion, or Isotope]
+   805 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "(DHEAS"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011185:dheas [Hormone,Pharmacologic Substance,Steroid]
+  1000   C0201983:DHEA-S [Laboratory Procedure]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "are"
+
+Phrase: "the most highly"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205250:Highly [Qualitative Concept]
+   861   C0205393:Most [Quantitative Concept]
+
+Phrase: "circulating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0175630:Circulating [Functional Concept]
+
+Phrase: "adrenal androgens,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0002844:Androgens [Hormone,Pharmacologic Substance]
+   827 E C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "but"
+
+Phrase: "these"
+
+Phrase: "bind"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1145667:Bind [Activity]
+  1000   C1167622:bind [Molecular Function]
+
+Phrase: "androgen receptors with low affinity"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   806   C0034786:Receptors, Androgen [Amino Acid, Peptide, or Protein,Receptor]
+   773 E C1447749:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   760   C0002844:Androgen [Hormone,Pharmacologic Substance]
+   760   C0597357:receptors [Amino Acid, Peptide, or Protein,Receptor]
+   760   C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "(3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "thus"
+
+Phrase: "are"
+
+Phrase: "considered"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considered [Idea or Concept]
+
+Phrase: "weak androgens."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0002844:Androgens [Hormone,Pharmacologic Substance]
+   827 E C3536949:Androgen [Pharmacologic Substance]
+Processing 00000000.tx.16: The role of adrenal androgens, particularly DHEA and DHEAS, in normal physiology has become, in recent years, the subject of intense investigation. 
+
+Phrase: "The role of adrenal androgens,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0035820:Role [Social Behavior]
+   760   C1705810:Role [Conceptual Entity]
+
+Phrase: "particularly DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   805 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "DHEAS,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011185:dheas [Hormone,Pharmacologic Substance,Steroid]
+  1000   C0201983:DHEA-S [Laboratory Procedure]
+
+Phrase: "in normal physiology"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0031842:Physiology [Biomedical Occupation or Discipline]
+   861   C0031843:physiology [Physiologic Function]
+   789 E C0205463:Physiologic [Functional Concept]
+
+Phrase: "has"
+
+Phrase: "become"
+
+Phrase: ","
+
+Phrase: "in recent years,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0439234:years [Temporal Concept]
+   827 E C0439508:/year [Temporal Concept]
+
+Phrase: "the subject of intense investigation."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0681850:Subject [Group]
+   760   C1550501:{Subject} [Idea or Concept]
+   760   C1706203:Subject [Idea or Concept]
+   760   C2349001:Subject [Human]
+   760   C2697811:Subject [Functional Concept]
+Processing 00000000.tx.17: Maturation of the adrenal gland (adrenarche) occurs in humans well before the onset of puberty. 
+
+Phrase: "Maturation of the adrenal gland"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0678723:Maturation [Organism Function]
+   760   C0870861:maturation [Phenomenon or Process]
+   760   C1254042:Maturation [Physiologic Function]
+
+Phrase: "(adrenarche"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0686792:Adrenarche [Biologically Active Substance]
+
+Phrase: ")"
+
+Phrase: "occurs in humans well"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0086418:Humans [Human]
+   770   C0205170:Well [Qualitative Concept]
+   770   C1709305:Occur [Activity]
+   770   C2745955:OCCUR [Temporal Concept]
+   770   C3146287:Well [Manufactured Object]
+
+Phrase: "before the onset"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332162:Onset [Qualitative Concept]
+
+Phrase: "of puberty."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0034011:Puberty [Physiologic Function]
+Processing 00000000.tx.18: This is characterized by the increased secretion of adrenal androgens, without corresponding increases in glucocorticoids or mineralocorticoids (4). 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: "characterized by the increased secretion of adrenal androgens,"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   767   C0541730:ANDROGENS INCREASED [Finding]
+   750   C3271399:androgen secretion [Organ or Tissue Function]
+   744   C0002844:Androgens [Hormone,Pharmacologic Substance]
+   744   C0036536:secretion [Biologic Function]
+   744   C0036537:Secretion [Body Substance]
+   744   C0205217:Increased [Quantitative Concept]
+   744   C0442805:Increased [Functional Concept]
+   744   C1880022:Characterized [Activity]
+   711 E C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "without corresponding increases"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442805:increases [Functional Concept]
+
+Phrase: "in glucocorticoids"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017710:Glucocorticoids [Hormone,Steroid]
+
+Phrase: "or"
+
+Phrase: "mineralocorticoids"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0026160:Mineralocorticoids [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "(4"
+
+Phrase: ")."
+Processing 00000000.tx.19: Although androstenedione and DHEA are measurable in blood in preadrenarchal children, the amounts are low. 
+
+Phrase: "Although"
+
+Phrase: "androstenedione"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0002860:Androstenedione [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "and"
+
+Phrase: "DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "are"
+
+Phrase: "measurable in blood"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1513040:Measurable [Functional Concept]
+
+Phrase: "in preadrenarchal children,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0008059:Children [Age Group]
+   861   C0680063:Children [Family Group]
+
+Phrase: "the amounts"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1265611:amounts [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "low."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205251:low [Qualitative Concept]
+  1000   C1299352:Low [Qualitative Concept]
+  1000   C1550472:low [Idea or Concept]
+Processing 00000000.tx.20: Increases in adrenal androgen secretion typically occur in children between 6 and 8 yr of age (4) and, in adulthood, circulating levels of DHEAS are higher than those of any other steroid (5, 6). 
+
+Phrase: "Increases in adrenal androgen secretion typically"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0442805:increases [Functional Concept]
+
+Phrase: "occur in children"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0008059:Children [Age Group]
+   790   C0680063:Children [Family Group]
+   790   C1709305:Occur [Activity]
+   790   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "between 6"
+
+Phrase: "and"
+
+Phrase: "8 yr of age (4"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0439234:yr [Temporal Concept]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "in adulthood,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700597:Adulthood [Temporal Concept]
+
+Phrase: "circulating levels of DHEAS"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   770   C0175630:Circulating [Functional Concept]
+   770   C0441889:Levels [Qualitative Concept]
+   737 E C0456079:Level [Classification]
+   737 E C1547707:Level [Geographic Area]
+   737 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "higher than those of any"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   726   C0205250:High [Qualitative Concept]
+   726   C1299351:High [Qualitative Concept]
+   726   C2700149:HIGH [Intellectual Product]
+
+Phrase: "other steroid"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0038317:Steroid [Steroid]
+
+Phrase: "(5,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: "6"
+
+Phrase: ")."
+Processing 00000000.tx.21: In addition, DHEA and DHEAS decrease dramatically in aging primates (5, 6). 
+
+Phrase: "In addition,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883712:Addition [Functional Concept]
+   928 E C1524062:Additional [Functional Concept]
+
+Phrase: "DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "DHEAS"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011185:dheas [Hormone,Pharmacologic Substance,Steroid]
+  1000   C0201983:DHEA-S [Laboratory Procedure]
+
+Phrase: "decrease"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0392756:Decrease [Qualitative Concept]
+  1000   C0547047:Decrease [Quantitative Concept]
+
+Phrase: "dramatically in aging primates"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0001811:Ageing [Organism Function]
+   770   C0033147:Primates [Mammal]
+
+Phrase: "(5,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: "6"
+
+Phrase: ")."
+Processing 00000000.tx.22: Unlike cortisol, whose secretion is regulated by the hypothalamo-pituitary axis and ACTH, there are few extraadrenal factors that are known to specifically regulate adrenal DHEA synthesis and secretion. 
+
+Phrase: "Unlike cortisol,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0020268:Cortisol [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "whose secretion"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0036536:secretion [Biologic Function]
+  1000   C0036537:Secretion [Body Substance]
+
+Phrase: "is"
+
+Phrase: "regulated by the hypothalamo-pituitary axis"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0004457:Axis [Body Part, Organ, or Organ Component]
+   753   C0032005:Pituitary, NOS [Body Part, Organ, or Organ Component]
+   753   C0851285:Regulated [Governmental or Regulatory Activity]
+   753   C0999597:Axis [Mammal]
+   753   C1522496:Axis [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "ACTH,"
+
+Phrase: "there"
+
+Phrase: "are"
+
+Phrase: "few extraadrenal factors"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   793   C1521761:Factor [Functional Concept]
+   793   C2827422:Factor [Conceptual Entity]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "known"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205309:Known [Qualitative Concept]
+
+Phrase: "to specifically"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1883351:To [Qualitative Concept]
+
+Phrase: "regulate"
+
+Phrase: "adrenal DHEA synthesis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0220781:synthesis [Biologic Function]
+   827   C1883254:Synthesis [Activity]
+
+Phrase: "and"
+
+Phrase: "secretion."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0036536:secretion [Biologic Function]
+  1000   C0036537:Secretion [Body Substance]
+Processing 00000000.tx.23: What is the role of DHEA in primate physiology? 
+
+Phrase: "What"
+
+Phrase: "is"
+
+Phrase: "the role of DHEA"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0035820:Role [Social Behavior]
+   770   C1705810:Role [Conceptual Entity]
+
+Phrase: "in primate physiology?"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0031842:Physiology [Biomedical Occupation or Discipline]
+   861   C0031843:physiology [Physiologic Function]
+   789 E C0205463:Physiologic [Functional Concept]
+Processing 00000000.tx.24: And can we test these hypotheses using rodent models? 
+
+Phrase: "And"
+
+Phrase: "can"
+
+Phrase: "we"
+
+Phrase: "test"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0022885:Test [Laboratory Procedure]
+  1000   C0039593:Test [Functional Concept]
+  1000   C0392366:test [Intellectual Product]
+
+Phrase: "these hypotheses"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1512571:Hypothesis [Idea or Concept]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "rodent models?"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3161035:Models [Intellectual Product]
+Processing 00000000.tx.25: A number of recent studies have suggested that DHEA can have beneficial effects and suggest the possibility that DHEA is involved in a number of functions including cognitive function, metabolism, and vascular and immune function (for a review see Ref. 7). 
+
+Phrase: "A number of recent studies"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0237753:*Number [Quantitative Concept]
+   760   C0449788:Number [Quantitative Concept]
+
+Phrase: "have"
+
+Phrase: "suggested"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "can"
+
+Phrase: "have"
+
+Phrase: "beneficial effects"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C1280500:effects [Qualitative Concept]
+   827 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "the possibility"
+
+Phrase: "that DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "is"
+
+Phrase: "involved in a number of functions"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   753   C0237753:*Number [Quantitative Concept]
+   753   C0449788:Number [Quantitative Concept]
+   753   C0542341:Functions [Functional Concept]
+   753   C1314939:Involved [Functional Concept]
+   719 E C0031843:function [Physiologic Function]
+   719 E C0700205:FUNCTION [Classification]
+   719 E C1705273:Function [Intellectual Product]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "cognitive function,"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C0392335:cognitive function [Mental Process]
+   861   C0031843:function [Physiologic Function]
+   861   C0542341:Function [Functional Concept]
+   861   C0700205:FUNCTION [Classification]
+   861   C1516691:Cognitive [Functional Concept]
+   861   C1705273:Function [Intellectual Product]
+   789 E C0205245:Functional [Functional Concept]
+   789 E C2700217:Functional [Conceptual Entity]
+
+Phrase: "metabolism,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0025519:Metabolism [Organism Function]
+  1000   C0025520:metabolism [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "vascular"
+Meta Candidates (Total=10; Excluded=7; Pruned=0; Remaining=3)
+  1000   C0005847:vascular [Body Part, Organ, or Organ Component]
+  1000   C1558950:VASCULAR [Finding]
+  1000   C1801960:Vascular [Qualitative Concept]
+   944 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   944 E C1511228:VESSEL, BLOOD [Tissue]
+   900 E C0005767:Blood [Tissue]
+   900 E C0005768:blood [Body Substance]
+   900 E C0229664:Blood [Body Substance]
+   900 E C0392895:Bloods [Population Group]
+   884 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "immune function"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C1817756:Immune Function [Organ or Tissue Function]
+   861   C0031843:function [Physiologic Function]
+   861   C0439662:Immune [Functional Concept]
+   861   C0542341:Function [Functional Concept]
+   861   C0700205:FUNCTION [Classification]
+   861   C1705273:Function [Intellectual Product]
+   789 E C0205245:Functional [Functional Concept]
+   789 E C2700217:Functional [Conceptual Entity]
+
+Phrase: "("
+
+Phrase: "for a review"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0282443:Review [Intellectual Product]
+  1000   C1552617:Review [Idea or Concept]
+
+Phrase: "see"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042789:see [Organism Function]
+  1000   C1947903:See [Activity]
+
+Phrase: "Ref. 7"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1425988:REF [Gene or Genome]
+
+Phrase: ")."
+Processing 00000000.tx.26: Interestingly, rodent species do not have measurable levels of circulating DHEA when examined before sexual maturation and have very low levels subsequently (8). 
+
+Phrase: "Interestingly,"
+
+Phrase: "rodent species"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1705920:Species [Conceptual Entity]
+
+Phrase: "do"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "have"
+
+Phrase: "measurable levels of circulating DHEA"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   760   C0441889:Levels [Qualitative Concept]
+   726 E C0456079:Level [Classification]
+   726 E C1547707:Level [Geographic Area]
+   726 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "when"
+
+Phrase: "examined before sexual maturation"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0036887:Sexual Maturation [Organism Function]
+   770   C0036864:Sexual [Behavior]
+   770   C0332128:Examined [Finding]
+   770   C0678723:Maturation [Organism Function]
+   770   C0870861:maturation [Phenomenon or Process]
+   770   C1254042:Maturation [Physiologic Function]
+
+Phrase: "and"
+
+Phrase: "have"
+
+Phrase: "very low levels subsequently"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   812   C0441889:Levels [Qualitative Concept]
+   779 E C0456079:Level [Classification]
+   779 E C1547707:Level [Geographic Area]
+   779 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "(8"
+
+Phrase: ")."
+Processing 00000000.tx.27: Thus, the rodent is a potential model in which to explore the effects of high levels of DHEA that are seen in humans without interference from changes in endogenous levels. 
+
+Phrase: "Thus,"
+
+Phrase: "the rodent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0035804:Rodent [Mammal]
+
+Phrase: "is"
+
+Phrase: "a potential model in which to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C3161035:Model [Intellectual Product]
+
+Phrase: "explore"
+
+Phrase: "the effects of high levels of DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   748   C1280500:effects [Qualitative Concept]
+   714 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "seen in humans"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   790   C0086418:Humans [Human]
+   790   C0205397:Seen [Qualitative Concept]
+   756 E C0042789:see [Organism Function]
+   756 E C1947903:See [Activity]
+
+Phrase: "without interference"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0521102:Interference [Qualitative Concept]
+
+Phrase: "from changes"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0392747:changes [Functional Concept]
+  1000   C0443172:changes [Quantitative Concept]
+   966 E C1705241:Change [Quantitative Concept]
+
+Phrase: "in endogenous levels."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0441889:Levels [Qualitative Concept]
+   827 E C0456079:Level [Classification]
+   827 E C1547707:Level [Geographic Area]
+   827 E C2946261:Level [Pharmacologic Substance]
+Processing 00000000.tx.28: It can be argued, however, that the lack of circulating DHEAS in rodents also makes it a poor model because treatment with DHEA is not a replacement therapy but is supraphysiological (9). 
+
+Phrase: "It"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "argued"
+
+Phrase: ","
+
+Phrase: "however,"
+
+Phrase: "that"
+
+Phrase: "the lack of circulating DHEAS"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0332268:lack [Qualitative Concept]
+
+Phrase: "in rodents also"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0035804:Rodents [Mammal]
+
+Phrase: "makes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "it a poor model"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3161035:Model [Intellectual Product]
+
+Phrase: "because"
+
+Phrase: "treatment with DHEA"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   790   C0039798:treatment [Functional Concept]
+   790   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   790   C1522326:Treatment [Functional Concept]
+   790   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   790   C1705169:Treatment [Conceptual Entity]
+   790   C3538994:TREATMENT [Research Activity]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "a replacement therapy"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0279033:Replacement therapy [Therapeutic or Preventive Procedure]
+   861   C0035139:Replacement [Therapeutic or Preventive Procedure]
+   861   C0039798:therapy [Functional Concept]
+   861   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   861   C0559956:Replacement [Functional Concept]
+   861   C1363945:Therapy [Finding]
+   861   C1555302:Replacement [Idea or Concept]
+
+Phrase: "but"
+
+Phrase: "is"
+
+Phrase: "supraphysiological"
+
+Phrase: "(9"
+
+Phrase: ")."
+Processing 00000000.tx.29: Nonetheless, given the reported effects of DHEA on primate and rodent physiology, how might these effects of DHEA be mediated at the cellular level? 
+
+Phrase: "Nonetheless,"
+
+Phrase: "given"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1442162:GIVEN [Conceptual Entity]
+  1000   C1550718:given [Idea or Concept]
+  1000   C3244317:given [Intellectual Product]
+   966 E C1947971:Give [Functional Concept]
+
+Phrase: "the reported effects of DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C1280500:effects [Qualitative Concept]
+   726 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "on primate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033147:Primate [Mammal]
+
+Phrase: "and"
+
+Phrase: "rodent physiology,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0031842:Physiology [Biomedical Occupation or Discipline]
+   861   C0031843:physiology [Physiologic Function]
+   789 E C0205463:Physiologic [Functional Concept]
+
+Phrase: "how"
+
+Phrase: "might"
+
+Phrase: "these effects of DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   770   C1280500:effects [Qualitative Concept]
+   737 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "mediated at the cellular level?"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   760   C0007634:Cellular [Cell]
+   760   C0086597:mediated [Social Behavior]
+   760   C0127400:Mediated [Organic Chemical,Pharmacologic Substance]
+   760   C0178539:Cellular [Functional Concept]
+   760   C0441889:Level [Qualitative Concept]
+   760   C0456079:Level [Classification]
+   760   C1547707:Level [Geographic Area]
+   760   C2946261:Level [Pharmacologic Substance]
+Processing 00000000.tx.30: Binding studies demonstrated that DHEA binds the androgen receptor and the estrogen receptor, but with an affinity that is at least an order of magnitude less than that of the endogenous ligand (10, 11). 
+
+Phrase: "Binding studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "demonstrated"
+
+Phrase: "that DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "binds"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1145667:Bind [Activity]
+  1000   C1167622:bind [Molecular Function]
+
+Phrase: "the androgen receptor"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0034786:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+  1000   C1447749:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   861   C0002844:Androgen [Hormone,Pharmacologic Substance]
+   861   C0597357:receptor [Amino Acid, Peptide, or Protein,Receptor]
+   861   C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "the estrogen receptor,"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+  1000   C0034804:Estrogen receptor [Amino Acid, Peptide, or Protein,Receptor]
+  1000   C1414461:ESTROGEN RECEPTOR [Gene or Genome]
+  1000   C1521863:Estrogen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   861   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   861   C0597357:receptor [Amino Acid, Peptide, or Protein,Receptor]
+   861   C2936882:Estrogen [Pharmacologic Substance]
+   789 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "but with an affinity"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0233535:but [Mental or Behavioral Dysfunction]
+   770   C1510827:Affinity [Natural Phenomenon or Process]
+
+Phrase: "that"
+
+Phrase: "is at least"
+
+Phrase: "an order of magnitude less"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C1705175:Order [Intellectual Product]
+   760   C1705176:Order [Qualitative Concept]
+   760   C1705177:Order [Classification]
+   760   C1705178:Order [Activity]
+   760   C1882348:Order [Qualitative Concept]
+
+Phrase: "than that"
+
+Phrase: "of the endogenous ligand"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0023688:Ligand [Chemical]
+
+Phrase: "(10,"
+
+Phrase: "11"
+
+Phrase: ")."
+Processing 00000000.tx.31: Thus, the effects of DHEA do not appear to be mediated by direct binding of hormone to a currently known receptor type. 
+
+Phrase: "Thus,"
+
+Phrase: "the effects of DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   770   C1280500:effects [Qualitative Concept]
+   737 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "do"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "mediated by direct binding of hormone"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   783   C1148622:hormone binding [Molecular Function]
+   753   C0019932:Hormone [Hormone]
+   753   C0086597:mediated [Social Behavior]
+   753   C0127400:Mediated [Organic Chemical,Pharmacologic Substance]
+   753   C0243122:binding [Functional Concept]
+   753   C0439851:Direct [Qualitative Concept]
+   753   C1145667:Binding [Activity]
+   753   C1167622:Binding [Molecular Function]
+   753   C1947931:Direct [Qualitative Concept]
+
+Phrase: "to a currently known receptor type."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0332307:Type [Qualitative Concept]
+   812   C1547052:*Type [Quantitative Concept]
+Processing 00000000.tx.32: A recent study by Liu and Dillon (12) has demonstrated a high-affinity G protein-coupled DHEA receptor found in endothelial cells. 
+
+Phrase: "A recent study by Liu"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0557651:Study [Manufactured Object]
+   760   C2603343:Study [Research Activity]
+
+Phrase: "and"
+
+Phrase: "Dillon"
+
+Phrase: "(12"
+
+Phrase: ")"
+
+Phrase: "has"
+
+Phrase: "demonstrated"
+
+Phrase: "a high-affinity G protein-coupled DHEA receptor"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   879   C0682972:G Protein-Coupled Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   845   C0597357:protein receptor [Amino Acid, Peptide, or Protein,Receptor]
+           receptor
+   818   C0382246:dehydroepiandrosterone receptor [Amino Acid, Peptide, or Protein,Receptor]
+
+Phrase: "found in endothelial cells."
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   833   C0225336:Endothelial Cells [Cell]
+   770   C0007634:Cells [Cell]
+   770   C0014257:Endothelial [Tissue]
+   770   C0150312:Found [Quantitative Concept]
+   770   C3282337:Cells [Cell]
+   737 E C0243095:Find [Finding]
+   737 E C1269647:Cell [Cell]
+   737 E C1704653:Cell [Medical Device]
+   737 E C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.33: Such a finding will help in the search for a putative receptor mediating DHEA action. 
+
+Phrase: "Such"
+
+Phrase: "a finding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0037088:Finding [Sign or Symptom]
+  1000   C0243095:Finding [Finding]
+  1000   C2825141:Finding [Finding]
+
+Phrase: "will"
+
+Phrase: "help in the search"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0018896:Help [Social Behavior]
+   770   C1552603:search [Intellectual Product]
+   770   C1552861:help [Idea or Concept]
+   770   C1706202:Search [Activity]
+
+Phrase: "for a putative receptor"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0597357:receptor [Amino Acid, Peptide, or Protein,Receptor]
+
+Phrase: "mediating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0086597:Mediating [Social Behavior]
+
+Phrase: "DHEA action."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0441472:Action [Functional Concept]
+   861   C3266814:Action [Activity]
+Processing 00000000.tx.34: An alternative explanation for DHEA action on cellular function is through its metabolism to other steroids that do have a high affinity for estrogen and androgen receptors. 
+
+Phrase: "An alternative explanation for DHEA action"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0681841:Explanation [Intellectual Product]
+
+Phrase: "on cellular function"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0007613:Cellular Function [Cell Function]
+   861   C0031843:function [Physiologic Function]
+   861   C0542341:Function [Functional Concept]
+   861   C0700205:FUNCTION [Classification]
+   861   C1705273:Function [Intellectual Product]
+   789 E C0205245:Functional [Functional Concept]
+   789 E C2700217:Functional [Conceptual Entity]
+
+Phrase: "is through its metabolism"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0025519:Metabolism [Organism Function]
+   770   C0025520:metabolism [Functional Concept]
+
+Phrase: "to other steroids"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0038317:Steroids [Steroid]
+
+Phrase: "that"
+
+Phrase: "do"
+
+Phrase: "have"
+
+Phrase: "a high affinity for estrogen"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0205250:High [Qualitative Concept]
+   760   C1299351:High [Qualitative Concept]
+   760   C1510827:Affinity [Natural Phenomenon or Process]
+   760   C2700149:HIGH [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "androgen receptors."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0034786:Receptors, Androgen [Amino Acid, Peptide, or Protein,Receptor]
+   966 E C1447749:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   861   C0002844:Androgen [Hormone,Pharmacologic Substance]
+   861   C0597357:receptors [Amino Acid, Peptide, or Protein,Receptor]
+   861   C3536949:Androgen [Pharmacologic Substance]
+Processing 00000000.tx.35: As shown in Fig. 
+
+Phrase: "As"
+
+Phrase: "shown in Fig."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0349966:Fig [Food]
+   790   C1337208:FIG [Food]
+   756   C1547282:Show [Intellectual Product]
+Processing 00000000.tx.36: 1, DHEA can be converted to estrogen or testosterone in tissues that have the appropriate steroidogenic enzymes. 
+
+Phrase: "1,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "converted to estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   790   C2936882:Estrogen [Pharmacologic Substance]
+   718 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "or"
+
+Phrase: "testosterone in tissues"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C0039601:Testosterone [Hormone,Pharmacologic Substance,Steroid]
+   734 E C0113075:Depo-testosterone [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "the appropriate steroidogenic enzymes."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0014442:Enzymes [Enzyme,Organic Chemical]
+   827   C0014445:enzymes [Functional Concept]
+Processing 00000000.tx.37: This theory posits that circulating DHEA exists as a precursor pool for steroid hormone synthesis in appropriate tissues and under appropriate conditions. 
+
+Phrase: "This theory"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0871935:Theory [Idea or Concept]
+
+Phrase: "posits"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0814253:POSIT [Intellectual Product]
+
+Phrase: "that circulating DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   805 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "exists as a precursor pool"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0337051:Pool [Geographic Area]
+   760   C1509144:pool [Clinical Attribute]
+   760   C1709634:Precursor [Idea or Concept]
+   760   C2349200:Pool [Functional Concept]
+   760   C2987476:Exist [Conceptual Entity]
+
+Phrase: "for steroid hormone synthesis"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   913   C0597513:steroid synthesis [Molecular Function]
+   901   C0596715:hormone synthesis [Molecular Function]
+   827   C0220781:synthesis [Biologic Function]
+   827   C1883254:Synthesis [Activity]
+   734   C0301818:Steroid hormone [Hormone,Steroid]
+
+Phrase: "in appropriate tissues"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0040300:Tissues [Tissue]
+   827 E C1547928:Tissue [Intellectual Product]
+
+Phrase: "and under appropriate conditions."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C1515981:And [Idea or Concept]
+   770   C1548787:Appropriate [Qualitative Concept]
+   737   C0012634:condition [Disease or Syndrome]
+   737   C0348080:Condition [Qualitative Concept]
+   737   C1705253:Condition [Conceptual Entity]
+Processing 00000000.tx.38: These steroidogenic enzymes do exist in brain areas such as the hippocampus, thus raising the possibility that DHEA can be produced de novo in brain, or can be converted to another active steroid by local cellular metabolism (13). 
+
+Phrase: "These steroidogenic enzymes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0014442:Enzymes [Enzyme,Organic Chemical]
+   861   C0014445:enzymes [Functional Concept]
+
+Phrase: "do"
+
+Phrase: "exist in brain areas"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   770   C0006104:Brain [Body Part, Organ, or Organ Component]
+   770   C0205146:areas [Spatial Concept]
+   770   C1269537:Brain [Body Part, Organ, or Organ Component]
+   770   C2987476:Exist [Conceptual Entity]
+   737 E C0017446:Area [Geographic Area]
+
+Phrase: "such as the hippocampus,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0019564:Hippocampus [Body Part, Organ, or Organ Component]
+  1000   C0949582:Hippocampus [Fish]
+  1000   C1029104:Hippocampus [Fish]
+  1000   C1284077:Hippocampus [Body Part, Organ, or Organ Component]
+
+Phrase: "thus"
+
+Phrase: "raising"
+
+Phrase: "the possibility"
+
+Phrase: "that DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "produced"
+
+Phrase: "de novo in brain,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   833   C1515568:de novo [Idea or Concept]
+   770   C0011198:DE [Geographic Area]
+   770   C0017480:DE [Geographic Area]
+   770   C3541240:DE [Idea or Concept]
+
+Phrase: "or"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "converted to another active steroid"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0038317:Steroid [Steroid]
+   760   C0205177:Active [Functional Concept]
+
+Phrase: "by local cellular metabolism"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C1524026:cellular metabolism [Cell Function]
+   827   C0025519:Metabolism [Organism Function]
+   827   C0025520:metabolism [Functional Concept]
+
+Phrase: "(13"
+
+Phrase: ")."
+Processing 00000000.tx.39: View larger version (17K): [in this window] [in a new window]  FIG. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "larger version"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0333052:Version [Functional Concept]
+   861   C2607870:Version [Spatial Concept]
+
+Phrase: "(17K"
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  FIG."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0349966:Fig [Food]
+  1000   C1337208:FIG [Food]
+Processing 00000000.tx.40: 1. 
+
+Phrase: "1."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+Processing 00000000.tx.41: Steroidogenic pathway showing the central position of DHEA in the synthesis of testosterone and estradiol. 
+
+Phrase: "Steroidogenic pathway"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1704259:Pathway [Molecular Function]
+   861   C1705987:Pathway [Conceptual Entity]
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "the central position of DHEA"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0733755:Position [Spatial Concept]
+
+Phrase: "in the synthesis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0220781:synthesis [Biologic Function]
+  1000   C1883254:Synthesis [Activity]
+
+Phrase: "of testosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0039601:Testosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0113075:Depo-testosterone [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "and"
+
+Phrase: "estradiol."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0014912:Estradiol [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0699352:Estrace [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0878472:Progynon [Hormone,Pharmacologic Substance,Steroid]
+Processing 00000000.tx.42: Some of the enzymes responsible for synthesis are designated by letters near arrows. 
+
+Phrase: "Some of the enzymes"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0014442:Enzymes [Enzyme,Organic Chemical]
+   770   C0014445:enzymes [Functional Concept]
+   770   C0205392:Some [Quantitative Concept]
+   770   C3540770:Some [Intellectual Product]
+
+Phrase: "responsible for synthesis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1273518:Responsible [Finding]
+
+Phrase: "are"
+
+Phrase: "designated by letters"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   790   C0282413:letters [Intellectual Product]
+   790   C1524084:Designated [Functional Concept]
+   756 E C1096774:Letter [Intellectual Product]
+   756 E C2360551:Letter [Clinical Attribute]
+   718 E C0079691:Levothyroxine Sodium [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+
+Phrase: "near arrows."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0336721:arrows [Manufactured Object]
+Processing 00000000.tx.43: A, 3-Hydroxysteroid dehydrogenase; 
+
+Phrase: "A,"
+
+Phrase: "3-Hydroxysteroid dehydrogenase"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0000413:3-hydroxysteroid dehydrogenase [Amino Acid, Peptide, or Protein,Enzyme]
+   901   C0020392:hydroxysteroid dehydrogenase [Amino Acid, Peptide, or Protein,Enzyme]
+   827   C0020393:hydroxysteroid [Steroid]
+   827   C0030016:Dehydrogenase [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: ";"
+Processing 00000000.tx.44: B, 17 hydroxysteroid dehydrogenase III; 
+
+Phrase: "B,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+
+Phrase: "17 hydroxysteroid dehydrogenase III"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   812   C0439070:III [Intellectual Product]
+   812   C1705160:III [Qualitative Concept]
+   756   C0000165:17-hydroxysteroid dehydrogenase [Amino Acid, Peptide, or Protein,Enzyme]
+   756   C0525733:17-hydroxysteroid dehydrogenase [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: ";"
+Processing 00000000.tx.45: C, P450 aromatase; 
+
+Phrase: "C,"
+
+Phrase: "P450 aromatase"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0003805:Aromatase [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C0010762:P450 [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C0534137:P450 [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C1366496:AROMATASE [Gene or Genome]
+
+Phrase: ";"
+Processing 00000000.tx.46: D, 5-reductase.  
+
+Phrase: "D,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0073187:D NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "5-reductase."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030016:Reductase [Amino Acid, Peptide, or Protein,Enzyme]
+Processing 00000000.tx.47: In the paper by Hajszan et al. 
+
+Phrase: "In the paper"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0030351:Paper [Manufactured Object]
+  1000   C1547566:Paper [Idea or Concept]
+
+Phrase: "by Hajszan et al."
+Processing 00000000.tx.48: (1), a role for DHEA in the growth of dendritic spines in the hippocampus is shown. 
+
+Phrase: "(1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "a role for DHEA"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0035820:Role [Social Behavior]
+   770   C1705810:Role [Conceptual Entity]
+
+Phrase: "in the growth"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0018270:'growth' NOS [Organism Function]
+  1000   C0220844:growth [Physiologic Function]
+  1000   C1621966:Growth [Organ or Tissue Function]
+  1000   C2911660:Growth [Activity]
+
+Phrase: "of dendritic spines"
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+  1000   C0872341:Dendritic Spines [Cell Component]
+   861   C0011305:Dendritic [Cell Component]
+   861   C0037949:spines [Body Part, Organ, or Organ Component]
+   861   C0439640:Dendritic [Qualitative Concept]
+   827 E C1267072:Spine [Body Part, Organ, or Organ Component]
+   827 E C1280065:Spine [Body Part, Organ, or Organ Component]
+   827 E C2752558:spine [Cell Component]
+   777 E C0521329:Spinal [Spatial Concept]
+
+Phrase: "in the hippocampus"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0019564:Hippocampus [Body Part, Organ, or Organ Component]
+  1000   C0949582:Hippocampus [Fish]
+  1000   C1029104:Hippocampus [Fish]
+  1000   C1284077:Hippocampus [Body Part, Organ, or Organ Component]
+
+Phrase: "is"
+
+Phrase: "shown."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+Processing 00000000.tx.49: Dendritic spines are small bulbous protrusions on short stalks on dendrites. 
+
+Phrase: "Dendritic spines"
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+  1000   C0872341:Dendritic Spines [Cell Component]
+   861   C0011305:Dendritic [Cell Component]
+   861   C0037949:spines [Body Part, Organ, or Organ Component]
+   861   C0439640:Dendritic [Qualitative Concept]
+   827 E C1267072:Spine [Body Part, Organ, or Organ Component]
+   827 E C1280065:Spine [Body Part, Organ, or Organ Component]
+   827 E C2752558:spine [Cell Component]
+   777 E C0521329:Spinal [Spatial Concept]
+
+Phrase: "are"
+
+Phrase: "small bulbous protrusions on short stalks"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0333056:PROTRUSIONS [Anatomical Abnormality]
+
+Phrase: "on dendrites."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0011305:Dendrites [Cell Component]
+Processing 00000000.tx.50: Most excitatory input to the hippocampus occurs on dendritic spines. 
+
+Phrase: "Most excitatory input to the hippocampus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1708517:Input [Conceptual Entity]
+
+Phrase: "occurs on dendritic spines."
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+   833   C0872341:Dendritic Spines [Cell Component]
+   770   C0011305:Dendritic [Cell Component]
+   770   C0037949:spines [Body Part, Organ, or Organ Component]
+   770   C0439640:Dendritic [Qualitative Concept]
+   770   C1709305:Occur [Activity]
+   770   C2745955:OCCUR [Temporal Concept]
+   737 E C1267072:Spine [Body Part, Organ, or Organ Component]
+   737 E C1280065:Spine [Body Part, Organ, or Organ Component]
+   737 E C2752558:spine [Cell Component]
+Processing 00000000.tx.51: Recent studies have shown that dendritic spines are highly mobile structures that also appear and disappear over the course of days depending on synaptic inputs (14). 
+
+Phrase: "Recent studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "have"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "that dendritic spines"
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+  1000   C0872341:Dendritic Spines [Cell Component]
+   861   C0011305:Dendritic [Cell Component]
+   861   C0037949:spines [Body Part, Organ, or Organ Component]
+   861   C0439640:Dendritic [Qualitative Concept]
+   827 E C1267072:Spine [Body Part, Organ, or Organ Component]
+   827 E C1280065:Spine [Body Part, Organ, or Organ Component]
+   827 E C2752558:spine [Cell Component]
+   777 E C0521329:Spinal [Spatial Concept]
+
+Phrase: "are"
+
+Phrase: "highly mobile"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0231435:Mobile [Functional Concept]
+   861   C1552449:Mobile [Health Care Related Organization,Manufactured Object]
+
+Phrase: "structures"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0678594:Structure [Spatial Concept]
+
+Phrase: "that also"
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "disappear over the course of days"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   753   C0439228:days [Temporal Concept]
+   753   C0750729:Course [Temporal Concept]
+   719 E C0332173:/day [Temporal Concept]
+   719 E C0439505:/day [Temporal Concept]
+
+Phrase: "depending on synaptic inputs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   737   C0725813:depend [Medical Device]
+   737   C1708517:Input [Conceptual Entity]
+
+Phrase: "(14"
+
+Phrase: ")."
+Processing 00000000.tx.52: Time-lapse images of dendritic spine movements have been made by a number of groups. 
+
+Phrase: "Time-lapse images of dendritic spine movements"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   714   C1704254:Image [Intellectual Product]
+   714   C1704922:Image [Entity]
+   714   C3542466:Image [Intellectual Product]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "made by a number of groups."
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   783   C0441835:Group A [Classification]
+   783   C2985777:Group Number [Quantitative Concept]
+   753   C0237753:*Number [Quantitative Concept]
+   753   C0441833:Group [Idea or Concept]
+   753   C0449788:Number [Quantitative Concept]
+   753   C0687744:group [Population Group]
+   753   C1257890:Group [Population Group]
+   753   C1552516:Group [Health Care Related Organization]
+   753   C1552839:groups [Idea or Concept]
+   753   C1705428:Group [Conceptual Entity]
+   753   C1705429:Group [Population Group]
+   719   C1881534:Make [Functional Concept]
+Processing 00000000.tx.53: An example of these can be visualized at the following web site: http://www.fmi.ch/members/andrew.matus/video.actin.dynamics.htm. 
+
+Phrase: "An example of these"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1707959:Example [Conceptual Entity]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "visualized at the following web site"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   790   C2349146:Web Site [Intellectual Product]
+   753   C0205145:Site [Spatial Concept]
+   753   C0234621:Visualized [Functional Concept]
+   753   C0282111:Web [Manufactured Object]
+   753   C1515974:Site [Body Location or Region]
+   753   C2825164:Site [Spatial Concept]
+   719   C0332283:follow [Temporal Concept]
+   719   C1719822:Follow [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "http"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1555015:HTTP [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "//www.fmi.ch/members/andrew.matus/video.actin.dynamics.htm."
+Processing 00000000.tx.54: Changes in the number of dendritic spines, the size of the spine head, the length of the stalk, and synaptic appositions occur after treatment with estrogen in ovariectomized female rats (15, 16, 17), through activation of N-methyl-D-aspartate receptors (18, 19) and a decrease in -aminobutyric acid-mediated inhibition (20). 
+
+Phrase: "Changes in the number of dendritic spines,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   748   C0392747:changes [Functional Concept]
+   748   C0443172:changes [Quantitative Concept]
+   714 E C1705241:Change [Quantitative Concept]
+
+Phrase: "the size of the spine head,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   851   C0424686:Size of the head [Finding]
+           Head size
+   753   C0456389:size [Spatial Concept]
+
+Phrase: "the length of the stalk,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1444754:Length [Quantitative Concept]
+   760   C1706316:LENGTH [Research Activity]
+
+Phrase: "and"
+
+Phrase: "synaptic appositions"
+
+Phrase: "occur after treatment"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   882   C0001758:After-Treatment [Health Care Activity]
+   790   C0039798:treatment [Functional Concept]
+   790   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   790   C1522326:Treatment [Functional Concept]
+   790   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   790   C1705169:Treatment [Conceptual Entity]
+   790   C1709305:Occur [Activity]
+   790   C2745955:OCCUR [Temporal Concept]
+   790   C3538994:TREATMENT [Research Activity]
+
+Phrase: "with estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+  1000   C2936882:Estrogen [Pharmacologic Substance]
+   928 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "in ovariectomized female rats"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0034693:rats [Mammal]
+   827   C0034721:Rats [Mammal]
+
+Phrase: "(15,"
+
+Phrase: "16,"
+
+Phrase: "17"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "through activation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1879547:Activation [Activity]
+
+Phrase: "of N-methyl-"
+
+Phrase: "D-"
+
+Phrase: "aspartate receptors"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0052536:aspartate receptors [Amino Acid, Peptide, or Protein,Receptor]
+   861   C0597357:receptors [Amino Acid, Peptide, or Protein,Receptor]
+
+Phrase: "(18,"
+
+Phrase: "19"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "a decrease in -aminobutyric acid-mediated inhibition"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   799   C0021467:Inhibition [Mental Process]
+   799   C0021469:Inhibition [Molecular Function]
+   799   C1628982:% inhibition [Quantitative Concept]
+   799   C3463820:Inhibition [Activity]
+   727 E C0311403:Inhibited [Qualitative Concept]
+
+Phrase: "(20"
+
+Phrase: ")."
+Processing 00000000.tx.55: Recent work has also implicated androgen receptors in the modulation of spine density in male rats (21). 
+
+Phrase: "Recent work"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0043227:Work [Occupational Activity]
+
+Phrase: "has"
+
+Phrase: "also implicated androgen receptors in the modulation of spine density"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   760   C0034786:Receptors, Androgen [Amino Acid, Peptide, or Protein,Receptor]
+   741   C0599283:receptor density [Genetic Function]
+   739   C0002844:Androgen [Hormone,Pharmacologic Substance]
+   739   C0597357:receptors [Amino Acid, Peptide, or Protein,Receptor]
+   739   C3536949:Androgen [Pharmacologic Substance]
+   726 E C1447749:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+
+Phrase: "in male rats"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0034693:rats [Mammal]
+   861   C0034721:Rats [Mammal]
+
+Phrase: "(21"
+
+Phrase: ")."
+Processing 00000000.tx.56: In the paper by Hajszan et al. 
+
+Phrase: "In the paper"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0030351:Paper [Manufactured Object]
+  1000   C1547566:Paper [Idea or Concept]
+
+Phrase: "by Hajszan et al."
+Processing 00000000.tx.57: (1), the data presented suggest that DHEA treatment increased CA1 spine synapse density, an effect that was blocked by a nonsteroidal aromatase inhibitor. 
+
+Phrase: "(1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "the data"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1511726:Data [Idea or Concept]
+  1000   C3245479:data [Medical Device]
+
+Phrase: "presented"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0449450:Presented [Idea or Concept]
+   966 E C0150312:Present [Quantitative Concept]
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that DHEA treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   861   C0039798:treatment [Functional Concept]
+   861   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   861   C1522326:Treatment [Functional Concept]
+   861   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   861   C1705169:Treatment [Conceptual Entity]
+   861   C3538994:TREATMENT [Research Activity]
+
+Phrase: "increased"
+Meta Candidates (Total=8; Excluded=6; Pruned=0; Remaining=2)
+  1000   C0205217:Increased [Quantitative Concept]
+  1000   C0442805:Increased [Functional Concept]
+   928 E C1517378:Gain [Quantitative Concept]
+   907 E C0439661:Acquired [Temporal Concept]
+   907 E C0442808:Increasing [Functional Concept]
+   907 E C1301820:Obtain [Functional Concept]
+   907 E C1706701:Acquire [Activity]
+   907 E C3245488:acquired [Intellectual Product]
+
+Phrase: "CA1 spine synapse density,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0178587:density [Quantitative Concept]
+   741 E C0439794:Dense [Qualitative Concept]
+
+Phrase: "an effect"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1280500:Effect [Qualitative Concept]
+  1000   C2348382:Effect [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "was"
+
+Phrase: "blocked by a nonsteroidal aromatase inhibitor."
+Meta Candidates (Total=13; Excluded=3; Pruned=0; Remaining=10)
+   833   C1518386:Non-Steroidal Aromatase Inhibitor [Pharmacologic Substance]
+   790   C0593802:Aromatase inhibitor [Pharmacologic Substance]
+   790   C2757060:Aromatase Inhibitor [Molecular Function]
+   790   C3536820:Aromatase Inhibitor [Pharmacologic Substance]
+   753   C0003805:Aromatase [Amino Acid, Peptide, or Protein,Enzyme]
+   753   C0028778:Blocked [Pathologic Function]
+   753   C0332206:Blocked [Functional Concept]
+   753   C1366496:AROMATASE [Gene or Genome]
+   753   C1999216:Inhibitor [Qualitative Concept]
+   753   C2983591:BLOCKED [Research Activity]
+   719 E C1533157:Block [Substance]
+   719 E C1706084:Block [Geographic Area]
+   719 E C2828370:Block [Quantitative Concept]
+Processing 00000000.tx.58: The authors propose that the ability of DHEA to increase spine density is therefore mediated by the aromatization of DHEA in the brain, and could be through activation of either estrogen or androgen receptors. 
+
+Phrase: "The authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "propose"
+
+Phrase: "that"
+
+Phrase: "the ability of DHEA to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0085732:Ability [Organism Attribute]
+
+Phrase: "increase"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "spine density"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0178587:density [Quantitative Concept]
+   789 E C0439794:Dense [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "therefore"
+
+Phrase: "mediated by the aromatization of DHEA"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   753   C0086597:mediated [Social Behavior]
+   753   C0127400:Mediated [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "in the brain,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0006104:Brain [Body Part, Organ, or Organ Component]
+  1000   C1269537:Brain [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "could"
+
+Phrase: "be through activation of either estrogen"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   753   C1879547:Activation [Activity]
+   753   C2936882:Estrogen [Pharmacologic Substance]
+   753   C2987476:Be [Conceptual Entity]
+
+Phrase: "or"
+
+Phrase: "androgen receptors."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0034786:Receptors, Androgen [Amino Acid, Peptide, or Protein,Receptor]
+   966 E C1447749:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   861   C0002844:Androgen [Hormone,Pharmacologic Substance]
+   861   C0597357:receptors [Amino Acid, Peptide, or Protein,Receptor]
+   861   C3536949:Androgen [Pharmacologic Substance]
+Processing 00000000.tx.59: Although estrogen can increase spine density in female rats, this does not seem to take place in male rats (22). 
+
+Phrase: "Although"
+
+Phrase: "estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+  1000   C2936882:Estrogen [Pharmacologic Substance]
+   928 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "can"
+
+Phrase: "increase"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "spine density in female rats,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0178587:density [Quantitative Concept]
+
+Phrase: "this"
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "seem"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "take"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: "place in male rats"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0442504:Place [Spatial Concept]
+   770   C1704765:Place [Functional Concept]
+   770   C1882509:Place [Activity]
+   770   C3496241:place [Disease or Syndrome]
+
+Phrase: "(22"
+
+Phrase: ")."
+Processing 00000000.tx.60: In males, it appears that androgen receptor activation is the prime mechanism for spine growth (21). 
+
+Phrase: "In males,"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0024554:Males [Finding]
+  1000   C0086582:Males [Population Group]
+   966 E C1706180:Male [Qualitative Concept]
+   966 E C1706428:Male [Qualitative Concept]
+   966 E C1706429:Male [Organism Attribute]
+
+Phrase: "it"
+
+Phrase: "appears"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "that androgen receptor activation"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C1514758:Receptor Activation [Cell Function]
+   827   C1879547:Activation [Activity]
+   734   C0034786:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   734   C1447749:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+
+Phrase: "is"
+
+Phrase: "the prime mechanism for spine growth"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0441712:Mechanism [Functional Concept]
+   753   C1706376:Mechanism [Manufactured Object]
+
+Phrase: "(21"
+
+Phrase: ")."
+Processing 00000000.tx.61: This raises the question of whether DHEA, a precursor for both estrogens and androgens, can work equally well in both males and females. 
+
+Phrase: "This"
+
+Phrase: "raises"
+
+Phrase: "the question of"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1522634:Question [Intellectual Product]
+
+Phrase: "whether"
+
+Phrase: "DHEA,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "a precursor for both estrogens"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1709634:Precursor [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "androgens,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0002844:Androgens [Hormone,Pharmacologic Substance]
+   966 E C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "can"
+
+Phrase: "work"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0043227:Work [Occupational Activity]
+
+Phrase: "equally well in both males"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   760   C0024554:Males [Finding]
+   760   C0086582:Males [Population Group]
+   760   C0205170:Well [Qualitative Concept]
+   760   C3146287:Well [Manufactured Object]
+   726 E C1706180:Male [Qualitative Concept]
+   726 E C1706428:Male [Qualitative Concept]
+   726 E C1706429:Male [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "females."
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0015780:Females [Finding]
+  1000   C0086287:Females [Population Group]
+   966 E C0043210:female [Population Group]
+   966 E C1705497:Female [Qualitative Concept]
+   966 E C1705498:Female [Qualitative Concept]
+Processing 00000000.tx.62: And, if so, are the intracellular processes mediating this action similar in both sexes? 
+
+Phrase: "And"
+
+Phrase: ","
+
+Phrase: "if"
+
+Phrase: "so,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0037640:SO [Geographic Area]
+
+Phrase: "are"
+
+Phrase: "the intracellular processes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1184743:Process [Body Part, Organ, or Organ Component]
+   827   C1522240:Process [Phenomenon or Process]
+
+Phrase: "mediating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0086597:Mediating [Social Behavior]
+
+Phrase: "this action"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0441472:Action [Functional Concept]
+  1000   C3266814:Action [Activity]
+
+Phrase: "similar in both sexes?"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C2348205:Similar [Qualitative Concept]
+Processing 00000000.tx.63: What are the implications of these results? 
+
+Phrase: "What"
+
+Phrase: "are"
+
+Phrase: "the implications of these results?"
+Processing 00000000.tx.64: The hippocampus is a brain region involved in learning, memory, and cognitive function, and it also shows pronounced changes during aging and in pathological disease states, such as Alzheimers disease, related to aging and cognition. 
+
+Phrase: "The hippocampus"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0019564:Hippocampus [Body Part, Organ, or Organ Component]
+  1000   C0949582:Hippocampus [Fish]
+  1000   C1029104:Hippocampus [Fish]
+  1000   C1284077:Hippocampus [Body Part, Organ, or Organ Component]
+
+Phrase: "is"
+
+Phrase: "a brain region"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C1273723:Brain region [Body Location or Region]
+   861   C0006104:Brain [Body Part, Organ, or Organ Component]
+   861   C0017446:Region [Geographic Area]
+   861   C0205147:Region [Spatial Concept]
+   861   C1269537:Brain [Body Part, Organ, or Organ Component]
+   789 E C0205276:Regional [Spatial Concept]
+   789 E C1947913:Regional [Spatial Concept]
+
+Phrase: "involved in learning,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0013621:learning [Educational Activity]
+   790   C0023185:Learning [Mental Process]
+   790   C1314939:Involved [Functional Concept]
+
+Phrase: "memory,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0025260:Memory [Mental Process]
+  1000   C0700327:memory [Finding]
+  1000   C1706377:Memory [Manufactured Object]
+   944 E C0679055:mnemonic [Mental Process]
+
+Phrase: "and"
+
+Phrase: "cognitive function,"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C0392335:cognitive function [Mental Process]
+   861   C0031843:function [Physiologic Function]
+   861   C0542341:Function [Functional Concept]
+   861   C0700205:FUNCTION [Classification]
+   861   C1516691:Cognitive [Functional Concept]
+   861   C1705273:Function [Intellectual Product]
+   789 E C0205245:Functional [Functional Concept]
+   789 E C2700217:Functional [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "it also"
+
+Phrase: "shows"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "pronounced changes during aging"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0392747:changes [Functional Concept]
+   770   C0443172:changes [Quantitative Concept]
+   737 E C1705241:Change [Quantitative Concept]
+
+Phrase: "and in pathological disease states,"
+Meta Candidates (Total=10; Excluded=5; Pruned=0; Remaining=5)
+   760   C0012634:Disease [Disease or Syndrome]
+   760   C0030664:Pathological [Biomedical Occupation or Discipline]
+   760   C1301808:states [Geographic Area]
+   760   C1515981:And [Idea or Concept]
+   760   C1521733:Pathological [Functional Concept]
+   726 E C1442792:State [Functional Concept]
+   726 E C3148680:State [Geographic Area]
+   704 E C1836721:MALS [Finding]
+   704 E C3538764:MALS [Gene or Genome]
+   704 E C3540595:MAL [Gene or Genome]
+
+Phrase: "such as Alzheimers disease,"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0002395:Alzheimers disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "related to aging"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0001811:Ageing [Organism Function]
+   790   C0439849:Related [Qualitative Concept]
+   790   C0445223:Related [Finding]
+   756 E C0163712:Relate [Organic Chemical]
+
+Phrase: "and"
+
+Phrase: "cognition."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0009240:Cognition [Mental Process]
+   916 E C2981149:Intellect [Mental Process]
+   907 E C0233698:Noesis [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.65: Estrogen and DHEA have been shown to enhance memory and learning functions (23, 24, 25) and prevent damage due to anoxia (26, 27) and glutamate-induced toxicity (28, 29). 
+
+Phrase: "Estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+  1000   C2936882:Estrogen [Pharmacologic Substance]
+   928 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "enhance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2349975:Enhance [Activity]
+
+Phrase: "memory"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0025260:Memory [Mental Process]
+  1000   C0700327:memory [Finding]
+  1000   C1706377:Memory [Manufactured Object]
+   944 E C0679055:mnemonic [Mental Process]
+
+Phrase: "and"
+
+Phrase: "learning functions"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+   861   C0542341:Functions [Functional Concept]
+   827 E C0031843:function [Physiologic Function]
+   827 E C0700205:FUNCTION [Classification]
+   827 E C1705273:Function [Intellectual Product]
+   777 E C0205245:Functional [Functional Concept]
+   777 E C2700217:Functional [Conceptual Entity]
+
+Phrase: "(23,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450348:23 [Quantitative Concept]
+
+Phrase: "24,"
+
+Phrase: "25"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "prevent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0309872:PREVENT [Pharmacologic Substance]
+
+Phrase: "damage due to anoxia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0010957:Damage [Injury or Poisoning]
+   770   C1883709:Damage [Functional Concept]
+
+Phrase: "(26,"
+
+Phrase: "27"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "glutamate-induced toxicity"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+   827   C0040539:toxicity [Qualitative Concept]
+   827   C0600688:Toxicity [Injury or Poisoning]
+   755 E C1407029:Toxic [Qualitative Concept]
+   734 E C0032346:Poison [Hazardous or Poisonous Substance]
+   734 E C1548769:Poison [Intellectual Product]
+   734 E C1550590:poison [Idea or Concept]
+
+Phrase: "(28,"
+
+Phrase: "29"
+
+Phrase: ")."
+Processing 00000000.tx.66: DHEA levels and estrogen levels decrease during aging and have also been implicated in etiology and treatment of the damage induced by Alzheimers disease (30, 31, 32). 
+
+Phrase: "DHEA levels"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+   861   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   861   C0441889:Levels [Qualitative Concept]
+   827 E C0456079:Level [Classification]
+   827 E C1547707:Level [Geographic Area]
+   827 E C2946261:Level [Pharmacologic Substance]
+   805 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "estrogen levels"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   861   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   861   C0441889:Levels [Qualitative Concept]
+   861   C2936882:Estrogen [Pharmacologic Substance]
+   827 E C0456079:Level [Classification]
+   827 E C1547707:Level [Geographic Area]
+   827 E C2946261:Level [Pharmacologic Substance]
+   789 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "decrease during aging"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0001811:Ageing [Organism Function]
+   790   C0392756:Decrease [Qualitative Concept]
+   790   C0547047:Decrease [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "have"
+
+Phrase: "also"
+
+Phrase: "been"
+
+Phrase: "implicated in etiology"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0015127:aetiology [Functional Concept]
+   790   C1314792:Aetiology [Functional Concept]
+   790   C1524003:Etiology [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "treatment of the damage induced"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0039798:treatment [Functional Concept]
+   760   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   760   C1522326:Treatment [Functional Concept]
+   760   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   760   C1705169:Treatment [Conceptual Entity]
+   760   C3538994:TREATMENT [Research Activity]
+
+Phrase: "by Alzheimers disease"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0002395:Alzheimers disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(30,"
+
+Phrase: "31,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450355:31 [Intellectual Product]
+
+Phrase: "32"
+
+Phrase: ")."
+Processing 00000000.tx.67: The results regarding the changes in spine density in hippocampal dendrites reviewed above are intriguing, but there is still a large gap between these data and how they may be involved, or not, in the changes seen in the behaviors, anoxia, toxicity, and Alzheimers disease. 
+
+Phrase: "The results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1274040:Result [Functional Concept]
+   966   C1546471:Result [Idea or Concept]
+   966   C2825142:Result [Finding]
+
+Phrase: "regarding"
+
+Phrase: "the changes in spine density"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   797   C0541594:changes density [Qualitative Concept]
+   790   C0025320:The change [Physiologic Function]
+   760   C0392747:changes [Functional Concept]
+   760   C0443172:changes [Quantitative Concept]
+   726 E C1705241:Change [Quantitative Concept]
+
+Phrase: "in hippocampal dendrites"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0011305:Dendrites [Cell Component]
+
+Phrase: "reviewed"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0282443:reviewed [Intellectual Product]
+  1000   C1709940:Reviewed [Qualitative Concept]
+   966 E C1552617:Review [Idea or Concept]
+
+Phrase: "above"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1282910:Above [Spatial Concept]
+  1000   C1552828:above [Idea or Concept]
+
+Phrase: "are"
+
+Phrase: "intriguing,"
+
+Phrase: "but"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "still"
+
+Phrase: "a large gap between these data"
+
+Phrase: "and"
+
+Phrase: "how"
+
+Phrase: "they"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "involved"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involved [Functional Concept]
+
+Phrase: ","
+
+Phrase: "or"
+
+Phrase: "not,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "in the changes"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0392747:changes [Functional Concept]
+  1000   C0443172:changes [Quantitative Concept]
+   966 E C1705241:Change [Quantitative Concept]
+
+Phrase: "seen in the behaviors,"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   770   C0004927:Behaviors [Individual Behavior]
+   770   C0205397:Seen [Qualitative Concept]
+   770   C0677505:behaviors [Finding]
+   737 E C0042789:see [Organism Function]
+   737 E C1947903:See [Activity]
+   737 E C2707008:Behavior [Clinical Attribute]
+
+Phrase: "anoxia,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0003130:Anoxia [Pathologic Function]
+
+Phrase: "toxicity,"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+  1000   C0040539:toxicity [Qualitative Concept]
+  1000   C0600688:Toxicity [Injury or Poisoning]
+   928 E C1407029:Toxic [Qualitative Concept]
+   907 E C0032346:Poison [Hazardous or Poisonous Substance]
+   907 E C1548769:Poison [Intellectual Product]
+   907 E C1550590:poison [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "Alzheimers disease."
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0002395:Alzheimers disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.68: These studies and the one reported in this issue by Hajszan et al. 
+
+Phrase: "These studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "and"
+
+Phrase: "the one"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "reported in this issue"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   770   C0033213:Issue [Finding]
+   770   C0684224:Reported [Intellectual Product]
+   770   C0700287:Reported [Health Care Activity]
+   770   C1706387:Issue [Intellectual Product]
+   770   C3496591:Reported [Clinical Attribute]
+   737 E C3273238:Report [Intellectual Product]
+
+Phrase: "by Hajszan et al."
+Processing 00000000.tx.69: (1) are certainly exciting and are motivating to push forward in determining how the spine-altering effects of estrogen, androgens, and the endogenous substance DHEA may be involved in these complex processes.  
+
+Phrase: "(1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: "are"
+
+Phrase: "certainly exciting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0549255:Excite [Activity]
+
+Phrase: "and"
+
+Phrase: "are"
+
+Phrase: "motivating to push"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1719958:Push [Functional Concept]
+
+Phrase: "forward in determining how"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0439780:Forward [Spatial Concept]
+
+Phrase: "the spine-altering effects of estrogen,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   783   C0877035:Estrogen Effects [Finding]
+   753   C1280500:effects [Qualitative Concept]
+   719 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "androgens,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0002844:Androgens [Hormone,Pharmacologic Substance]
+   966 E C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "the endogenous substance DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   771 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "involved in these complex processes."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0439855:Complex [Qualitative Concept]
+   760   C1314939:Involved [Functional Concept]
+   760   C1704241:Complex [Chemical Viewed Structurally]
+   726   C1184743:Process [Body Part, Organ, or Organ Component]
+   726   C1522240:Process [Phenomenon or Process]
+Processing 00000000.tx.70: Footnotes  Abbreviations: DHEA, Dehydroepiandrosterone; 
+
+Phrase: "Footnotes  Abbreviations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0000723:Abbreviations [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "DHEA,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "Dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: ";"
+Processing 00000000.tx.71: DHEAS, DHEA-sulfate. 
+
+Phrase: "DHEAS,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011185:dheas [Hormone,Pharmacologic Substance,Steroid]
+  1000   C0201983:DHEA-S [Laboratory Procedure]
+
+Phrase: "DHEA-sulfate."
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+  1000   C0057277:Dehydroepiandrosterone Sulfate [Biologically Active Substance,Pharmacologic Substance,Steroid]
+  1000   C0201983:Dehydroepiandrosterone Sulfate [Laboratory Procedure]
+   861   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   861   C0038720:Sulfate [Inorganic Chemical]
+   861   C0475337:sulfate [Element, Ion, or Isotope,Inorganic Chemical]
+   861   C3536965:SULFATE [Element, Ion, or Isotope]
+   805 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+Processing 00000000.tx.72: Received December 16, 2003. 
+
+Phrase: "Received December 16,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1514756:Received [Qualitative Concept]
+
+Phrase: "2003."
+Processing 00000000.tx.73: Accepted for publication December 31, 2003.  
+
+Phrase: "Accepted for publication December 31,"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C0450355:31 [Intellectual Product]
+   760   C1272684:Accepted [Qualitative Concept]
+   760   C1548435:Accepted [Idea or Concept]
+   760   C1704324:Publication [Intellectual Product]
+   726 E C1548601:Accept [Idea or Concept]
+
+Phrase: "2003."
+Processing 00000000.tx.74: References Top References  Hajszan T, MacLusky NJ, Leranth C 2004 Dehydroepiandrosterone increases hippocampal spine synapse density in ovariectomized female rats. 
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Top"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1704458:Top [Spatial Concept]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Hajszan T,"
+
+Phrase: "MacLusky NJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0027971:NJ [Geographic Area]
+
+Phrase: "Leranth C 2004 Dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "increases"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "hippocampal spine synapse density in ovariectomized female rats."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0178587:density [Quantitative Concept]
+Processing 00000000.tx.75: Endocrinology 145:10421045[Abstract/Free FullText] Vinson GP, Whitehouse BJ, Hinson JP 2000 Adrenal cortex. 
+
+Phrase: "Endocrinology 145"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0014137:Endocrinology [Biomedical Occupation or Discipline]
+   789 E C0694557:endocrinologic [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "10421045"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Vinson GP,"
+
+Phrase: "Whitehouse BJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0005005:BJ [Geographic Area]
+
+Phrase: "Hinson JP 2000 Adrenal cortex."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   840   C0001613:Adrenal Cortex [Body Part, Organ, or Organ Component]
+   804   C0007776:Cortex [Body Part, Organ, or Organ Component]
+   804   C1176472:Cortex [Body Part, Organ, or Organ Component]
+   804   C2700441:Cortex [Plant]
+Processing 00000000.tx.76: In: Fink G, ed. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Fink G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "ed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3538926:ED [Idea or Concept]
+Processing 00000000.tx.77: The encyclopedia of stress. 
+
+Phrase: "The encyclopedia of stress."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0014095:encyclopedia [Intellectual Product]
+Processing 00000000.tx.78: Vol 1. 
+
+Phrase: "Vol 1."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0449468:VOL [Quantitative Concept]
+   861   C0560268:vol% [Quantitative Concept]
+   861   C1690016:% vol [Qualitative Concept]
+Processing 00000000.tx.79: San Diego: Academic Press; 
+
+Phrase: "San Diego"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1826357:San [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "Academic Press"
+
+Phrase: ";"
+Processing 00000000.tx.80: 4252 Handa RJ, Price Jr RH 2000 Androgen action. 
+
+Phrase: "4252 Handa RJ,"
+
+Phrase: "Price Jr RH 2000 Androgen action."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   799   C0441472:Action [Functional Concept]
+   799   C3266814:Action [Activity]
+Processing 00000000.tx.81: In: Fink G, ed. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Fink G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "ed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3538926:ED [Idea or Concept]
+Processing 00000000.tx.82: The encyclopedia of stress. 
+
+Phrase: "The encyclopedia of stress."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0014095:encyclopedia [Intellectual Product]
+Processing 00000000.tx.83: Vol 1. 
+
+Phrase: "Vol 1."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0449468:VOL [Quantitative Concept]
+   861   C0560268:vol% [Quantitative Concept]
+   861   C1690016:% vol [Qualitative Concept]
+Processing 00000000.tx.84: San Diego: Academic Press; 
+
+Phrase: "San Diego"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1826357:San [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "Academic Press"
+
+Phrase: ";"
+Processing 00000000.tx.85: 183195 Parker LN 2001 Adrenarche. 
+
+Phrase: "183195 Parker LN 2001 Adrenarche."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0686792:Adrenarche [Biologically Active Substance]
+Processing 00000000.tx.86: In: DeGroot LJ, Jameson JL, eds. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "DeGroot LJ,"
+
+Phrase: "Jameson JL,"
+
+Phrase: "eds."
+Processing 00000000.tx.87: Endocrinology. ed. 
+
+Phrase: "Endocrinology. ed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3538926:ED [Idea or Concept]
+Processing 00000000.tx.88: 4, Vol 2. 
+
+Phrase: "4,"
+
+Phrase: "Vol 2."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0449468:VOL [Quantitative Concept]
+   861   C0560268:vol% [Quantitative Concept]
+   861   C1690016:% vol [Qualitative Concept]
+Processing 00000000.tx.89: New York: W.B. 
+
+Phrase: "New York"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027976:New York [Geographic Area]
+   861   C0205314:New [Temporal Concept]
+
+Phrase: ":"
+
+Phrase: "W.B."
+Processing 00000000.tx.90: Saunders Co.; 
+
+Phrase: "Saunders Co."
+
+Phrase: ";"
+Processing 00000000.tx.91: 17401746 Muehlenbein MP, Campbell BC, Richards RJ, Svec F, Phillippi-Falkenstein KM, Murshison MA, Myers L 2003 Dehydroepiandrosterone-sulfate as a biomarker of senescence in male non-human primates. 
+
+Phrase: "17401746 Muehlenbein MP,"
+
+Phrase: "Campbell BC,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2984916:BC [Quantitative Concept]
+
+Phrase: "Richards RJ,"
+
+Phrase: "Svec F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Phillippi-Falkenstein KM,"
+
+Phrase: "Murshison MA,"
+
+Phrase: "Myers L 2003 Dehydroepiandrosterone-sulfate as a biomarker of senescence"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0057277:Dehydroepiandrosterone Sulfate [Biologically Active Substance,Pharmacologic Substance,Steroid]
+   760   C0201983:Dehydroepiandrosterone Sulfate [Laboratory Procedure]
+   739   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   739   C0038720:Sulfate [Inorganic Chemical]
+   739   C0475337:sulfate [Element, Ion, or Isotope,Inorganic Chemical]
+   739   C3536965:SULFATE [Element, Ion, or Isotope]
+
+Phrase: "in male non-human primates."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   875   C0024554:Human, Male [Finding]
+   875   C0025266:Human, Male [Population Group]
+   812   C0033147:Primates [Mammal]
+   812   C0086418:Human [Human]
+   812   C1518422:Non [Functional Concept]
+Processing 00000000.tx.92: Exp Gerontol 38:10771085[CrossRef][Medline] Sapolsky RM, Vogelman JH, Orentreich N, Altmann J 1993 Senescent decline in serum dehydroepiandrosterone sulfate concentrations in a population of wild baboons. 
+
+Phrase: "Exp Gerontol 38"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1417055:EXP [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "10771085"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Sapolsky RM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2951520:RM [Body Location or Region]
+
+Phrase: "Vogelman JH,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0268060:JH [Disease or Syndrome]
+   861   C1415529:JH [Gene or Genome]
+
+Phrase: "Orentreich N,"
+
+Phrase: "Altmann J 1993 Senescent decline in serum dehydroepiandrosterone sulfate concentrations"
+
+Phrase: "in a population"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0032659:Population [Quantitative Concept]
+  1000   C1257890:Population [Population Group]
+
+Phrase: "of wild baboons."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0030362:Baboons [Mammal]
+   827 E C0324820:baboon [Mammal]
+Processing 00000000.tx.93: J Gerontol 48:B196B200 Buvat J 2003 Androgen therapy with dehydroepiandrosterone. 
+
+Phrase: "J Gerontol 48"
+
+Phrase: ":"
+
+Phrase: "B196B200 Buvat J 2003 Androgen therapy with dehydroepiandrosterone."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0279493:androgen therapy [Therapeutic or Preventive Procedure]
+   744   C0039798:therapy [Functional Concept]
+   744   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   744   C1363945:Therapy [Finding]
+Processing 00000000.tx.94: World J Urol 21:346355[Medline] Cutler Jr GB, Glenn M, Bush M, Hodgen GD, Graham CE, Loriaux DL 1978 Adrenarche: a survey of rodents, domestic animals, and primates. 
+
+Phrase: "World J Urol 21"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C2700280:World [Population Group]
+
+Phrase: ":"
+
+Phrase: "346355"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Cutler Jr GB,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0041700:GB [Geographic Area]
+   827   C1551090:Gb [Quantitative Concept]
+
+Phrase: "Glenn M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Bush M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Hodgen GD,"
+
+Phrase: "Graham CE,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2827664:CE [Idea or Concept]
+
+Phrase: "Loriaux DL 1978 Adrenarche"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0686792:Adrenarche [Biologically Active Substance]
+
+Phrase: ":"
+
+Phrase: "a survey of rodents,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0038951:Survey [Intellectual Product]
+
+Phrase: "domestic animals,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0003063:Animals, Domestic [Animal]
+   861   C0003062:Animals [Animal]
+   861   C0442519:Domestic [Conceptual Entity]
+   861   C1880391:Domestic [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "primates."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033147:Primates [Mammal]
+Processing 00000000.tx.95: Endocrinology 103:21122118[Abstract] Dhataryiya KK, Nair KS 2003 Dehydroepiandrosterone: is there a role for replacement? 
+
+Phrase: "Endocrinology 103"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0014137:Endocrinology [Biomedical Occupation or Discipline]
+   789 E C0694557:endocrinologic [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "21122118"
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Dhataryiya KK,"
+
+Phrase: "Nair KS 2003 Dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: ":"
+
+Phrase: "is"
+
+Phrase: "there"
+
+Phrase: "a role for replacement?"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0035820:Role [Social Behavior]
+   770   C1705810:Role [Conceptual Entity]
+Processing 00000000.tx.96: Mayo Clin Proc 78:12571273[Medline] Lu SF, Mo Q, Hu S, Garippa C, Simon NG 2003 Dehydroepiandrosterone upregulates neural androgen receptor level and transcriptional activity. 
+
+Phrase: "Mayo Clin Proc 78"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   812   C0454788:Mayo [Geographic Area]
+   812   C1077578:mayo [Plant]
+   812   C1315013:CLIN [Intellectual Product]
+   812   C1418943:PROC [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "12571273"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Lu SF,"
+
+Phrase: "Mo Q,"
+
+Phrase: "Hu S,"
+
+Phrase: "Garippa C,"
+
+Phrase: "Simon NG 2003 Dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "upregulates"
+
+Phrase: "neural androgen receptor level"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   875   C0034837:Receptor, Neural [Cell Component]
+   875   C0919646:Androgen level [Laboratory Procedure]
+   861   C0034786:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   861   C1447749:Androgen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   812   C0002844:Androgen [Hormone,Pharmacologic Substance]
+   812   C0441889:Level [Qualitative Concept]
+   812   C0456079:Level [Classification]
+   812   C0597357:receptor [Amino Acid, Peptide, or Protein,Receptor]
+   812   C1547707:Level [Geographic Area]
+   812   C2946261:Level [Pharmacologic Substance]
+   812   C3536949:Androgen [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "transcriptional activity."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0205177:Activity [Functional Concept]
+   861   C0439167:% activity [Quantitative Concept]
+   861   C0441655:Activity [Activity]
+   861   C1561536:*Activity [Idea or Concept]
+Processing 00000000.tx.97: J Neurobiol 57:163171[CrossRef][Medline] Nephew KP, Sheeler CQ, Dudley MD, Gordon S, Nayfield SG, Khan SA 1998 Studies of dehydroepiandrosterone (DHEA) with the human estrogen receptor in yeast. 
+
+Phrase: "J Neurobiol 57"
+
+Phrase: ":"
+
+Phrase: "163171"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Nephew KP,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022772:KP [Geographic Area]
+   861   C1881334:kp [Quantitative Concept]
+
+Phrase: "Sheeler CQ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1705968:CQ [Quantitative Concept]
+
+Phrase: "Dudley MD,"
+
+Phrase: "Gordon S,"
+
+Phrase: "Nayfield SG,"
+
+Phrase: "Khan SA 1998 Studies of dehydroepiandrosterone"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   753   C0947630:studies [Laboratory Procedure]
+   719 E C0557651:Study [Manufactured Object]
+   719 E C2603343:Study [Research Activity]
+
+Phrase: "(DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: ")"
+
+Phrase: "with the human estrogen receptor"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   901   C0034804:Estrogen receptor [Amino Acid, Peptide, or Protein,Receptor]
+   901   C1414461:ESTROGEN RECEPTOR [Gene or Genome]
+   901   C1521863:Estrogen Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   827   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   827   C0597357:receptor [Amino Acid, Peptide, or Protein,Receptor]
+   827   C2936882:Estrogen [Pharmacologic Substance]
+   755 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "in yeast."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0036025:yeast [Fungus]
+  1000   C0043392:Yeast [Food]
+  1000   C0043393:Yeast [Fungus]
+  1000   C0717551:YEAST [Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.98: Mol Cell Endocrinol 143:133142[CrossRef][Medline] Liu D, Dillon JS 2002 Dehydroepiandrosterone activates endoethelial cell nitric-oxide synthase by a specific plasma membrane receptor coupled to G(i2,3). 
+
+Phrase: "Mol Cell Endocrinol 143"
+Meta Candidates (Total=11; Excluded=2; Pruned=0; Remaining=9)
+   812   C0007634:Cell [Cell]
+   812   C0027960:Mole [Neoplastic Process]
+   812   C0324740:Mole [Mammal]
+   812   C0439189:Mole [Quantitative Concept]
+   812   C1269647:Cell [Cell]
+   812   C1456781:mole [Neoplastic Process]
+   812   C1704653:Cell [Medical Device]
+   812   C1824986:mol [Gene or Genome]
+   812   C1948049:Cell [Spatial Concept]
+   729 E C0026367:Molar [Body Part, Organ, or Organ Component]
+   712 E C0027962:moles [Neoplastic Process]
+
+Phrase: ":"
+
+Phrase: "133142"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Liu D,"
+
+Phrase: "Dillon JS 2002 Dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "activates"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1515877:Activate [Functional Concept]
+  1000   C1879547:Activate [Activity]
+
+Phrase: "endoethelial cell nitric-oxide synthase by a specific plasma membrane receptor"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   775   C0132555:Nitric Oxide Synthase [Amino Acid, Peptide, or Protein,Enzyme]
+           synthase
+   772   C1097411:receptor, nitric oxide [Amino Acid, Peptide, or Protein,Enzyme,Receptor]
+   756   C0028128:Nitric Oxide [Biologically Active Substance,Inorganic Chemical,Pharmacologic Substance]
+   738   C0030015:oxide [Inorganic Chemical]
+   738   C2986642:oxide [Chemical Viewed Functionally]
+
+Phrase: "coupled to G(i2,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0439267:g% [Quantitative Concept]
+   770   C1948027:Coupled [Functional Concept]
+   737 E C0010222:couple [Family Group]
+
+Phrase: "3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ")."
+Processing 00000000.tx.99: J Biol Chem 277:2137921388[Abstract/Free FullText] Mellon SH, Vaudry H 2001 Biosynthesis of neurosteroids and regulation of their synthesis. 
+
+Phrase: "J Biol Chem 277"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0201682:CHEM [Laboratory Procedure]
+
+Phrase: ":"
+
+Phrase: "2137921388"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Mellon SH,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0038108:SH [Geographic Area]
+
+Phrase: "Vaudry H 2001 Biosynthesis of neurosteroids"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0005572:biosynthesis [Functional Concept]
+   753   C0220781:Biosynthesis [Biologic Function]
+
+Phrase: "and"
+
+Phrase: "regulation of their synthesis."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   881   C1157723:regulation of synthesis [Molecular Function]
+   770   C0851285:Regulation [Governmental or Regulatory Activity]
+   770   C1327622:Regulation [Biologic Function]
+Processing 00000000.tx.100: Int Rev Neurobiol 46:3378[Medline] Matus A, Brinkhaus H, Wagner U 2000 Actin dynamics in dendritic spines: a form of regulated plasticity at excitatory synapses. 
+
+Phrase: "Int Rev Neurobiol 46"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0063789:INT [Organic Chemical]
+   812   C2347961:Rev. [Professional or Occupational Group]
+   812   C3272375:INT [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "3378"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Matus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1208001:Matus [Eukaryote]
+
+Phrase: "A,"
+
+Phrase: "Brinkhaus H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Wagner U 2000 Actin dynamics in dendritic spines"
+
+Phrase: ":"
+
+Phrase: "a form of regulated plasticity"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0348078:Form [Qualitative Concept]
+   760   C0376315:Form [Manufactured Object]
+   760   C1522492:Form [Functional Concept]
+
+Phrase: "at excitatory synapses."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   983   C1516988:Excitatory Synapse [Cell Component]
+   861   C0039062:Synapses [Body Space or Junction]
+   827 E C0598501:Synapsis [Cell Function]
+   827 E C1633000:Synapsis [Plant]
+Processing 00000000.tx.101: Hippocampus 10:555560[CrossRef][Medline] Gould E, Woolley CS, Frankfurt M, McEwen BS 1990 Gonadal steroids regulate dendritic spine density in hippocampal pyramidal cells in adulthood. 
+
+Phrase: "Hippocampus 10"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0019564:Hippocampus [Body Part, Organ, or Organ Component]
+   861   C0949582:Hippocampus [Fish]
+   861   C1029104:Hippocampus [Fish]
+   861   C1284077:Hippocampus [Body Part, Organ, or Organ Component]
+
+Phrase: ":"
+
+Phrase: "555560"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Gould E,"
+
+Phrase: "Woolley CS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540510:cs [Quantitative Concept]
+
+Phrase: "Frankfurt M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "McEwen BS 1990 Gonadal steroids"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   840   C0036884:gonadal steroids [Hormone,Pharmacologic Substance]
+   804   C0038317:Steroids [Steroid]
+
+Phrase: "regulate"
+
+Phrase: "dendritic spine density in hippocampal pyramidal cells"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   757   C0162339:Cell Density [Quantitative Concept]
+   748   C0178587:density [Quantitative Concept]
+
+Phrase: "in adulthood."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700597:Adulthood [Temporal Concept]
+Processing 00000000.tx.102: J Neurosci 10:12861291[Abstract] Woolley CS, Wenzel HJ, Schwartzkroin PA 1996 Estradiol increases the frequency of multiple synapse boutons in the hippocampal CA1 region of the adult female rat. 
+
+Phrase: "J Neurosci 10"
+
+Phrase: ":"
+
+Phrase: "12861291"
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Woolley CS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540510:cs [Quantitative Concept]
+
+Phrase: "Wenzel HJ,"
+
+Phrase: "Schwartzkroin PA 1996 Estradiol"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0014912:Estradiol [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0699352:Estrace [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0878472:Progynon [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "increases"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "the frequency of multiple synapse boutons"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0376249:frequency [Quantitative Concept]
+   753   C0439603:Frequency [Temporal Concept]
+   753   C0871396:Frequency [Quantitative Concept]
+   753   C1561548:Frequency [Qualitative Concept]
+   753   C1705502:Frequency [Quantitative Concept]
+
+Phrase: "in the hippocampal CA1 region"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+  1000   C0694598:CA1 Region, Hippocampal [Body Location or Region]
+   913   C3496509:hippocampal region [Body Location or Region]
+   827   C0017446:Region [Geographic Area]
+   827   C0205147:Region [Spatial Concept]
+   755 E C0205276:Regional [Spatial Concept]
+   755 E C1947913:Regional [Spatial Concept]
+
+Phrase: "of the adult female rat."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0034693:Rat, NOS [Mammal]
+   827   C0034721:Rat [Mammal]
+   734   C0043210:adult female? [Population Group]
+Processing 00000000.tx.103: J Comp Neurol 373:108117[CrossRef][Medline] Yankova M, Hart SA, Woolley CS 2001 Estrogen increases synaptic connectivity between single presynaptic inputs and multiple postsynaptic CA1 pyramidal cells: a serial electron-microscopic study. 
+
+Phrase: "J Comp Neurol 373"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0056167:COMP [Therapeutic or Preventive Procedure]
+   812   C1456376:COMP [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "108117"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Yankova M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Hart SA,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0036243:SA [Geographic Area]
+   861   C1539696:SA [Gene or Genome]
+   861   C1825840:SA [Gene or Genome]
+   861   C3539736:Sa [Spatial Concept]
+
+Phrase: "Woolley CS 2001 Estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   812   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   812   C2936882:Estrogen [Pharmacologic Substance]
+   741 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "increases"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "synaptic connectivity between single presynaptic inputs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C1178983:Synaptic connectivity [Body Space or Junction]
+   753   C1707489:Connectivity [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "multiple postsynaptic CA1 pyramidal cells"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   840   C0206441:Pyramidal Cells [Cell]
+   806 E C2334588:Pyramidal cell [Cell]
+   804   C0007634:Cells [Cell]
+   804   C3282337:Cells [Cell]
+   771 E C1269647:Cell [Cell]
+   771 E C1704653:Cell [Medical Device]
+   771 E C1948049:Cell [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "a serial electron-microscopic study."
+Meta Candidates (Total=11; Excluded=3; Pruned=0; Remaining=8)
+   923   C0026019:Electron microscopic study [Laboratory Procedure]
+           Electron Microscopy
+   825   C2984656:ELECTRON MICROSCOPY [Functional Concept]
+   812   C0013852:Electron [Quantitative Concept]
+   812   C0205288:Microscopic [Qualitative Concept]
+   812   C0557651:Study [Manufactured Object]
+   812   C2603343:Study [Research Activity]
+   812   C3463986:Electron [Bird]
+   741 E C0013850:Electronic [Manufactured Object]
+   741 E C0026018:Microscopies [Laboratory Procedure]
+   741 E C1547561:Electronic [Idea or Concept]
+Processing 00000000.tx.104: Proc Natl Acad Sci USA 98:35253530[Abstract/Free FullText] Woolley CS, McEwen BS 1994 Estradiol regulates hippocampal dendritic spine density via an N-methyl-D-aspartate receptor-dependent mechanism. 
+
+Phrase: "Proc Natl Acad Sci USA 98"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   799   C0041703:USA [Geographic Area]
+   799   C0268596:ACAD [Disease or Syndrome]
+   799   C1418943:PROC [Gene or Genome]
+   799   C2700624:ACAD [Cell Function]
+   799   C3642273:SCI [Professional or Occupational Group]
+
+Phrase: ":"
+
+Phrase: "35253530"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Woolley CS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540510:cs [Quantitative Concept]
+
+Phrase: "McEwen BS 1994 Estradiol"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0014912:Estradiol [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0699352:Estrace [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0878472:Progynon [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "regulates"
+
+Phrase: "hippocampal dendritic spine density via an N-methyl-"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0178587:density [Quantitative Concept]
+
+Phrase: "D-"
+
+Phrase: "aspartate receptor-dependent mechanism."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0441712:Mechanism [Functional Concept]
+   812   C1706376:Mechanism [Manufactured Object]
+Processing 00000000.tx.105: J Neurosci 14:76807687[Abstract] Woolley CS, Weiland NG, McEwen BS, Schwartzkroin PA 1997 Estradiol increases the sensitivity of hippocampal CA1 pyramidal cells to NMDA receptor-mediated synaptic input: correlation with dendritic spine density. 
+
+Phrase: "J Neurosci 14"
+
+Phrase: ":"
+
+Phrase: "76807687"
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Woolley CS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540510:cs [Quantitative Concept]
+
+Phrase: "Weiland NG,"
+
+Phrase: "McEwen BS,"
+
+Phrase: "Schwartzkroin PA 1997 Estradiol"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0014912:Estradiol [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0699352:Estrace [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0878472:Progynon [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "increases"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "the sensitivity of hippocampal CA1 pyramidal cells"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   748   C0036667:Sensitivity [Quantitative Concept]
+   748   C0312418:Sensitivity [Mental Process]
+   748   C0427965:Sensitivity [Finding]
+   748   C1511883:Sensitivity [Quantitative Concept]
+   748   C1522640:Sensitivity [Qualitative Concept]
+   748   C2346484:SENSITIVITY [Phenomenon or Process]
+   748   C2349185:Sensitivity [Qualitative Concept]
+
+Phrase: "to NMDA receptor-mediated synaptic input"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C1708517:Input [Conceptual Entity]
+
+Phrase: ":"
+
+Phrase: "correlation with dendritic spine density."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1707520:Correlation [Qualitative Concept]
+Processing 00000000.tx.106: J Neurosci 17:18481859[Abstract/Free FullText] Rudick CN, Woolley CS 2001 Estrogen regulates functional inhibition of hippocampal CA1 pyramidal cells in the adult female rat. 
+
+Phrase: "J Neurosci 17"
+
+Phrase: ":"
+
+Phrase: "18481859"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Rudick CN,"
+
+Phrase: "Woolley CS 2001 Estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   812   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   812   C2936882:Estrogen [Pharmacologic Substance]
+   741 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "regulates"
+
+Phrase: "functional inhibition of hippocampal CA1 pyramidal cells"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0021467:Inhibition [Mental Process]
+   748   C0021469:Inhibition [Molecular Function]
+   748   C1628982:% inhibition [Quantitative Concept]
+   748   C3463820:Inhibition [Activity]
+
+Phrase: "in the adult female rat."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0034693:Rat, NOS [Mammal]
+   827   C0034721:Rat [Mammal]
+   734   C0043210:adult female? [Population Group]
+Processing 00000000.tx.107: J Neurosci 21:65326543[Abstract/Free FullText] Leranth C, Petnehazy O, MacLusky NJ 2003 Gonadal hormones affect spine synaptic density in the CA1 hippocampal subfield of male rats. 
+
+Phrase: "J Neurosci 21"
+
+Phrase: ":"
+
+Phrase: "65326543"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Leranth C,"
+
+Phrase: "Petnehazy O,"
+
+Phrase: "MacLusky NJ 2003 Gonadal hormones"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   840   C0301819:Gonadal Hormones [Hormone]
+   804   C0019932:Hormones [Hormone]
+   721 E C0458083:Hormonal [Qualitative Concept]
+
+Phrase: "affect"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001721:Affect [Mental Process]
+
+Phrase: "spine synaptic density in the CA1 hippocampal subfield of male rats."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   738   C0178587:density [Quantitative Concept]
+Processing 00000000.tx.108: J Neurosci 23:15881592[Abstract/Free FullText] Lewis C, McEwen BS, Frankfurt M 1995 Estrogen-induction of dendritic spines in ventromedial hypothalamus and hippocampus: effects of neonatal aromatase blockade and adult GDX. 
+
+Phrase: "J Neurosci 23"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0450348:23 [Quantitative Concept]
+
+Phrase: ":"
+
+Phrase: "15881592"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Lewis C,"
+
+Phrase: "McEwen BS,"
+
+Phrase: "Frankfurt M 1995 Estrogen-induction of dendritic spines"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0205263:Induction [Functional Concept]
+   744   C0857127:induction [Therapeutic or Preventive Procedure]
+
+Phrase: "in ventromedial hypothalamus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0020663:Hypothalamus [Body Part, Organ, or Organ Component]
+   861   C1280712:Hypothalamus [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "hippocampus"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0019564:Hippocampus [Body Part, Organ, or Organ Component]
+  1000   C0949582:Hippocampus [Fish]
+  1000   C1029104:Hippocampus [Fish]
+  1000   C1284077:Hippocampus [Body Part, Organ, or Organ Component]
+
+Phrase: ":"
+
+Phrase: "effects of neonatal aromatase blockade"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   781   C0856669:neonatal effect nos [Disease or Syndrome]
+   760   C1280500:effects [Qualitative Concept]
+   726 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "adult GDX."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1823579:GDX [Gene or Genome]
+Processing 00000000.tx.109: Brain Res Dev Brain Res 87:9195[Medline] Vallee M, Mayo W, Le Moal M 2001 Role of pregnenolone, dehydroepiandrosterone and their sulfate esters on learning and memory in cognitive aging. 
+
+Phrase: "Brain Res Dev Brain Res 87"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   799   C0006104:Brain [Body Part, Organ, or Organ Component]
+   799   C1269537:Brain [Body Part, Organ, or Organ Component]
+   799   C2347379:RES [Finding]
+
+Phrase: ":"
+
+Phrase: "9195"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Vallee M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Mayo W,"
+
+Phrase: "Le Moal M 2001 Role of pregnenolone,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0035820:Role [Social Behavior]
+   748   C1705810:Role [Conceptual Entity]
+
+Phrase: "dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "their sulfate esters on learning"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0014898:Esters [Organic Chemical]
+
+Phrase: "and"
+
+Phrase: "memory in cognitive aging."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0025260:Memory [Mental Process]
+   770   C0700327:memory [Finding]
+   770   C1706377:Memory [Manufactured Object]
+   715 E C0679055:mnemonic [Mental Process]
+Processing 00000000.tx.110: Brain Res Brain Res Rev 37:301312[Medline] Foy MR 2001 17-Estradiol: effect on CA1 hippocampal synaptic plasticity. 
+
+Phrase: "Brain Res Brain Res Rev 37"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   799   C0006104:Brain [Body Part, Organ, or Organ Component]
+   799   C1269537:Brain [Body Part, Organ, or Organ Component]
+   799   C2347379:RES [Finding]
+   799   C2347961:Rev. [Professional or Occupational Group]
+
+Phrase: ":"
+
+Phrase: "301312"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Foy MR 2001 17-Estradiol"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   804   C0014912:Estradiol [Hormone,Pharmacologic Substance,Steroid]
+   748 E C0699352:Estrace [Hormone,Pharmacologic Substance,Steroid]
+   748 E C0878472:Progynon [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: ":"
+
+Phrase: "effect on CA1 hippocampal synaptic plasticity."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1280500:Effect [Qualitative Concept]
+   753   C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.111: Neurobiol Learn Mem 76:239252[CrossRef][Medline] McEwen BS, Gould E, Orchinik M, Weiland NG, Woolley CS 1995 Oestrogens and the structural and functional plasticity of neurons: implications for memory, ageing and neurodegenerative processes. 
+
+Phrase: "Neurobiol"
+
+Phrase: "Learn"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023185:learn [Mental Process]
+
+Phrase: "Mem 76"
+
+Phrase: ":"
+
+Phrase: "239252"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] McEwen BS,"
+
+Phrase: "Gould E,"
+
+Phrase: "Orchinik M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Weiland NG,"
+
+Phrase: "Woolley CS 1995 Oestrogens"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0014939:Oestrogens [Hormone,Pharmacologic Substance,Steroid]
+   729 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "the structural"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0678594:Structural [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "functional plasticity of neurons"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   777   C0027880:Neuronal Plasticity [Organ or Tissue Function]
+   770   C0678558:Plasticity [Natural Phenomenon or Process]
+
+Phrase: ":"
+
+Phrase: "implications for memory,"
+
+Phrase: "ageing"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0001811:Ageing [Organism Function]
+   966 E C0001779:Age [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "neurodegenerative processes."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1184743:Process [Body Part, Organ, or Organ Component]
+   827   C1522240:Process [Phenomenon or Process]
+Processing 00000000.tx.112: Ciba Found Symp 191:5266[Medline] Wang Q, Santizo R, Baughman VL, Pelligrino DA, Iadecola C 1999 Estrogen provides neuroprotection in transient forebrain ischemia through perfusion-independent mechanisms in rats. 
+
+Phrase: "Ciba"
+
+Phrase: "Found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "Symp 191"
+
+Phrase: ":"
+
+Phrase: "5266"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Wang Q,"
+
+Phrase: "Santizo R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Baughman VL,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0228339:VL [Body Part, Organ, or Organ Component]
+   861   C1424729:VL [Gene or Genome]
+   861   C1858854:VL [Disease or Syndrome]
+
+Phrase: "Pelligrino DA,"
+
+Phrase: "Iadecola C 1999 Estrogen"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   812   C0014939:Estrogen [Hormone,Pharmacologic Substance,Steroid]
+   812   C2936882:Estrogen [Pharmacologic Substance]
+   741 E C0720298:Estrogenic [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "provides"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0359589:provides [Food]
+  1000   C1999230:Provide [Activity]
+
+Phrase: "neuroprotection in transient forebrain ischemia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0598958:Neuroprotection [Cell Function]
+
+Phrase: "through perfusion-independent mechanisms"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0441712:Mechanisms [Functional Concept]
+   793 E C1706376:Mechanism [Manufactured Object]
+
+Phrase: "in rats."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034693:rats [Mammal]
+  1000   C0034721:Rats [Mammal]
+Processing 00000000.tx.113: Stroke 30:630637[Abstract/Free FullText] Li H, Klein G, Sun P, Buchan AM 2001 Dehydroepiandrosterone (DHEA) reduces neuronal injury in a rat model of global cerebral ischemia. 
+
+Phrase: "Stroke 30"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0038454:Stroke [Disease or Syndrome]
+
+Phrase: ":"
+
+Phrase: "630637"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Li H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Klein G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Sun P,"
+
+Phrase: "Buchan"
+
+Phrase: "AM"
+
+Phrase: "2001 Dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   805 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "(DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: ")"
+
+Phrase: "reduces"
+
+Phrase: "neuronal injury in a rat model of global cerebral ischemia."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   757   C0270611:cerebral injury [Injury or Poisoning]
+   739   C3263722:Injury [Injury or Poisoning]
+   739   C3263723:Injury [Injury or Poisoning]
+Processing 00000000.tx.114: Brain Res 888:263266[CrossRef][Medline] Woolley CS 2000 Estradiol facilitates kainic acid-induced, but not flurothyl-induced, behavioral seizure activity in adult female rats. 
+
+Phrase: "Brain Res 888"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0006104:Brain [Body Part, Organ, or Organ Component]
+   827   C1269537:Brain [Body Part, Organ, or Organ Component]
+   827   C2347379:RES [Finding]
+
+Phrase: ":"
+
+Phrase: "263266"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Woolley CS 2000 Estradiol"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0014912:Estradiol [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0699352:Estrace [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0878472:Progynon [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "facilitates"
+
+Phrase: "kainic acid-induced,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0205263:Induced [Functional Concept]
+   734   C0022471:Kainic Acid [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "but"
+
+Phrase: "not flurothyl-induced, behavioral seizure activity in adult female rats."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C1148454:Seizure activity [Finding]
+   757   C3176850:Adult activity [Clinical Attribute]
+   739   C0205177:Activity [Functional Concept]
+   739   C0439167:% activity [Quantitative Concept]
+   739   C0441655:Activity [Activity]
+   739   C1561536:*Activity [Idea or Concept]
+Processing 00000000.tx.115: Epilepsia 41:510515[Medline] Kimonides VG, Khatibi NH, Svendsen CN, Sofroniew MV, Herbert J 1998 Dehydroepiandrosterone (DHEA) and DHEA-sulfate (DHEAS) protect hippocampal neurons against excitatory amino acid-induced neurotoxicity. 
+
+Phrase: "Epilepsia 41"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0014544:epilepsia [Disease or Syndrome]
+
+Phrase: ":"
+
+Phrase: "510515"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Kimonides VG,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205999:VG [Geographic Area]
+
+Phrase: "Khatibi NH,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0268059:NH [Disease or Syndrome]
+
+Phrase: "Svendsen CN,"
+
+Phrase: "Sofroniew MV,"
+
+Phrase: "Herbert J 1998 Dehydroepiandrosterone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   756 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "(DHEA"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "DHEA-sulfate"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+  1000   C0057277:Dehydroepiandrosterone Sulfate [Biologically Active Substance,Pharmacologic Substance,Steroid]
+  1000   C0201983:Dehydroepiandrosterone Sulfate [Laboratory Procedure]
+   861   C0011185:dehydroepiandrosterone [Hormone,Pharmacologic Substance,Steroid]
+   861   C0038720:Sulfate [Inorganic Chemical]
+   861   C0475337:sulfate [Element, Ion, or Isotope,Inorganic Chemical]
+   861   C3536965:SULFATE [Element, Ion, or Isotope]
+   805 E C0373598:Dehydroisoandrosterone [Laboratory Procedure]
+
+Phrase: "(DHEAS"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011185:dheas [Hormone,Pharmacologic Substance,Steroid]
+  1000   C0201983:DHEA-S [Laboratory Procedure]
+
+Phrase: ")"
+
+Phrase: "protect"
+
+Phrase: "hippocampal neurons against excitatory amino acid-induced neurotoxicity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0027882:Neurons [Cell]
+Processing 00000000.tx.116: Proc Natl Acad Sci USA 95:18521857[Abstract/Free FullText] Weill-Engerer S, David JP, Sazdovitch V, Liere P, Eychenne B, Pianos A, Schumacher M, Delacourte A, Baulieu EE, Akwa Y 2002 Neurosteroid quantification in human brain regions: comparison between Alzheimers and nondemented patients. 
+
+Phrase: "Proc Natl Acad Sci USA 95"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   799   C0041703:USA [Geographic Area]
+   799   C0268596:ACAD [Disease or Syndrome]
+   799   C1418943:PROC [Gene or Genome]
+   799   C2700624:ACAD [Cell Function]
+   799   C3642273:SCI [Professional or Occupational Group]
+
+Phrase: ":"
+
+Phrase: "18521857"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Weill-Engerer S,"
+
+Phrase: "David JP,"
+
+Phrase: "Sazdovitch V,"
+
+Phrase: "Liere P,"
+
+Phrase: "Eychenne B,"
+
+Phrase: "Pianos A,"
+
+Phrase: "Schumacher M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Delacourte A,"
+
+Phrase: "Baulieu EE,"
+
+Phrase: "Akwa Y 2002 Neurosteroid quantification in human brain regions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C1709793:Quantification [Quantitative Concept]
+
+Phrase: ":"
+
+Phrase: "comparison between Alzheimers"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1707455:Comparison [Activity]
+
+Phrase: "and"
+
+Phrase: "nondemented patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.117: J Clin Endocrinol Metab 87:51385143[Abstract/Free FullText] Yau JL, Rasmuson S, Andrew R, Graham M, Noble J, Olsson T, Fuchs E, Lathe R, Seckl JR 2003 Dehydroepiandrosterone 7-hydroxylase CYP7B: predominant expression in primate hippocampus and reduced expression in Alzheimers disease. 
+
+Phrase: "J Clin Endocrinol Metab 87"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C1315013:CLIN [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "51385143"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Yau JL,"
+
+Phrase: "Rasmuson S,"
+
+Phrase: "Andrew R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Graham M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Noble J,"
+
+Phrase: "Olsson T,"
+
+Phrase: "Fuchs E,"
+
+Phrase: "Lathe R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Seckl JR 2003 Dehydroepiandrosterone 7-hydroxylase CYP7B"
+
+Phrase: ":"
+
+Phrase: "predominant expression in primate hippocampus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0185117:Expression [Therapeutic or Preventive Procedure]
+
+Phrase: "and"
+
+Phrase: "reduced expression in Alzheimers disease."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0185117:Expression [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.118: Neuroscience 121:307314[CrossRef][Medline] Simpkins JW, Green PS, Gridley KE, Singh M, de Fiebre NC, Rajakumar G 1997 Role of estrogen replacement therapy in memory enhancement and the prevention of neuronal loss associated with Alzheimers disease. 
+
+Phrase: "Neuroscience 121"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0027910:Neuroscience [Biomedical Occupation or Discipline]
+   861   C1552241:Neuroscience [Professional or Occupational Group]
+   861   C1555991:Neuroscience [Professional or Occupational Group]
+
+Phrase: ":"
+
+Phrase: "307314"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Simpkins JW,"
+
+Phrase: "Green PS,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C1418867:Ps [Gene or Genome]
+   861   C1518860:PS [Geographic Area]
+   861   C1552158:Ps [Body Part, Organ, or Organ Component]
+
+Phrase: "Gridley KE,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0022558:KE [Geographic Area]
+
+Phrase: "Singh M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "de Fiebre NC,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0027964:NC [Geographic Area]
+   827   C0028407:NC [Geographic Area]
+   827   C0067895:NC [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "Rajakumar G 1997 Role of estrogen replacement therapy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0035820:Role [Social Behavior]
+   744   C1705810:Role [Conceptual Entity]
+
+Phrase: "in memory enhancement"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1627358:Enhancement [Therapeutic or Preventive Procedure]
+   861   C2349975:Enhancement [Activity]
+
+Phrase: "and"
+
+Phrase: "the prevention of neuronal loss"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0199176:Prevention [Therapeutic or Preventive Procedure]
+   760   C1706420:PREVENTION [Research Activity]
+   760   C2700409:prevention [Qualitative Concept]
+
+Phrase: "associated with Alzheimers disease."
+Meta Candidates (Total=10; Excluded=5; Pruned=0; Remaining=5)
+   833   C0002395:Alzheimers disease [Disease or Syndrome]
+   833   C0332281:Associated with [Qualitative Concept]
+           Associated
+   819   C0243083:associated disease [Pathologic Function]
+   770   C0012634:Disease [Disease or Syndrome]
+   737 E C0750490:Associate [Idea or Concept]
+   737 E C1706221:Associate [Professional or Occupational Group]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.119: Am J Med 103:19S25S[CrossRef]
+
+Phrase: "Am"
+
+Phrase: "J Med 103"
+
+Phrase: ":"
+
+Phrase: "19S25S"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+

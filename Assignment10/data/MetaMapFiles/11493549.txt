@@ -1,0 +1,8 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://utslogin.nlm.nih.gov/cas/login?service=https%3a%2f%2fii.nlm.nih.gov%2fcgi-bin%2fII%2fUTS_Required%2fAPI_batchValidationII.pl%3fticket%3dnull">here</a>.</p>
+</body></html>
+

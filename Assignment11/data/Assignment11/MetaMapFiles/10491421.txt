@@ -1,0 +1,3746 @@
+Processing 00000000.tx.1: EDITORIALS Closing in on Another Renal Cancer Suppressor Locus Near Chromosome 3p14 Frederic J. 
+
+Phrase: "EDITORIALS Closing in"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0587267:closing [Functional Concept]
+
+Phrase: "on Another Renal Cancer Suppressor Locus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1708726:Locus [Gene or Genome]
+
+Phrase: "Near Chromosome 3p14 Frederic J."
+Processing 00000000.tx.2: Kaye Affiliation of author: Medicine Branch, Division of Clinical Science, National Cancer Institute, and National Naval Medical Center, Bethesda, MD. 
+
+Phrase: "Kaye Affiliation of author"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1510825:Affiliation [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "Medicine Branch,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1253959:Branch [Body Part, Organ, or Organ Component]
+   861   C1881507:Branch [Chemical Viewed Structurally]
+   861   C2700383:Branch [Plant]
+   861   C2826234:BRANCH [Intellectual Product]
+
+Phrase: "Division of Clinical Science,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C1293097:Division [Therapeutic or Preventive Procedure]
+   770   C2919030:Division [Organization]
+   770   C2919031:Division [Activity]
+
+Phrase: "National Cancer Institute,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C1513882:National Cancer Institute [Health Care Related Organization]
+   827   C0006826:Cancer [Neoplastic Process]
+   827   C0021622:institute [Organization]
+   827   C0998265:Cancer [Eukaryote]
+   827   C1272753:Institute [Idea or Concept]
+   827   C1306459:Cancer [Finding]
+   827   C3245503:national [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "National Naval Medical Center,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   861   C0565990:Medical center [Health Care Related Organization,Manufactured Object]
+   861   C1552471:Medical Center [Health Care Related Organization,Manufactured Object]
+   812   C0205099:Center [Spatial Concept]
+   812   C0205476:Medical [Functional Concept]
+   812   C3245503:national [Intellectual Product]
+
+Phrase: "Bethesda,"
+
+Phrase: "MD."
+Processing 00000000.tx.3: Correspondence to: Frederic J. 
+
+Phrase: "Correspondence to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   833   C0282413:Correspondence [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "Frederic J."
+Processing 00000000.tx.4: Kaye, M.D., National Institutes of Health, Bldg. 
+
+Phrase: "Kaye,"
+
+Phrase: "M.D.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1512018:M.D. [Intellectual Product]
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "National Institutes of Health,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0027468:National Institutes of Health [Health Care Related Organization]
+           national institute health
+   812   C0018684:Health [Idea or Concept]
+   812   C0021622:Institutes [Organization]
+   812   C3245503:national [Intellectual Product]
+   779 E C1272753:Institute [Idea or Concept]
+   712 E C0031206:healthiness [Finding]
+
+Phrase: "Bldg."
+Processing 00000000.tx.5: 8, Rm. 
+
+Phrase: "8,"
+
+Phrase: "Rm."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2951520:RM [Body Location or Region]
+Processing 00000000.tx.6: 5101, National Naval Medical Center, Bethesda, MD 20889. 
+
+Phrase: "5101,"
+
+Phrase: "National Naval Medical Center,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   861   C0565990:Medical center [Health Care Related Organization,Manufactured Object]
+   861   C1552471:Medical Center [Health Care Related Organization,Manufactured Object]
+   812   C0205099:Center [Spatial Concept]
+   812   C0205476:Medical [Functional Concept]
+   812   C3245503:national [Intellectual Product]
+
+Phrase: "Bethesda,"
+
+Phrase: "MD 20889."
+Processing 00000000.tx.7: A powerful method to isolate candidate tumor suppressor genes begins with genetic linkage analysis in multigenerational cancer families and requires the collection of DNA samples from affected and unaffected family members. 
+
+Phrase: "A powerful method to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0025663:Method [Intellectual Product]
+   827   C0449851:Method [Functional Concept]
+   827   C0871511:METHOD [Intellectual Product]
+
+Phrase: "isolate"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0370215:Isolate [Substance]
+  1000   C1875400:ISOLATE [Pharmacologic Substance]
+
+Phrase: "candidate tumor suppressor genes"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   983   C1707257:Candidate Tumor Suppressor Gene [Gene or Genome]
+   923   C0079427:Tumor Suppressor Genes [Gene or Genome]
+           Tumor Suppressor
+   902   C1332838:Candidate Genes [Gene or Genome]
+   861   C0017372:Genes, Suppressor [Gene or Genome]
+   861   C1325410:tumor suppressor [Cell Function]
+   812   C0017337:Genes [Gene or Genome]
+   812   C0027651:Tumor [Neoplastic Process]
+   812   C1578706:Tumor [Intellectual Product]
+   812   C1710252:Suppressor [Manufactured Object]
+   812   C2954564:Suppressor [Pharmacologic Substance]
+   812   C3273930:Tumor [Finding]
+
+Phrase: "begins with genetic linkage analysis"
+Meta Candidates (Total=19; Excluded=7; Pruned=0; Remaining=12)
+   862   C0796345:genetic linkage analysis [Laboratory Procedure]
+           linkage analysis
+   806   C0023745:genetic linkage [Molecular Function]
+           linkage
+   797   C0679560:genetic analysis [Laboratory Procedure]
+   797   C0796344:Genetic Analysis [Laboratory Procedure]
+   760   C0002778:Analysis [Laboratory Procedure]
+   760   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   760   C0314603:Genetic [Functional Concept]
+   760   C0439659:Begin [Temporal Concept]
+       E   Origin
+   760   C0936012:Analysis [Research Activity]
+   760   C1524024:analysis [Functional Concept]
+   704 E C0005615:Birth [Organism Function]
+   704 E C0035150:Reproduction [Organism Function]
+   704 E C0079946:origin [Classification]
+   704 E C1550512:origin [Intellectual Product]
+   704 E C1550722:birth [Idea or Concept]
+   704 E C3245487:birth [Intellectual Product]
+
+Phrase: "in multigenerational cancer families"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   901   C1516196:Cancer Family [Family Group]
+   827   C0015576:Families [Family Group]
+   827   C1704727:Family [Conceptual Entity]
+   743 E C0241888:Familial [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "requires"
+
+Phrase: "the collection of DNA samples"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   781   C0200345:collection sample [Laboratory Procedure]
+   760   C1516698:Collection [Functional Concept]
+   760   C1704814:Collection [Idea or Concept]
+
+Phrase: "from affected"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0392760:Affected [Functional Concept]
+  1000   C1314939:Affected [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "unaffected family members."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   901   C0086282:Family Members [Family Group]
+   867 E C1611821:Family Member [Intellectual Product]
+   827   C0015576:Family [Family Group]
+   827   C0680022:members [Population Group]
+   827   C1704727:Family [Conceptual Entity]
+   793 E C2698041:Member [Professional or Occupational Group]
+   755 E C0241888:Familial [Functional Concept]
+Processing 00000000.tx.8: An implicit advantage of studying familial susceptibility to disease is the guarantee that, given sufficient perseverance and luck, a susceptibility locus will ultimately be identified. 
+
+Phrase: "An implicit advantage of studying familial susceptibility"
+
+Phrase: "to disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "the guarantee"
+
+Phrase: "that,"
+
+Phrase: "given sufficient perseverance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0815094:perseverance [Mental Process]
+
+Phrase: "and"
+
+Phrase: "luck,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0870824:luck [Qualitative Concept]
+
+Phrase: "a susceptibility locus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1708726:Locus [Gene or Genome]
+
+Phrase: "will"
+
+Phrase: "ultimately"
+
+Phrase: "be"
+
+Phrase: "identified."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+Processing 00000000.tx.9: Such was the case in 1993 with the isolation of the von Hippel-Lindau (VHL) gene at chromosome 3p25 (1) and in 1997 with the identification of alterations within the Met gene in hereditary papillary renal carcinoma (2,3). 
+
+Phrase: "Such"
+
+Phrase: "was"
+
+Phrase: "the case in 1993"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0868928:Case [Functional Concept]
+   770   C1706255:CASE [Medical Device]
+   770   C1706256:Case [Conceptual Entity]
+
+Phrase: "with the isolation"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0204727:Isolation [Therapeutic or Preventive Procedure]
+  1000   C0205409:Isolation [Functional Concept]
+  1000   C0220862:isolation [Laboratory Procedure]
+   928 E C1548221:Isolated [Idea or Concept]
+
+Phrase: "of the von Hippel-Lindau (VHL) gene"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0017337:Gene [Gene or Genome]
+
+Phrase: "at chromosome 3p25"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1521294:3p25 [Cell Component]
+
+Phrase: "(1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: "and in 1997"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1515981:And [Idea or Concept]
+
+Phrase: "with the identification"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0020792:Identification [Mental Process]
+  1000   C0205396:Identification [Qualitative Concept]
+
+Phrase: "of alterations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1515926:Alteration [Idea or Concept]
+
+Phrase: "within the Met gene"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1417123:MET gene [Gene or Genome]
+   861   C0017337:Gene [Gene or Genome]
+
+Phrase: "in hereditary papillary renal carcinoma"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+  1000   C0879257:Hereditary Papillary Renal Carcinoma [Neoplastic Process]
+   875   C0007133:Carcinoma, Papillary [Neoplastic Process]
+   861   C0007134:Renal carcinoma [Neoplastic Process]
+   861   C1378703:Renal carcinoma [Neoplastic Process]
+   812   C0007097:Carcinoma [Neoplastic Process]
+   812   C0022646:Renal [Body Part, Organ, or Organ Component]
+   812   C0205312:Papillary [Qualitative Concept]
+   812   C0439660:Hereditary [Functional Concept]
+
+Phrase: "(2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ")."
+Processing 00000000.tx.10: In the case of the VHL gene, this work culminated several years of intense research efforts on families who are characterized by a susceptibility to a range of benign and malignant tumors, including renal cell carcinoma (RCC). 
+
+Phrase: "In the case"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0868928:Case [Functional Concept]
+  1000   C1706255:CASE [Medical Device]
+  1000   C1706256:Case [Conceptual Entity]
+
+Phrase: "of the VHL gene,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0017337:Gene [Gene or Genome]
+
+Phrase: "this work"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0043227:Work [Occupational Activity]
+
+Phrase: "culminated"
+
+Phrase: "several years of intense research efforts"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   753   C0439234:years [Temporal Concept]
+   719 E C0439508:/year [Temporal Concept]
+
+Phrase: "on families"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0015576:Families [Family Group]
+  1000   C1704727:Family [Conceptual Entity]
+   916 E C0241888:Familial [Functional Concept]
+
+Phrase: "who"
+
+Phrase: "are"
+
+Phrase: "characterized by a susceptibility"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0012655:Susceptibility [Clinical Attribute]
+   770   C0220898:Susceptibility [Organism Attribute]
+   770   C1264642:Susceptibility [Functional Concept]
+   770   C1547045:*Susceptibility [Quantitative Concept]
+   770   C1880022:Characterized [Activity]
+
+Phrase: "to a range"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1514721:Range [Quantitative Concept]
+  1000   C2348147:Range [Quantitative Concept]
+  1000   C3542016:Range [Intellectual Product]
+
+Phrase: "of benign"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205183:Benign [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "malignant tumors,"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0006826:malignant tumors [Neoplastic Process]
+   966 E C1306459:Tumor, malignant [Finding]
+   861   C0027651:Tumors [Neoplastic Process]
+   861   C0205282:Malignant [Qualitative Concept]
+   861   C0334590:MALIGNANT [Neoplastic Process]
+   861   C1533592:MALIGNANT [Neoplastic Process]
+   827 E C1578706:Tumor [Intellectual Product]
+   827 E C3273930:Tumor [Finding]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "renal cell carcinoma (RCC)."
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+  1000   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+  1000   C2984311:Renal cell carcinoma [Functional Concept]
+  1000   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   913   C1378703:Renal carcinoma [Neoplastic Process]
+   901   C0553257:Renal cell [Cell]
+   827   C0007097:Carcinoma [Neoplastic Process]
+   827   C0007634:Cell [Cell]
+   827   C0022646:Renal [Body Part, Organ, or Organ Component]
+   827   C1269647:Cell [Cell]
+   827   C1704653:Cell [Medical Device]
+   827   C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.11: Subsequent analysis of the VHL gene showed that both alleles were targeted for mutational inactivation or silenced epigenetically in both VHL-associated renal cancers and many sporadic clear cell renal carcinomas (4,5). 
+
+Phrase: "Subsequent analysis of the VHL gene"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0002778:Analysis [Laboratory Procedure]
+   744   C0936012:Analysis [Research Activity]
+   744   C1524024:analysis [Functional Concept]
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "both alleles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0002085:Alleles [Gene or Genome]
+
+Phrase: "were"
+
+Phrase: "targeted for mutational inactivation"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   783   C0079870:Targeted Mutation [Genetic Function]
+   770   C0544461:Inactivation [Cell or Molecular Dysfunction]
+   770   C1521840:Targeted [Functional Concept]
+   737 E C2986546:TARGET [Diagnostic Procedure]
+
+Phrase: "or"
+
+Phrase: "silenced"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0858952:silence [Mental or Behavioral Dysfunction]
+
+Phrase: "epigenetically in both VHL-associated renal cancers"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   764   C0740457:Renal Cancer [Neoplastic Process]
+   764   C1378703:Renal Cancer [Neoplastic Process]
+   742   C0006826:Cancer [Neoplastic Process]
+   742   C0022646:Renal [Body Part, Organ, or Organ Component]
+   742   C0332281:Associated [Qualitative Concept]
+   742   C0998265:Cancer [Eukaryote]
+   742   C1306459:Cancer [Finding]
+   708 E C0750490:Associate [Idea or Concept]
+   708 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "and"
+
+Phrase: "many sporadic clear cell renal carcinomas"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   904   C0279702:Clear Cell Renal Carcinoma [Neoplastic Process]
+   872   C0206681:Clear cell carcinoma [Neoplastic Process]
+   840   C0229473:Clear cell [Cell]
+   806   C0007134:Renal carcinoma [Neoplastic Process]
+   806   C1378703:Renal carcinoma [Neoplastic Process]
+   804   C0007097:Carcinomas [Neoplastic Process]
+   804   C0007634:Cell [Cell]
+   804   C0022646:Renal [Body Part, Organ, or Organ Component]
+   804   C1269647:Cell [Cell]
+   804   C1704653:Cell [Medical Device]
+   804   C1948049:Cell [Spatial Concept]
+   804   C2963144:Clear [Qualitative Concept]
+
+Phrase: "(4,"
+
+Phrase: "5"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: ")."
+Processing 00000000.tx.12: Although biochemical properties of the VHL gene product are still under investigation (6), these observations confirmed its role as a key tumor suppressor gene underlying the development of most nonpapillary renal cancers. 
+
+Phrase: "Although"
+
+Phrase: "biochemical properties of the VHL gene product"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   742   C0871161:properties [Qualitative Concept]
+   742   C1292721:properties [Functional Concept]
+   708 E C1882134:Property [Conceptual Entity]
+   708 E C2347695:Property [Entity]
+
+Phrase: "are"
+
+Phrase: "still under investigation"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   790   C1261322:Investigation [Health Care Activity]
+   790   C1552578:investigation [Idea or Concept]
+   718 E C1517586:Investigational [Qualitative Concept]
+   718 E C3245491:investigational [Intellectual Product]
+
+Phrase: "(6"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "these observations"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0302523:observations [Research Activity]
+  1000   C0700325:observations [Health Care Activity]
+  1000   C3244290:observations [Functional Concept]
+   966 E C1964257:Observation [Diagnostic Procedure]
+   916 E C1518527:OBSERVATIONAL [Research Activity]
+
+Phrase: "confirmed"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0521093:confirmed [Qualitative Concept]
+  1000   C0750484:Confirmed [Idea or Concept]
+   966 E C1456348:Confirm [Qualitative Concept]
+
+Phrase: "its role as a key tumor suppressor gene"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0035820:Role [Social Behavior]
+   744   C1705810:Role [Conceptual Entity]
+
+Phrase: "underlying"
+
+Phrase: "the development of most nonpapillary renal cancers."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C0243107:development [Physiologic Function]
+   748   C0678723:Development [Organism Function]
+   748   C1527148:Development [Functional Concept]
+Processing 00000000.tx.13: An alternate strategy for isolating cancer genes relies on the identification of patterns of tumor-specific chromosomal loss, often scored as loss of DNA heterozygosity (LOH), which point to a chromosomal region that may harbor a locus with tumor suppressor activity. 
+
+Phrase: "An alternate strategy for isolating cancer genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0679199:strategy [Mental Process]
+
+Phrase: "relies on the identification of patterns of tumor-specific chromosomal loss,"
+Meta Candidates (Total=13; Excluded=1; Pruned=0; Remaining=12)
+   756   C1516519:Chromosomal Loss [Cell or Molecular Dysfunction]
+   754   C2986549:Tumor Identification [Diagnostic Procedure]
+   738   C0008633:Chromosomal [Cell Component]
+   738   C0020792:Identification [Mental Process]
+   738   C0027651:Tumor [Neoplastic Process]
+   738   C0205369:Specific [Qualitative Concept]
+   738   C0205396:Identification [Qualitative Concept]
+   738   C0449774:Patterns [Spatial Concept]
+   738   C1517945:Loss [Quantitative Concept]
+   738   C1552740:specific [Intellectual Product]
+   738   C1578706:Tumor [Intellectual Product]
+   738   C3273930:Tumor [Finding]
+   720 E C0598174:chromosome loss [Genetic Function]
+
+Phrase: "often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "scored as loss of DNA heterozygosity (LOH),"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   820   C0524869:Loss of Heterozygosity [Genetic Function]
+           Heterozygosity Loss
+   753   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   753   C0019425:Heterozygosity [Organism Attribute]
+   753   C0449820:scored [Quantitative Concept]
+   753   C1517945:Loss [Quantitative Concept]
+
+Phrase: "which"
+
+Phrase: "point to a chromosomal region"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   806   C1953345:Chromosomal region [Cell]
+   797   C2924612:Point A [Body Location or Region]
+   760   C0008633:Chromosomal [Cell Component]
+   760   C0017446:Region [Geographic Area]
+   760   C0205147:Region [Spatial Concept]
+   760   C1552961:Point [Quantitative Concept]
+   760   C2347617:point [Quantitative Concept]
+
+Phrase: "that"
+
+Phrase: "may"
+
+Phrase: "harbor"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0475311:Harbor [Manufactured Object]
+
+Phrase: "a locus with tumor suppressor activity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1708726:Locus [Gene or Genome]
+Processing 00000000.tx.14: This approach, however, has been limited by the large, heterogeneous deletions that are frequently detected and by the presence of background levels of allele loss throughout the genome of cancer cells. 
+
+Phrase: "This approach,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449445:Approach [Spatial Concept]
+
+Phrase: "however,"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "limited by the large, heterogeneous deletions"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   753   C0019409:Heterogeneous [Qualitative Concept]
+   753   C0439801:Limited [Functional Concept]
+   753   C0549177:Large [Quantitative Concept]
+   753   C1880274:Deletions [Activity]
+   753   C3542948:Limited [Intellectual Product]
+   719 E C1442161:Deletion [Cell or Molecular Dysfunction]
+   719 E C1511760:Deletion [Genetic Function]
+   719 E C1549649:Limit [Idea or Concept]
+   719 E C2349209:Limit [Conceptual Entity]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "frequently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Frequently [Temporal Concept]
+
+Phrase: "detected"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0442726:Detected [Finding]
+  1000   C1511790:Detected [Therapeutic or Preventive Procedure]
+
+Phrase: "and by the presence of background levels of allele loss"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   739   C0002085:Allele [Gene or Genome]
+   739   C0392148:Presence [Therapeutic or Preventive Procedure]
+   739   C0441889:Levels [Qualitative Concept]
+   739   C1515981:And [Idea or Concept]
+   739   C1517945:Loss [Quantitative Concept]
+   739   C1706907:Background [Conceptual Entity]
+   718   C0524869:Allelic Loss [Genetic Function]
+   706 E C0456079:Level [Classification]
+   706 E C1547707:Level [Geographic Area]
+   706 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "throughout the genome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017428:Genome [Gene or Genome]
+  1000   C2338314:Genome [Conceptual Entity]
+
+Phrase: "of cancer cells."
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C0334227:cancer cells [Cell]
+   861   C0006826:Cancer [Neoplastic Process]
+   861   C0007634:Cells [Cell]
+   861   C0998265:Cancer [Eukaryote]
+   861   C1306459:Cancer [Finding]
+   861   C3282337:Cells [Cell]
+   827 E C1269647:Cell [Cell]
+   827 E C1704653:Cell [Medical Device]
+   827 E C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.15: Despite these limitations, the short arm of chromosome 3 (3p) has stimulated an intense search for cancer genes for more than a decade because of the wide range of human cancers, including nonpapillary RCC, that show allele loss in this region (7). 
+
+Phrase: "Despite these limitations,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449295:limitations [Functional Concept]
+
+Phrase: "the short arm of chromosome 3"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   882   C0457309:Short arm of chromosome [Cell Component]
+   858   C0796477:Chromosome 3 Short Arm [Nucleotide Sequence]
+   833   C0449721:Arm of chromosome [Nucleotide Sequence]
+           Chromosome Arm
+   790   C0426857:Short arm [Finding]
+   753   C0446516:Arm [Body Location or Region]
+   753   C1269078:Arm [Body Part, Organ, or Organ Component]
+   753   C1269612:Arm [Body Location or Region]
+   753   C1282927:short [Qualitative Concept]
+   753   C1806781:Short [Quantitative Concept]
+   753   C2350002:Short [Quantitative Concept]
+
+Phrase: "(3p"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0796477:3p [Nucleotide Sequence]
+  1000   C1552216:3p [Body Part, Organ, or Organ Component]
+
+Phrase: ")"
+
+Phrase: "has"
+
+Phrase: "stimulated"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948023:Stimulated [Natural Phenomenon or Process]
+
+Phrase: "an intense search for cancer genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1552603:search [Intellectual Product]
+   753   C1706202:Search [Activity]
+
+Phrase: "for more"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205172:More [Functional Concept]
+
+Phrase: "than a decade"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2981279:Decade [Quantitative Concept]
+
+Phrase: "because of the wide range"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C1514721:Range [Quantitative Concept]
+   861   C2348147:Range [Quantitative Concept]
+   861   C3542016:Range [Intellectual Product]
+
+Phrase: "of human cancers,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0006826:Cancer [Neoplastic Process]
+   861   C0998265:Cancer [Eukaryote]
+   861   C1306459:Cancer [Finding]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "nonpapillary RCC,"
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+  1000   C3160732:renal cell carcinoma, nonpapillary [Neoplastic Process]
+   923   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   923   C2984311:Renal cell carcinoma [Functional Concept]
+   923   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   875   C1378703:Renal carcinoma [Neoplastic Process]
+   861   C0553257:Renal cell [Cell]
+   812   C0007097:Carcinoma [Neoplastic Process]
+   812   C0007634:Cell [Cell]
+   812   C0022646:Renal [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+
+Phrase: "that"
+
+Phrase: "show"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "allele loss in this region"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   765   C0524869:Allelic Loss [Genetic Function]
+   760   C1517945:Loss [Quantitative Concept]
+
+Phrase: "(7"
+
+Phrase: ")."
+Processing 00000000.tx.16: In the case of RCC, two regions near chromosomal bands 3p21.3 and 3p12-14 have been consistently identified in addition to the VHL locus at 3p25 [reviewed in (8)]. 
+
+Phrase: "In the case"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0868928:Case [Functional Concept]
+  1000   C1706255:CASE [Medical Device]
+  1000   C1706256:Case [Conceptual Entity]
+
+Phrase: "of RCC,"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+  1000   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+  1000   C2984311:Renal cell carcinoma [Functional Concept]
+  1000   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   913   C1378703:Renal carcinoma [Neoplastic Process]
+   901   C0553257:Renal cell [Cell]
+   827   C0007097:Carcinoma [Neoplastic Process]
+   827   C0007634:Cell [Cell]
+   827   C0022646:Renal [Body Part, Organ, or Organ Component]
+   827   C1269647:Cell [Cell]
+   827   C1704653:Cell [Medical Device]
+   827   C1948049:Cell [Spatial Concept]
+
+Phrase: "two regions near chromosomal bands 3p21.3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   757   C1953345:Chromosomal region [Cell]
+   714   C0017446:Region [Geographic Area]
+   714   C0205147:Region [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "3p12-14"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "consistently"
+
+Phrase: "identified in addition to the VHL locus"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   742   C0205396:Identified [Qualitative Concept]
+   742   C1550043:Identified [Finding]
+   742   C1551388:Identified [Functional Concept]
+   742   C1708726:Locus [Gene or Genome]
+   742   C1883712:Addition [Functional Concept]
+
+Phrase: "at 3p25"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1521294:3p25 [Cell Component]
+
+Phrase: "["
+
+Phrase: "reviewed"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0282443:reviewed [Intellectual Product]
+  1000   C1709940:Reviewed [Qualitative Concept]
+   966 E C1552617:Review [Idea or Concept]
+
+Phrase: "in (8"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0150312:In [Quantitative Concept]
+   861   C0332285:In [Spatial Concept]
+
+Phrase: ")"
+
+Phrase: "]."
+Processing 00000000.tx.17: Without the benefit of linkage analysis, however, the task of isolating all of the genes within these regions of LOH has been daunting, given the limitations of mapping and sequencing technology of the early to mid-1990s. 
+
+Phrase: "Without the benefit"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0814225:Benefit [Quantitative Concept]
+
+Phrase: "of linkage analysis,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0796345:linkage analysis [Laboratory Procedure]
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0023745:linkage [Molecular Function]
+   861   C0936012:Analysis [Research Activity]
+   861   C1524024:analysis [Functional Concept]
+
+Phrase: "however,"
+
+Phrase: "the task of isolating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C3540678:Task [Occupational Activity]
+
+Phrase: "all of the genes"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0017337:Genes [Gene or Genome]
+   770   C0444868:All [Quantitative Concept]
+   770   C3539085:All [Idea or Concept]
+
+Phrase: "within these regions"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   966   C0017446:Region [Geographic Area]
+   966   C0205147:Region [Spatial Concept]
+   916 E C0205276:Regional [Spatial Concept]
+   916 E C1947913:Regional [Spatial Concept]
+
+Phrase: "of LOH"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   804   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   804   C0019425:Heterozygosity [Organism Attribute]
+   804   C0332285:Of [Spatial Concept]
+   804   C1517945:Loss [Quantitative Concept]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "daunting,"
+
+Phrase: "given"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1442162:GIVEN [Conceptual Entity]
+  1000   C1550718:given [Idea or Concept]
+  1000   C3244317:given [Intellectual Product]
+   966 E C1947971:Give [Functional Concept]
+
+Phrase: "the limitations of mapping"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0449295:limitations [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "sequencing technology of the early"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0039421:Technology [Occupation or Discipline]
+
+Phrase: "to mid-1990s."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0681758:1990s [Temporal Concept]
+Processing 00000000.tx.18: In addition, the isolation of expressed genes within these deleted regions only begins the arduous mutational analyses required to exclude each gene as a candidate tumor suppressor. 
+
+Phrase: "In addition,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883712:Addition [Functional Concept]
+   928 E C1524062:Additional [Functional Concept]
+
+Phrase: "the isolation of expressed genes"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0204727:Isolation [Therapeutic or Preventive Procedure]
+   760   C0205409:Isolation [Functional Concept]
+   760   C0220862:isolation [Laboratory Procedure]
+
+Phrase: "within these deleted regions only"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   793   C0017446:Region [Geographic Area]
+   793   C0205147:Region [Spatial Concept]
+   743 E C0205276:Regional [Spatial Concept]
+   743 E C1947913:Regional [Spatial Concept]
+
+Phrase: "begins"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439659:Begin [Temporal Concept]
+
+Phrase: "the arduous mutational analyses"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   848   C0796357:mutation analysis [Laboratory Procedure]
+   793   C0002778:Analysis [Laboratory Procedure]
+   793   C0936012:Analysis [Research Activity]
+   793   C1524024:analysis [Functional Concept]
+
+Phrase: "required"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "exclude"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332196:Exclude [Functional Concept]
+  1000   C2828389:Exclude [Activity]
+
+Phrase: "each gene as a candidate tumor suppressor."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   840   C1707257:Candidate Tumor Suppressor Gene [Gene or Genome]
+   804   C0079427:Tumor suppressor gene [Gene or Genome]
+   774   C0017372:Suppressor gene [Gene or Genome]
+   774   C1332838:Candidate Gene [Gene or Genome]
+   748   C0017337:Gene [Gene or Genome]
+Processing 00000000.tx.19: For example, a three-generation family with multifocal RCC was identified where all affected members carried a t(3;8) translocation (9). 
+
+Phrase: "For example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "a three-generation family with multifocal RCC"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   774   C2931352:Familial renal cell carcinoma [Neoplastic Process]
+           Familial renal carcinoma
+   742   C0015576:Family [Family Group]
+   742   C1704727:Family [Conceptual Entity]
+
+Phrase: "was"
+
+Phrase: "identified"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+
+Phrase: "where"
+
+Phrase: "all affected members"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0680022:members [Population Group]
+   827 E C2698041:Member [Professional or Occupational Group]
+
+Phrase: "carried"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0206243:carried [Activity]
+  1000   C0699809:carried [Finding]
+
+Phrase: "a t(3"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   901   C0193959:a t [Therapeutic or Preventive Procedure]
+
+Phrase: ";8"
+
+Phrase: ")"
+
+Phrase: "translocation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0040715:Translocation [Cell or Molecular Dysfunction]
+  1000   C2987521:Translocation [Activity]
+
+Phrase: "(9"
+
+Phrase: ")."
+Processing 00000000.tx.20: Although the breakpoint of this translocation has been cloned, there is still uncertainty as to whether the causal RCC susceptibility gene in this family is 1) the FHIT gene, which is interrupted by the rearrangement (10); 
+
+Phrase: "Although"
+
+Phrase: "the breakpoint of this translocation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   797   C1519622:Translocation Breakpoint [Nucleotide Sequence]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "cloned"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0009013:cloned [Cell]
+   966 E C1522642:Clone [Tissue]
+
+Phrase: ","
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "still uncertainty as to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0087130:Uncertainty [Idea or Concept]
+
+Phrase: "whether"
+
+Phrase: "the causal RCC susceptibility gene in this family"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0919453:Susceptibility Gene [Gene or Genome]
+   757   C1517488:Gene Family [Gene or Genome]
+   757   C1861886:CELL Gene [Gene or Genome]
+   739   C0017337:Gene [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: "the FHIT gene,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0919457:FHIT gene [Gene or Genome]
+   861   C0017337:Gene [Gene or Genome]
+
+Phrase: "which"
+
+Phrase: "is"
+
+Phrase: "interrupted by the rearrangement"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0443239:Interrupted [Qualitative Concept]
+   770   C1511695:Rearrangement [Genetic Function]
+   770   C1512900:Interrupted [Temporal Concept]
+
+Phrase: "(10"
+
+Phrase: ")"
+
+Phrase: ";"
+Processing 00000000.tx.21: 2) the TRC8 gene, which is involved as a fusion transcript with untranslated regions of FHIT (11); 
+
+Phrase: "2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: ")"
+
+Phrase: "the TRC8 gene,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017337:Gene [Gene or Genome]
+
+Phrase: "which"
+
+Phrase: "is"
+
+Phrase: "involved as a fusion transcript"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C3481430:fusion transcript [Genetic Function]
+   760   C0332466:Fusion [Functional Concept]
+   760   C1293131:Fusion [Therapeutic or Preventive Procedure]
+   760   C1314939:Involved [Functional Concept]
+   760   C1519595:Transcript [Nucleic Acid, Nucleoside, or Nucleotide]
+
+Phrase: "with untranslated regions"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0600680:Untranslated Regions [Nucleic Acid, Nucleoside, or Nucleotide]
+   827   C0017446:Region [Geographic Area]
+   827   C0205147:Region [Spatial Concept]
+   777 E C0205276:Regional [Spatial Concept]
+   777 E C1947913:Regional [Spatial Concept]
+
+Phrase: "of FHIT"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0919457:FHIT [Gene or Genome]
+  1000   C1173495:FHIT [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "(11"
+
+Phrase: ")"
+
+Phrase: ";"
+Processing 00000000.tx.22: or 3) simply a mutant VHL allele, which has been identified in the tumors of some of these patients and is unmasked when the rearranged chromosome is subsequently deleted (5,8). 
+
+Phrase: "or"
+
+Phrase: "3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ")"
+
+Phrase: "simply"
+
+Phrase: "a mutant VHL allele,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0002085:Allele [Gene or Genome]
+
+Phrase: "which"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "identified in the tumors of some of these patients"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   742   C0027651:Tumors [Neoplastic Process]
+   742   C0030705:Patients [Patient or Disabled Group]
+   742   C0205396:Identified [Qualitative Concept]
+   742   C1550043:Identified [Finding]
+   742   C1551388:Identified [Functional Concept]
+   708 E C1578706:Tumor [Intellectual Product]
+   708 E C3273930:Tumor [Finding]
+
+Phrase: "and"
+
+Phrase: "is"
+
+Phrase: "unmasked"
+
+Phrase: "when"
+
+Phrase: "the rearranged chromosome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0008633:Chromosome [Cell Component]
+
+Phrase: "is"
+
+Phrase: "subsequently"
+
+Phrase: "deleted"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1880274:Deleted [Activity]
+
+Phrase: "(5,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: "8"
+
+Phrase: ")."
+Processing 00000000.tx.23: In this issue of the Journal, Julicher et al. 
+
+Phrase: "In this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: "of the Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "Julicher et al."
+Processing 00000000.tx.24: (12) employ a common genetic complementation assay to screen adjacent chromosomal fragments from the 3p14 region for growth suppressor or tumor suppressor activity in an RCC tumor cell line. 
+
+Phrase: "(12"
+
+Phrase: ")"
+
+Phrase: "employ"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0457083:Employ [Functional Concept]
+  1000   C0557351:employ [Finding]
+
+Phrase: "a common genetic complementation"
+Meta Candidates (Total=16; Excluded=14; Pruned=0; Remaining=2)
+   827   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   827   C0314603:Genetic [Functional Concept]
+   771 E C0005615:Birth [Organism Function]
+   771 E C0035150:Reproduction [Organism Function]
+   771 E C0079946:origin [Classification]
+   771 E C0439659:Origin [Temporal Concept]
+   771 E C1550512:origin [Intellectual Product]
+   771 E C1550722:birth [Idea or Concept]
+   771 E C3245487:birth [Intellectual Product]
+   743 E C0454729:Natal [Geographic Area]
+   743 E C0559522:Genital [Body System]
+   743 E C1546649:Genital [Intellectual Product]
+   743 E C1550642:Genital [Body Substance]
+   734 E C0205313:Original [Idea or Concept]
+   734 E C2347409:Original [Occupational Activity]
+   716 E C0598240:originality [Mental Process]
+
+Phrase: "assay"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0005507:Assay [Laboratory Procedure]
+  1000   C0243073:assay [Qualitative Concept]
+  1000   C1510438:Assay [Laboratory Procedure]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "screen"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0220908:screen [Health Care Activity]
+  1000   C1305399:screen [Functional Concept]
+  1000   C1705053:Screen [Medical Device]
+
+Phrase: "adjacent chromosomal fragments from the 3p14 region"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   748   C0332255:fragments [Functional Concept]
+   748   C0486805:Fragments [Body Substance]
+   726   C0333708:Chromosome fragment [Cell or Molecular Dysfunction]
+   714 E C1708096:Fragment [Qualitative Concept]
+
+Phrase: "for growth suppressor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1710252:Suppressor [Manufactured Object]
+   861   C2954564:Suppressor [Pharmacologic Substance]
+
+Phrase: "or"
+
+Phrase: "tumor suppressor activity in an RCC tumor cell line."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   775   C1325410:tumor suppressor activity [Cell Function]
+   738   C0205177:Activity [Functional Concept]
+   738   C0439167:% activity [Quantitative Concept]
+   738   C0441655:Activity [Activity]
+   738   C1561536:*Activity [Idea or Concept]
+Processing 00000000.tx.25: The expectation of this strategy is that a functional screen for growth or tumor suppression will allow investigators to focus their search for RCC cancer genes on a smaller, well-defined stretch of genomic DNA. 
+
+Phrase: "The expectation of this strategy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0679138:Expectation [Idea or Concept]
+
+Phrase: "is"
+
+Phrase: "that"
+
+Phrase: "a functional screen for growth"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0220908:screen [Health Care Activity]
+   760   C1305399:screen [Functional Concept]
+   760   C1705053:Screen [Medical Device]
+
+Phrase: "or"
+
+Phrase: "tumor suppression"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C1519692:Tumor Suppression [Molecular Function]
+   861   C0221103:Suppression [Pathologic Function]
+   861   C0301625:Suppression [Organism Function]
+   861   C0439181:% suppression [Quantitative Concept]
+   861   C0728721:suppression [Mental Process]
+
+Phrase: "will"
+
+Phrase: "allow"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allow [Social Behavior]
+
+Phrase: "investigators to focus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0035173:Investigators [Professional or Occupational Group]
+
+Phrase: "their search for RCC cancer genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C1552603:search [Intellectual Product]
+   744   C1706202:Search [Activity]
+
+Phrase: "on a smaller, well-defined stretch"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0600080:stretch [Therapeutic or Preventive Procedure]
+
+Phrase: "of genomic DNA."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C3272453:Genomic DNA [Nucleic Acid, Nucleoside, or Nucleotide]
+   861   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   861   C0017428:Genomic [Gene or Genome]
+   861   C0887950:genomic [Biomedical Occupation or Discipline]
+Processing 00000000.tx.26: In this study, Julicher et al. observed that a 530-kilobase genomic fragment, designated yeast artificial chromosome 145F7 (YAC 145F7), encoded the ability to induce cellular senescence in vitro and tumor suppression in vivo when transferred by spheroplast fusion into the parental tumor cell line called RCC-1. 
+
+Phrase: "In this study,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "Julicher et al."
+
+Phrase: "observed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+
+Phrase: "that"
+
+Phrase: "a 530-kilobase genomic fragment,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0332255:fragment [Functional Concept]
+   812   C1708096:Fragment [Qualitative Concept]
+
+Phrase: "designated yeast artificial chromosome 145F7 (YAC 145F7),"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   717   C0206665:Yeast Artificial Chromosome [Research Device]
+
+Phrase: "encoded"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0679058:encoded [Mental Process]
+  1000   C2700640:Encoded [Activity]
+
+Phrase: "the ability to"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0085732:Ability [Organism Attribute]
+   789 E C1299581:Able [Finding]
+
+Phrase: "induce"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "cellular senescence"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0007581:Senescence, Cellular [Cell Function]
+   861   C0231337:Senescence [Finding]
+   861   C1999167:Senescence [Population Group]
+
+Phrase: "in vitro"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0021135:In Vitro [Intellectual Product]
+  1000   C1533691:in vitro [Qualitative Concept]
+           vitro
+  1000   C2827718:In Vitro [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "tumor suppression"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C1519692:Tumor Suppression [Molecular Function]
+   861   C0221103:Suppression [Pathologic Function]
+   861   C0301625:Suppression [Organism Function]
+   861   C0439181:% suppression [Quantitative Concept]
+   861   C0728721:suppression [Mental Process]
+
+Phrase: "in vivo"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1515655:In Vivo [Spatial Concept]
+           vivo
+
+Phrase: "when"
+
+Phrase: "transferred by spheroplast fusion"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   770   C0037890:Spheroplast [Cell]
+   770   C0332466:Fusion [Functional Concept]
+   770   C0348011:transferred [Functional Concept]
+   770   C1293131:Fusion [Therapeutic or Preventive Procedure]
+   737 E C0040671:Transfer [Mental Process]
+   737 E C1705822:Transfer [Activity]
+
+Phrase: "into the parental tumor cell line"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   923   C0085983:Cell Line, Tumor [Cell]
+   861   C0007600:Cell Line [Cell]
+   812   C0205132:Line [Spatial Concept]
+   812   C1550648:Line [Substance]
+   812   C1552960:Line [Quantitative Concept]
+
+Phrase: "called"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0679006:Call [Mental Process]
+   966   C1947967:Call [Functional Concept]
+
+Phrase: "RCC-1."
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+  1000   C2931882:Renal cell carcinoma 1 [Neoplastic Process]
+   923   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   923   C2984311:Renal cell carcinoma [Functional Concept]
+   923   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   875   C1378703:Renal carcinoma [Neoplastic Process]
+   861   C0553257:Renal cell [Cell]
+   812   C0007097:Carcinoma [Neoplastic Process]
+   812   C0007634:Cell [Cell]
+   812   C0022646:Renal [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.27: The authors conclude that this discrete YAC clone contains at least one RCC gene locus, provisionally called NRC-2. 
+
+Phrase: "The authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "conclude"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0917903:conclude [Biomedical or Dental Material,Organic Chemical]
+
+Phrase: "that"
+
+Phrase: "this discrete YAC clone"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   901   C1520202:YAC Clone [Nucleotide Sequence]
+   827   C0009013:Clone [Cell]
+   827   C1522642:Clone [Tissue]
+   755 E C1704387:Clonal [Qualitative Concept]
+   727 E C0796368:clonality [Diagnostic Procedure]
+
+Phrase: "contains at least one RCC gene locus,"
+Meta Candidates (Total=20; Excluded=0; Pruned=0; Remaining=20)
+   790   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   790   C2984311:Renal cell carcinoma [Functional Concept]
+   790   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   764   C0553257:Renal cell [Cell]
+   764   C1708726:Gene Locus [Gene or Genome]
+           Locus
+   762   C1378703:Renal carcinoma [Neoplastic Process]
+   762   C1518174:Carcinoma Cell [Cell]
+   762   C1861886:CELL Gene [Gene or Genome]
+   742   C0007097:Carcinoma [Neoplastic Process]
+   742   C0007634:Cell [Cell]
+   742   C0017337:Gene [Gene or Genome]
+   742   C0022646:Renal [Body Part, Organ, or Organ Component]
+   742   C0205447:One [Quantitative Concept]
+   742   C0332256:contain [Functional Concept]
+   742   C1269647:Cell [Cell]
+   742   C1704653:Cell [Medical Device]
+   742   C1948049:Cell [Spatial Concept]
+   742   C2700400:Contain [Activity]
+
+Phrase: "provisionally called NRC-2."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   812   C0915178:NRC [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   812   C1367177:NRC [Gene or Genome]
+   812   C1705843:NRC [Gene or Genome]
+   779   C0679006:Call [Mental Process]
+   779   C1947967:Call [Functional Concept]
+Processing 00000000.tx.28: They predict that the subsequent isolation and characterization of all of the expressed genes on this clone will ultimately uncover the elusive 3p tumor suppressor gene involved in the pathogenesis of RCC and, perhaps, other solid tumors that are also associated with frequent 3p deletions. 
+
+Phrase: "They"
+
+Phrase: "predict"
+
+Phrase: "that"
+
+Phrase: "the subsequent isolation"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   861   C0204727:Isolation [Therapeutic or Preventive Procedure]
+   861   C0205409:Isolation [Functional Concept]
+   861   C0220862:isolation [Laboratory Procedure]
+   789 E C1548221:Isolated [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "characterization of all of the expressed genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1880022:Characterization [Activity]
+
+Phrase: "on this clone"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0009013:Clone [Cell]
+  1000   C1522642:Clone [Tissue]
+   928 E C1704387:Clonal [Qualitative Concept]
+   900 E C0796368:clonality [Diagnostic Procedure]
+
+Phrase: "will"
+
+Phrase: "ultimately"
+
+Phrase: "uncover"
+
+Phrase: "the elusive 3p tumor suppressor gene"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   884   C0079427:Tumor suppressor gene [Gene or Genome]
+           Tumor Suppressor
+   840   C0017372:Suppressor gene [Gene or Genome]
+   840   C1325410:tumor suppressor [Cell Function]
+   804   C0017337:Gene [Gene or Genome]
+   804   C0027651:Tumor [Neoplastic Process]
+   804   C1578706:Tumor [Intellectual Product]
+   804   C1710252:Suppressor [Manufactured Object]
+   804   C2954564:Suppressor [Pharmacologic Substance]
+   804   C3273930:Tumor [Finding]
+
+Phrase: "involved in the pathogenesis of RCC"
+Meta Candidates (Total=16; Excluded=0; Pruned=0; Remaining=16)
+   800   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   800   C2984311:Renal cell carcinoma [Functional Concept]
+   800   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   770   C0553257:Renal cell [Cell]
+   767   C1378703:Renal carcinoma [Neoplastic Process]
+   767   C1518174:Carcinoma Cell [Cell]
+   744   C0007097:Carcinoma [Neoplastic Process]
+   744   C0007634:Cell [Cell]
+   744   C0022646:Renal [Body Part, Organ, or Organ Component]
+   744   C0543483:pathogenesis [Functional Concept]
+   744   C0699748:Pathogenesis [Pathologic Function]
+   744   C1269647:Cell [Cell]
+   744   C1314939:Involved [Functional Concept]
+   744   C1704653:Cell [Medical Device]
+   744   C1948049:Cell [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "perhaps,"
+
+Phrase: "other solid tumors"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0280100:solid tumors [Neoplastic Process]
+   861   C0027651:Tumors [Neoplastic Process]
+   861   C0205208:Solid [Qualitative Concept]
+   861   C0302909:Solid [Substance]
+   861   C1378566:Solid [Biomedical or Dental Material]
+   827 E C1578706:Tumor [Intellectual Product]
+   827 E C3273930:Tumor [Finding]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "also"
+
+Phrase: "associated with frequent 3p deletions."
+Meta Candidates (Total=11; Excluded=4; Pruned=0; Remaining=7)
+   806   C0332281:Associated with [Qualitative Concept]
+           Associated
+   781   C0795806:Deletion 3p [Disease or Syndrome]
+   760   C0332183:Frequent [Temporal Concept]
+   760   C0796477:3p [Nucleotide Sequence]
+   760   C1552216:3p [Body Part, Organ, or Organ Component]
+   760   C1880274:Deletions [Activity]
+   726 E C0750490:Associate [Idea or Concept]
+   726 E C1442161:Deletion [Cell or Molecular Dysfunction]
+   726 E C1511760:Deletion [Genetic Function]
+   726 E C1706221:Associate [Professional or Occupational Group]
+Processing 00000000.tx.29: To put these data in perspective, however, it is worth noting that several investigators have conducted similar chromosomal transfer experiments in RCC over the past decade. 
+
+Phrase: "To"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "put"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1882509:Put [Activity]
+
+Phrase: "these data in perspective,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C1511726:Data [Idea or Concept]
+   770   C3245479:data [Medical Device]
+
+Phrase: "however,"
+
+Phrase: "it"
+
+Phrase: "is worth noting"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   756   C1316572:Note [Clinical Attribute]
+   756   C1317574:Note [Intellectual Product]
+   756   C1369612:Note [Clinical Attribute]
+
+Phrase: "that several investigators"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0035173:Investigators [Professional or Occupational Group]
+
+Phrase: "have"
+
+Phrase: "conducted similar chromosomal transfer experiments in RCC"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   742   C0681814:Experiments [Research Activity]
+   708 E C1706386:Experiment [Conceptual Entity]
+
+Phrase: "over the past decade."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2981279:Decade [Quantitative Concept]
+Processing 00000000.tx.30: In brief, these studies have identified noncontiguous regions with growth inhibition, senescence, and/or tumor suppression activity near chromosomal bands 3p21-22 and 3p12-14 (13-17); 
+
+Phrase: "In brief,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1282927:brief [Qualitative Concept]
+  1000   C1879313:Brief [Temporal Concept]
+
+Phrase: "these studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "have"
+
+Phrase: "identified noncontiguous regions with growth inhibition,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   719   C0017446:Region [Geographic Area]
+   719   C0205147:Region [Spatial Concept]
+
+Phrase: "senescence,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0231337:Senescence [Finding]
+  1000   C1999167:Senescence [Population Group]
+
+Phrase: "and/or"
+
+Phrase: "tumor suppression activity near chromosomal bands 3p21-22"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0205177:Activity [Functional Concept]
+   744   C0439167:% activity [Quantitative Concept]
+   744   C0441655:Activity [Activity]
+   744   C1561536:*Activity [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "3p12-14"
+
+Phrase: "(13-17"
+
+Phrase: ")"
+
+Phrase: ";"
+Processing 00000000.tx.31: however, a gene with RCC suppressor activity has yet to be defined by these assays. 
+
+Phrase: "however,"
+
+Phrase: "a gene with RCC suppressor activity"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0079429:A Gene [Gene or Genome]
+   767   C0017372:Suppressor gene [Gene or Genome]
+   767   C1861886:CELL Gene [Gene or Genome]
+   744   C0017337:Gene [Gene or Genome]
+
+Phrase: "has"
+
+Phrase: "yet to"
+
+Phrase: "be"
+
+Phrase: "defined by these assays."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C1704788:Defined [Conceptual Entity]
+   770   C3539106:Defined [Intellectual Product]
+   737   C0005507:Assay [Laboratory Procedure]
+   737   C0243073:assay [Qualitative Concept]
+   737   C1510438:Assay [Laboratory Procedure]
+Processing 00000000.tx.32: In addition, recent studies in breast cancer (18) and in human uroepithelial cells immortalized with human papilloma virus 16 (19) have refined the position of these functional loci to bands 3p21.3-p22 and 3p13-14.2 and have suggested the presence of a "telomerase repressor" sequence at these regions [reviewed in (20)]. 
+
+Phrase: "In addition,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883712:Addition [Functional Concept]
+   928 E C1524062:Additional [Functional Concept]
+
+Phrase: "recent studies in breast cancer"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   840   C0006142:Breast Cancer [Neoplastic Process]
+   840   C0678222:Breast Cancer [Neoplastic Process]
+   804   C0006826:Cancer [Neoplastic Process]
+   804   C0998265:Cancer [Eukaryote]
+   804   C1306459:Cancer [Finding]
+   790 E C0153661:thoracic cancer [Neoplastic Process]
+
+Phrase: "(18"
+
+Phrase: ")"
+
+Phrase: "and in human uroepithelial cells"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   797   C0427861:Human cells [Laboratory or Test Result]
+   760   C0007634:Cells [Cell]
+   760   C0086418:Human [Human]
+   760   C1515981:And [Idea or Concept]
+   760   C3282337:Cells [Cell]
+   726 E C1269647:Cell [Cell]
+   726 E C1704653:Cell [Medical Device]
+   726 E C1948049:Cell [Spatial Concept]
+
+Phrase: "immortalized with human papilloma virus 16"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   882   C0999806:Human papilloma virus 16 [Virus]
+   833   C0021344:Human Papillomavirus [Virus]
+   790   C0030358:Papilloma virus [Virus]
+   790   C0949793:Papillomavirus [Virus]
+   783   C0318356:Human virus [Virus]
+   753   C0030354:Papilloma [Neoplastic Process]
+   753   C0042776:Virus [Virus]
+   753   C0086418:Human [Human]
+   753   C0319157:virus [Virus]
+   753   C2826170:Immortalized [Molecular Biology Research Technique]
+
+Phrase: "(19"
+
+Phrase: ")"
+
+Phrase: "have"
+
+Phrase: "refined"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   907   C1947930:Cleanse [Activity]
+   907   C1998793:Purified [Functional Concept]
+
+Phrase: "the position of these functional loci"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0733755:Position [Spatial Concept]
+
+Phrase: "to bands 3p21.3-p22"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C1538631:p22 [Gene or Genome]
+   812   C1825005:p22 [Gene or Genome]
+   812   C1846989:p22 [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "3p13-14.2"
+
+Phrase: "and"
+
+Phrase: "have"
+
+Phrase: "suggested"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "the presence of a ""telomerase repressor"" sequence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0392148:Presence [Therapeutic or Preventive Procedure]
+
+Phrase: "at these regions"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   966   C0017446:Region [Geographic Area]
+   966   C0205147:Region [Spatial Concept]
+   916 E C0205276:Regional [Spatial Concept]
+   916 E C1947913:Regional [Spatial Concept]
+
+Phrase: "["
+
+Phrase: "reviewed"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0282443:reviewed [Intellectual Product]
+  1000   C1709940:Reviewed [Qualitative Concept]
+   966 E C1552617:Review [Idea or Concept]
+
+Phrase: "in (20"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0150312:In [Quantitative Concept]
+   861   C0332285:In [Spatial Concept]
+
+Phrase: ")"
+
+Phrase: "]."
+Processing 00000000.tx.33: Julicher et al. 
+
+Phrase: "Julicher et al."
+Processing 00000000.tx.34: (12) argue that the YAC 145F7 clone used in their genomic transfer study represents a novel gene activity because it does not restore "telomerase repressor" activity in recipient RCC cells and does not overlap with the open-reading frames of previously known candidate genes at 3p14, such as FHIT or WNT5A, or with an RCC tumor suppressor locus at 3p12 (designated NRC-1) that was identified by the use of a similar experimental strategy (17). 
+
+Phrase: "(12"
+
+Phrase: ")"
+
+Phrase: "argue"
+
+Phrase: "that"
+
+Phrase: "the YAC 145F7 clone"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   804   C0009013:Clone [Cell]
+   804   C1522642:Clone [Tissue]
+   733 E C1704387:Clonal [Qualitative Concept]
+   717   C0206665:Yeast Artificial Chromosome [Research Device]
+   704 E C0796368:clonality [Diagnostic Procedure]
+
+Phrase: "used in their genomic transfer study"
+Meta Candidates (Total=11; Excluded=3; Pruned=0; Remaining=8)
+   767   C0869040:study use [Research Activity]
+   753   C0017428:Genomic [Gene or Genome]
+   753   C0040671:Transfer [Mental Process]
+   753   C0557651:Study [Manufactured Object]
+   753   C0887950:genomic [Biomedical Occupation or Discipline]
+   753   C1273517:used [Finding]
+   753   C1705822:Transfer [Activity]
+   753   C2603343:Study [Research Activity]
+   719 E C0042153:use [Functional Concept]
+   719 E C0457083:Use [Functional Concept]
+   719 E C1947944:Use [Intellectual Product]
+
+Phrase: "represents"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1882932:Represent [Activity]
+
+Phrase: "a novel gene activity"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0205177:Activity [Functional Concept]
+   827   C0439167:% activity [Quantitative Concept]
+   827   C0441655:Activity [Activity]
+   827   C1561536:*Activity [Idea or Concept]
+
+Phrase: "because"
+
+Phrase: "it"
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "restore"
+
+Phrase: """telomerase repressor"" activity in recipient RCC cells"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   762   C1148756:telomerase activity [Genetic Function]
+   742   C0205177:Activity [Functional Concept]
+   742   C0439167:% activity [Quantitative Concept]
+   742   C0441655:Activity [Activity]
+   742   C1561536:*Activity [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "overlap with the open-reading frames of previously known candidate genes"
+Meta Candidates (Total=13; Excluded=2; Pruned=0; Remaining=11)
+   775   C0079941:Open Reading Frames [Gene or Genome]
+   756   C0080089:Reading Frames [Nucleotide Sequence]
+       E   Frame
+   756   C1332838:Candidate Genes [Gene or Genome]
+   738   C0017337:Genes [Gene or Genome]
+   738   C0034754:Reading [Daily or Recreational Activity]
+   738   C0175566:Open [Spatial Concept]
+   738   C0180979:frames [Medical Device]
+   738   C0185027:overlap [Therapeutic or Preventive Procedure]
+   738   C0205309:Known [Qualitative Concept]
+   738   C1705179:Reading [Finding]
+   738   C1948020:Overlap [Conceptual Entity]
+   704 E C1705858:Frame [Manufactured Object]
+
+Phrase: "at 3p14,"
+
+Phrase: "such as FHIT"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0919457:FHIT [Gene or Genome]
+  1000   C1173495:FHIT [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "or"
+
+Phrase: "WNT5A,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0812229:WNT5A [Gene or Genome]
+  1000   C0919498:WNT5A [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "or with an RCC tumor suppressor locus"
+Meta Candidates (Total=25; Excluded=0; Pruned=0; Remaining=25)
+   790   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   790   C2984311:Renal cell carcinoma [Functional Concept]
+   790   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   764   C0079427:Tumor Suppressor [Gene or Genome]
+   764   C0553257:Renal cell [Cell]
+   764   C1325410:tumor suppressor [Cell Function]
+   762   C0022665:Renal tumor [Neoplastic Process]
+   762   C0038856:Suppressor cell [Cell]
+   762   C0431085:Tumor cell [Cell]
+   762   C0597032:Tumor Cell [Cell]
+   762   C1378703:Renal carcinoma [Neoplastic Process]
+   762   C1518174:Carcinoma Cell [Cell]
+   742   C0007097:Carcinoma [Neoplastic Process]
+   742   C0007634:Cell [Cell]
+   742   C0022646:Renal [Body Part, Organ, or Organ Component]
+   742   C0027651:Tumor [Neoplastic Process]
+   742   C1269647:Cell [Cell]
+   742   C1578706:Tumor [Intellectual Product]
+   742   C1704653:Cell [Medical Device]
+   742   C1708726:Locus [Gene or Genome]
+   742   C1710252:Suppressor [Manufactured Object]
+   742   C1948049:Cell [Spatial Concept]
+   742   C2954564:Suppressor [Pharmacologic Substance]
+   742   C3273930:Tumor [Finding]
+
+Phrase: "at 3p12"
+
+Phrase: "(designated NRC-1"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0915178:NRC [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   827   C1367177:NRC [Gene or Genome]
+   827   C1524084:Designated [Functional Concept]
+   827   C1705843:NRC [Gene or Genome]
+
+Phrase: ")"
+
+Phrase: "that"
+
+Phrase: "was"
+
+Phrase: "identified by the use of a similar experimental strategy"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   764   C1524063:Use of [Functional Concept]
+   742   C0042153:use [Functional Concept]
+   742   C0205396:Identified [Qualitative Concept]
+   742   C0457083:Use [Functional Concept]
+   742   C0679199:strategy [Mental Process]
+   742   C1517586:Experimental [Qualitative Concept]
+   742   C1550043:Identified [Finding]
+   742   C1551388:Identified [Functional Concept]
+   742   C1947944:Use [Intellectual Product]
+   742   C2348205:Similar [Qualitative Concept]
+
+Phrase: "(17"
+
+Phrase: ")."
+Processing 00000000.tx.35: To strengthen the validity of this type of genetic complementation assay, it is common to include controls for the specificity of the tumor suppressor phenotype by testing sporadic revertants and by transferring chromosomal DNA from other regions of the genome. 
+
+Phrase: "To"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "strengthen"
+
+Phrase: "the validity of this type of genetic complementation assay,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C2349101:Validity [Quantitative Concept]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "common to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205214:Common [Quantitative Concept]
+   861   C1522138:Common [Functional Concept]
+   861   C3245511:common [Intellectual Product]
+
+Phrase: "include"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:include [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "controls for the specificity of the tumor suppressor phenotype"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   708   C0243148:control [Qualitative Concept]
+   708   C1550141:Control [Substance]
+   708   C1882979:Control [Conceptual Entity]
+   708   C2587213:Control [Functional Concept]
+   708   C3274648:Control [Qualitative Concept]
+
+Phrase: "by testing sporadic revertants"
+
+Phrase: "and by transferring chromosomal DNA"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   806   C2331150:Chromosomal DNA [Nucleic Acid, Nucleoside, or Nucleotide]
+   760   C0008633:Chromosomal [Cell Component]
+   760   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   760   C1515981:And [Idea or Concept]
+   760   C1540850:Transferring [Activity]
+   745   C1516546:Chromosome Transfer [Research Activity]
+   726 E C0040671:Transfer [Mental Process]
+   726 E C1705822:Transfer [Activity]
+
+Phrase: "from other regions"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   966   C0017446:Region [Geographic Area]
+   966   C0205147:Region [Spatial Concept]
+   916 E C0205276:Regional [Spatial Concept]
+   916 E C1947913:Regional [Spatial Concept]
+
+Phrase: "of the genome."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017428:Genome [Gene or Genome]
+  1000   C2338314:Genome [Conceptual Entity]
+Processing 00000000.tx.36: Julicher et al. report that a revertant cell line with a tumorigenic phenotype similar to the parental cells had lost the transferred YAC DNA. 
+
+Phrase: "Julicher et al."
+
+Phrase: "report"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0684224:Report [Intellectual Product]
+  1000   C0700287:Report [Health Care Activity]
+  1000   C3273238:Report [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "a revertant cell line with a tumorigenic phenotype"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   770   C0007600:Cell Line [Cell]
+   767   C0427385:Cell phenotype [Laboratory Procedure]
+   767   C1318444:Cell phenotype [Organism Attribute]
+   744   C0007634:Cell [Cell]
+   744   C0205132:Line [Spatial Concept]
+   744   C1269647:Cell [Cell]
+   744   C1550648:Line [Substance]
+   744   C1552960:Line [Quantitative Concept]
+   744   C1704653:Cell [Medical Device]
+   744   C1948049:Cell [Spatial Concept]
+
+Phrase: "similar to the parental cells"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C2348205:Similar [Qualitative Concept]
+
+Phrase: "had"
+
+Phrase: "lost"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0745777:Lost [Functional Concept]
+
+Phrase: "the transferred YAC DNA."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+Processing 00000000.tx.37: In addition, the authors imply that adjacent YAC clones from the chromosomal 3p14 region had no tumor suppressor activity when similarly transferred to the RCC-1 line but give little detailed information on these clones in this report. 
+
+Phrase: "In addition,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883712:Addition [Functional Concept]
+   928 E C1524062:Additional [Functional Concept]
+
+Phrase: "the authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "imply"
+
+Phrase: "that adjacent YAC"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0206665:YAC [Research Device]
+
+Phrase: "clones from the chromosomal 3p14 region"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   783   C1953345:Chromosomal region [Cell]
+   753   C0008633:Chromosomal [Cell Component]
+   753   C0009013:Clone [Cell]
+   753   C0017446:Region [Geographic Area]
+   753   C0205147:Region [Spatial Concept]
+   753   C1522642:Clone [Tissue]
+
+Phrase: "had"
+
+Phrase: "no tumor suppressor activity"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C1325410:tumor suppressor activity [Cell Function]
+           tumor suppressor
+   827   C0205177:Activity [Functional Concept]
+   827   C0439167:% activity [Quantitative Concept]
+   827   C0441655:Activity [Activity]
+   827   C1561536:*Activity [Idea or Concept]
+   734   C0079427:Tumor Suppressor [Gene or Genome]
+
+Phrase: "when"
+
+Phrase: "similarly"
+
+Phrase: "transferred to the RCC-1 line"
+Meta Candidates (Total=21; Excluded=2; Pruned=0; Remaining=19)
+   833   C2931882:Renal cell carcinoma 1 [Neoplastic Process]
+   800   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   800   C2984311:Renal cell carcinoma [Functional Concept]
+   800   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   770   C0553257:Renal cell [Cell]
+   767   C0007600:Cell Line [Cell]
+   767   C1378703:Renal carcinoma [Neoplastic Process]
+   767   C1518174:Carcinoma Cell [Cell]
+   744   C0007097:Carcinoma [Neoplastic Process]
+   744   C0007634:Cell [Cell]
+   744   C0022646:Renal [Body Part, Organ, or Organ Component]
+   744   C0205132:Line [Spatial Concept]
+   744   C0348011:transferred [Functional Concept]
+   744   C1269647:Cell [Cell]
+   744   C1550648:Line [Substance]
+   744   C1552960:Line [Quantitative Concept]
+   744   C1704653:Cell [Medical Device]
+   744   C1948049:Cell [Spatial Concept]
+   711 E C0040671:Transfer [Mental Process]
+   711 E C1705822:Transfer [Activity]
+
+Phrase: "but"
+
+Phrase: "give"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947971:Give [Functional Concept]
+
+Phrase: "little detailed information on these clones"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1533716:Information [Idea or Concept]
+
+Phrase: "in this report."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0684224:Report [Intellectual Product]
+  1000   C0700287:Report [Health Care Activity]
+  1000   C3273238:Report [Intellectual Product]
+Processing 00000000.tx.38: An interesting question not addressed in this study, however, would be an analysis of the effect of the transfer of the YAC 145F7 clone into parental tumor cell lines that do not commonly show evidence for chromosome 3p deletions. 
+
+Phrase: "An interesting question"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1522634:Question [Intellectual Product]
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "addressed in this study,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0557651:Study [Manufactured Object]
+   770   C2603343:Study [Research Activity]
+   737   C0376649:Address [Intellectual Product]
+   737   C1442065:Address [Spatial Concept]
+
+Phrase: "however,"
+
+Phrase: "would"
+
+Phrase: "be"
+
+Phrase: "an analysis of the effect of the transfer"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0002778:Analysis [Laboratory Procedure]
+   744   C0936012:Analysis [Research Activity]
+   744   C1524024:analysis [Functional Concept]
+
+Phrase: "of the YAC 145F7 clone"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   804   C0009013:Clone [Cell]
+   804   C1522642:Clone [Tissue]
+   733 E C1704387:Clonal [Qualitative Concept]
+   717   C0206665:Yeast Artificial Chromosome [Research Device]
+   704 E C0796368:clonality [Diagnostic Procedure]
+
+Phrase: "into parental tumor cell lines"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   923   C0085983:Tumor Cell Lines [Cell]
+   861   C0007600:Cell lines [Cell]
+   812   C0205132:lines [Spatial Concept]
+   779 E C1550648:Line [Substance]
+   779 E C1552960:Line [Quantitative Concept]
+
+Phrase: "that"
+
+Phrase: "do"
+
+Phrase: "not commonly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1518422:Not [Functional Concept]
+
+Phrase: "show"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "evidence for chromosome 3p deletions."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0332120:Evidence [Functional Concept]
+Processing 00000000.tx.39: For example, a recent study with the NRC-1 locus at chromosome 3p12 (17) reported the suppression of papillary RCC lines, which rarely shows evidence for 3p deletions. 
+
+Phrase: "For example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "a recent study with the NRC-1 locus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0557651:Study [Manufactured Object]
+   744   C2603343:Study [Research Activity]
+
+Phrase: "at chromosome 3p12"
+
+Phrase: "(17"
+
+Phrase: ")"
+
+Phrase: "reported"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0684224:Reported [Intellectual Product]
+  1000   C0700287:Reported [Health Care Activity]
+  1000   C3496591:Reported [Clinical Attribute]
+   966 E C3273238:Report [Intellectual Product]
+
+Phrase: "the suppression of papillary RCC lines,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0221103:Suppression [Pathologic Function]
+   744   C0301625:Suppression [Organism Function]
+   744   C0439181:% suppression [Quantitative Concept]
+   744   C0728721:suppression [Mental Process]
+
+Phrase: "which rarely"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0522498:Rarely [Qualitative Concept]
+
+Phrase: "shows"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "evidence for 3p deletions."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0332120:Evidence [Functional Concept]
+Processing 00000000.tx.40: Although these data suggest that these recipient tumor lines contain cryptic 3p deletions and that this locus regulates all cases of RCC by expressing, perhaps, a "telomerase repressor" sequence, they might also reflect a nonspecific effect from ectopic expression that raises questions of its role in the pathogenesis of these specific tumors. 
+
+Phrase: "Although"
+
+Phrase: "these data"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1511726:Data [Idea or Concept]
+  1000   C3245479:data [Medical Device]
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "these recipient tumor lines"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C0205132:lines [Spatial Concept]
+   793 E C1550648:Line [Substance]
+   793 E C1552960:Line [Quantitative Concept]
+
+Phrase: "contain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332256:contain [Functional Concept]
+  1000   C2700400:Contain [Activity]
+
+Phrase: "cryptic 3p deletions"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C1880274:Deletions [Activity]
+   793 E C1442161:Deletion [Cell or Molecular Dysfunction]
+   793 E C1511760:Deletion [Genetic Function]
+
+Phrase: "and"
+
+Phrase: "that"
+
+Phrase: "this locus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1708726:Locus [Gene or Genome]
+
+Phrase: "regulates"
+
+Phrase: "all cases of RCC"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   753   C0868928:Cases [Functional Concept]
+   753   C1533148:Cases [Quantitative Concept]
+   719 E C1706255:CASE [Medical Device]
+   719 E C1706256:Case [Conceptual Entity]
+
+Phrase: "by expressing, perhaps,"
+
+Phrase: "a ""telomerase repressor"" sequence,"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   812   C0004793:Sequence [Nucleotide Sequence]
+   812   C0162326:Sequence [Nucleotide Sequence]
+   812   C0162327:Sequence [Nucleotide Sequence]
+   812   C1519249:Sequence [Functional Concept]
+   741 E C1548958:Sequential [Idea or Concept]
+   741 E C1705294:Sequential [Qualitative Concept]
+
+Phrase: "they"
+
+Phrase: "might"
+
+Phrase: "also"
+
+Phrase: "reflect"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0558058:reflect [Mental Process]
+
+Phrase: "a nonspecific effect from ectopic expression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1280500:Effect [Qualitative Concept]
+   753   C2348382:Effect [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "raises"
+
+Phrase: "questions of its role"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C1522634:Question [Intellectual Product]
+
+Phrase: "in the pathogenesis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0543483:pathogenesis [Functional Concept]
+  1000   C0699748:Pathogenesis [Pathologic Function]
+
+Phrase: "of these specific tumors."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0027651:Tumors [Neoplastic Process]
+   827 E C1578706:Tumor [Intellectual Product]
+   827 E C3273930:Tumor [Finding]
+Processing 00000000.tx.41: Ultimately, the challenge for the authors will be to isolate a gene from YAC 145F7, which spans from markers D3S1383 to D3S1384 (19), that fulfills a minimalist definition for a tumor suppressor through the identification of tumor-specific genetic or epigenetic alterations (21). 
+
+Phrase: "Ultimately,"
+
+Phrase: "the challenge for the authors"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0798503:Challenge [Clinical Attribute]
+   760   C0805586:Challenge [Health Care Activity]
+   760   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "isolate"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0370215:Isolate [Substance]
+  1000   C1875400:ISOLATE [Pharmacologic Substance]
+
+Phrase: "a gene from YAC 145F7,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   778   C0079429:A Gene [Gene or Genome]
+   774   C0017374:Gene, Artificial [Gene or Genome]
+   748   C0017337:Gene [Gene or Genome]
+
+Phrase: "which spans from markers D3S1383"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   726   C1711300:Span [Conceptual Entity]
+   726   C2700613:Span [Quantitative Concept]
+
+Phrase: "to D3S1384"
+
+Phrase: "(19"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "that"
+
+Phrase: "fulfills"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1550543:Fulfill [Idea or Concept]
+
+Phrase: "a minimalist definition for a tumor suppressor"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C1550452:definition [Idea or Concept]
+   748   C1704788:Definition [Conceptual Entity]
+   748   C3539107:Definition [Intellectual Product]
+
+Phrase: "through the identification"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0020792:Identification [Mental Process]
+  1000   C0205396:Identification [Qualitative Concept]
+
+Phrase: "of tumor-specific genetic"
+Meta Candidates (Total=16; Excluded=14; Pruned=0; Remaining=2)
+   827   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   827   C0314603:Genetic [Functional Concept]
+   771 E C0005615:Birth [Organism Function]
+   771 E C0035150:Reproduction [Organism Function]
+   771 E C0079946:origin [Classification]
+   771 E C0439659:Origin [Temporal Concept]
+   771 E C1550512:origin [Intellectual Product]
+   771 E C1550722:birth [Idea or Concept]
+   771 E C3245487:birth [Intellectual Product]
+   743 E C0454729:Natal [Geographic Area]
+   743 E C0559522:Genital [Body System]
+   743 E C1546649:Genital [Intellectual Product]
+   743 E C1550642:Genital [Body Substance]
+   734 E C0205313:Original [Idea or Concept]
+   734 E C2347409:Original [Occupational Activity]
+   716 E C0598240:originality [Mental Process]
+
+Phrase: "or"
+
+Phrase: "epigenetic alterations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1515926:Alteration [Idea or Concept]
+
+Phrase: "(21"
+
+Phrase: ")."
+Processing 00000000.tx.42: These are exciting times in the study of the molecular biology of RCC. 
+
+Phrase: "These"
+
+Phrase: "are"
+
+Phrase: "exciting times in the study of the molecular biology of RCC."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   735   C0040223:times [Temporal Concept]
+   735   C1632851:Times [Quantitative Concept]
+   732   C0040227:Time Study [Intellectual Product]
+   732   C2349982:Study Time [Temporal Concept]
+   702 E C3541383:Time [Temporal Concept]
+Processing 00000000.tx.43: The hope is that the identification of the elusive 3p gene(s) in RCC will also have broad implications for the wide range of common adult tumors that share a consistent allele loss on chromosome 3p. 
+
+Phrase: "The hope"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0392347:Hope [Mental Process]
+   900 E C3540843:Hopefulness [Mental Process]
+
+Phrase: "is"
+
+Phrase: "that"
+
+Phrase: "the identification of the elusive 3p gene"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0020792:Identification [Mental Process]
+   748   C0205396:Identification [Qualitative Concept]
+
+Phrase: "("
+
+Phrase: "s) in RCC"
+Meta Candidates (Total=14; Excluded=0; Pruned=0; Remaining=14)
+   862   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   862   C2984311:Renal cell carcinoma [Functional Concept]
+   862   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   806   C0553257:Renal cell [Cell]
+   797   C1378703:Renal carcinoma [Neoplastic Process]
+   797   C1518174:Carcinoma Cell [Cell]
+   760   C0007097:Carcinoma [Neoplastic Process]
+   760   C0007634:Cell [Cell]
+   760   C0022646:Renal [Body Part, Organ, or Organ Component]
+   760   C1269647:Cell [Cell]
+   760   C1704653:Cell [Medical Device]
+   760   C1948049:Cell [Spatial Concept]
+   760   C2603362:S' [Clinical Attribute]
+
+Phrase: "will"
+
+Phrase: "also"
+
+Phrase: "have"
+
+Phrase: "broad implications for the wide range of common adult tumors"
+
+Phrase: "that"
+
+Phrase: "share"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0237876:Share [Social Behavior]
+
+Phrase: "a consistent allele loss on chromosome 3p."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   774   C0598174:chromosome loss [Genetic Function]
+   748   C1517945:Loss [Quantitative Concept]
+   738 E C1516519:Chromosomal Loss [Cell or Molecular Dysfunction]
+   737   C0524869:Allelic Loss [Genetic Function]
+Processing 00000000.tx.44: REFERENCES 1 Latif F, Tory K, Gnarra J, Yao M, Duh FM, Orcutt ML, et al. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "1 Latif F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   827   C0439133:(f) [Intellectual Product]
+   827   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Tory K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Gnarra J,"
+
+Phrase: "Yao M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Duh FM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540627:FM [Gene or Genome]
+
+Phrase: "Orcutt ML,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439526:/mL [Quantitative Concept]
+
+Phrase: "et al."
+Processing 00000000.tx.45: Identification of the von Hippel-Lindau disease tumor suppressor gene. 
+
+Phrase: "Identification of the von Hippel-Lindau disease tumor suppressor gene."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   757   C2986549:Tumor Identification [Diagnostic Procedure]
+   739   C0020792:Identification [Mental Process]
+   739   C0205396:Identification [Qualitative Concept]
+Processing 00000000.tx.46: Science 1993;260:1317-20.[Medline] 2 Jeffers M, Schmidt L, Nakaigawa N, Webb CP, Weirich G, Kishida T, et al. 
+
+Phrase: "Science 1993"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0036397:Science [Occupation or Discipline]
+
+Phrase: ";260"
+
+Phrase: ":"
+
+Phrase: "1317-20."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 2 Jeffers M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0441923:M+ [Intellectual Product]
+
+Phrase: "Schmidt L,"
+
+Phrase: "Nakaigawa N,"
+
+Phrase: "Webb CP,"
+
+Phrase: "Weirich G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Kishida T,"
+
+Phrase: "et al."
+Processing 00000000.tx.47: Activating mutations for the met tyrosine kinase receptor in human cancer. 
+
+Phrase: "Activating mutations for the met tyrosine kinase receptor"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   744   C0026882:Mutations [Genetic Function]
+   711 E C1705285:Mutation [Cell or Molecular Dysfunction]
+
+Phrase: "in human cancer."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0006826:Cancer [Neoplastic Process]
+   861   C0998265:Cancer [Eukaryote]
+   861   C1306459:Cancer [Finding]
+Processing 00000000.tx.48: Proc Natl Acad Sci U S A201997;94:11445-50. 
+
+Phrase: "Proc Natl Acad Sci U S A201997"
+
+Phrase: ";94"
+
+Phrase: ":"
+
+Phrase: "11445-50."
+Processing 00000000.tx.49: 3 Schmidt L, Duh FM, Chen F, Kishida T, Glenn G, Choyke P, et al. 
+
+Phrase: "3 Schmidt L,"
+
+Phrase: "Duh FM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540627:FM [Gene or Genome]
+
+Phrase: "Chen F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Kishida T,"
+
+Phrase: "Glenn G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Choyke P,"
+
+Phrase: "et al."
+Processing 00000000.tx.50: Germline and somatic mutations in the tyrosine kinase domain of the MET proto-oncogene in papillary renal carcinomas. 
+
+Phrase: "Germline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017473:Germ Line [Cell]
+
+Phrase: "and"
+
+Phrase: "somatic mutations in the tyrosine kinase domain of the MET proto-oncogene"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   753   C0544886:somatic mutations [Cell or Molecular Dysfunction]
+   736   C0026882:Mutations [Genetic Function]
+   736   C2986476:Somatic [Qualitative Concept]
+   703 E C1705285:Mutation [Cell or Molecular Dysfunction]
+
+Phrase: "in papillary renal carcinomas."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   913   C0007133:Papillary Carcinomas [Neoplastic Process]
+   867   C0007134:Renal carcinoma [Neoplastic Process]
+   867   C1378703:Renal carcinoma [Neoplastic Process]
+   827   C0007097:Carcinomas [Neoplastic Process]
+   827   C0022646:Renal [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.51: Nat Genet 1997;16:68-73.[Medline] 4 Herman JG, Latif F, Weng Y, Lerman MI, Zbar B, Liu S, et al. 
+
+Phrase: "Nat Genet 1997"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0325074:Genet [Mammal]
+
+Phrase: ";16"
+
+Phrase: ":"
+
+Phrase: "68-73."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0450387:68 [Intellectual Product]
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 4 Herman JG,"
+
+Phrase: "Latif F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Weng Y,"
+
+Phrase: "Lerman MI,"
+
+Phrase: "Zbar B,"
+
+Phrase: "Liu S,"
+
+Phrase: "et al."
+Processing 00000000.tx.52: Silencing of the VHL tumor-suppressor gene by DNA methylation in renal carcinoma. 
+
+Phrase: "Silencing of the VHL tumor-suppressor gene"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   762   C0598496:Gene Silencing [Genetic Function]
+   708   C0858952:silence [Mental or Behavioral Dysfunction]
+
+Phrase: "by DNA methylation"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0376452:DNA Methylation [Molecular Function]
+  1000   C3536933:DNA Methylation [Molecular Function]
+   861   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   861   C0025723:Methylation [Molecular Function]
+   861   C1159269:Methylation [Molecular Function]
+   789 E C0746574:methylated [Pharmacologic Substance]
+
+Phrase: "in renal carcinoma."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0007134:Renal carcinoma [Neoplastic Process]
+  1000   C1378703:Renal carcinoma [Neoplastic Process]
+   861   C0007097:Carcinoma [Neoplastic Process]
+   861   C0022646:Renal [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.53: Proc Natl Acad Sci U S A 1994;91:9700-4.[Abstract/Free FullText] 5 Gnarra JR, Tory K, Weng Y, Schmidt L, Wei MH, Li H, et al. 
+
+Phrase: "Proc Natl Acad Sci U S A 1994"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   835   C0041703:U.S.A. [Geographic Area]
+           U S
+   793   C0268596:ACAD [Disease or Syndrome]
+   793   C1418943:PROC [Gene or Genome]
+   793   C2700624:ACAD [Cell Function]
+   793   C3642273:SCI [Professional or Occupational Group]
+
+Phrase: ";91"
+
+Phrase: ":"
+
+Phrase: "9700-4."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] 5 Gnarra JR,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1708595:Jr [Idea or Concept]
+   827   C3280986:JR [Disease or Syndrome]
+
+Phrase: "Tory K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Weng Y,"
+
+Phrase: "Schmidt L,"
+
+Phrase: "Wei MH,"
+
+Phrase: "Li H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "et al."
+Processing 00000000.tx.54: Mutations of the VHL tumour suppressor gene in renal carcinoma. 
+
+Phrase: "Mutations of the VHL tumour suppressor gene"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   762   C0038859:Suppressor Mutations [Cell or Molecular Dysfunction]
+   762   C0596611:gene mutations [Genetic Function]
+   742   C0026882:Mutations [Genetic Function]
+   708 E C1705285:Mutation [Cell or Molecular Dysfunction]
+
+Phrase: "in renal carcinoma."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0007134:Renal carcinoma [Neoplastic Process]
+  1000   C1378703:Renal carcinoma [Neoplastic Process]
+   861   C0007097:Carcinoma [Neoplastic Process]
+   861   C0022646:Renal [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.55: Nat Genet 1994;7:85-90.[Medline] 6 Kaelin WG Jr, Maher ER. 
+
+Phrase: "Nat Genet 1994"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0325074:Genet [Mammal]
+
+Phrase: ";7"
+
+Phrase: ":"
+
+Phrase: "85-90."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439083:>90 [Quantitative Concept]
+   861   C0439087:<90 [Quantitative Concept]
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 6 Kaelin WG Jr,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C1708595:Jr [Idea or Concept]
+   812   C3280986:JR [Disease or Syndrome]
+
+Phrase: "Maher ER."
+Processing 00000000.tx.56: The VHL tumour-suppressor gene paradigm. 
+
+Phrase: "The VHL tumour-suppressor gene paradigm."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   795   C0681797:paradigm [Research Activity]
+Processing 00000000.tx.57: Trends Genet 1998;14:423-6.[Medline] 7 Zbar B, Brauch H, Talmadge C, Linehan M. 
+
+Phrase: "Trends"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0040833:trends [Temporal Concept]
+  1000   C1521798:Trends [Temporal Concept]
+
+Phrase: "Genet 1998"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0325074:Genet [Mammal]
+
+Phrase: ";14"
+
+Phrase: ":"
+
+Phrase: "423-6."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 7 Zbar B,"
+
+Phrase: "Brauch H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Talmadge C,"
+
+Phrase: "Linehan M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.58: Loss of alleles of loci on the short arm of chromosome 3 in renal cell carcinoma. 
+
+Phrase: "Loss of alleles of loci"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1517945:Loss [Quantitative Concept]
+
+Phrase: "on the short arm"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+  1000   C0426857:Short arm [Finding]
+   861   C0446516:Arm [Body Location or Region]
+   861   C1269078:Arm [Body Part, Organ, or Organ Component]
+   861   C1269612:Arm [Body Location or Region]
+   861   C1282927:short [Qualitative Concept]
+   861   C1806781:Short [Quantitative Concept]
+   861   C2350002:Short [Quantitative Concept]
+   805 E C0445456:Brachial [Spatial Concept]
+   777 E C0206655:ARMS [Neoplastic Process]
+   777 E C2681631:ARMS [Gene or Genome]
+
+Phrase: "of chromosome 3"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0008666:Chromosome 3 [Cell Component]
+   861   C0008633:Chromosome [Cell Component]
+
+Phrase: "in renal cell carcinoma."
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+  1000   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+  1000   C2984311:Renal cell carcinoma [Functional Concept]
+  1000   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   913   C1378703:Renal carcinoma [Neoplastic Process]
+   901   C0553257:Renal cell [Cell]
+   827   C0007097:Carcinoma [Neoplastic Process]
+   827   C0007634:Cell [Cell]
+   827   C0022646:Renal [Body Part, Organ, or Organ Component]
+   827   C1269647:Cell [Cell]
+   827   C1704653:Cell [Medical Device]
+   827   C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.59: Nature 1987;327:721-4.[Medline] 8 van den Berg A, Buys CH. 
+
+Phrase: "Nature 1987"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0349590:Nature [Idea or Concept]
+   861   C1262865:Nature [Functional Concept]
+   789 E C0205296:Natural [Functional Concept]
+
+Phrase: ";327"
+
+Phrase: ":"
+
+Phrase: "721-4."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 8 van den Berg A,"
+
+Phrase: "Buys CH."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0558269:Ch. [Professional or Occupational Group]
+   861   C1552984:[Ch] [Quantitative Concept]
+Processing 00000000.tx.60: Involvement of multiple loci on chromosome 3 in renal cell cancer development. 
+
+Phrase: "Involvement of multiple loci"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1314939:Involvement [Functional Concept]
+
+Phrase: "on chromosome 3"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0008666:Chromosome 3 [Cell Component]
+   861   C0008633:Chromosome [Cell Component]
+
+Phrase: "in renal cell cancer development."
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   875   C0815089:cell development [Cell Function]
+   812   C0243107:development [Physiologic Function]
+   812   C0678723:Development [Organism Function]
+   812   C1527148:Development [Functional Concept]
+   756   C0007134:Renal Cell Cancer [Neoplastic Process]
+   741 E C0458003:Developmental [Qualitative Concept]
+   708   C0740457:Renal Cancer [Neoplastic Process]
+   708   C1378703:Renal Cancer [Neoplastic Process]
+Processing 00000000.tx.61: Genes Chromosomes Cancer 1997;19:59-76.[Medline] 9 Cohen AJ, Li FP, Berg S, Marchetto DJ, Tsai S, Jacobs SC, et al. 
+
+Phrase: "Genes Chromosomes Cancer 1997"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   875   C0919437:genes cancer [Gene or Genome]
+   812   C0006826:Cancer [Neoplastic Process]
+   812   C0008633:Chromosomes [Cell Component]
+   812   C0017337:Genes [Gene or Genome]
+   812   C0998265:Cancer [Eukaryote]
+   812   C1306459:Cancer [Finding]
+
+Phrase: ";19"
+
+Phrase: ":"
+
+Phrase: "59-76."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 9 Cohen AJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0230613:AJ [Cell Component]
+
+Phrase: "Li FP,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1419068:FP [Gene or Genome]
+   861   C1419906:FP [Gene or Genome]
+   861   C3541238:Fp [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C3541412:FP [Gene or Genome]
+
+Phrase: "Berg S,"
+
+Phrase: "Marchetto DJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0012836:DJ [Geographic Area]
+
+Phrase: "Tsai S,"
+
+Phrase: "Jacobs SC,"
+
+Phrase: "et al."
+Processing 00000000.tx.62: Hereditary renal-cell carcinoma associated with a chromosomal translocation. 
+
+Phrase: "Hereditary renal-cell carcinoma"
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+  1000   C2608055:Hereditary Renal Cell Carcinoma [Neoplastic Process]
+   923   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   923   C2984311:Renal cell carcinoma [Functional Concept]
+   923   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   875   C1378703:Renal carcinoma [Neoplastic Process]
+   861   C0553257:Renal cell [Cell]
+   812   C0007097:Carcinoma [Neoplastic Process]
+   812   C0007634:Cell [Cell]
+   812   C0022646:Renal [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+
+Phrase: "associated with a chromosomal translocation."
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   806   C0040715:Chromosomal translocation [Cell or Molecular Dysfunction]
+           Translocation
+   806   C0332281:Associated with [Qualitative Concept]
+           Associated
+   760   C0008633:Chromosomal [Cell Component]
+   760   C2987521:Translocation [Activity]
+   726 E C0750490:Associate [Idea or Concept]
+   726 E C1706221:Associate [Professional or Occupational Group]
+Processing 00000000.tx.63: N Engl J Med 1979;301:592-5.[Medline] 10 Ohta M, Inoue H, Cotticelli MG, Kastury K, Baffa R, Palazzo J, et al. 
+
+Phrase: "N Engl J Med 1979"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   804   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C0441922:N+ [Intellectual Product]
+   804   C1414400:ENGL [Gene or Genome]
+   804   C1553036:[n] [Quantitative Concept]
+
+Phrase: ";301"
+
+Phrase: ":"
+
+Phrase: "592-5."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 10 Ohta M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0441923:M+ [Intellectual Product]
+
+Phrase: "Inoue H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Cotticelli MG,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0439269:mg% [Quantitative Concept]
+   861   C1960952:mg % [Quantitative Concept]
+   861   C2346927:Mg++ [Element, Ion, or Isotope,Pharmacologic Substance]
+
+Phrase: "Kastury K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Baffa R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Palazzo J,"
+
+Phrase: "et al."
+Processing 00000000.tx.64: The FHIT gene, spanning the chromosome 3p14.2 fragile site and renal carcinoma-associated t(3;8) breakpoint, is abnormal in digestive tract cancers. 
+
+Phrase: "The FHIT gene,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0919457:FHIT gene [Gene or Genome]
+   861   C0017337:Gene [Gene or Genome]
+
+Phrase: "spanning"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C1711300:Span [Conceptual Entity]
+   966   C2700613:Span [Quantitative Concept]
+
+Phrase: "the chromosome 3p14.2 fragile site"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   911   C0677504:Chromosome Fragile Site [Nucleotide Sequence]
+           Fragile Site
+   839   C0008629:Chromosome Fragility [Cell or Molecular Dysfunction]
+   804   C0205145:Site [Spatial Concept]
+   804   C1515974:Site [Body Location or Region]
+   804   C2825164:Site [Spatial Concept]
+   733   C0302113:Fragility [Cell or Molecular Dysfunction]
+
+Phrase: "and"
+
+Phrase: "renal carcinoma-associated t(3"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   840   C0007134:Renal carcinoma [Neoplastic Process]
+   840   C1378703:Renal carcinoma [Neoplastic Process]
+   804   C0007097:Carcinoma [Neoplastic Process]
+   804   C0022646:Renal [Body Part, Organ, or Organ Component]
+   804   C0332281:Associated [Qualitative Concept]
+   771 E C0750490:Associate [Idea or Concept]
+   771 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: ";8"
+
+Phrase: ")"
+
+Phrase: "breakpoint,"
+
+Phrase: "is"
+
+Phrase: "abnormal in digestive tract cancers."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0205161:Abnormal [Qualitative Concept]
+   760   C2347472:% Abnormal [Quantitative Concept]
+   760   C2699333:ABNORMAL [Intellectual Product]
+Processing 00000000.tx.65: Cell1996 ;84:587-97.[Medline] 11 Gemmill RM, West JD, Boldog F, Tanaka N, Robinson LJ, Smith DI, et al. 
+
+Phrase: "Cell1996"
+
+Phrase: ";84"
+
+Phrase: ":"
+
+Phrase: "587-97."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439073:97 [Intellectual Product]
+   861   C0439082:>97 [Quantitative Concept]
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 11 Gemmill RM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C2951520:RM [Body Location or Region]
+
+Phrase: "West JD,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1549972:JD [Intellectual Product]
+
+Phrase: "Boldog F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Tanaka N,"
+
+Phrase: "Robinson LJ,"
+
+Phrase: "Smith DI,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C3538902:DI [Gene or Genome]
+   861   C3541881:DI [Idea or Concept]
+
+Phrase: "et al."
+Processing 00000000.tx.66: The hereditary renal cell carcinoma 3;8 translocation fuses FHIT to a patched-related gene, TRC8. 
+
+Phrase: "The hereditary renal cell carcinoma 3"
+Meta Candidates (Total=14; Excluded=0; Pruned=0; Remaining=14)
+   937   C2608055:Hereditary Renal Cell Carcinoma [Neoplastic Process]
+   884   C0007134:Renal Cell Carcinoma [Neoplastic Process]
+           Renal carcinoma
+   884   C2984311:Renal cell carcinoma [Functional Concept]
+   884   C3540608:Renal Cell Carcinoma [Intellectual Product]
+   853   C1378703:Renal carcinoma [Neoplastic Process]
+   840   C0553257:Renal cell [Cell]
+   804   C0007097:Carcinoma [Neoplastic Process]
+   804   C0007634:Cell [Cell]
+   804   C0022646:Renal [Body Part, Organ, or Organ Component]
+   804   C0439660:Hereditary [Functional Concept]
+   804   C1269647:Cell [Cell]
+   804   C1704653:Cell [Medical Device]
+   804   C1948049:Cell [Spatial Concept]
+
+Phrase: ";8 translocation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0040715:Translocation [Cell or Molecular Dysfunction]
+   861   C2987521:Translocation [Activity]
+
+Phrase: "fuses"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0699952:fuse [Functional Concept]
+  1000   C1414861:FUSE [Gene or Genome]
+  1000   C1708111:Fuse [Manufactured Object]
+
+Phrase: "FHIT to a patched-related gene,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   783   C0919457:FHIT gene [Gene or Genome]
+           FHIT
+   753   C1173495:FHIT [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "TRC8."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0756527:TRC8 [Amino Acid, Peptide, or Protein,Enzyme]
+  1000   C1424693:TRC8 [Gene or Genome]
+  1000   C1706178:TRC8 [Gene or Genome]
+Processing 00000000.tx.67: Proc Natl Acad Sci U S A 1998;95:9572-7.[Abstract/Free FullText] 12 Julicher K, Marquitan G, Werner N, Bardenheuer W, Vieten L, Brocker F, et al. 
+
+Phrase: "Proc Natl Acad Sci U S A 1998"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   835   C0041703:U.S.A. [Geographic Area]
+           U S
+   793   C0268596:ACAD [Disease or Syndrome]
+   793   C1418943:PROC [Gene or Genome]
+   793   C2700624:ACAD [Cell Function]
+   793   C3642273:SCI [Professional or Occupational Group]
+
+Phrase: ";95"
+
+Phrase: ":"
+
+Phrase: "9572-7."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] 12 Julicher K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   827   C1708601:K' [Quantitative Concept]
+
+Phrase: "Marquitan G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Werner N,"
+
+Phrase: "Bardenheuer W,"
+
+Phrase: "Vieten L,"
+
+Phrase: "Brocker F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "et al."
+Processing 00000000.tx.68: Novel tumor suppressor locus in human chromosome region 3p14.2. 
+
+Phrase: "Novel tumor suppressor locus in human chromosome region 3p14.2."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   739   C1708726:Locus [Gene or Genome]
+Processing 00000000.tx.69: J Natl Cancer Inst 1999;91:1563-8.[Abstract/Free FullText] 13 Shimizu M, Yokota J, Mori N, Shuin T, Shinoda M, Terada M, et al. 
+
+Phrase: "J Natl Cancer Inst 1999"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0006826:Cancer [Neoplastic Process]
+   804   C0998265:Cancer [Eukaryote]
+   804   C1306459:Cancer [Finding]
+
+Phrase: ";91"
+
+Phrase: ":"
+
+Phrase: "1563-8."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] 13 Shimizu M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0441923:M+ [Intellectual Product]
+
+Phrase: "Yokota J,"
+
+Phrase: "Mori N,"
+
+Phrase: "Shuin T,"
+
+Phrase: "Shinoda M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Terada M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "et al."
+Processing 00000000.tx.70: Introduction of normal chromosome 3p modulates the tumorigenicity of a human renal cell carcinoma cell line YCR. 
+
+Phrase: "Introduction of normal chromosome 3p"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1293116:Introduction [Health Care Activity]
+   760   C1875307:INTRODUCTION [Manufactured Object]
+
+Phrase: "modulates"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443264:modulate [Spatial Concept]
+
+Phrase: "the tumorigenicity of a human renal cell carcinoma cell line YCR."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   738   C1519697:Tumorigenicity [Pathologic Function]
+Processing 00000000.tx.71: Oncogene 1990;5:185-94.[Medline] 14 Sanchez Y, El-Naggar A, Pathak S, Killary AM. 
+
+Phrase: "Oncogene 1990"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0029016:Oncogene [Gene or Genome]
+
+Phrase: ";5"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: ":"
+
+Phrase: "185-94."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 14 Sanchez Y,"
+
+Phrase: "El-Naggar A,"
+
+Phrase: "Pathak S,"
+
+Phrase: "Killary"
+
+Phrase: "AM."
+Processing 00000000.tx.72: A tumor suppressor locus within 3p14-p12 mediates rapid cell death of renal cell carcinoma in vivo. 
+
+Phrase: "A tumor suppressor locus within 3p14-p12"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1708726:Locus [Gene or Genome]
+
+Phrase: "mediates"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0086597:Mediate [Social Behavior]
+
+Phrase: "rapid cell death of renal cell carcinoma"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   778   C0007587:Cell Death [Cell Function]
+   774   C0553257:Renal cell [Cell]
+   774   C1518174:Carcinoma Cell [Cell]
+   748   C0007634:Cell [Cell]
+   748   C0011065:Death [Organism Function]
+   748   C0439831:Rapid [Qualitative Concept]
+   748   C1269647:Cell [Cell]
+   748   C1306577:Death, NOS [Finding]
+   748   C1704653:Cell [Medical Device]
+   748   C1948049:Cell [Spatial Concept]
+
+Phrase: "in vivo."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1515655:In Vivo [Spatial Concept]
+           vivo
+Processing 00000000.tx.73: Proc Natl Acad Sci U S A 1994;91:3383-7.[Abstract] 15 Yoshida MA, Shimizu M, Ikeuchi T, Tonomura A, Yokota J, Oshimura M. 
+
+Phrase: "Proc Natl Acad Sci U S A 1994"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   835   C0041703:U.S.A. [Geographic Area]
+           U S
+   793   C0268596:ACAD [Disease or Syndrome]
+   793   C1418943:PROC [Gene or Genome]
+   793   C2700624:ACAD [Cell Function]
+   793   C3642273:SCI [Professional or Occupational Group]
+
+Phrase: ";91"
+
+Phrase: ":"
+
+Phrase: "3383-7."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] 15 Yoshida MA,"
+
+Phrase: "Shimizu M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Ikeuchi T,"
+
+Phrase: "Tonomura A,"
+
+Phrase: "Yokota J,"
+
+Phrase: "Oshimura M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.74: In vitro growth suppression and morphological change in a human renal cell carcinoma cell line by the introduction of normal chromosome 3 via microcell fusion. 
+
+Phrase: "In vitro growth suppression"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   861   C0151686:Growth suppression [Pathologic Function]
+   812   C0221103:Suppression [Pathologic Function]
+   812   C0301625:Suppression [Organism Function]
+   812   C0439181:% suppression [Quantitative Concept]
+   812   C0728721:suppression [Mental Process]
+
+Phrase: "and"
+
+Phrase: "morphological change in a human renal cell carcinoma cell line"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   764   C0007134:Renal cell carcinoma - morphology [Neoplastic Process]
+   739   C0392747:Change [Functional Concept]
+   739   C0443172:change [Quantitative Concept]
+   739   C0543482:morphological [Spatial Concept]
+   739   C1705241:Change [Quantitative Concept]
+   722   C0243091:cell morphology [Qualitative Concept]
+   722   C1521816:Cell morphology [Clinical Attribute]
+   722   C2700385:Cell Morphology [Biomedical Occupation or Discipline]
+   710   C1260954:Morphologic change [Anatomical Abnormality]
+
+Phrase: "by the introduction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1293116:Introduction [Health Care Activity]
+  1000   C1875307:INTRODUCTION [Manufactured Object]
+
+Phrase: "of normal chromosome 3"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0008666:Chromosome 3 [Cell Component]
+   827   C0008633:Chromosome [Cell Component]
+   827   C0205307:Normal [Qualitative Concept]
+   827   C0439166:% normal [Quantitative Concept]
+   827   C2347086:% Normal [Quantitative Concept]
+
+Phrase: "via microcell fusion."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0332466:Fusion [Functional Concept]
+   861   C1293131:Fusion [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.75: Mol Carcinog 1994;9:114-21.[Medline] 16 Ohmura H, Tahara H, Suzuki M, Ide T, Shimizu M, Yoshida MA, et al. 
+
+Phrase: "Mol Carcinog 1994"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   827   C0027960:Mole [Neoplastic Process]
+   827   C0324740:Mole [Mammal]
+   827   C0439189:Mole [Quantitative Concept]
+   827   C1456781:mole [Neoplastic Process]
+   827   C1824986:mol [Gene or Genome]
+   743 E C0026367:Molar [Body Part, Organ, or Organ Component]
+   727 E C0027962:moles [Neoplastic Process]
+
+Phrase: ";9"
+
+Phrase: ":"
+
+Phrase: "114-21."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 16 Ohmura H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0033727:H+ [Element, Ion, or Isotope]
+   827   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0441932:H+ [Classification]
+   827   C0564385:/h [Quantitative Concept]
+
+Phrase: "Tahara H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Suzuki M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Ide T,"
+
+Phrase: "Shimizu M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Yoshida MA,"
+
+Phrase: "et al."
+Processing 00000000.tx.76: Restoration of the cellular senescence program and repression of telomerase by human chromosome 3. 
+
+Phrase: "Restoration of the cellular senescence program"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0449982:Restoration [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "repression of telomerase"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0035143:Repression [Mental Process]
+
+Phrase: "by human chromosome 3."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0008643:Human Chromosome [Cell Component]
+   901   C0008666:Chromosome 3 [Cell Component]
+   827   C0008633:Chromosome [Cell Component]
+   827   C0086418:Human [Human]
+Processing 00000000.tx.77: Jpn J Cancer Res 1995;86:899-904.[Medline] 17 Lovell M, Lott ST, Wong P, El-Naggar A, Tucker S, Killary AM. 
+
+Phrase: "Jpn J Cancer Res 1995"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   804   C0006826:Cancer [Neoplastic Process]
+   804   C0022341:JPN [Geographic Area]
+   804   C0998265:Cancer [Eukaryote]
+   804   C1306459:Cancer [Finding]
+   804   C2347379:RES [Finding]
+
+Phrase: ";86"
+
+Phrase: ":"
+
+Phrase: "899-904."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 17 Lovell M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0441923:M+ [Intellectual Product]
+
+Phrase: "Lott ST,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3272372:ST [Intellectual Product]
+
+Phrase: "Wong P,"
+
+Phrase: "El-Naggar A,"
+
+Phrase: "Tucker S,"
+
+Phrase: "Killary"
+
+Phrase: "AM."
+Processing 00000000.tx.78: The genetic locus NRC-1 within chromosome 3p12 mediates tumor suppression in renal cell carcinoma independently of histological type, tumor microenvironment, and VHL mutation. 
+
+Phrase: "The genetic locus NRC-1 within chromosome 3p12"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   770   C0678933:Genetic Locus [Gene or Genome]
+   767   C0008651:Chromosome 1 [Cell Component]
+   744   C0008633:Chromosome [Cell Component]
+   744   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   744   C0314603:Genetic [Functional Concept]
+   744   C0915178:NRC [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   744   C1367177:NRC [Gene or Genome]
+   744   C1705843:NRC [Gene or Genome]
+   744   C1708726:Locus [Gene or Genome]
+
+Phrase: "mediates"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0086597:Mediate [Social Behavior]
+
+Phrase: "tumor suppression in renal cell carcinoma"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C1519692:Tumor Suppression [Molecular Function]
+   753   C0221103:Suppression [Pathologic Function]
+   753   C0301625:Suppression [Organism Function]
+   753   C0439181:% suppression [Quantitative Concept]
+   753   C0728721:suppression [Mental Process]
+
+Phrase: "independently of histological type,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0449574:Histological type [Classification]
+   964 E C1317416:Histology type [Classification]
+   861   C0332307:Type [Qualitative Concept]
+   861   C1547052:*Type [Quantitative Concept]
+
+Phrase: "tumor microenvironment,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C2936626:Tumor Microenvironment [Natural Phenomenon or Process]
+   861   C0027651:Tumor [Neoplastic Process]
+   861   C1578706:Tumor [Intellectual Product]
+   861   C3273930:Tumor [Finding]
+
+Phrase: "and"
+
+Phrase: "VHL mutation."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0026882:Mutation [Genetic Function]
+   812   C1705285:Mutation [Cell or Molecular Dysfunction]
+Processing 00000000.tx.79: Cancer Res 1999;59:2182-9.[Abstract/Free FullText] 18 Cuthbert AP, Bond J, Trott DA, Gill S, Broni J, Marriott A, et al. 
+
+Phrase: "Cancer Res 1999"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0006826:Cancer [Neoplastic Process]
+   827   C0998265:Cancer [Eukaryote]
+   827   C1306459:Cancer [Finding]
+   827   C2347379:RES [Finding]
+
+Phrase: ";59"
+
+Phrase: ":"
+
+Phrase: "2182-9."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] 18 Cuthbert AP,"
+
+Phrase: "Bond J,"
+
+Phrase: "Trott DA,"
+
+Phrase: "Gill S,"
+
+Phrase: "Broni J,"
+
+Phrase: "Marriott A,"
+
+Phrase: "et al."
+Processing 00000000.tx.80: Telomerase repressor sequences on chromosome 3 and induction of permanent growth arrest in human breast cancer cells. 
+
+Phrase: "Telomerase repressor"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1336789:Repressor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "sequences on chromosome 3"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0008666:Chromosome 3 [Cell Component]
+   770   C0004793:Sequence [Nucleotide Sequence]
+   770   C0008633:Chromosome [Cell Component]
+   770   C0162326:Sequence [Nucleotide Sequence]
+   770   C0162327:Sequence [Nucleotide Sequence]
+   770   C1519249:Sequence [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "induction of permanent growth arrest"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205263:Induction [Functional Concept]
+   760   C0857127:induction [Therapeutic or Preventive Procedure]
+
+Phrase: "in human breast cancer cells."
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+   983   C1512505:Human Breast Cancer Cell [Cell]
+           Breast Cancer Cell
+   902   C0427861:Human cells [Laboratory or Test Result]
+   861   C0334227:cancer cells [Cell]
+   812   C0007634:Cells [Cell]
+   812   C3282337:Cells [Cell]
+   779 E C1269647:Cell [Cell]
+   779 E C1704653:Cell [Medical Device]
+   779 E C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.81: J Natl Cancer Inst 1999;91:37-45.[Abstract/Free FullText] 19 Vieten L, Belair CD, Savelieva L, Julicher K, Brocker F, Bardenheuer W, et al. 
+
+Phrase: "J Natl Cancer Inst 1999"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0006826:Cancer [Neoplastic Process]
+   804   C0998265:Cancer [Eukaryote]
+   804   C1306459:Cancer [Finding]
+
+Phrase: ";91"
+
+Phrase: ":"
+
+Phrase: "37-45."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] 19 Vieten L,"
+
+Phrase: "Belair CD,"
+
+Phrase: "Savelieva L,"
+
+Phrase: "Julicher K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Brocker F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Bardenheuer W,"
+
+Phrase: "et al."
+Processing 00000000.tx.82: Minimal deletion of 3p13->14.2 associated with immortalization of human uroepithelial cells. 
+
+Phrase: "Minimal deletion of 3p13-"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C1442161:Deletion [Cell or Molecular Dysfunction]
+   770   C1511760:Deletion [Genetic Function]
+   770   C1880274:Deletion [Activity]
+
+Phrase: ">14.2"
+
+Phrase: "associated with immortalization of human uroepithelial cells."
+Meta Candidates (Total=14; Excluded=5; Pruned=0; Remaining=9)
+   778   C0332281:Associated with [Qualitative Concept]
+           Associated
+   774   C0427861:Human cells [Laboratory or Test Result]
+   757   C0599719:cell immortalization [Biologic Function]
+   757   C0699040:cell associated [Cell Component]
+   748   C0007634:Cells [Cell]
+   748   C0086418:Human [Human]
+   748   C2826170:Immortalization [Molecular Biology Research Technique]
+   748   C3282337:Cells [Cell]
+   714 E C0750490:Associate [Idea or Concept]
+   714 E C1269647:Cell [Cell]
+   714 E C1704653:Cell [Medical Device]
+   714 E C1706221:Associate [Professional or Occupational Group]
+   714 E C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.83: Genes Chromosomes Cancer 1998;21:39-48.[Medline] 20 Shay JW. 
+
+Phrase: "Genes Chromosomes Cancer 1998"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   875   C0919437:genes cancer [Gene or Genome]
+   812   C0006826:Cancer [Neoplastic Process]
+   812   C0008633:Chromosomes [Cell Component]
+   812   C0017337:Genes [Gene or Genome]
+   812   C0998265:Cancer [Eukaryote]
+   812   C1306459:Cancer [Finding]
+
+Phrase: ";21"
+
+Phrase: ":"
+
+Phrase: "39-48."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] 20 Shay JW."
+Processing 00000000.tx.84: Toward identifying a cellular determinant of telomerase repression [editorial]. 
+
+Phrase: "Toward identifying"
+
+Phrase: "a cellular determinant of telomerase repression"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1521761:Determinant [Functional Concept]
+
+Phrase: "[editorial"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0282412:Editorial [Intellectual Product]
+
+Phrase: "]."
+Processing 00000000.tx.85: J Natl Cancer Inst 1999;91:4-6.[Free FullText] 21 Haber D, Harlow E. 
+
+Phrase: "J Natl Cancer Inst 1999"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0006826:Cancer [Neoplastic Process]
+   804   C0998265:Cancer [Eukaryote]
+   804   C1306459:Cancer [Finding]
+
+Phrase: ";91"
+
+Phrase: ":"
+
+Phrase: "4-6."
+
+Phrase: "[Free FullText"
+
+Phrase: "] 21 Haber D,"
+
+Phrase: "Harlow E."
+Processing 00000000.tx.86: Tumour-suppressor genes: evolving definitions in the genomic age [news]. 
+
+Phrase: "Tumour-suppressor genes"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+  1000   C0079427:Tumor Suppressor Genes [Gene or Genome]
+           Tumor Suppressor
+   901   C0017372:Genes, Suppressor [Gene or Genome]
+   901   C1325410:tumor suppressor [Cell Function]
+   827   C0017337:Genes [Gene or Genome]
+   827   C0027651:Tumor [Neoplastic Process]
+   827   C1578706:Tumor [Intellectual Product]
+   827   C1710252:Suppressor [Manufactured Object]
+   827   C2954564:Suppressor [Pharmacologic Substance]
+   827   C3273930:Tumor [Finding]
+
+Phrase: ":"
+
+Phrase: "evolving definitions in the genomic age [news"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   714   C1550452:definition [Idea or Concept]
+   714   C1704788:Definition [Conceptual Entity]
+   714   C3539107:Definition [Intellectual Product]
+
+Phrase: "]."
+Processing 00000000.tx.87: Nat Genet 1997;16:320-2.[Medline]    Copyright  1999 Oxford University Press (unless otherwise stated) Oxford University Press Privacy Policy and Legal Statement Search All Search JNCI Search Journals Search Cancer Statistics Search PDQ Search PDR Search Calendar
+
+Phrase: "Nat Genet 1997"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0325074:Genet [Mammal]
+
+Phrase: ";16"
+
+Phrase: ":"
+
+Phrase: "320-2."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]    Copyright  1999 Oxford University Press"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0041740:University [Manufactured Object,Organization]
+
+Phrase: "("
+
+Phrase: "unless"
+
+Phrase: "otherwise"
+
+Phrase: "stated"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C1301808:stated [Geographic Area]
+  1000   C1442792:Stated [Functional Concept]
+   966 E C3148680:State [Geographic Area]
+
+Phrase: ")"
+
+Phrase: "Oxford University Press Privacy Policy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   840   C2735290:Privacy policy [Intellectual Product]
+   804   C0242456:Policy [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "Legal Statement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1710187:Statement [Idea or Concept]
+
+Phrase: "Search"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552603:search [Intellectual Product]
+  1000   C1706202:Search [Activity]
+
+Phrase: "All Search JNCI Search Journals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0162443:journals [Intellectual Product,Manufactured Object]
+
+Phrase: "Search"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552603:search [Intellectual Product]
+  1000   C1706202:Search [Activity]
+
+Phrase: "Cancer Statistics"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C0038215:Statistics [Occupation or Discipline]
+   861   C0600673:Statistics [Intellectual Product]
+   827 E C2348149:Statistic [Quantitative Concept]
+   827 E C2828391:Statistic [Quantitative Concept]
+
+Phrase: "Search"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552603:search [Intellectual Product]
+  1000   C1706202:Search [Activity]
+
+Phrase: "PDQ Search PDR Search Calendar"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C1516147:Calendar [Temporal Concept]
+   804   C1553746:Calendar [Intellectual Product]
+

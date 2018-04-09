@@ -1,0 +1,943 @@
+Processing 00000000.tx.1: NICE guidelines and the treatment of Alzheimer's disease: evidence-based medicine may be discriminatory R. 
+
+Phrase: "NICE guidelines"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0021622:institute [Organization]
+   753   C1272753:Institute [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "the treatment of Alzheimer's disease"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   844   C1979617:Alzheimer's disease treatment [Therapeutic or Preventive Procedure]
+   760   C0039798:treatment [Functional Concept]
+   760   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   760   C1522326:Treatment [Functional Concept]
+   760   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   760   C1705169:Treatment [Conceptual Entity]
+   760   C3538994:TREATMENT [Research Activity]
+
+Phrase: ":"
+
+Phrase: "evidence-based medicine"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C0376537:Evidence-Based Medicine [Biomedical Occupation or Discipline]
+   827   C0013227:Medicine, NOS [Pharmacologic Substance]
+   827   C0025118:Medicine [Biomedical Occupation or Discipline]
+   827   C0332120:Evidence [Functional Concept]
+   827   C1527178:Based [Functional Concept]
+   827   C1705938:Based [Idea or Concept]
+   793 E C0002055:base [Inorganic Chemical]
+   793 E C0178499:Base [Chemical Viewed Functionally]
+   793 E C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "discriminatory R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.2: Stewart Institute of Psychiatry, De Crespigny Park, London SE5 8AF, UK Arshad et al (2001) raise important concerns that UK guidelines for the treatment of Alzheimer's disease (National Institute for Clinical Excellence (NICE), 2001) may be counterproductive for patients with learning disabilities. 
+
+Phrase: "Stewart Institute of Psychiatry,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0021622:institute [Organization]
+   770   C1272753:Institute [Idea or Concept]
+
+Phrase: "De Crespigny Park,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0562547:Park [Manufactured Object]
+   827   C3160718:PARK [Disease or Syndrome]
+
+Phrase: "London SE5 8AF,"
+
+Phrase: "UK Arshad et al (2001"
+
+Phrase: ")"
+
+Phrase: "raise"
+
+Phrase: "important"
+
+Phrase: "concerns"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699424:Concern [Idea or Concept]
+
+Phrase: "that UK guidelines for the treatment of Alzheimer's disease"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   762   C0935576:treatment guidelines [Therapeutic or Preventive Procedure]
+   742   C0162791:Guidelines [Intellectual Product]
+   742   C0220845:guidelines [Intellectual Product]
+   742   C0282423:guidelines [Intellectual Product]
+
+Phrase: "(National Institute for Clinical Excellence (NICE),"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0021622:institute [Organization]
+   760   C1272753:Institute [Idea or Concept]
+
+Phrase: "2001"
+
+Phrase: ")"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "counterproductive for patients"
+
+Phrase: "with learning disabilities."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0751265:Learning Disabilities [Mental or Behavioral Dysfunction]
+   966 E C1321592:Learning disability [Biomedical Occupation or Discipline]
+   861   C0013621:learning [Educational Activity]
+   861   C0023185:Learning [Mental Process]
+   861   C0231170:Disabilities [Finding]
+   777 E C0018576:Disabled [Patient or Disabled Group]
+   777 E C1880351:Disabled [Qualitative Concept]
+Processing 00000000.tx.3: Potential for discrimination does not by any means stop here. 
+
+Phrase: "Potential for discrimination"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C3245505:Potential [Qualitative Concept]
+
+Phrase: "does"
+
+Phrase: "not by any means"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   770   C1518422:Not [Functional Concept]
+   770   C1704970:Means [Conceptual Entity]
+   737 E C0444504:Mean [Quantitative Concept]
+   737 E C2347634:Mean [Quantitative Concept]
+   737 E C2348143:Mean [Quantitative Concept]
+
+Phrase: "stop"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1947925:Stop [Activity]
+  1000   C2746065:Stop [Temporal Concept]
+
+Phrase: "here."
+Processing 00000000.tx.4: A particular difficulty they highlight is the central role of the Mini-Mental State Examination (MMSE) instrument in determining treatment eligibility and response. 
+
+Phrase: "A particular difficulty"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C1299586:Difficulty [Finding]
+   789 E C0332218:Difficult [Qualitative Concept]
+
+Phrase: "they"
+
+Phrase: "highlight"
+
+Phrase: "is"
+
+Phrase: "the central role of the Mini-Mental State Examination (MMSE) instrument"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   739   C0035820:Role [Social Behavior]
+   739   C1705810:Role [Conceptual Entity]
+
+Phrase: "in determining treatment eligibility"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0013893:Eligibility [Health Care Activity]
+   755 E C1548635:eligible [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "response."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+Processing 00000000.tx.5: Scores on the MMSE are strongly influenced by previous education and cross-cultural validity is poor. 
+
+Phrase: "Scores on the MMSE"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0449820:Scores [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "strongly"
+
+Phrase: "influenced by previous education"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0013621:Education [Educational Activity]
+   770   C0013622:education [Classification]
+   770   C0013658:Education, NOS [Finding]
+   770   C0039401:Education [Educational Activity]
+   770   C0205156:Previous [Temporal Concept]
+   770   C1552607:previous [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "cross-cultural validity"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C2349101:Validity [Quantitative Concept]
+   755 E C2349099:Valid [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "poor."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0032854:Poor [Group Attribute]
+  1000   C0542537:Poor [Qualitative Concept]
+  1000   C2700379:Poor [Qualitative Concept]
+Processing 00000000.tx.6: The guidelines are, therefore, unhelpful for people with lower educational attainment or for growing numbers of older people from minority ethnic groups in the UK. 
+
+Phrase: "The guidelines"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0162791:Guidelines [Intellectual Product]
+  1000   C0220845:guidelines [Intellectual Product]
+  1000   C0282423:guidelines [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: ","
+
+Phrase: "therefore,"
+
+Phrase: "unhelpful for people"
+
+Phrase: "with lower educational attainment"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0013658:Educational Attainment [Finding]
+   901   C0700132:educational attainment [Individual Behavior]
+
+Phrase: "or for growing numbers of older people"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0027361:People [Population Group]
+   748   C0237753:*Number [Quantitative Concept]
+   748   C0449788:Number [Quantitative Concept]
+   714   C0580836:Old [Temporal Concept]
+
+Phrase: "from minority ethnic groups"
+Meta Candidates (Total=12; Excluded=1; Pruned=0; Remaining=11)
+   913   C0026192:Minority Group [Population Group]
+   901   C0015031:Ethnic Groups [Population Group]
+           ETHNIC
+   867 E C1879937:Ethnic Group [Intellectual Product]
+   827   C0441833:Group [Idea or Concept]
+   827   C0680174:ethnic [Finding]
+   827   C0687744:group [Population Group]
+   827   C1257890:Group [Population Group]
+   827   C1552516:Group [Health Care Related Organization]
+   827   C1552839:groups [Idea or Concept]
+   827   C1705428:Group [Conceptual Entity]
+   827   C1705429:Group [Population Group]
+
+Phrase: "in the UK."
+Processing 00000000.tx.7: Comorbid cerebrovascular disease will also be more frequent in people from more disadvantaged backgrounds and, in particular, minority ethnic groups such as AfricanCaribbean populations (Stewart et al, 1999). 
+
+Phrase: "Comorbid cerebrovascular disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   901   C0007820:Cerebrovascular disease [Pathologic Function]
+   827   C0012634:Disease [Disease or Syndrome]
+   827   C1880018:Cerebrovascular [Qualitative Concept]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "will"
+
+Phrase: "also"
+
+Phrase: "be"
+
+Phrase: "more frequent in people"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0332183:Frequent [Temporal Concept]
+
+Phrase: "from more disadvantaged backgrounds"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C1706907:Background [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "in particular, minority ethnic groups"
+Meta Candidates (Total=12; Excluded=1; Pruned=0; Remaining=11)
+   875   C0026192:Minority Group [Population Group]
+   861   C0015031:Ethnic Groups [Population Group]
+           ETHNIC
+   827 E C1879937:Ethnic Group [Intellectual Product]
+   812   C0441833:Group [Idea or Concept]
+   812   C0680174:ethnic [Finding]
+   812   C0687744:group [Population Group]
+   812   C1257890:Group [Population Group]
+   812   C1552516:Group [Health Care Related Organization]
+   812   C1552839:groups [Idea or Concept]
+   812   C1705428:Group [Conceptual Entity]
+   812   C1705429:Group [Population Group]
+
+Phrase: "such as AfricanCaribbean populations"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0032659:Population [Quantitative Concept]
+   861   C1257890:Population [Population Group]
+
+Phrase: "(Stewart et al,"
+
+Phrase: "1999"
+
+Phrase: ")."
+Processing 00000000.tx.8: This reduces the likelihood of a diagnosis of Alzheimer's disease (and therefore eligibility for anti-cholinesterase treatment) according to standard diagnostic criteria (McKhann et al, 1984), despite growing evidence for overlapping pathological processes in dementia (Holmes et al, 1999). 
+
+Phrase: "This"
+
+Phrase: "reduces"
+
+Phrase: "the likelihood of a diagnosis of Alzheimer's disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0033204:Likelihood [Quantitative Concept]
+
+Phrase: "("
+
+Phrase: "and"
+
+Phrase: "therefore eligibility for anti-cholinesterase treatment"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0013893:Eligibility [Health Care Activity]
+
+Phrase: ")"
+
+Phrase: "according to standard diagnostic criteria"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0679228:diagnostic criteria [Intellectual Product]
+   827   C0243161:criteria [Intellectual Product]
+
+Phrase: "(McKhann et al,"
+
+Phrase: "1984"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "despite growing evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "for overlapping pathological processes"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   901   C0030660:Pathological Processes [Pathologic Function]
+   865 E C0677042:Pathology processes [Pathologic Function]
+   793   C1184743:Process [Body Part, Organ, or Organ Component]
+   793   C1522240:Process [Phenomenon or Process]
+
+Phrase: "in dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "(Holmes et al,"
+
+Phrase: "1999"
+
+Phrase: ")."
+Processing 00000000.tx.9: For sub-populations who are under-represented in clinical trial samples (minority ethnic groups, people with lower educational attainment, people with learning disability, people with comorbid cerebrovascular disease), the best that can be hoped for is that a considerably weaker evidence base might emerge some years in the future. 
+
+Phrase: "For sub-populations"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0032659:Population [Quantitative Concept]
+   861   C0542339:Sub- [Spatial Concept]
+   861   C1257890:Population [Population Group]
+   861   C1264637:SUB [Quantitative Concept]
+
+Phrase: "who"
+
+Phrase: "are"
+
+Phrase: "under-represented in clinical trial samples"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   790   C0008976:Clinical Trial [Research Activity]
+           Trial
+   790   C1096775:Clinical Trial [Intellectual Product]
+   753   C0205210:Clinical [Qualitative Concept]
+   753   C0542339:Under [Spatial Concept]
+   719   C0370003:Sample [Substance]
+   719   C1882932:Represent [Activity]
+   719   C2347026:Sample [Conceptual Entity]
+
+Phrase: "(minority ethnic groups,"
+Meta Candidates (Total=12; Excluded=1; Pruned=0; Remaining=11)
+   913   C0026192:Minority Group [Population Group]
+   901   C0015031:Ethnic Groups [Population Group]
+           ETHNIC
+   867 E C1879937:Ethnic Group [Intellectual Product]
+   827   C0441833:Group [Idea or Concept]
+   827   C0680174:ethnic [Finding]
+   827   C0687744:group [Population Group]
+   827   C1257890:Group [Population Group]
+   827   C1552516:Group [Health Care Related Organization]
+   827   C1552839:groups [Idea or Concept]
+   827   C1705428:Group [Conceptual Entity]
+   827   C1705429:Group [Population Group]
+
+Phrase: "people with lower educational attainment,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0027361:People [Population Group]
+
+Phrase: "people with learning disability,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   881   C0018576:People with Disability [Patient or Disabled Group]
+   770   C0027361:People [Population Group]
+
+Phrase: "people with comorbid cerebrovascular disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0027361:People [Population Group]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "the best"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1522427:Best [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "hoped for"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   799   C0392347:Hope [Mental Process]
+
+Phrase: "is"
+
+Phrase: "that"
+
+Phrase: "a considerably weaker evidence base"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   812   C0002055:base [Inorganic Chemical]
+   812   C0178499:Base [Chemical Viewed Functionally]
+   812   C1880279:Base [Biomedical or Dental Material]
+   741 E C0205112:Basal [Spatial Concept]
+   729 E C0016617:Foundation [Organization]
+   729 E C1626935:Bases [Quantitative Concept]
+
+Phrase: "might"
+
+Phrase: "emerge"
+
+Phrase: "some years in the future."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0439234:years [Temporal Concept]
+   726 E C0439508:/year [Temporal Concept]
+Processing 00000000.tx.10: By this time large numbers of people may have failed to receive potentially beneficial treatment. 
+
+Phrase: "By this time large numbers"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0237753:*Number [Quantitative Concept]
+   827   C0449788:Number [Quantitative Concept]
+
+Phrase: "of people"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027361:People [Population Group]
+
+Phrase: "may"
+
+Phrase: "have"
+
+Phrase: "failed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0231175:Failed [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "receive"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514756:Receive [Qualitative Concept]
+
+Phrase: "potentially beneficial treatment."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   827   C0039798:treatment [Functional Concept]
+   827   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   827   C1522326:Treatment [Functional Concept]
+   827   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   827   C1705169:Treatment [Conceptual Entity]
+   827   C3538994:TREATMENT [Research Activity]
+Processing 00000000.tx.11: The problem does not lie with treatment guidelines themselves but with how they are applied at the level of individuals and services  in particular regarding groups with Alzheimer's disease for whom a 26-year-old cognitive screen and/or 17-year-old diagnostic criteria are unhelpful. 
+
+Phrase: "The problem"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033213:Problem [Finding]
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "lie with treatment guidelines"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   833   C0935576:treatment guidelines [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0162791:Guidelines [Intellectual Product]
+   770   C0220845:guidelines [Intellectual Product]
+   770   C0282423:guidelines [Intellectual Product]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "themselves"
+
+Phrase: "but with how"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0233535:but [Mental or Behavioral Dysfunction]
+
+Phrase: "they"
+
+Phrase: "are"
+
+Phrase: "applied at the level of individuals"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   753   C0185125:Applied [Health Care Activity]
+   753   C0441889:Level [Qualitative Concept]
+   753   C0456079:Level [Classification]
+   753   C1547707:Level [Geographic Area]
+   753   C2946261:Level [Pharmacologic Substance]
+   719   C0027361:Individual [Population Group]
+   719   C0237401:Individual [Human]
+   719 E C1632850:Apply [Functional Concept]
+   719 E C1879355:Apply [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "services  in particular regarding groups"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   760   C0557854:Services [Occupational Activity]
+   726 E C2825316:Service [Manufactured Object]
+   726 E C3245478:service [Idea or Concept]
+
+Phrase: "with Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "for whom"
+
+Phrase: "a 26-year-old cognitive screen"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0220908:screen [Health Care Activity]
+   804   C1305399:screen [Functional Concept]
+   804   C1705053:Screen [Medical Device]
+
+Phrase: "and/or"
+
+Phrase: "17-year-old diagnostic criteria"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   840   C0679228:diagnostic criteria [Intellectual Product]
+   804   C0243161:criteria [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: "unhelpful."
+Processing 00000000.tx.12: Evidence-based medicine is a noble ideal. 
+
+Phrase: "Evidence-based medicine"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C0376537:Evidence-Based Medicine [Biomedical Occupation or Discipline]
+   827   C0013227:Medicine, NOS [Pharmacologic Substance]
+   827   C0025118:Medicine [Biomedical Occupation or Discipline]
+   827   C0332120:Evidence [Functional Concept]
+   827   C1527178:Based [Functional Concept]
+   827   C1705938:Based [Idea or Concept]
+   793 E C0002055:base [Inorganic Chemical]
+   793 E C0178499:Base [Chemical Viewed Functionally]
+   793 E C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "is"
+
+Phrase: "a noble ideal."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1512612:Ideal [Qualitative Concept]
+Processing 00000000.tx.13: However, clinical practice that is restricted to the evidence base may amount to institutionalised discrimination. 
+
+Phrase: "However,"
+
+Phrase: "clinical"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205210:Clinical [Qualitative Concept]
+
+Phrase: "practice"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0237607:practice [Mental Process]
+  1000   C3245512:practice [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "is"
+
+Phrase: "restricted to the evidence base"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0002055:base [Inorganic Chemical]
+   760   C0178499:Base [Chemical Viewed Functionally]
+   760   C0332120:Evidence [Functional Concept]
+   760   C0443288:Restricted [Functional Concept]
+   760   C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "may"
+
+Phrase: "amount to institutionalised discrimination."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0012632:Discrimination [Mental Process]
+   770   C0562359:Institutionalised [Finding]
+   770   C1265611:Amount [Quantitative Concept]
+   770   C2987623:Discrimination [Social Behavior]
+Processing 00000000.tx.14: REFERENCES Arshad, P., Sridharan, B. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Arshad,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Sridharan,"
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.15: & Brown, R. 
+
+Phrase: "& Brown,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0678579:Brown [Natural Phenomenon or Process]
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.16: (2001) Treatment of Alzheimer's disease in people with learning disabilities: NICE guidelines (letter). 
+
+Phrase: "(2001"
+
+Phrase: ")"
+
+Phrase: "Treatment of Alzheimer's disease"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   881   C1979617:Alzheimer's disease treatment [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "in people"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027361:People [Population Group]
+
+Phrase: "with learning disabilities"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0751265:Learning Disabilities [Mental or Behavioral Dysfunction]
+   966 E C1321592:Learning disability [Biomedical Occupation or Discipline]
+   861   C0013621:learning [Educational Activity]
+   861   C0023185:Learning [Mental Process]
+   861   C0231170:Disabilities [Finding]
+   777 E C0018576:Disabled [Patient or Disabled Group]
+   777 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "NICE guidelines"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0021622:institute [Organization]
+   753   C1272753:Institute [Idea or Concept]
+
+Phrase: "(letter"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C1096774:Letter [Intellectual Product]
+  1000   C2360551:Letter [Clinical Attribute]
+   944 E C0079691:Levothyroxine Sodium [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   916 E C0282413:letters [Intellectual Product]
+   916 E C0728762:Synthroid [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: ")."
+Processing 00000000.tx.17: British Journal of Psychiatry, 179, 74 .[Free FullText] Holmes, C., Cairns, N., Lantos, P., et al (1999) Validity of current clinical criteria for Alzheimer's disease, vascular dementia and dementia with Lewy bodies. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "179,"
+
+Phrase: "74 ."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Holmes,"
+
+Phrase: "C.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1553033:[c] [Quantitative Concept]
+
+Phrase: "Cairns,"
+
+Phrase: "N.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+
+Phrase: "Lantos,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "et al (1999"
+
+Phrase: ")"
+
+Phrase: "Validity of current clinical criteria"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   781   C2699472:Criterion Validity [Quantitative Concept]
+   760   C2349101:Validity [Quantitative Concept]
+
+Phrase: "for Alzheimer's disease,"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "vascular dementia"
+Meta Candidates (Total=14; Excluded=8; Pruned=0; Remaining=6)
+  1000   C0011269:Dementia, Vascular [Disease or Syndrome]
+   861   C0005847:vascular [Body Part, Organ, or Organ Component]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   861   C1558950:VASCULAR [Finding]
+   861   C1801960:Vascular [Qualitative Concept]
+   805 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   805 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C0005767:Blood [Tissue]
+   761 E C0005768:blood [Body Substance]
+   761 E C0229664:Blood [Body Substance]
+   761 E C0392895:Bloods [Population Group]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+   745 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "dementia with Lewy bodies."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0752347:Dementia with Lewy bodies [Disease or Syndrome]
+           dementia lewy bodies
+   865 E C2697416:DEMENTIA, LEWY BODY [Gene or Genome]
+   770   C0011265:dementia [Mental or Behavioral Dysfunction]
+   770   C0497327:Dementia [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.18: British Journal of Psychiatry, 174, 45 -50.[Abstract] McKhann, G., Drachman, D., Folstein, M., et al (1984) Clinical diagnosis of Alzheimer's disease. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "174,"
+
+Phrase: "45 -50."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] McKhann,"
+
+Phrase: "G.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+
+Phrase: "Drachman,"
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Folstein,"
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "et al (1984"
+
+Phrase: ")"
+
+Phrase: "Clinical diagnosis of Alzheimer's disease."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0332140:Diagnosis, clinical [Qualitative Concept]
+   760   C0011900:Diagnosis [Finding]
+   760   C0205210:Clinical [Qualitative Concept]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.19: Report of the NINCDSADRDA work group under the auspices of the Department of Health and Human Services Task Force on Alzheimer's Disease. 
+
+Phrase: "Report of the NINCDSADRDA work group"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0684224:Report [Intellectual Product]
+   753   C0700287:Report [Health Care Activity]
+   753   C3273238:Report [Intellectual Product]
+
+Phrase: "under the auspices"
+
+Phrase: "of the Department of Health and Human Services Task Force"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   812   C0162458:Task Force [Governmental or Regulatory Activity]
+   793   C0441722:Force [Phenomenon or Process]
+   793   C0563538:Force [Phenomenon or Process]
+   793   C3540678:Task [Occupational Activity]
+   756   C0041711:Department of Health and Human Services [Health Care Related Organization]
+           department health human services
+   737 E C0729333:Dynamic [Functional Concept]
+
+Phrase: "on Alzheimer's Disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.20: Neurology 34, 939 -944.[Abstract] National Institute for Clinical Excellence (2001) Guidance on the Use of Donepezil, Rivastigmine and Galantamine for the Treatment of Alzheimer's Disease. 
+
+Phrase: "Neurology 34,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+   861   C0027855:Neurology [Biomedical Occupation or Discipline]
+   789 E C0205494:Neurologic [Qualitative Concept]
+   789 E C2707261:Neurological [Clinical Attribute]
+   768 E C0027763:Nervous System [Body System]
+   768 E C0422837:NERVOUS SYSTEM [Finding]
+   768 E C1269560:Nervous system [Body System]
+
+Phrase: "939 -944."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] National Institute for Clinical Excellence"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0021622:institute [Organization]
+   760   C1272753:Institute [Idea or Concept]
+
+Phrase: "(2001"
+
+Phrase: ")"
+
+Phrase: "Guidance on the Use of Donepezil,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0150600:Guidance [Health Care Activity]
+   753   C1959633:Guidance [Clinical Attribute]
+
+Phrase: "Rivastigmine"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0649350:rivastigmine [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "Galantamine for the Treatment of Alzheimer's Disease."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0016967:Galantamine [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.21: London: NICE. 
+
+Phrase: "London"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: ":"
+
+Phrase: "NICE."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0021622:institute [Organization]
+   760   C1272753:Institute [Idea or Concept]
+Processing 00000000.tx.22: Stewart, J. 
+
+Phrase: "Stewart,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1551641:Stewart [Population Group]
+
+Phrase: "J."
+Processing 00000000.tx.23: A., Dundas, R., Howard, R. 
+
+Phrase: "A.,"
+
+Phrase: "Dundas,"
+
+Phrase: "R.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+
+Phrase: "Howard,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.24: S., et al (1999) Ethnic differences in incidence of stroke: prospective study with stroke register. 
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "et al (1999"
+
+Phrase: ")"
+
+Phrase: "Ethnic differences in incidence of stroke"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0682076:ethnic differences [Finding]
+   719   C1705241:*Difference [Quantitative Concept]
+   719   C1705242:Difference [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "prospective study with stroke register."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0033522:prospective study [Research Activity]
+   806   C1709709:Prospective Study [Research Activity]
+   760   C0023981:prospective [Research Activity]
+   760   C0557651:Study [Manufactured Object]
+   760   C2603343:Study [Research Activity]
+Processing 00000000.tx.25: British Medical Journal, 318, 967 -971.[Abstract/Free FullText]
+
+Phrase: "British Medical Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "318,"
+
+Phrase: "967 -971."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "]"
+

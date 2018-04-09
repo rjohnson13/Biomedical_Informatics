@@ -1,0 +1,2388 @@
+Processing 00000000.tx.1: Lumpy jaw revisited Sibylle von Vietinghoff, Ute Kettritz, Wolfgang Flgel, Wolfgang Schneider and Ralph Kettritz Medical Faculty of the Charit Franz Volhard Clinic and Department of Radiology Otolaryngology and Pathology HELIOS Klinikum Berlin Germany Email: kettritz{at}fvk-berlin.de  Case Top Case Question Answer to the quiz... 
+
+Phrase: "Lumpy jaw"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0001264:Lumpy jaw [Disease or Syndrome]
+   861   C0022359:Jaw [Body Part, Organ, or Organ Component]
+   861   C0024687:Jaw [Body Part, Organ, or Organ Component]
+   861   C1273020:Jaw [Body Location or Region]
+   789   C0424859:Lumpiness [Finding]
+   789   C0577559:Lump [Finding]
+
+Phrase: "revisited"
+
+Phrase: "Sibylle von Vietinghoff,"
+
+Phrase: "Ute Kettritz,"
+
+Phrase: "Wolfgang Flgel,"
+
+Phrase: "Wolfgang Schneider"
+
+Phrase: "and"
+
+Phrase: "Ralph Kettritz Medical Faculty of the Charit Franz Volhard Clinic"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0015537:Faculty, Medical [Professional or Occupational Group]
+   739   C0015535:Faculty [Professional or Occupational Group]
+   722   C0015538:Clinical Faculty [Professional or Occupational Group]
+
+Phrase: "and"
+
+Phrase: "Department of Radiology Otolaryngology"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   819   C0587500:Radiology department [Health Care Related Organization]
+   770   C1704729:Department [Organization]
+
+Phrase: "and"
+
+Phrase: "Pathology HELIOS Klinikum Berlin Germany Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   799   C0013849:E-Mail [Intellectual Product]
+   799   C1705961:E-mail [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "kettritz{at}fvk-berlin.de  Case Top Case Question Answer"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1706817:Answer [Intellectual Product]
+
+Phrase: "to the quiz..."
+Processing 00000000.tx.2: Our diagnosis References  We care for an 84-year-old lady with Wegener's granulomatosis. 
+
+Phrase: "Our diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "We"
+
+Phrase: "care for an 84-year-old lady"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0439234:year [Temporal Concept]
+   748   C0439508:/year [Temporal Concept]
+   748   C0580836:Old [Temporal Concept]
+   748   C1947933:Care [Activity]
+
+Phrase: "with Wegener's granulomatosis."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0043092:Wegener Granulomatosis [Disease or Syndrome]
+   861   C0521173:Granulomatosis [Disease or Syndrome]
+Processing 00000000.tx.3: Ten months ago, she presented with acute renal failure and lung haemorrhage. 
+
+Phrase: "Ten months ago,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0439231:months [Temporal Concept]
+   793 E C0439507:/month [Temporal Concept]
+
+Phrase: "she"
+
+Phrase: "presented with acute renal failure"
+Meta Candidates (Total=10; Excluded=1; Pruned=0; Remaining=9)
+   862   C0022660:Acute Renal Failure [Disease or Syndrome]
+   806   C0035078:Renal Failure [Disease or Syndrome]
+   806   C1963154:Renal failure [Finding]
+   797   C0231176:Acute failure [Pathologic Function]
+   760   C0022646:Renal [Body Part, Organ, or Organ Component]
+   760   C0205178:acute [Temporal Concept]
+   760   C0231174:Failure [Functional Concept]
+   760   C0449450:Presented [Idea or Concept]
+   760   C0680095:failure [Individual Behavior]
+   726 E C0150312:Present [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "lung haemorrhage."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0151701:LUNG HEMORRHAGE [Pathologic Function]
+  1000   C1963171:Lung hemorrhage [Finding]
+   972 E C0475713:Pulmonary hemorrhage [Pathologic Function]
+   861   C0019080:Haemorrhage [Pathologic Function]
+Processing 00000000.tx.4: She had bilateral patchy pulmonary infiltrates. 
+
+Phrase: "She"
+
+Phrase: "had"
+
+Phrase: "bilateral patchy pulmonary infiltrates."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C0235896:Pulmonary infiltrates [Disease or Syndrome]
+   812   C0332448:INFILTRATES [Pathologic Function]
+   779 E C1546677:Infiltrate [Intellectual Product]
+   779 E C1549537:Infiltrate [Functional Concept]
+Processing 00000000.tx.5: A renal biopsy revealed rapidly progressive glomerulonephritis with >50% crescent formation. 
+
+Phrase: "A renal biopsy"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0194073:Renal biopsy [Diagnostic Procedure]
+   861   C0005558:Biopsy [Diagnostic Procedure]
+   861   C0220797:biopsy [Functional Concept]
+
+Phrase: "revealed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443289:Revealed [Qualitative Concept]
+
+Phrase: "rapidly progressive glomerulonephritis with"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   909   C0221239:Rapidly progressive glomerulonephritis [Disease or Syndrome]
+   833   C1843027:Rapidly progressive [Finding]
+   770   C0017658:Glomerulonephritis [Disease or Syndrome]
+   770   C0205329:Progressive [Functional Concept]
+   770   C1637379:Rapidly [Qualitative Concept]
+
+Phrase: ">50% crescent formation."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0220781:formation [Biologic Function]
+   827   C0439634:formation [Spatial Concept]
+   827   C1522492:Formation [Functional Concept]
+Processing 00000000.tx.6: The immunofluorescence showed a pauci-immune pattern. 
+
+Phrase: "The immunofluorescence"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0016318:Immunofluorescence [Laboratory Procedure]
+  1000   C0079603:Immunofluorescence [Laboratory Procedure]
+   944 E C0282648:Direct immunofluorescence [Laboratory Procedure]
+   928 E C0183489:Immunofluorescent [Indicator, Reagent, or Diagnostic Aid]
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "a pauci-immune pattern."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0449774:Pattern [Spatial Concept]
+Processing 00000000.tx.7: She required haemodialysis for 3 weeks before responding to cyclophosphamide and prednisone. 
+
+Phrase: "She"
+
+Phrase: "required"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+
+Phrase: "haemodialysis for 3 weeks"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0019004:Haemodialysis [Therapeutic or Preventive Procedure]
+   770   C1524112:HEMODIALYSIS [Functional Concept]
+
+Phrase: "before"
+
+Phrase: "responding to cyclophosphamide"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   790   C0010583:Cyclophosphamide [Organophosphorus Compound,Pharmacologic Substance]
+   734 E C0699319:Cytoxan [Organophosphorus Compound,Pharmacologic Substance]
+   734 E C0699320:Endoxan [Organophosphorus Compound,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "prednisone."
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0032952:Prednisone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0728770:Meticorten [Pharmacologic Substance,Steroid]
+   944 E C0740144:Deltasone [Pharmacologic Substance,Steroid]
+   944 E C0740145:Deltra [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0740149:Lisacort [Hormone,Pharmacologic Substance,Steroid]
+Processing 00000000.tx.8: Aside from polymyalgia rheumatica, temporal arteritis, macular degeneration, atrial fibrillation and mitral insufficiency, she enjoyed reasonably good health. 
+
+Phrase: "Aside from polymyalgia rheumatica,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0032533:Polymyalgia Rheumatica [Disease or Syndrome]
+  1000   C0039483:POLYMYALGIA RHEUMATICA [Disease or Syndrome]
+   861   C0521516:Polymyalgia [Sign or Symptom]
+
+Phrase: "temporal arteritis,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C1956391:Temporal Arteritis [Disease or Syndrome]
+   861   C0003860:Arteritis [Pathologic Function]
+   861   C0442043:Temporal [Spatial Concept]
+   861   C2362314:Temporal [Temporal Concept]
+
+Phrase: "macular degeneration,"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0024437:Macular degeneration [Disease or Syndrome]
+  1000   C0242383:Macular Degeneration [Disease or Syndrome]
+   861   C0011164:Degeneration [Pathologic Function]
+   861   C0332574:Macular [Spatial Concept]
+   861   C1880269:Degeneration [Functional Concept]
+   789 E C0227662:macula [Body Part, Organ, or Organ Component]
+   789 E C0332573:Maculae [Sign or Symptom]
+   789 E C0450295:Macula [Body Part, Organ, or Organ Component]
+
+Phrase: "atrial fibrillation"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+  1000   C0004238:Atrial Fibrillation [Pathologic Function]
+  1000   C1963067:Atrial fibrillation [Finding]
+   861   C0018792:Atrial [Body Part, Organ, or Organ Component]
+   861   C0232197:Fibrillation [Disease or Syndrome]
+   789 E C0524422:atria [Body Part, Organ, or Organ Component]
+   789 E C1280619:Atrium [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "mitral insufficiency,"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0026266:Mitral Insufficiency [Disease or Syndrome]
+   861   C0231179:Insufficiency [Functional Concept]
+   861   C0746591:mitral [Qualitative Concept]
+   789 E C0205412:Insufficient [Qualitative Concept]
+   789 E C0231180:Insufficient [Qualitative Concept]
+
+Phrase: "she"
+
+Phrase: "enjoyed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0018592:Enjoyed [Mental Process]
+
+Phrase: "reasonably good health."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   901   C0031206:good health [Finding]
+       E   healthiness
+   827   C0018684:Health [Idea or Concept]
+Processing 00000000.tx.9: Her response to cyclophosphamide and prednisone was gratifying and her serum creatinine concentration decreased to 170 mol/l. 
+
+Phrase: "Her response to cyclophosphamide"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0871261:Response [Organism Attribute]
+   770   C1704632:Response [Finding]
+   770   C1706817:Response [Intellectual Product]
+   770   C2911692:Response [Mental Process]
+
+Phrase: "and"
+
+Phrase: "prednisone"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0032952:Prednisone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0728770:Meticorten [Pharmacologic Substance,Steroid]
+   944 E C0740144:Deltasone [Pharmacologic Substance,Steroid]
+   944 E C0740145:Deltra [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0740149:Lisacort [Hormone,Pharmacologic Substance,Steroid]
+
+Phrase: "was"
+
+Phrase: "gratifying"
+
+Phrase: "and"
+
+Phrase: "her serum creatinine concentration"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   913   C0683149:serum concentration [Quantitative Concept]
+   827   C0086045:Concentration [Mental Process]
+   827   C1446561:Concentration [Quantitative Concept]
+   755 E C1880165:Concentrated [Biomedical or Dental Material]
+   734   C0201976:Serum creatinine [Laboratory Procedure]
+   734   C0600061:serum creatinine [Laboratory or Test Result]
+
+Phrase: "decreased to 170 mol/l."
+Meta Candidates (Total=10; Excluded=1; Pruned=0; Remaining=9)
+   806   C0347982:mol/L [Quantitative Concept]
+   760   C0027960:Mole [Neoplastic Process]
+   760   C0205216:Decreased [Quantitative Concept]
+   760   C0324740:Mole [Mammal]
+   760   C0392756:Decreased [Qualitative Concept]
+   760   C0439189:Mole [Quantitative Concept]
+   760   C0442797:decreased [Qualitative Concept]
+   760   C1456781:mole [Neoplastic Process]
+   760   C1824986:mol [Gene or Genome]
+   726 E C0547047:Decrease [Quantitative Concept]
+Processing 00000000.tx.10: This admission was routine for her tenth intravenous cylcophosphamide treatment. 
+
+Phrase: "This admission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0184666:admission [Health Care Activity]
+  1000   C0809949:Admission [Health Care Activity]
+
+Phrase: "was"
+
+Phrase: "routine for her tenth intravenous cylcophosphamide treatment."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0205547:Routine [Qualitative Concept]
+Processing 00000000.tx.11: An incidental finding on this admission was a 2 x 1 cm and a 1.5 x 1 cm lump on her right jaw (Figure 1). 
+
+Phrase: "An incidental finding on this admission"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0743997:Incidental Finding [Finding]
+   753   C0037088:Finding [Sign or Symptom]
+   753   C0243095:Finding [Finding]
+   753   C2825141:Finding [Finding]
+
+Phrase: "was"
+
+Phrase: "a 2 x 1 cm"
+
+Phrase: "and"
+
+Phrase: "a 1.5 x 1 cm lump on her right jaw"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   738   C0577559:Lump [Finding]
+   718   C0001264:Lumpy jaw [Disease or Syndrome]
+
+Phrase: "(Figure 1"
+
+Phrase: ")."
+Processing 00000000.tx.12: She had lost a tooth on that side 2 months earlier. 
+
+Phrase: "She"
+
+Phrase: "had"
+
+Phrase: "lost"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0745777:Lost [Functional Concept]
+
+Phrase: "a tooth on"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   882   C0227089:a tooth [Body Part, Organ, or Organ Component]
+   790   C0040426:Tooth [Body Part, Organ, or Organ Component]
+   790   C1281562:Tooth [Body Part, Organ, or Organ Component]
+   790   C1519551:TOOTH [Tissue]
+   734 E C0226984:Dental [Qualitative Concept]
+
+Phrase: "that side 2 months earlier."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0439231:months [Temporal Concept]
+   779 E C0439507:/month [Temporal Concept]
+Processing 00000000.tx.13: The mass was painless and firm. 
+
+Phrase: "The mass"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0577559:Mass [Finding]
+  1000   C1306372:*Mass [Quantitative Concept]
+  1000   C3152252:Mass [Quantitative Concept]
+
+Phrase: "was"
+
+Phrase: "painless"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0234226:Painless [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "firm."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205233:Firm [Qualitative Concept]
+Processing 00000000.tx.14: We considered the possibility that her disease involved her parotid gland. 
+
+Phrase: "We"
+
+Phrase: "considered"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considered [Idea or Concept]
+
+Phrase: "the possibility"
+
+Phrase: "that"
+
+Phrase: "her disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "involved"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involved [Functional Concept]
+
+Phrase: "her parotid gland."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0030580:Parotid Gland [Body Part, Organ, or Organ Component]
+           Parotid
+  1000   C1278916:Parotid gland [Body Part, Organ, or Organ Component]
+   861   C1285092:Gland [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.15: A review of Dr Wegener's original article did not disclose such involvement [1]. 
+
+Phrase: "A review of Dr Wegener's original article"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0282443:Review [Intellectual Product]
+   748   C1552617:Review [Idea or Concept]
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "disclose"
+
+Phrase: "such involvement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involvement [Functional Concept]
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.16: Other possibilities that crossed our mind were lymphadenopathy, abcess formation, parotid gland tumours and enlargement of the juxtaoral organ of Chievitz. 
+
+Phrase: "Other possibilities"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   916   C0332149:Possible [Qualitative Concept]
+   916   C1705910:Possible [Qualitative Concept]
+   916   C2362652:Possible [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "crossed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0205203:Crossed [Spatial Concept]
+   966 E C2828360:Cross [Conceptual Entity]
+
+Phrase: "our mind"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0229992:Mind, NOS [Mental Process]
+   944 E C0229993:Psychic [Functional Concept]
+   916 E C0011980:Diaphragm [Body Part, Organ, or Organ Component]
+   916 E C0042241:DIAPHRAGM [Medical Device]
+   916 E C1279038:Diaphragm [Body Part, Organ, or Organ Component]
+   916 E C1705367:Diaphragm [Medical Device]
+   900 E C0086045:mindfulness [Mental Process]
+   900 E C3542996:Mindfulness [Mental Process]
+
+Phrase: "were"
+
+Phrase: "lymphadenopathy,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0497156:Lymphadenopathy [Finding]
+
+Phrase: "abcess formation,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0220781:formation [Biologic Function]
+   861   C0439634:formation [Spatial Concept]
+   861   C1522492:Formation [Functional Concept]
+
+Phrase: "parotid gland tumours"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   983   C0030581:parotid gland tumour [Neoplastic Process]
+           parotid tumours
+   827   C0027651:tumours [Neoplastic Process]
+   734   C0030580:Parotid Gland [Body Part, Organ, or Organ Component]
+   734   C1278916:Parotid gland [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "enlargement of the juxtaoral organ of Chievitz."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C0020564:Enlargement, NOS [Pathologic Function]
+   748   C1293134:Enlargement [Therapeutic or Preventive Procedure]
+   748   C2711450:Enlargement [Anatomical Abnormality]
+Processing 00000000.tx.17: The juxtaoral organ is a normal permanent anatomical structure located within the soft tissue overlying the angle of the mandible in the buccotemporal space. 
+
+Phrase: "The juxtaoral organ"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2331968:Juxta-oral organ [Classification]
+   861   C0178784:Organ [Body Part, Organ, or Organ Component]
+
+Phrase: "is"
+
+Phrase: "a normal permanent anatomical structure"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   861   C0700276:Anatomical structure [Anatomical Structure]
+       E   anatomy
+   839   C1269644:Normal anatomy [Qualitative Concept]
+   812   C0220784:Anatomical [Qualitative Concept]
+   812   C0678594:Structure [Spatial Concept]
+   741 E C0002808:Anatomies [Biomedical Occupation or Discipline]
+   741 E C1384516:anatomy [Qualitative Concept]
+
+Phrase: "located within the soft tissue"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   806   C0225317:soft tissue [Tissue]
+   806   C1522192:SOFT TISSUE [Functional Concept]
+   760   C0040300:Tissue [Tissue]
+   760   C0205358:Soft [Qualitative Concept]
+   760   C1547928:Tissue [Intellectual Product]
+   760   C3542022:SOFT [Disease or Syndrome]
+
+Phrase: "overlying"
+
+Phrase: "the angle of the mandible"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   844   C0222753:Angle of mandible [Body Space or Junction]
+           angle mandible
+   844   C1280246:Angle of mandible [Body Space or Junction]
+   760   C0205143:Angle [Spatial Concept]
+
+Phrase: "in the buccotemporal space."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1883067:Space [Spatial Concept]
+Processing 00000000.tx.18: Although the sensory organ nature of Chievitz's organ, repeatedly mentioned in German publications, has been neglected in the last decade by American anatomists and pathologists, Ide et al. 
+
+Phrase: "Although"
+
+Phrase: "the sensory organ nature of Chievitz's organ,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0349590:Nature [Idea or Concept]
+   748   C1262865:Nature [Functional Concept]
+
+Phrase: "repeatedly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205341:Repeatedly [Functional Concept]
+
+Phrase: "mentioned in German publications,"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   770   C0034036:Publications [Intellectual Product,Manufactured Object]
+   770   C1556085:German [Population Group]
+   737 E C0034037:Publication [Occupational Activity]
+   737 E C1704324:Publication [Intellectual Product]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "neglected in the last decade"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0521874:neglected [Finding]
+   760   C2981279:Decade [Quantitative Concept]
+
+Phrase: "by American anatomists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0334865:Anatomists [Professional or Occupational Group]
+
+Phrase: "and"
+
+Phrase: "pathologists,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0334866:Pathologists [Professional or Occupational Group]
+   966 E C1696728:Pathologist [Intellectual Product]
+
+Phrase: "Ide et al."
+Processing 00000000.tx.19: [2] recently found squamous epithelium accompanied by Pacinian corpuscles residing there. 
+
+Phrase: "[2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "] recently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332185:Recently [Temporal Concept]
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "squamous epithelium"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0221909:Squamous epithelium [Tissue]
+   861   C0014609:Epithelium [Tissue]
+   861   C1182670:Squamous [Qualitative Concept]
+   789 E C0221908:Epithelial [Qualitative Concept]
+
+Phrase: "accompanied by Pacinian corpuscles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   833   C0030173:Pacinian Corpuscles [Body Part, Organ, or Organ Component]
+   737   C1880182:Corpuscle [Body Part, Organ, or Organ Component]
+
+Phrase: "residing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C2982691:Reside [Activity]
+
+Phrase: "there."
+Processing 00000000.tx.20: Their fortuitous finding supports a mechanosensory function for Chievitz's organ. 
+
+Phrase: "Their fortuitous finding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0037088:Finding [Sign or Symptom]
+   861   C0243095:Finding [Finding]
+   861   C2825141:Finding [Finding]
+
+Phrase: "supports"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0183683:Support [Medical Device]
+  1000   C1521721:Support [Conceptual Entity]
+
+Phrase: "a mechanosensory function for Chievitz's organ."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0031843:function [Physiologic Function]
+   753   C0542341:Function [Functional Concept]
+   753   C0700205:FUNCTION [Classification]
+   753   C1705273:Function [Intellectual Product]
+Processing 00000000.tx.21: View larger version (109K): [in this window] [in a new window]  Fig. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "larger version"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0333052:Version [Functional Concept]
+   861   C2607870:Version [Spatial Concept]
+
+Phrase: "(109K"
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  Fig."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0349966:Fig [Food]
+  1000   C1337208:FIG [Food]
+Processing 00000000.tx.22: 1. 
+
+Phrase: "1."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+Processing 00000000.tx.23: A view of the patient's right jaw, showing the lump.  
+
+Phrase: "A view of the patient's right jaw,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0449911:View [Spatial Concept]
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "the lump."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0577559:Lump [Finding]
+   900 E C0424859:Lumpiness [Finding]
+Processing 00000000.tx.24: Our ear-nose-and-throat consultants performed ultrasound studies of the mass but were unable to elucidate matters further. 
+
+Phrase: "Our ear-nose-"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0028429:Nose [Body Part, Organ, or Organ Component]
+   861   C1278896:Nose [Body Part, Organ, or Organ Component]
+   768 E C0234847:Nasality [Organ or Tissue Function]
+
+Phrase: "and-"
+
+Phrase: "throat consultants"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0009817:Consultants [Professional or Occupational Group]
+   827 E C1549076:consultant [Idea or Concept]
+
+Phrase: "performed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0884358:Performed [Functional Concept]
+   966 E C2947996:Perform [Pharmacologic Substance]
+
+Phrase: "ultrasound"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0041618:Ultrasound [Diagnostic Procedure]
+  1000   C0041621:ultrasound [Natural Phenomenon or Process]
+  1000   C0220934:ultrasound [Functional Concept]
+  1000   C1456803:Ultrasound [Natural Phenomenon or Process]
+  1000   C1875843:ULTRASOUND [Medical Device]
+
+Phrase: "studies of the mass"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0557651:Study [Manufactured Object]
+   770   C0577559:Mass [Finding]
+   770   C0947630:studies [Laboratory Procedure]
+   770   C1306372:*Mass [Quantitative Concept]
+   770   C2603343:Study [Research Activity]
+   770   C3152252:Mass [Quantitative Concept]
+
+Phrase: "but"
+
+Phrase: "were"
+
+Phrase: "unable to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1299582:Unable [Finding]
+
+Phrase: "elucidate"
+
+Phrase: "matters further."
+Processing 00000000.tx.25: The dentists were unable to associate the mass with any dental structures, current or previous defects. 
+
+Phrase: "The dentists"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0011441:Dentists [Professional or Occupational Group]
+   966 E C0334915:dentist [Professional or Occupational Group]
+
+Phrase: "were"
+
+Phrase: "unable to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1299582:Unable [Finding]
+
+Phrase: "associate"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0750490:Associate [Idea or Concept]
+  1000   C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "the mass with any dental structures,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0577559:Mass [Finding]
+   753   C1306372:*Mass [Quantitative Concept]
+   753   C3152252:Mass [Quantitative Concept]
+
+Phrase: "current"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0521116:Current [Temporal Concept]
+  1000   C1705970:Current [Natural Phenomenon or Process]
+
+Phrase: "or"
+
+Phrase: "previous defects."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0243067:defects [Functional Concept]
+   827 E C1457869:Defect [Functional Concept]
+   827 E C1861101:DEFECT [Disease or Syndrome]
+Processing 00000000.tx.26: The patient persevered with patience. 
+
+Phrase: "The patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "persevered with patience."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C0516943:patience [Finding]
+   718 E C0030705:*^patient [Patient or Disabled Group]
+Processing 00000000.tx.27: Her white blood cell count was stable at 14 800/l3. 
+
+Phrase: "Her white blood cell count"
+Meta Candidates (Total=28; Excluded=8; Pruned=0; Remaining=20)
+  1000   C0023508:Blood Cell Count, White [Laboratory Procedure]
+  1000   C0427512:white blood cell count [Laboratory or Test Result]
+   923   C0005771:Blood Cell Count [Laboratory Procedure]
+   923   C0009555:Blood Cell Count [Laboratory Procedure]
+   923   C0023516:White blood cell [Cell]
+           White Cell
+   861   C0005773:Blood cell [Cell]
+   861   C0007584:Cell Count [Laboratory Procedure]
+   833 E C2328697:Hemal cell [Cell]
+   812   C0005767:Blood [Tissue]
+   812   C0005768:blood [Body Substance]
+   812   C0007457:White [Population Group]
+   812   C0007634:Cell [Cell]
+   812   C0043157:White [Population Group]
+   812   C0220938:White [Qualitative Concept]
+   812   C0229664:Blood [Body Substance]
+   812   C0750480:Count [Activity]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1705566:Count [Quantitative Concept]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0333275:Bloody [Qualitative Concept]
+   729 E C0005847:Blood Vessel [Body Part, Organ, or Organ Component]
+   729 E C0392895:Bloods [Population Group]
+   729 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   729 E C1511228:VESSEL, BLOOD [Tissue]
+   712 E C1558950:VASCULAR [Finding]
+   712 E C1801960:Vascular [Qualitative Concept]
+
+Phrase: "was"
+
+Phrase: "stable at 14 800/l3."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205360:Stable [Qualitative Concept]
+   760   C1547311:Stable [Intellectual Product]
+Processing 00000000.tx.28: Her C-reactive protein was steady at 9.2 mg/dl, while her procalcitonin levels remained in the lownormal range. 
+
+Phrase: "Her C-reactive protein"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0006560:C-reactive protein [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C1879974:C-Reactive Protein [Gene or Genome]
+   827   C0033684:Protein [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   827   C0205332:Reactive [Qualitative Concept]
+
+Phrase: "was"
+
+Phrase: "steady at 9.2 mg/dl,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0205361:Steady [Qualitative Concept]
+
+Phrase: "while"
+
+Phrase: "her procalcitonin levels"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0441889:Levels [Qualitative Concept]
+   827 E C0456079:Level [Classification]
+   827 E C1547707:Level [Geographic Area]
+   827 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "remained in the lownormal range."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C1514721:Range [Quantitative Concept]
+   760   C2348147:Range [Quantitative Concept]
+   760   C3542016:Range [Intellectual Product]
+Processing 00000000.tx.29: We gave the patient her cyclophosphamide and sent her home. 
+
+Phrase: "We"
+
+Phrase: "gave"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1947971:Give [Functional Concept]
+
+Phrase: "the patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "her cyclophosphamide"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0010583:Cyclophosphamide [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699319:Cytoxan [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699320:Endoxan [Organophosphorus Compound,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "sent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1519246:Sent [Functional Concept]
+
+Phrase: "her home."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0442519:Home [Conceptual Entity]
+Processing 00000000.tx.30: This strategy is called watchful waiting.  
+
+Phrase: "This strategy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0679199:strategy [Mental Process]
+
+Phrase: "is"
+
+Phrase: "called"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0679006:Call [Mental Process]
+   966   C1947967:Call [Functional Concept]
+
+Phrase: "watchful waiting."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0700325:Watchful Waiting [Health Care Activity]
+   827   C1610166:wait [Functional Concept]
+   789   C0699864:Watchfulness [Mental Process]
+Processing 00000000.tx.31: Question Top Case Question Answer to the quiz... 
+
+Phrase: "Question Top Case Question Answer to the quiz..."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C1706817:Answer [Intellectual Product]
+Processing 00000000.tx.32: Our diagnosis References  What do you think the lump might be?  
+
+Phrase: "Our diagnosis References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1514811:Reference [Idea or Concept]
+   827   C1706462:Reference [Conceptual Entity]
+
+Phrase: "What"
+
+Phrase: "do"
+
+Phrase: "you"
+
+Phrase: "think"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039869:think [Mental Process]
+
+Phrase: "the lump"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0577559:Lump [Finding]
+   900 E C0424859:Lumpiness [Finding]
+
+Phrase: "might"
+
+Phrase: "be?"
+Processing 00000000.tx.33: Answer to the quiz on the preceding page Top Case Question Answer to the quiz... 
+
+Phrase: "Answer to the quiz"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1706817:Answer [Intellectual Product]
+
+Phrase: "on the preceding page Top Case Question Answer"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   799   C1706817:Answer [Intellectual Product]
+
+Phrase: "to the quiz..."
+Processing 00000000.tx.34: Our diagnosis References  Four weeks later, the lump had grown larger. 
+
+Phrase: "Our diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Four weeks later,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0439230:weeks [Temporal Concept]
+   793 E C0332174:/week [Temporal Concept]
+
+Phrase: "the lump"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0577559:Lump [Finding]
+   900 E C0424859:Lumpiness [Finding]
+
+Phrase: "had"
+
+Phrase: "grown larger."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0443228:larger [Quantitative Concept]
+   861   C0549177:Larger [Quantitative Concept]
+   861   C1704243:Larger [Quantitative Concept]
+Processing 00000000.tx.35: A computerized tomographic scan was done (Figure 2). 
+
+Phrase: "A computerized tomographic scan"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   976   C0040405:Computerized tomograph scan [Diagnostic Procedure]
+           Computerized tomography
+           tomography
+   827   C0034606:Scan [Diagnostic Procedure]
+   827   C0441633:Scan [Diagnostic Procedure]
+   827   C2826292:SCAN [Finding]
+   755   C0040395:Tomographies [Diagnostic Procedure]
+
+Phrase: "was"
+
+Phrase: "done"
+
+Phrase: "(Figure 2"
+
+Phrase: ")."
+Processing 00000000.tx.36: The mass was in the submandibular region. 
+
+Phrase: "The mass"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0577559:Mass [Finding]
+  1000   C1306372:*Mass [Quantitative Concept]
+  1000   C3152252:Mass [Quantitative Concept]
+
+Phrase: "was in the submandibular region."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0017446:Region [Geographic Area]
+   760   C0043194:WAS [Disease or Syndrome]
+   760   C0205147:Region [Spatial Concept]
+   760   C0258432:WAS [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   760   C1421478:WAS [Gene or Genome]
+   760   C1550309:Submandibular [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.37: There was no bony destruction. 
+
+Phrase: "There"
+
+Phrase: "was"
+
+Phrase: "no bony destruction."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   964   C0238790:BONE DESTRUCTION [Disease or Syndrome]
+   861   C1261381:Destruction [Therapeutic or Preventive Procedure]
+   861   C1948029:Destruction [Activity]
+Processing 00000000.tx.38: The radiologists thought it might be a granuloma, but how they could tell remained a mystery to us. 
+
+Phrase: "The radiologists"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0260194:Radiologists [Professional or Occupational Group]
+   966 E C1549438:Radiologist [Intellectual Product]
+
+Phrase: "thought"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039869:Thought [Mental Process]
+
+Phrase: "it"
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "a granuloma,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0018188:Granuloma [Pathologic Function]
+  1000   C1546654:Granuloma [Intellectual Product]
+
+Phrase: "but"
+
+Phrase: "how"
+
+Phrase: "they"
+
+Phrase: "could"
+
+Phrase: "tell"
+
+Phrase: "remained"
+
+Phrase: "a mystery to us."
+Processing 00000000.tx.39: We finally, together with the patient, lost patience with the lump and called upon experts to excise the lesion. 
+
+Phrase: "We finally,"
+
+Phrase: "together with the patient,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "lost patience with the lump"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0516943:patience [Finding]
+
+Phrase: "and"
+
+Phrase: "called upon experts to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   737   C0679006:Call [Mental Process]
+   737   C1947967:Call [Functional Concept]
+
+Phrase: "excise"
+
+Phrase: "the lesion."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0221198:Lesion [Finding]
+  1000   C1546698:Lesion [Intellectual Product]
+Processing 00000000.tx.40: We hoped that we could pre-empt Dr Wegener and describe the first case of Wegener's in a salivary gland. 
+
+Phrase: "We"
+
+Phrase: "hoped"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0392347:Hope [Mental Process]
+
+Phrase: "that"
+
+Phrase: "we"
+
+Phrase: "could"
+
+Phrase: "pre-empt"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0332152:Pre [Temporal Concept]
+   861   C0740175:Pre [Qualitative Concept]
+   861   C2257086:PRE [Genetic Function]
+
+Phrase: "Dr Wegener"
+
+Phrase: "and"
+
+Phrase: "describe"
+
+Phrase: "the first case of Wegener's"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0868928:Case [Functional Concept]
+   760   C1706255:CASE [Medical Device]
+   760   C1706256:Case [Conceptual Entity]
+
+Phrase: "in a salivary gland."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0036098:Salivary gland [Body Part, Organ, or Organ Component]
+  1000   C1278917:Salivary gland [Body Part, Organ, or Organ Component]
+  1000   C1519177:GLAND, SALIVARY [Tissue]
+   861   C0442040:Salivary [Spatial Concept]
+   861   C1285092:Gland [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.41: Our pathologists revelled with delight when they proved us wrong. 
+
+Phrase: "Our pathologists"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0334866:Pathologists [Professional or Occupational Group]
+   966 E C1696728:Pathologist [Intellectual Product]
+
+Phrase: "revelled with delight"
+
+Phrase: "when"
+
+Phrase: "they"
+
+Phrase: "proved"
+
+Phrase: "us wrong."
+Processing 00000000.tx.42: Macroscopically, there was a cavity that contained purulent material with Actinomyces drusen swimming in the fluid. 
+
+Phrase: "Macroscopically,"
+
+Phrase: "there"
+
+Phrase: "was"
+
+Phrase: "a cavity"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011334:cavity [Disease or Syndrome]
+  1000   C0333343:Cavity [Body Space or Junction]
+  1000   C1510420:Cavity [Anatomical Abnormality]
+
+Phrase: "that contained purulent material with Actinomyces drusen"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0520510:Material [Substance]
+
+Phrase: "swimming in the fluid."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0005889:FLUID [Body Substance]
+   770   C0039003:Swimming [Daily or Recreational Activity]
+   770   C0302908:fluid [Substance]
+   770   C0444611:Fluid [Qualitative Concept]
+   770   C1704353:Fluid [Substance]
+Processing 00000000.tx.43: They provided a silver stain (Figure 3, upper panel) and an H&E stain (Figure 3, lower panel) that corroborated the initial impression. 
+
+Phrase: "They"
+
+Phrase: "provided"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provided [Activity]
+
+Phrase: "a silver stain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1318876:Silver stain [Indicator, Reagent, or Diagnostic Aid]
+   861   C0038128:Stain [Indicator, Reagent, or Diagnostic Aid]
+
+Phrase: "(Figure 3,"
+
+Phrase: "upper panel"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0441833:Panel [Idea or Concept]
+   861   C1999270:Panel [Intellectual Product]
+   861   C3537156:Panel [Manufactured Object]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "an H&E stain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0523207:H&E Stain [Laboratory Procedure]
+   827   C0038128:Stain [Indicator, Reagent, or Diagnostic Aid]
+
+Phrase: "(Figure 3,"
+
+Phrase: "lower"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0441994:Lower [Spatial Concept]
+  1000   C1548802:Lower [Body Location or Region]
+  1000   C2003888:Lower [Activity]
+
+Phrase: "panel"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0441833:Panel [Idea or Concept]
+  1000   C1999270:Panel [Intellectual Product]
+  1000   C3537156:Panel [Manufactured Object]
+
+Phrase: ")"
+
+Phrase: "that"
+
+Phrase: "corroborated"
+
+Phrase: "the initial impression."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0596764:impression [Individual Behavior]
+   861   C1998467:Impression [Qualitative Concept]
+Processing 00000000.tx.44: View larger version (133K): [in this window] [in a new window]  Fig. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "larger version"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0333052:Version [Functional Concept]
+   861   C2607870:Version [Spatial Concept]
+
+Phrase: "(133K"
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  Fig."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0349966:Fig [Food]
+  1000   C1337208:FIG [Food]
+Processing 00000000.tx.45: 2. 
+
+Phrase: "2."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+Processing 00000000.tx.46: CT scan showing the mass in the submandibular area, without bony involvement.  
+
+Phrase: "CT scan"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0040405:CT SCAN [Diagnostic Procedure]
+   861   C0034606:Scan [Diagnostic Procedure]
+   861   C0441633:Scan [Diagnostic Procedure]
+   861   C2826292:SCAN [Finding]
+   861   C3540513:CT [Gene or Genome]
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "the mass in the submandibular area,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   783   C0749106:submandibular mass [Finding]
+   753   C0577559:Mass [Finding]
+   753   C1306372:*Mass [Quantitative Concept]
+   753   C3152252:Mass [Quantitative Concept]
+
+Phrase: "without bony involvement."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1314939:Involvement [Functional Concept]
+Processing 00000000.tx.47: View larger version (122K): [in this window] [in a new window]  Fig. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "larger version"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0333052:Version [Functional Concept]
+   861   C2607870:Version [Spatial Concept]
+
+Phrase: "(122K"
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  Fig."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0349966:Fig [Food]
+  1000   C1337208:FIG [Food]
+Processing 00000000.tx.48: 3. 
+
+Phrase: "3."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+Processing 00000000.tx.49: Silver stain (upper panel) and H&E stain (lower panel) showing a typical Actinomyces drusen surrounded by granulocytes. 
+
+Phrase: "Silver stain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1318876:Silver stain [Indicator, Reagent, or Diagnostic Aid]
+   861   C0038128:Stain [Indicator, Reagent, or Diagnostic Aid]
+
+Phrase: "(upper panel"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0441833:Panel [Idea or Concept]
+   861   C1999270:Panel [Intellectual Product]
+   861   C3537156:Panel [Manufactured Object]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "H&E stain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0523207:H&E Stain [Laboratory Procedure]
+   827   C0038128:Stain [Indicator, Reagent, or Diagnostic Aid]
+
+Phrase: "(lower panel"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0441833:Panel [Idea or Concept]
+   861   C1999270:Panel [Intellectual Product]
+   861   C3537156:Panel [Manufactured Object]
+
+Phrase: ")"
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "a typical Actinomyces drusen"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0815324:Druse [Population Group]
+   827   C1260959:Drusen [Acquired Abnormality]
+
+Phrase: "surrounded by granulocytes."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0018183:Granulocytes [Cell]
+   790   C0857490:Granulocytes [Laboratory Procedure]
+   790   C1282914:Surrounded [Spatial Concept]
+Processing 00000000.tx.50: These sulfur granules consist of branched, Gram-positive filaments of 1 m width that are best seen with silver staining. 
+
+Phrase: "These sulfur granules"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0333370:Sulfur granules [Sign or Symptom]
+   861   C0010837:Granules [Cell Component]
+   861   C0038774:Sulfur [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C0993609:Granules [Biomedical or Dental Material]
+   861   C2348286:SULFUR [Element, Ion, or Isotope]
+   777 E C0205248:Granular [Qualitative Concept]
+
+Phrase: "consist of branched, Gram-positive filaments of 1 m width"
+Meta Candidates (Total=16; Excluded=3; Pruned=0; Remaining=13)
+   741   C1253959:Branch of [Body Part, Organ, or Organ Component]
+           branched
+   739   C0332529:CONSIST [Qualitative Concept]
+   739   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   739   C0439178:% Positive [Quantitative Concept]
+   739   C0439208:gram [Quantitative Concept]
+   739   C0441923:M+ [Intellectual Product]
+   739   C0487742:Width [Quantitative Concept]
+   739   C1446409:Positive [Qualitative Concept]
+   739   C1514241:Positive [Finding]
+   739   C2700384:Branched [Spatial Concept]
+   739   C2825490:Positive [Qualitative Concept]
+   706   C0010851:Filament [Cell Component]
+   706 E C1881507:Branch [Chemical Viewed Structurally]
+   706 E C2700383:Branch [Plant]
+   706 E C2826234:BRANCH [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "best"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C1522427:Best [Qualitative Concept]
+   966 E C0205170:Well [Qualitative Concept]
+   966 E C3146287:Well [Manufactured Object]
+
+Phrase: "seen with silver staining."
+Meta Candidates (Total=10; Excluded=2; Pruned=0; Remaining=8)
+   833   C1293950:Silver Staining [Laboratory Procedure]
+   770   C0037125:Silver [Element, Ion, or Isotope]
+   770   C0205397:Seen [Qualitative Concept]
+   770   C0487602:Staining [Laboratory Procedure]
+   770   C0947651:SILVER [Biomedical or Dental Material,Pharmacologic Substance]
+   770   C1305285:Silver [Qualitative Concept]
+   770   C1318876:Silver [Indicator, Reagent, or Diagnostic Aid]
+   770   C1704680:Staining [Finding]
+   737 E C0042789:see [Organism Function]
+   737 E C1947903:See [Activity]
+Processing 00000000.tx.51: An additional compound is the so-called SplendoreHoeppli material consisting of amorphous material staining intensely eosinophilic in an H&E stain.  
+
+Phrase: "An additional compound"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205198:Compound [Qualitative Concept]
+   861   C1706082:Compound [Chemical]
+
+Phrase: "is"
+
+Phrase: "the so-called SplendoreHoeppli material"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0520510:Material [Substance]
+
+Phrase: "consisting of amorphous material"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0520510:Material [Substance]
+   770   C1979848:Amorphous [Qualitative Concept]
+   737   C0332529:CONSIST [Qualitative Concept]
+
+Phrase: "staining"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0487602:Staining [Laboratory Procedure]
+  1000   C1704680:Staining [Finding]
+   966 E C0038128:Stain [Indicator, Reagent, or Diagnostic Aid]
+
+Phrase: "intensely eosinophilic in an H&E stain."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0333930:Eosinophilic [Functional Concept]
+Processing 00000000.tx.52: Actinomyces israeli is an anaerobic normal inhabitant of the mouth, especially in the teeth and tonsils. 
+
+Phrase: "Actinomyces israeli"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0240069:Israeli [Population Group]
+
+Phrase: "is"
+
+Phrase: "an anaerobic normal inhabitant of the mouth,"
+
+Phrase: "especially in the teeth"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0040426:Teeth [Body Part, Organ, or Organ Component]
+   770   C1519551:Teeth [Tissue]
+   737 E C1281562:Tooth [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "tonsils."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0040421:Tonsils [Body Part, Organ, or Organ Component]
+  1000   C0836921:tonsils [Body Part, Organ, or Organ Component]
+   966 E C1280736:Tonsil [Body Part, Organ, or Organ Component]
+   966 E C1519547:TONSIL [Tissue]
+Processing 00000000.tx.53: In tissue, the organism appears grossly in tiny varicoloured (usually yellowish) granules often referred to as sulfur granules. 
+
+Phrase: "In tissue,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0040300:Tissue [Tissue]
+  1000   C1547928:Tissue [Intellectual Product]
+
+Phrase: "the organism"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0029235:Organism [Organism]
+
+Phrase: "appears"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "grossly in tiny varicoloured"
+
+Phrase: "(usually yellowish"
+
+Phrase: ")"
+
+Phrase: "granules often"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0010837:Granules [Cell Component]
+   861   C0993609:Granules [Biomedical or Dental Material]
+   777 E C0205248:Granular [Qualitative Concept]
+
+Phrase: "referred"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205543:referred [Functional Concept]
+  1000   C1691010:Referred [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "as"
+
+Phrase: "sulfur granules."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0333370:Sulfur granules [Sign or Symptom]
+   861   C0010837:Granules [Cell Component]
+   861   C0038774:Sulfur [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C0993609:Granules [Biomedical or Dental Material]
+   861   C2348286:SULFUR [Element, Ion, or Isotope]
+   777 E C0205248:Granular [Qualitative Concept]
+Processing 00000000.tx.54: Histologically, the granules consist of a central tangled mass of Gram-positive mycelia surrounded at the periphery by Gram-negative, club-shaped rods. 
+
+Phrase: "Histologically,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205462:Histologically [Functional Concept]
+
+Phrase: "the granules"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0010837:Granules [Cell Component]
+  1000   C0993609:Granules [Biomedical or Dental Material]
+   916 E C0205248:Granular [Qualitative Concept]
+
+Phrase: "consist of a central tangled mass of Gram-positive mycelia"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   739   C0205099:Central [Spatial Concept]
+   739   C0332529:CONSIST [Qualitative Concept]
+   739   C0439178:% Positive [Quantitative Concept]
+   739   C0439208:gram [Quantitative Concept]
+   739   C0577559:Mass [Finding]
+   739   C1306372:*Mass [Quantitative Concept]
+   739   C1446409:Positive [Qualitative Concept]
+   739   C1514241:Positive [Finding]
+   739   C1879652:Central - [Laboratory Procedure]
+   739   C2825490:Positive [Qualitative Concept]
+   739   C3152252:Mass [Quantitative Concept]
+   706   C0949695:Mycelium [Fungus]
+
+Phrase: "surrounded at the periphery"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1282914:Surrounded [Spatial Concept]
+
+Phrase: "by Gram-negative, club-shaped rods."
+Meta Candidates (Total=7; Excluded=5; Pruned=0; Remaining=2)
+   911   C0314752:Gram-negative rods [Bacterium]
+   804   C0206427:Rods [Cell]
+   771 E C1552915:rod [Quantitative Concept]
+   771 E C1705186:Rod [Medical Device]
+   771 E C1947942:Rod [Spatial Concept]
+   771 E C2347970:rod [Quantitative Concept]
+   771 E C2347971:rod [Quantitative Concept]
+Processing 00000000.tx.55: The H&E stain shows the ray phenomenon that was responsible for the initial misclassification of Actinomyces as a fungus: at the periphery of the granule, filaments are radially oriented and embedded in eosinophilic material (Figure 3). 
+
+Phrase: "The H&E stain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0523207:H&E Stain [Laboratory Procedure]
+   827   C0038128:Stain [Indicator, Reagent, or Diagnostic Aid]
+
+Phrase: "shows"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "the ray phenomenon"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1882365:Phenomenon [Phenomenon or Process]
+
+Phrase: "that"
+
+Phrase: "was"
+
+Phrase: "responsible for the initial misclassification of Actinomyces"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1273518:Responsible [Finding]
+
+Phrase: "as a fungus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0016832:Fungus [Fungus]
+
+Phrase: ":"
+
+Phrase: "at the periphery"
+
+Phrase: "of the granule,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0010837:Granule [Cell Component]
+  1000   C0993609:Granule [Biomedical or Dental Material]
+   928 E C0205248:Granular [Qualitative Concept]
+
+Phrase: "filaments"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   966   C0010851:Filament [Cell Component]
+   916 E C1979891:Filamentous [Qualitative Concept]
+
+Phrase: "are"
+
+Phrase: "radially"
+
+Phrase: "oriented"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1704322:Oriented [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "embedded in eosinophilic material"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0333930:Eosinophilic [Functional Concept]
+   770   C0520510:Material [Substance]
+   770   C1707903:Embedded [Laboratory Procedure]
+
+Phrase: "(Figure 3"
+
+Phrase: ")."
+Processing 00000000.tx.56: We treated the patient with ampicillin and sulbactam and she did well. 
+
+Phrase: "We"
+
+Phrase: "treated"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0332293:treated [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treated [Functional Concept]
+   966 E C1292734:TREAT [Functional Concept]
+
+Phrase: "the patient with ampicillin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "and"
+
+Phrase: "sulbactam"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0038665:Sulbactam [Antibiotic,Organic Chemical]
+
+Phrase: "and"
+
+Phrase: "she"
+
+Phrase: "did"
+
+Phrase: "well."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205170:Well [Qualitative Concept]
+  1000   C3146287:Well [Manufactured Object]
+Processing 00000000.tx.57: Actinomycosis is a masquerader. 
+
+Phrase: "Actinomycosis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001261:Actinomycosis [Disease or Syndrome]
+
+Phrase: "is"
+
+Phrase: "a masquerader."
+Processing 00000000.tx.58: We were not brilliant diagnosticians in any event. 
+
+Phrase: "We"
+
+Phrase: "were"
+
+Phrase: "not brilliant diagnosticians in any event."
+Processing 00000000.tx.59: Interestingly, the reverse image of our patient has been described. 
+
+Phrase: "Interestingly,"
+
+Phrase: "the reverse image of our patient"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C1704254:Image [Intellectual Product]
+   753   C1704922:Image [Entity]
+   753   C3542466:Image [Intellectual Product]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "described."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1552738:described [Idea or Concept]
+Processing 00000000.tx.60: Smith and Heaton had a patient with disseminated granulomas of his lungs, skin and right thigh [3]. 
+
+Phrase: "Smith"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0554249:Smith [Professional or Occupational Group]
+
+Phrase: "and"
+
+Phrase: "Heaton"
+
+Phrase: "had"
+
+Phrase: "a patient with disseminated granulomas of his lungs,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "skin"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0444099:Skin [Body Substance]
+  1000   C1123023:Skin [Body System]
+  1000   C1278993:Skin [Body System]
+   944 E C0221912:Cutaneous [Spatial Concept]
+   944 E C0221928:Dermal [Qualitative Concept]
+   944 E C1522447:Cutaneous [Functional Concept]
+   877 E C0011646:Dermis [Tissue]
+
+Phrase: "and"
+
+Phrase: "right thigh"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0230425:Right thigh [Body Part, Organ, or Organ Component]
+  1000   C1279548:Right thigh [Body Part, Organ, or Organ Component]
+   861   C0039866:Thigh [Body Location or Region]
+   861   C1281586:Thigh [Body Part, Organ, or Organ Component]
+   805 E C0015811:Femoral [Body Part, Organ, or Organ Component]
+
+Phrase: "[3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.61: The initial impression was tuberculosis; 
+
+Phrase: "The initial impression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0596764:impression [Individual Behavior]
+   861   C1998467:Impression [Qualitative Concept]
+
+Phrase: "was"
+
+Phrase: "tuberculosis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0041296:Tuberculosis [Disease or Syndrome]
+
+Phrase: ";"
+Processing 00000000.tx.62: however, therapy for that condition did not improve his well being. 
+
+Phrase: "however,"
+
+Phrase: "therapy for"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C0039798:therapy [Functional Concept]
+   833   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   833   C1363945:Therapy [Finding]
+
+Phrase: "that condition"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0012634:condition [Disease or Syndrome]
+  1000   C0348080:Condition [Qualitative Concept]
+  1000   C1705253:Condition [Conceptual Entity]
+   928 E C0009647:Conditioned [Mental Process]
+   928 E C1701901:Conditional [Qualitative Concept]
+   928 E C1963686:Conditional [Functional Concept]
+   900 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "improve"
+
+Phrase: "his well being."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0018684:Well-being [Idea or Concept]
+  1000   C0031206:well-being [Finding]
+   861   C0205170:Well [Qualitative Concept]
+   861   C3146287:Well [Manufactured Object]
+Processing 00000000.tx.63: The next diagnosis was Wegener's granulomatosis; 
+
+Phrase: "The next diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011900:Diagnosis [Finding]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "was"
+
+Phrase: "Wegener's granulomatosis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0043092:Wegener Granulomatosis [Disease or Syndrome]
+   861   C0521173:Granulomatosis [Disease or Syndrome]
+
+Phrase: ";"
+Processing 00000000.tx.64: however, immunosuppression did not help their patient. 
+
+Phrase: "however,"
+
+Phrase: "immunosuppression"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0021079:Immunosuppression [Therapeutic or Preventive Procedure]
+  1000   C0021080:Immunosuppression [Organism Function]
+  1000   C1373218:Immunosuppression [Pathologic Function]
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "help"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0018896:Help [Social Behavior]
+  1000   C1552861:help [Idea or Concept]
+
+Phrase: "their patient."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+Processing 00000000.tx.65: Finally, sulfur granules were identified in a subsequent biopsy. 
+
+Phrase: "Finally,"
+
+Phrase: "sulfur granules"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0333370:Sulfur granules [Sign or Symptom]
+   861   C0010837:Granules [Cell Component]
+   861   C0038774:Sulfur [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C0993609:Granules [Biomedical or Dental Material]
+   861   C2348286:SULFUR [Element, Ion, or Isotope]
+   777 E C0205248:Granular [Qualitative Concept]
+
+Phrase: "were"
+
+Phrase: "identified in a subsequent biopsy."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0005558:Biopsy [Diagnostic Procedure]
+   760   C0205396:Identified [Qualitative Concept]
+   760   C0220797:biopsy [Functional Concept]
+   760   C0332282:Subsequent [Temporal Concept]
+   760   C1550043:Identified [Finding]
+   760   C1551388:Identified [Functional Concept]
+Processing 00000000.tx.66: Our patient had lumpy jaw, generally viewed as an ungulate disease. 
+
+Phrase: "Our patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "had"
+
+Phrase: "lumpy jaw,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0001264:Lumpy jaw [Disease or Syndrome]
+   861   C0022359:Jaw [Body Part, Organ, or Organ Component]
+   861   C0024687:Jaw [Body Part, Organ, or Organ Component]
+   861   C1273020:Jaw [Body Location or Region]
+   789   C0424859:Lumpiness [Finding]
+   789   C0577559:Lump [Finding]
+
+Phrase: "generally"
+
+Phrase: "viewed as an ungulate disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   760   C0012634:Disease [Disease or Syndrome]
+   760   C0325162:Ungulate [Mammal]
+   726   C0449911:View [Spatial Concept]
+   704 E C1836721:MALS [Finding]
+   704 E C3538764:MALS [Gene or Genome]
+   704 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.67: However, the disease is also common in sheep. 
+
+Phrase: "However,"
+
+Phrase: "the disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "also common in sheep."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0205214:Common [Quantitative Concept]
+   770   C1522138:Common [Functional Concept]
+   770   C3245511:common [Intellectual Product]
+Processing 00000000.tx.68: Hoefs and Bunch investigated 3363 mandibles of wild sheep and 1028 from domesticated varieties [4]. 
+
+Phrase: "Hoefs"
+
+Phrase: "and"
+
+Phrase: "Bunch"
+
+Phrase: "investigated"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1292732:investigated [Functional Concept]
+
+Phrase: "3363 mandibles of wild sheep"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0024687:Mandibles [Body Part, Organ, or Organ Component]
+   726 E C1279059:Mandible [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "1028 from domesticated varieties"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   737   C1883525:Variety [Conceptual Entity]
+   737   C2346866:Variety [Conceptual Entity]
+
+Phrase: "[4"
+
+Phrase: "]."
+Processing 00000000.tx.69: Lumpy jaw was widespread in wild sheep of North America, but it was rare or absent in wild sheep from Eurasia. 
+
+Phrase: "Lumpy jaw"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0001264:Lumpy jaw [Disease or Syndrome]
+   861   C0022359:Jaw [Body Part, Organ, or Organ Component]
+   861   C0024687:Jaw [Body Part, Organ, or Organ Component]
+   861   C1273020:Jaw [Body Location or Region]
+   789   C0424859:Lumpiness [Finding]
+   789   C0577559:Lump [Finding]
+
+Phrase: "was"
+
+Phrase: "widespread in wild sheep of North America,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0205391:Widespread [Spatial Concept]
+
+Phrase: "but"
+
+Phrase: "it"
+
+Phrase: "was"
+
+Phrase: "rare"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0521114:Rare [Temporal Concept]
+  1000   C0522498:Rare [Qualitative Concept]
+  1000   C1514917:RARE [Gene or Genome]
+
+Phrase: "or"
+
+Phrase: "absent in wild sheep"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0332197:Absent [Quantitative Concept]
+   770   C2699517:ABSENT [Finding]
+
+Phrase: "from Eurasia."
+Processing 00000000.tx.70: They drew evolutionary conclusions from their data. 
+
+Phrase: "They drew evolutionary conclusions from their data."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1707478:Conclusions [Idea or Concept]
+Processing 00000000.tx.71: Actinomycosis is an infection that is often misdiagnosed and initially overlooked. 
+
+Phrase: "Actinomycosis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001261:Actinomycosis [Disease or Syndrome]
+
+Phrase: "is"
+
+Phrase: "an infection"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0009450:Infection, NOS [Disease or Syndrome]
+   928 E C0439663:Infected [Functional Concept]
+   888 E C0030657:infectivity [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "is"
+
+Phrase: "often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "misdiagnosed"
+
+Phrase: "and"
+
+Phrase: "initially"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205265:Initially [Temporal Concept]
+
+Phrase: "overlooked."
+Processing 00000000.tx.72: So even if we do not have anything to add to Wegener's paper, we still learned a lot from this lump.  
+
+Phrase: "So even"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0037640:SO [Geographic Area]
+
+Phrase: "if"
+
+Phrase: "we"
+
+Phrase: "do"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "have"
+
+Phrase: "anything to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "add to Wegener's paper,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0030351:Paper [Manufactured Object]
+   770   C1547566:Paper [Idea or Concept]
+   770   C1883712:Add [Functional Concept]
+
+Phrase: "we still"
+
+Phrase: "learned"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023185:learned [Mental Process]
+
+Phrase: "a lot from this lump."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C1115660:LOT [Intellectual Product]
+   760   C1518000:Lot [Qualitative Concept]
+   760   C1710198:Lot [Idea or Concept]
+Processing 00000000.tx.73: Our diagnosis Top Case Question Answer to the quiz... 
+
+Phrase: "Our diagnosis Top Case Question Answer to the quiz..."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C1706817:Answer [Intellectual Product]
+Processing 00000000.tx.74: Our diagnosis References  Lumpy jaw revisited. 
+
+Phrase: "Our diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Lumpy jaw"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0001264:Lumpy jaw [Disease or Syndrome]
+   861   C0022359:Jaw [Body Part, Organ, or Organ Component]
+   861   C0024687:Jaw [Body Part, Organ, or Organ Component]
+   861   C1273020:Jaw [Body Location or Region]
+   789   C0424859:Lumpiness [Finding]
+   789   C0577559:Lump [Finding]
+
+Phrase: "revisited."
+Processing 00000000.tx.75: Conflict of interest statement. 
+
+Phrase: "Conflict of interest statement."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C1710187:Statement [Idea or Concept]
+   756   C0079152:Conflict of Interest [Idea or Concept]
+Processing 00000000.tx.76: None declared.  
+
+Phrase: "None"
+
+Phrase: "declared."
+Processing 00000000.tx.77: References Top Case Question Answer to the quiz... 
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Top Case Question Answer to the quiz..."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706817:Answer [Intellectual Product]
+Processing 00000000.tx.78: Our diagnosis References  Wegener F. ber eine eigenartige rhinogene Granulomatose mit besonderer Beteiligung des Arteriensystems und der Nieren. 
+
+Phrase: "Our diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Wegener F. ber eine eigenartige rhinogene Granulomatose mit besonderer Beteiligung des Arteriensystems und der Nieren."
+Processing 00000000.tx.79: Beitr Pathol Anat 1939; 
+
+Phrase: "Beitr Pathol Anat 1939"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0002808:Anat [Biomedical Occupation or Discipline]
+
+Phrase: ";"
+Processing 00000000.tx.80: 102: 3668 Ide F, Mishima K, Saito I. 
+
+Phrase: "102"
+
+Phrase: ":"
+
+Phrase: "3668 Ide F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   827   C0439133:(f) [Intellectual Product]
+   827   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Mishima K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Saito I."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+Processing 00000000.tx.81: Pacinian corpuscle in the juxtaoral organ of Chievitz. 
+
+Phrase: "Pacinian corpuscle in the juxtaoral organ of Chievitz."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0030173:Pacinian corpuscle [Body Part, Organ, or Organ Component]
+   744   C1880182:Corpuscle [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.82: J Oral Pathol Med 2004; 
+
+Phrase: "J Oral Pathol Med 2004"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0442027:Oral [Spatial Concept]
+
+Phrase: ";"
+Processing 00000000.tx.83: 33: 443444[ISI][Medline] Smith R, Heaton CL. 
+
+Phrase: "33"
+
+Phrase: ":"
+
+Phrase: "443444"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Smith R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Heaton CL."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0596019:Cl - [Element, Ion, or Isotope]
+Processing 00000000.tx.84: Actinomycosis presenting as Wegener's granulomatosis. 
+
+Phrase: "Actinomycosis presenting as Wegener's granulomatosis."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0449450:Presenting [Idea or Concept]
+   726 E C0150312:Present [Quantitative Concept]
+Processing 00000000.tx.85: J Am Med Assoc 1978; 
+
+Phrase: "J"
+
+Phrase: "Am"
+
+Phrase: "Med Assoc 1978"
+
+Phrase: ";"
+Processing 00000000.tx.86: 240: 247248[CrossRef][ISI][Medline] Hoefs M, Bunch TD. 
+
+Phrase: "240"
+
+Phrase: ":"
+
+Phrase: "247248"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Hoefs M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Bunch TD."
+Processing 00000000.tx.87: Lumpy jaw in wild sheep and its evolutionary implications. 
+
+Phrase: "Lumpy jaw in wild sheep"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   806   C0001264:Lumpy jaw [Disease or Syndrome]
+   760   C0022359:Jaw [Body Part, Organ, or Organ Component]
+   760   C0024687:Jaw [Body Part, Organ, or Organ Component]
+   760   C1273020:Jaw [Body Location or Region]
+
+Phrase: "and"
+
+Phrase: "its evolutionary implications."
+Processing 00000000.tx.88: J Wildl Dis 2001; 
+
+Phrase: "J Wildl Dis 2001"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0451119:DIS [Intellectual Product]
+   812   C1444662:DIS [Finding]
+
+Phrase: ";"
+Processing 00000000.tx.89: 37: 3948[Abstract/Free FullText] This Article Extract FREE Full Text (PDF) Alert me when this article is cited Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in ISI Web of Science Similar articles in PubMed Alert me to new issues of the journal Add to My Personal Archive Download to citation manager Disclaimer Request Permissions Google Scholar Articles by von Vietinghoff, S. 
+
+Phrase: "37"
+
+Phrase: ":"
+
+Phrase: "3948"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "]"
+
+Phrase: "This Article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "Extract"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2828366:Extract [Substance]
+
+Phrase: "FREE Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in ISI Web"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282111:Web [Manufactured Object]
+
+Phrase: "of Science Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0162443:Journal [Intellectual Product,Manufactured Object]
+   748   C0205314:New [Temporal Concept]
+   714   C0033213:Issue [Finding]
+   714   C1706387:Issue [Intellectual Product]
+
+Phrase: "Add to My Personal Archive Download"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0003738:archive [Manufactured Object]
+   753   C0024552:MY [Geographic Area]
+   753   C1519021:Personal [Organism Attribute]
+   753   C1554162:Archive [Idea or Concept]
+   753   C1883712:Add [Functional Concept]
+
+Phrase: "to citation manager Disclaimer Request Permissions Google Scholar Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1706852:Article [Intellectual Product]
+
+Phrase: "by von Vietinghoff,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.90: Articles by Kettritz, R. 
+
+Phrase: "Articles by Kettritz,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.91: PubMed PubMed Citation Articles by von Vietinghoff, S. 
+
+Phrase: "PubMed PubMed Citation Articles by von Vietinghoff,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   714   C1706852:Article [Intellectual Product]
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.92: Articles by Kettritz, R. 
+
+Phrase: "Articles by Kettritz,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.93: Online ISSN 1460-2385 - Print ISSN 0931-0509 Copyright  2005 European Renal Association - European Dialysis and Transplant Assoc Oxford Journals Oxford University Press Site Map Privacy Policy Frequently Asked Questions Other Oxford University Press sites: Oxford University Press American National Biography Booksellers' Information Service Children's Fiction and Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights and Permissions Science School Books Social Sciences Very Short Introductions World's Classics
+
+Phrase: "Online ISSN 1460-2385 - Print ISSN 0931-0509 Copyright  2005 European Renal Association - European Dialysis"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   808   C0019004:Renal Dialysis [Therapeutic or Preventive Procedure]
+   808   C0917873:Renal dialysis [Therapeutic or Preventive Procedure]
+           dialysis
+   785   C0011945:Dialysis [Natural Phenomenon or Process]
+   785   C0011946:dialysis [Therapeutic or Preventive Procedure]
+   785   C1059964:Dialysis [Eukaryote]
+
+Phrase: "and"
+
+Phrase: "Transplant Assoc Oxford Journals Oxford University Press Site Map Privacy Policy Frequently"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   799   C2735290:Privacy policy [Intellectual Product]
+   787   C0242456:Policy [Intellectual Product]
+
+Phrase: "Asked"
+
+Phrase: "Questions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1522634:Question [Intellectual Product]
+
+Phrase: "Other Oxford University Press sites"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0205145:Sites [Spatial Concept]
+   779 E C1515974:Site [Body Location or Region]
+   779 E C2825164:Site [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "Oxford University Press American National Biography Booksellers' Information Service Children's Fiction"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   788   C0887933:fiction [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary"
+
+Phrase: "of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   852   C0947619:Finger.right [Body Part, Organ, or Organ Component]
+   782   C0035621:Rights [Qualitative Concept]
+   782   C0205090:Right [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "Permissions Science School Books Social Sciences Very Short Introductions World's Classics"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   788   C0439658:classics [Qualitative Concept]
+   755 E C0439858:Classic [Qualitative Concept]
+

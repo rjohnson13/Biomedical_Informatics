@@ -1,0 +1,1785 @@
+Processing 00000000.tx.1: Genetics of Down's syndrome and Alzheimer's disease S. 
+
+Phrase: "Genetics of Down's syndrome"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   819   C0567439:genetics syndrome [Disease or Syndrome]
+   770   C0017398:Genetics [Biomedical Occupation or Discipline]
+   770   C0017399:genetics [Biologic Function]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease S."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   734   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   734   C1521724:Alzheimer's Disease [Pathologic Function]
+Processing 00000000.tx.2: Shamas-Ud-Din Arundel House, Smithdown Health Park, Merseycare NHS Trust, Smithdown Road, Liverpool L15 2LF, UK In an extremely interesting article which touched upon early-onset dementia I feel that Dr Holmes (2002) failed to mention Down's syndrome as being a particular risk factor for the development of early-onset Alzheimer's disease because of triplication of the amyloid precursor gene. 
+
+Phrase: "Shamas-Ud-Din Arundel House,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C0442519:house [Conceptual Entity]
+   804   C2003847:House [Manufactured Object]
+
+Phrase: "Smithdown Health Park,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0562547:Park [Manufactured Object]
+   827   C3160718:PARK [Disease or Syndrome]
+
+Phrase: "Merseycare NHS Trust,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C1273810:NHS Trust [Health Care Related Organization]
+   827   C0237935:Trust [Individual Behavior]
+   827   C3245466:trust [Idea or Concept]
+
+Phrase: "Smithdown Road,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442650:Road [Manufactured Object]
+
+Phrase: "Liverpool L15 2LF,"
+
+Phrase: "UK In an extremely"
+
+Phrase: "interesting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0543488:interesting [Mental Process]
+
+Phrase: "article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "which"
+
+Phrase: "touched upon early-onset dementia I"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   790   C1833334:Early-onset [Finding]
+   753   C0011265:dementia [Mental or Behavioral Dysfunction]
+   753   C0021966:I- [Inorganic Chemical]
+   753   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   753   C0332162:Onset [Qualitative Concept]
+   753   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   753   C1279919:Early [Temporal Concept]
+   719   C0152054:Touch [Therapeutic or Preventive Procedure]
+   719   C0439815:Touch [Qualitative Concept]
+   719   C0702221:Touch [Organ or Tissue Function]
+
+Phrase: "feel"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0013987:feel [Mental Process]
+   916 E C1527305:Feeling, NOS [Mental Process]
+
+Phrase: "that Dr Holmes"
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "failed to mention Down's syndrome"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   760   C0039082:Syndrome [Disease or Syndrome]
+   760   C0231175:Failed [Functional Concept]
+   704   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   704   C2626739:Lanugo [Eukaryote]
+
+Phrase: "as"
+
+Phrase: "being"
+
+Phrase: "a particular risk factor for the development of early-onset Alzheimer's disease"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   782   C0850664:risk factor (of) disease [Finding]
+           disease risk factor
+   753   C0035648:Risk factor [Quantitative Concept]
+   751   C0050325:A-factor [Biologically Active Substance,Organic Chemical]
+   751   C0679238:disease factor [Functional Concept]
+   751   C0960756:factor A [Organic Chemical]
+   751   C1281905:disease risk [Finding]
+   736   C0035647:Risk [Qualitative Concept]
+   736   C1521761:Factor [Functional Concept]
+   736   C2827422:Factor [Conceptual Entity]
+
+Phrase: "because of triplication"
+
+Phrase: "of the amyloid precursor gene."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0017337:Gene [Gene or Genome]
+Processing 00000000.tx.3: It is well known that almost all adults over the age of 40 years with Down's syndrome display Alzheimer's neuropathology (Mann, 1988) and the prevalence of dementia in people with Down's syndrome is 0-4% under the age of 30 years rising to 29-75% at 60-65 years of age, which falls under the category of early-onset Alzheimer's disease (Zigman et al, 1997). 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "well known"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205170:Well [Qualitative Concept]
+   861   C0205309:Known [Qualitative Concept]
+   861   C3146287:Well [Manufactured Object]
+
+Phrase: "that almost"
+
+Phrase: "all adults over the age of 40 years"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   744   C0001675:Adults [Age Group]
+   711 E C1706450:Adult [Human]
+
+Phrase: "with Down's syndrome display Alzheimer's neuropathology"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0876934:Neuropathology [Biomedical Occupation or Discipline]
+   804   C1540677:neuropathology [Pathologic Function]
+   804   C1555824:Neuropathology [Intellectual Product]
+
+Phrase: "(Mann,"
+
+Phrase: "1988"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "the prevalence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0033105:Prevalence [Quantitative Concept]
+   770   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "in people"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027361:People [Population Group]
+
+Phrase: "with Down's syndrome"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+
+Phrase: "is"
+
+Phrase: "0-4% under the age of 30 years"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   767   C1510829:Age-Years [Temporal Concept]
+   744   C0001779:Age [Organism Attribute]
+   744   C0439234:years [Temporal Concept]
+   711 E C0439508:/year [Temporal Concept]
+
+Phrase: "rising to 29-75%"
+
+Phrase: "at 60-65 years"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0439234:years [Temporal Concept]
+   793 E C0439508:/year [Temporal Concept]
+
+Phrase: "of age,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001779:Age [Organism Attribute]
+
+Phrase: "which"
+
+Phrase: "falls under the category of early-onset Alzheimer's disease"
+Meta Candidates (Total=14; Excluded=0; Pruned=0; Remaining=14)
+   818   C0750901:Alzheimer Disease, Early Onset [Disease or Syndrome]
+   781   C0814120:early disease onset [Disease or Syndrome]
+   764   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   764   C1521724:Alzheimer's Disease [Pathologic Function]
+   764   C1833334:Early-onset [Finding]
+   762   C0277793:disease onset [Temporal Concept]
+   762   C0679245:early disease [Temporal Concept]
+   742   C0012634:Disease [Disease or Syndrome]
+   742   C0085639:Fall [Finding]
+   742   C0238715:Fall [Temporal Concept]
+   742   C0332162:Onset [Qualitative Concept]
+   742   C0683312:Category [Intellectual Product]
+   742   C1279919:Early [Temporal Concept]
+   742   C1555713:category [Idea or Concept]
+
+Phrase: "(Zigman et al,"
+
+Phrase: "1997"
+
+Phrase: ")."
+Processing 00000000.tx.4: Studies have shown that the prevalence of Alzheimer's disease in those with learning disability, especially Down's syndrome, is higher than in those with no learning disability (Patel et al, 1993). 
+
+Phrase: "Studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "have"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "the prevalence of Alzheimer's disease"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0033105:Prevalence [Quantitative Concept]
+   760   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "in those with learning disability,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   901   C0751265:Learning disability [Mental or Behavioral Dysfunction]
+   901   C1321592:Learning disability [Biomedical Occupation or Discipline]
+   827   C0013621:learning [Educational Activity]
+   827   C0023185:Learning [Mental Process]
+   827   C0231170:Disability [Finding]
+   755 E C0018576:Disabled [Patient or Disabled Group]
+   755 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: "especially Down's syndrome,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   827   C0039082:Syndrome [Disease or Syndrome]
+   771   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   771   C2626739:Lanugo [Eukaryote]
+
+Phrase: "is"
+
+Phrase: "higher than"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   799   C0205250:High [Qualitative Concept]
+   799   C1299351:High [Qualitative Concept]
+   799   C2700149:HIGH [Intellectual Product]
+   750 E C0489786:Height [Organism Attribute]
+
+Phrase: "in those with no learning disability"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   901   C0751265:Learning disability [Mental or Behavioral Dysfunction]
+   901   C1321592:Learning disability [Biomedical Occupation or Discipline]
+   827   C0013621:learning [Educational Activity]
+   827   C0023185:Learning [Mental Process]
+   827   C0231170:Disability [Finding]
+   755 E C0018576:Disabled [Patient or Disabled Group]
+   755 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: "(Patel et al,"
+
+Phrase: "1993"
+
+Phrase: ")."
+Processing 00000000.tx.5: The occurrence of Alzheimer-like neuropathology in Down's syndrome suggests that the genetic defect for familial Alzheimer's disease might reside on chromosome 21, which was, therefore, the first of the 22 autosomes to be tested using a genetic linkage strategy (McGuffin et al, 1994). 
+
+Phrase: "The occurrence of Alzheimer-"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0243132:occurrence [Functional Concept]
+   770   C1554210:occurrence [Idea or Concept]
+   770   C2745955:Occurrence [Temporal Concept]
+
+Phrase: "like neuropathology"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0876934:Neuropathology [Biomedical Occupation or Discipline]
+  1000   C1540677:neuropathology [Pathologic Function]
+  1000   C1555824:Neuropathology [Intellectual Product]
+
+Phrase: "in Down's syndrome"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+
+Phrase: "suggests"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "the genetic defect for familial Alzheimer's disease"
+Meta Candidates (Total=10; Excluded=2; Pruned=0; Remaining=8)
+   774   C0019247:Genetic disease [Disease or Syndrome]
+   751   C0000768:Birth Defect [Congenital Abnormality]
+   751   C1737329:Birth defect [Congenital Abnormality]
+   748   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   748   C0314603:Genetic [Functional Concept]
+   748   C1457869:Defect [Functional Concept]
+   748   C1861101:DEFECT [Disease or Syndrome]
+   732 E C2316203:Genetic diseases [Finding]
+   732 E C2924406:Genetic diseases [Laboratory Procedure]
+   710   C0870545:family origins [Family Group]
+
+Phrase: "might"
+
+Phrase: "reside on chromosome 21,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C0008664:Chromosome 21 [Cell Component]
+   770   C0008633:Chromosome [Cell Component]
+   770   C2982691:Reside [Activity]
+
+Phrase: "which"
+
+Phrase: "was"
+
+Phrase: ","
+
+Phrase: "therefore,"
+
+Phrase: "the first of the 22 autosomes to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0205435:First [Quantitative Concept]
+   748   C1279901:First [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "tested"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0392366:tested [Intellectual Product]
+   966 E C0022885:Test [Laboratory Procedure]
+   966 E C0039593:Test [Functional Concept]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "a genetic linkage strategy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0679199:strategy [Mental Process]
+   734   C0023745:genetic linkage [Molecular Function]
+
+Phrase: "(McGuffin et al,"
+
+Phrase: "1994"
+
+Phrase: ")."
+Processing 00000000.tx.6: Dr Holmes's article was published among papers with the overall topic of old age psychiatry; 
+
+Phrase: "Dr Holmes's article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1706852:Article [Intellectual Product]
+
+Phrase: "was"
+
+Phrase: "published among papers"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0030351:Papers [Manufactured Object]
+   790   C0034037:Published [Occupational Activity]
+   790   C1704324:Published [Intellectual Product]
+   756 E C1547566:Paper [Idea or Concept]
+
+Phrase: "with the overall topic"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C1522168:TOPIC [Functional Concept]
+   861   C1555712:topic [Idea or Concept]
+   789 E C0332237:Topical [Spatial Concept]
+
+Phrase: "of old age psychiatry"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+
+Phrase: ";"
+Processing 00000000.tx.7: early-onset Alzheimer's disease tends to fall within the remit of old age psychiatry except in those with Down's syndrome, who remain within learning disability services. 
+
+Phrase: "early-onset Alzheimer's disease"
+Meta Candidates (Total=11; Excluded=3; Pruned=0; Remaining=8)
+  1000   C0750901:Alzheimer Disease, Early Onset [Disease or Syndrome]
+   902   C0679245:early disease [Temporal Concept]
+   861   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   861   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C1833334:Early-onset [Finding]
+   812   C0012634:Disease [Disease or Syndrome]
+   812   C0332162:Onset [Qualitative Concept]
+   812   C1279919:Early [Temporal Concept]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+
+Phrase: "tends"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "fall within the"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0085639:Fall [Finding]
+   790   C0238715:Fall [Temporal Concept]
+
+Phrase: "remit of old age psychiatry"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   862   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   806   C0231337:Old age [Finding]
+   806   C1999167:Old age [Population Group]
+   760   C0001779:Age [Organism Attribute]
+   760   C0033872:Psychiatry [Professional or Occupational Group]
+   760   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   760   C0439600:remit [Temporal Concept]
+   760   C0580836:Old [Temporal Concept]
+   751 E C0392079:Senile [Finding]
+
+Phrase: "except"
+
+Phrase: "in those with Down's syndrome,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   827   C0039082:Syndrome [Disease or Syndrome]
+   771   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   771   C2626739:Lanugo [Eukaryote]
+
+Phrase: "who"
+
+Phrase: "remain within learning disability services."
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   806   C0751265:Learning disability [Mental or Behavioral Dysfunction]
+   806   C1321592:Learning disability [Biomedical Occupation or Discipline]
+   760   C0013621:learning [Educational Activity]
+   760   C0023185:Learning [Mental Process]
+   760   C0231170:Disability [Finding]
+   760   C0557854:Services [Occupational Activity]
+   726 E C2825316:Service [Manufactured Object]
+   726 E C3245478:service [Idea or Concept]
+Processing 00000000.tx.8: From all the information I have gathered on Alzheimer's disease I have assumed that the clearest evidence for a genetic contribution to the aetiology of Alzheimer's disease is its association with Down's syndrome, which surely deserves a mention when discussing this specific area. 
+
+Phrase: "From all"
+
+Phrase: "the information I"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "have"
+
+Phrase: "gathered on Alzheimer's disease I"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   806   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   806   C1521724:Alzheimer's Disease [Pathologic Function]
+   760   C0012634:Disease [Disease or Syndrome]
+   760   C0021966:I- [Inorganic Chemical]
+   760   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   704 E C1836721:MALS [Finding]
+   704 E C3538764:MALS [Gene or Genome]
+   704 E C3540595:MAL [Gene or Genome]
+
+Phrase: "have"
+
+Phrase: "assumed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3242379:Assumed [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "the clearest evidence for a genetic contribution"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0332120:Evidence [Functional Concept]
+
+Phrase: "to the aetiology"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0015127:aetiology [Functional Concept]
+  1000   C1314792:Aetiology [Functional Concept]
+  1000   C1524003:Etiology [Conceptual Entity]
+
+Phrase: "of Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "its association with Down's syndrome,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0004083:Association [Mental Process]
+   760   C0439849:Association [Qualitative Concept]
+   760   C0596306:Association [Phenomenon or Process]
+   760   C0699792:association [Social Behavior]
+
+Phrase: "which surely"
+
+Phrase: "deserves"
+
+Phrase: "a mention"
+
+Phrase: "when"
+
+Phrase: "discussing"
+
+Phrase: "this specific area."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017446:Area [Geographic Area]
+   861   C0205146:Area [Spatial Concept]
+Processing 00000000.tx.9: EDITED BY KHALIDA ISMAIL REFERENCES Holmes, C. 
+
+Phrase: "EDITED BY KHALIDA ISMAIL"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C0868955:Edit [Occupational Activity]
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Holmes,"
+
+Phrase: "C."
+Processing 00000000.tx.10: (2002) Genotype and phenotype in Alzheimer's disease. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Genotype"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017431:Genotype [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "phenotype in Alzheimer's disease."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0031437:Phenotype [Organism Attribute]
+   770   C1285572:Phenotype [Laboratory Procedure]
+Processing 00000000.tx.11: British Journal of Psychiatry, 180, 131-134.[Abstract/Free FullText] Mann, D. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "131-134."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Mann,"
+
+Phrase: "D."
+Processing 00000000.tx.12: M. 
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.13: A. 
+
+Phrase: "A."
+Processing 00000000.tx.14: (1988) Alzheimer's disease and Down's syndrome. 
+
+Phrase: "(1988"
+
+Phrase: ")"
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "Down's syndrome."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+Processing 00000000.tx.15: Histopathology, 13, 125-127.[Medline] McGuffin, P., Owen, M. 
+
+Phrase: "Histopathology,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0243140:histopathology [Functional Concept]
+  1000   C0677043:Histopathology [Biomedical Occupation or Discipline]
+
+Phrase: "13,"
+
+Phrase: "125-127."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] McGuffin,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Owen,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.16: J., O'Donovan, M. 
+
+Phrase: "J.,"
+
+Phrase: "O'Donovan,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439114:O NOS [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.17: C., et al (1994) Dementia. 
+
+Phrase: "C., et al (1994"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1553033:[c] [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "Dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.18: In Seminars in Psychiatric Genetics, pp. 
+
+Phrase: "In Seminars"
+
+Phrase: "in Psychiatric Genetics,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017398:Genetics [Biomedical Occupation or Discipline]
+   861   C0017399:genetics [Biologic Function]
+
+Phrase: "pp."
+Processing 00000000.tx.19: 192-206. 
+
+Phrase: "192-206."
+Processing 00000000.tx.20: London: Gaskell. 
+
+Phrase: "London"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: ":"
+
+Phrase: "Gaskell."
+Processing 00000000.tx.21: Patel, P., Goldberg, D. 
+
+Phrase: "Patel,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Goldberg,"
+
+Phrase: "D."
+Processing 00000000.tx.22: & Moss, S. 
+
+Phrase: "& Moss,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0282635:Moss [Plant]
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.23: (1993) Psychiatric morbidity in older people with moderate and severe learning disability. 
+
+Phrase: "(1993"
+
+Phrase: ")"
+
+Phrase: "Psychiatric morbidity in older people"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0026538:Morbidity [Quantitative Concept]
+   760   C0220880:morbidity [Intellectual Product]
+
+Phrase: "with moderate"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205081:Moderate [Qualitative Concept]
+  1000   C1881878:Moderate [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "severe learning disability."
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   901   C0751265:Learning disability [Mental or Behavioral Dysfunction]
+   901   C1321592:Learning disability [Biomedical Occupation or Discipline]
+   827   C0013621:learning [Educational Activity]
+   827   C0023185:Learning [Mental Process]
+   827   C0231170:Disability [Finding]
+   755 E C0018576:Disabled [Patient or Disabled Group]
+   755 E C1880351:Disabled [Qualitative Concept]
+Processing 00000000.tx.24: II: The prevalence study. 
+
+Phrase: "II"
+
+Phrase: ":"
+
+Phrase: "The prevalence study."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0033106:Study, Prevalence [Quantitative Concept]
+   861   C0033105:Prevalence [Quantitative Concept]
+   861   C0220900:prevalence [Quantitative Concept]
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+Processing 00000000.tx.25: British Journal of Psychiatry, 163, 481-491.[Abstract] Zigman, W., Schupf, N., Haveman, M., et al (1997) The epidemiology of Alzheimer's disease in mental retardation: results and recommendations from an international conference. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "163,"
+
+Phrase: "481-491."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Zigman,"
+
+Phrase: "W.,"
+
+Phrase: "Schupf,"
+
+Phrase: "N.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+
+Phrase: "Haveman,"
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "et al (1997"
+
+Phrase: ")"
+
+Phrase: "The epidemiology of Alzheimer's disease"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0014507:Epidemiology [Biomedical Occupation or Discipline]
+   760   C0014508:epidemiology [Functional Concept]
+   760   C0699910:epidemiology [Health Care Activity]
+
+Phrase: "in mental retardation"
+Meta Candidates (Total=10; Excluded=8; Pruned=0; Remaining=2)
+  1000   C0025362:Mental Retardation [Mental or Behavioral Dysfunction]
+   928 E C0079822:Mentally Retarded [Patient or Disabled Group]
+   861   C0229992:mental [Mental Process]
+   777 E C0229993:Psychic [Functional Concept]
+   761 E C0011980:Diaphragm [Body Part, Organ, or Organ Component]
+   761 E C0042241:DIAPHRAGM [Medical Device]
+   761 E C1279038:Diaphragm [Body Part, Organ, or Organ Component]
+   761 E C1705367:Diaphragm [Medical Device]
+   750 E C0086045:mindfulness [Mental Process]
+   750 E C3542996:Mindfulness [Mental Process]
+
+Phrase: ":"
+
+Phrase: "results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1274040:Result [Functional Concept]
+   966   C1546471:Result [Idea or Concept]
+   966   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "recommendations from an international conference."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0034866:recommendations [Idea or Concept]
+Processing 00000000.tx.26: Journal of Intellectual Disability Research, 41, 76-80.[Medline]  Authors' reply C. 
+
+Phrase: "Journal of Intellectual Disability Research,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "41,"
+
+Phrase: "76-80."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]  Authors' reply C."
+Processing 00000000.tx.27: Holmes Memory Assessment and Research Centre, West Hampshire NHS Trust, Moorgreen Hospital, Botley Road, West End, Southampton SO 30 3JB, UK EDITED BY KHALIDA ISMAIL I thank Dr Shamas-Ud-Din for showing interest in my paper and would have to concur with the general criticism that Down's syndrome should have been mentioned. 
+
+Phrase: "Holmes Memory Assessment"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C0439045:Memory assessment [Finding]
+   827   C1261322:Assessment [Health Care Activity]
+   827   C1516048:Assessment [Activity]
+
+Phrase: "and"
+
+Phrase: "Research Centre,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0683939:research center [Manufactured Object,Organization]
+   861   C0205099:Center [Spatial Concept]
+
+Phrase: "West Hampshire NHS Trust,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C1273810:NHS Trust [Health Care Related Organization]
+   812   C0237935:Trust [Individual Behavior]
+   812   C3245466:trust [Idea or Concept]
+
+Phrase: "Moorgreen Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   861   C1510665:Hospital [Qualitative Concept]
+   777 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Botley Road,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442650:Road [Manufactured Object]
+
+Phrase: "West End,"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0444930:End [Spatial Concept]
+   861   C2746065:End [Temporal Concept]
+   805 E C0205088:Terminal [Temporal Concept]
+   805 E C1705314:Terminal [Manufactured Object]
+   805 E C1705315:Terminal [Spatial Concept]
+
+Phrase: "Southampton SO 30 3JB,"
+
+Phrase: "UK EDITED BY KHALIDA ISMAIL I"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   719   C0868955:Edit [Occupational Activity]
+
+Phrase: "thank"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2986676:THANK [Gene or Genome]
+
+Phrase: "Dr Shamas-Ud-Din for showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1334631:DIN [Neoplastic Process]
+
+Phrase: "interest in my paper"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0024552:MY [Geographic Area]
+   770   C0030351:Paper [Manufactured Object]
+   770   C0543488:Interest [Mental Process]
+   770   C1547566:Paper [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "would"
+
+Phrase: "have"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "concur with the general criticism"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0205246:General [Spatial Concept]
+   760   C0870379:criticism [Social Behavior]
+   760   C1553889:General [Idea or Concept]
+
+Phrase: "that Down's syndrome"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+
+Phrase: "should"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "mentioned."
+Processing 00000000.tx.28: I would like to say, in my defence, that the article was written within the remit of advances in old age psychiatry. 
+
+Phrase: "I"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0021966:I- [Inorganic Chemical]
+  1000   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "would like"
+
+Phrase: "to say,"
+
+Phrase: "in my defence,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1880266:Defense [Conceptual Entity]
+
+Phrase: "that"
+
+Phrase: "the article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "was"
+
+Phrase: "written within the"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   756   C0043266:write [Occupation or Discipline]
+   756   C1576875:Write [Finding]
+   756   C2584304:Write [Mental Process]
+
+Phrase: "remit of advances"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0439600:remit [Temporal Concept]
+   756   C0725066:Advance [Medical Device]
+
+Phrase: "in old age psychiatry."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+Processing 00000000.tx.29: A large number of old age psychiatric services see patients with Alzheimer's disease regardless of their age of onset and hence there was a need to cover some of the aspects of the genetics of early-onset Alzheimer's disease. 
+
+Phrase: "A large number of old age psychiatric services"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0237753:*Number [Quantitative Concept]
+   744   C0449788:Number [Quantitative Concept]
+
+Phrase: "see"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042789:see [Organism Function]
+  1000   C1947903:See [Activity]
+
+Phrase: "patients with Alzheimer's disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "regardless of their age"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001779:Age [Organism Attribute]
+
+Phrase: "of onset"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332162:Onset [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "hence there"
+
+Phrase: "was"
+
+Phrase: "a need to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0027552:Need [Qualitative Concept]
+   861   C0686904:need [Functional Concept]
+
+Phrase: "cover"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0180153:cover [Medical Device]
+  1000   C1707529:Cover [Medical Device]
+  1000   C1999244:Cover [Functional Concept]
+
+Phrase: "some of the aspects of the genetics of early-onset Alzheimer's disease."
+Meta Candidates (Total=17; Excluded=0; Pruned=0; Remaining=17)
+   790   C0750901:Alzheimer Disease, Early Onset [Disease or Syndrome]
+   766   C0814120:early disease onset [Disease or Syndrome]
+   753   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   753   C1521724:Alzheimer's Disease [Pathologic Function]
+   753   C1833334:Early-onset [Finding]
+   751   C0019247:genetics disease [Disease or Syndrome]
+   751   C0277793:disease onset [Temporal Concept]
+   751   C0679245:early disease [Temporal Concept]
+   736   C0012634:Disease [Disease or Syndrome]
+   736   C0017398:Genetics [Biomedical Occupation or Discipline]
+   736   C0017399:genetics [Biologic Function]
+   736   C0205392:Some [Quantitative Concept]
+   736   C0332162:Onset [Qualitative Concept]
+   736   C1279919:Early [Temporal Concept]
+   736   C3540770:Some [Intellectual Product]
+   703   C1547011:Aspect [Quantitative Concept]
+   703   C1879746:Aspect [Qualitative Concept]
+Processing 00000000.tx.30: However, I am unaware of any old age psychiatric service within the UK that routinely sees patients with Down's syndrome and Alzheimer's disease. 
+
+Phrase: "However,"
+
+Phrase: "I"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0021966:I- [Inorganic Chemical]
+  1000   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "am"
+
+Phrase: "unaware of any old age psychiatric service"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0150114:UNAWARE [Research Activity]
+
+Phrase: "within the UK"
+
+Phrase: "that routinely"
+
+Phrase: "sees"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042789:see [Organism Function]
+  1000   C1947903:See [Activity]
+
+Phrase: "patients with Down's syndrome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.31: This defence does not, however, excuse a restricted view that is damaging both to patient management and basic research. 
+
+Phrase: "This defence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1880266:Defense [Conceptual Entity]
+
+Phrase: "does"
+
+Phrase: "not,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "however,"
+
+Phrase: "excuse"
+
+Phrase: "a restricted view"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0449911:View [Spatial Concept]
+
+Phrase: "that"
+
+Phrase: "is"
+
+Phrase: "damaging"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0010957:Damage [Injury or Poisoning]
+   966   C1883709:Damage [Functional Concept]
+
+Phrase: "both to patient management"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   770   C0001554:Management [Occupational Activity]
+   770   C0030705:*^patient [Patient or Disabled Group]
+   770   C0238767:Both [Spatial Concept]
+   770   C0376636:management [Health Care Activity]
+   770   C1273870:Management [Occupational Activity]
+   770   C1706086:Both [Qualitative Concept]
+   770   C3273539:Management [Occupation or Discipline]
+
+Phrase: "and"
+
+Phrase: "basic research."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0681833:Basic Research [Research Activity]
+   861   C0035168:research [Research Activity]
+   861   C0242481:Research [Research Activity]
+Processing 00000000.tx.32: Clearly, no patient should be excluded from expert dementia services because of their learning disability. 
+
+Phrase: "Clearly,"
+
+Phrase: "no patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "should"
+
+Phrase: "be"
+
+Phrase: "excluded from expert dementia services"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   760   C0011265:dementia [Mental or Behavioral Dysfunction]
+   760   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   760   C0557854:Services [Occupational Activity]
+   760   C1554077:Excluded [Idea or Concept]
+   760   C2828389:Excluded [Activity]
+   726 E C0332196:Exclude [Functional Concept]
+   726 E C2825316:Service [Manufactured Object]
+   726 E C3245478:service [Idea or Concept]
+
+Phrase: "because of their learning disability."
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0751265:Learning disability [Mental or Behavioral Dysfunction]
+  1000   C1321592:Learning disability [Biomedical Occupation or Discipline]
+   861   C0013621:learning [Educational Activity]
+   861   C0023185:Learning [Mental Process]
+   861   C0231170:Disability [Finding]
+   789 E C0018576:Disabled [Patient or Disabled Group]
+   789 E C1880351:Disabled [Qualitative Concept]
+Processing 00000000.tx.33: In addition, there is much to learn about the genetic influences on the development of Alzheimer's disease in patients with Down's syndrome and on its clinical phenotype. 
+
+Phrase: "In addition,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883712:Addition [Functional Concept]
+   928 E C1524062:Additional [Functional Concept]
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "much to"
+
+Phrase: "learn about the genetic influences"
+Meta Candidates (Total=10; Excluded=7; Pruned=0; Remaining=3)
+   760   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   760   C0023185:learn [Mental Process]
+   760   C0314603:Genetic [Functional Concept]
+   704 E C0005615:Birth [Organism Function]
+   704 E C0035150:Reproduction [Organism Function]
+   704 E C0079946:origin [Classification]
+   704 E C0439659:Origin [Temporal Concept]
+   704 E C1550512:origin [Intellectual Product]
+   704 E C1550722:birth [Idea or Concept]
+   704 E C3245487:birth [Intellectual Product]
+
+Phrase: "on the development"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0243107:development [Physiologic Function]
+  1000   C0678723:Development [Organism Function]
+  1000   C1527148:Development [Functional Concept]
+   928 E C0458003:Developmental [Qualitative Concept]
+
+Phrase: "of Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "in patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with Down's syndrome"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+
+Phrase: "and on its clinical phenotype."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0031437:Phenotype [Organism Attribute]
+   760   C0205210:Clinical [Qualitative Concept]
+   760   C1285572:Phenotype [Laboratory Procedure]
+   760   C1515981:And [Idea or Concept]
+Processing 00000000.tx.34: Thus, as well as the effects of triplication of the amyloid precursor gene, the presence of the APOE4 allele also appears to be associated with an increased risk of developing Alzheimer's disease (Deb et al, 2000). 
+
+Phrase: "Thus,"
+
+Phrase: "as well as"
+
+Phrase: "the effects of triplication of the amyloid precursor gene,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   742   C1280500:effects [Qualitative Concept]
+   708 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "the presence of the APOE4 allele also"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0392148:Presence [Therapeutic or Preventive Procedure]
+
+Phrase: "appears"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "associated with an increased risk of developing Alzheimer's disease"
+Meta Candidates (Total=13; Excluded=2; Pruned=0; Remaining=11)
+   764   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   764   C0332281:Associated with [Qualitative Concept]
+           Associated
+   764   C1521724:Alzheimer's Disease [Pathologic Function]
+   762   C0243083:associated disease [Pathologic Function]
+   762   C1281905:disease risk [Finding]
+   742   C0012634:Disease [Disease or Syndrome]
+   742   C0035647:Risk [Qualitative Concept]
+   742   C0205217:Increased [Quantitative Concept]
+   742   C0442805:Increased [Functional Concept]
+   715   C0277564:Acquired disease [Disease or Syndrome]
+   708 E C0750490:Associate [Idea or Concept]
+   708 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "(Deb et al,"
+
+Phrase: "2000"
+
+Phrase: ")."
+Processing 00000000.tx.35: The effect of the presence of the APOE4 allele on age of onset is still unclear but, unlike in those with no learning disability, the presence of APOE4 appears to be associated with an earlier age of death (Hardy et al, 1994). 
+
+Phrase: "The effect of the presence of the APOE4 allele"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C1280500:Effect [Qualitative Concept]
+   742   C2348382:Effect [Qualitative Concept]
+
+Phrase: "on age"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001779:Age [Organism Attribute]
+
+Phrase: "of onset"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332162:Onset [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "still unclear"
+
+Phrase: "but"
+
+Phrase: ","
+
+Phrase: "unlike"
+
+Phrase: "in those with no learning disability,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   901   C0751265:Learning disability [Mental or Behavioral Dysfunction]
+   901   C1321592:Learning disability [Biomedical Occupation or Discipline]
+   827   C0013621:learning [Educational Activity]
+   827   C0023185:Learning [Mental Process]
+   827   C0231170:Disability [Finding]
+   755 E C0018576:Disabled [Patient or Disabled Group]
+   755 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: "the presence of APOE4"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0392148:Presence [Therapeutic or Preventive Procedure]
+
+Phrase: "appears"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "associated with an earlier age of death"
+Meta Candidates (Total=10; Excluded=2; Pruned=0; Remaining=8)
+   778   C0332281:Associated with [Qualitative Concept]
+           Associated
+   774   C0742983:age death [Finding]
+   757   C1836407:Early death [Finding]
+   748   C0001779:Age [Organism Attribute]
+   748   C0011065:Death [Organism Function]
+   748   C1306577:Death, NOS [Finding]
+   714 E C0750490:Associate [Idea or Concept]
+   714   C1279919:Early [Temporal Concept]
+   714 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "(Hardy et al,"
+
+Phrase: "1994"
+
+Phrase: ")."
+Processing 00000000.tx.36: At post-mortem the brain lesions and cholinergic losses seen in individuals with Down's syndrome are the same as those seen in both early- and late-onset Alzheimer's disease. 
+
+Phrase: "At post-mortem"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0004398:postmortem [Diagnostic Procedure]
+  1000   C0580205:Postmortem [Temporal Concept]
+  1000   C0848632:post mortem [Finding]
+   861   C0687676:Post [Temporal Concept]
+   861   C1704687:Post [Manufactured Object]
+   789 E C1514253:Postal [Functional Concept]
+
+Phrase: "the brain lesions"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0221505:brain lesions [Disease or Syndrome]
+   861   C0006104:Brain [Body Part, Organ, or Organ Component]
+   861   C0221198:lesions [Finding]
+   861   C1269537:Brain [Body Part, Organ, or Organ Component]
+   827 E C1546698:Lesion [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "cholinergic losses"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1517945:Loss [Quantitative Concept]
+
+Phrase: "seen in individuals"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   790   C0205397:Seen [Qualitative Concept]
+   756   C0027361:Individual [Population Group]
+   756 E C0042789:see [Organism Function]
+   756   C0237401:Individual [Human]
+   756 E C1947903:See [Activity]
+
+Phrase: "with Down's syndrome"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+
+Phrase: "are"
+
+Phrase: "the same as those"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   833   C1278655:SAME AS [Classification]
+   770   C0445247:Same [Qualitative Concept]
+
+Phrase: "seen in both early-"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   770   C0205397:Seen [Qualitative Concept]
+   770   C1279919:Early [Temporal Concept]
+   737 E C0042789:see [Organism Function]
+   737 E C1947903:See [Activity]
+
+Phrase: "and"
+
+Phrase: "late-onset Alzheimer's disease."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0494463:Alzheimer Disease, Late Onset [Mental or Behavioral Dysfunction]
+   861   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   861   C1521724:Alzheimer's Disease [Pathologic Function]
+   812   C0012634:Disease [Disease or Syndrome]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.37: However, despite these neuropathological findings, the evidence for the beneficial effects of cholinesterase inhibitors in patients with Down's syndrome and Alzheimer's disease is still largely anecdotal (Kishani et al, 1999). 
+
+Phrase: "However,"
+
+Phrase: "despite these neuropathological findings,"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+
+Phrase: "the evidence for the beneficial effects of cholinesterase inhibitors"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   762   C0332120:Evidence of [Functional Concept]
+           Evidence
+
+Phrase: "in patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with Down's syndrome"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "still largely anecdotal"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   755   C0002867:Anecdotes [Intellectual Product]
+
+Phrase: "(Kishani et al,"
+
+Phrase: "1999"
+
+Phrase: ")."
+Processing 00000000.tx.38: It is clear that the two specialities, old age psychiatry and learning disabilities, have much to learn from each other. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "clear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "the two specialities,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   777   C0205555:Special [Qualitative Concept]
+
+Phrase: "old age psychiatry"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+
+Phrase: "and"
+
+Phrase: "learning disabilities,"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0751265:Learning Disabilities [Mental or Behavioral Dysfunction]
+   966 E C1321592:Learning disability [Biomedical Occupation or Discipline]
+   861   C0013621:learning [Educational Activity]
+   861   C0023185:Learning [Mental Process]
+   861   C0231170:Disabilities [Finding]
+   777 E C0018576:Disabled [Patient or Disabled Group]
+   777 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "much to"
+
+Phrase: "learn from each other."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0023185:learn [Mental Process]
+Processing 00000000.tx.39: REFERENCES Deb, S., Braganza, J., Norton, N., et al (2000) APOE4 influences the manifestations of Alzheimer's disease in adults with Down's syndrome. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Deb,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0059541:DEB [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Braganza,"
+
+Phrase: "J.,"
+
+Phrase: "Norton,"
+
+Phrase: "N.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+
+Phrase: "et al (2000"
+
+Phrase: ")"
+
+Phrase: "APOE4"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0052201:ApoE4 [Amino Acid, Peptide, or Protein]
+  1000   C2984964:APOE4 [Laboratory Procedure]
+
+Phrase: "influences"
+
+Phrase: "the manifestations of Alzheimer's disease"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C1280464:Manifestation of [Qualitative Concept]
+           manifestations
+   760   C0205319:manifestations [Functional Concept]
+
+Phrase: "in adults"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0001675:Adults [Age Group]
+   966 E C1706450:Adult [Human]
+
+Phrase: "with Down's syndrome."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+Processing 00000000.tx.40: British Journal of Psychiatry, 176, 468-472.[Abstract/Free FullText] Hardy, J., Crook, R., Perry, R., et al (1994) Apo E genotype and Down's syndrome. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "176,"
+
+Phrase: "468-472."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Hardy,"
+
+Phrase: "J.,"
+
+Phrase: "Crook,"
+
+Phrase: "R.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+
+Phrase: "Perry,"
+
+Phrase: "R.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+
+Phrase: "et al (1994"
+
+Phrase: ")"
+
+Phrase: "Apo E genotype"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0017431:Genotype [Organism Attribute]
+   734   C0003595:Apo-E [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   734   C0523511:APOE [Laboratory Procedure]
+   734   C1412481:APOE [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "Down's syndrome."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0013080:Down Syndrome [Congenital Abnormality,Disease or Syndrome]
+   861   C0039082:Syndrome [Disease or Syndrome]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   805   C2626739:Lanugo [Eukaryote]
+Processing 00000000.tx.41: Lancet, 343, 979-980.[Medline] Kishani, P., Sullivan, J., Walter, B., et al (1999) Cholinergic therapy for Down's syndrome (letter). 
+
+Phrase: "Lancet,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0777169:Lancet [Medical Device]
+
+Phrase: "343,"
+
+Phrase: "979-980."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Kishani,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Sullivan,"
+
+Phrase: "J.,"
+
+Phrase: "Walter,"
+
+Phrase: "B.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+
+Phrase: "et al (1999"
+
+Phrase: ")"
+
+Phrase: "Cholinergic therapy for Down's syndrome"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0039798:therapy [Functional Concept]
+   760   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   760   C1363945:Therapy [Finding]
+
+Phrase: "(letter"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C1096774:Letter [Intellectual Product]
+  1000   C2360551:Letter [Clinical Attribute]
+   944 E C0079691:Levothyroxine Sodium [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   916 E C0282413:letters [Intellectual Product]
+   916 E C0728762:Synthroid [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: ")."
+Processing 00000000.tx.42: Lancet, 353, 1064-1065.[CrossRef][Medline] This Article Submit a response Alert me when this article is cited Alert me when eLetters are posted Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in PubMed Alert me to new issues of the journal Download to citation manager Google Scholar Articles by Shamas-Ud-Din, S. 
+
+Phrase: "Lancet,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0777169:Lancet [Medical Device]
+
+Phrase: "353,"
+
+Phrase: "1064-1065."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "This Article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "Submit"
+
+Phrase: "a response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "eLetters"
+
+Phrase: "are"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal Download"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0162443:Journal [Intellectual Product,Manufactured Object]
+   744   C0205314:New [Temporal Concept]
+   711   C0033213:Issue [Finding]
+   711   C1706387:Issue [Intellectual Product]
+
+Phrase: "to citation manager Google Scholar Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   771   C1706852:Article [Intellectual Product]
+
+Phrase: "by Shamas-Ud-Din,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1334631:DIN [Neoplastic Process]
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.43: Articles by Holmes, C. 
+
+Phrase: "Articles by Holmes,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "C."
+Processing 00000000.tx.44: Articles citing this Article PubMed PubMed Citation Articles by Shamas-Ud-Din, S. 
+
+Phrase: "Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1706852:Article [Intellectual Product]
+
+Phrase: "citing"
+
+Phrase: "this Article PubMed PubMed Citation Articles by Shamas-Ud-Din,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.45: Articles by Holmes, C. 
+
+Phrase: "Articles by Holmes,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "C."
+Processing 00000000.tx.46: HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin Advances in Psychiatric Treatment All RCPsych Journals
+
+Phrase: "HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   738   C0039224:Table [Manufactured Object]
+   738   C1706073:Table [Medical Device]
+   738   C1706074:Table [Intellectual Product]
+
+Phrase: "Advances in Psychiatric Treatment"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   833   C0204523:psychiatric treatment [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0205487:Psychiatric [Functional Concept]
+   770   C0725066:Advance [Medical Device]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "All RCPsych Journals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0162443:journals [Intellectual Product,Manufactured Object]
+

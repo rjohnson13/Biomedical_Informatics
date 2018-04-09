@@ -1,0 +1,827 @@
+
+
+Proximodistal domain specification and interactions in developing Drosophila appendages
+
+
+
+P. D. Si Dong, 
+Jessie Chu and 
+Grace Panganiban*
+
+
+
+
+Department of Anatomy, University of Wisconsin, Madison, WI 53706, USA
+
+
+
+
+*Author for correspondence (e-mail: gepangan{at}facstaff.wisc.edu)
+
+
+
+
+
+Accepted April  9, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+The morphological diversification of appendages represents a crucial aspect of animal body plan evolution. The arthropod antenna and leg are homologous appendages, thought to have arisen via duplication and divergence of an ancestral structure (Snodgrass, R. (1935) Book Principles of Insect Morphology. New York: McGraw-Hill). To gain insight into how variations between the antenna and the leg may have arisen, we have compared the epistatic relationships among three major proximodistal patterning genes, Distal-less, dachshund and homothorax, in the antenna and leg of the insect arthropod Drosophila melanogaster. We find that Drosophila appendages are subdivided into different proximodistal domains specified by specific genes, and that limb-specific interactions between genes and the functions of these genes are crucial for antenna-leg differences. In particular, in the leg, but not in the antenna, mutually antagonistic interactions exist between the proximal and medial domains, as well as between medial and distal domains. The lack of such antagonism in the antenna leads to extensive coexpression of Distal-less and homothorax, which in turn is essential for differentiation of antennal morphology. Furthermore, we report that a fundamental difference between the two appendages is the presence in the leg and absence in the antenna of a functional medial domain specified by dachshund. Our results lead us to propose that the acquisition of particular proximodistal subdomains and the evolution of their interactions has been essential for the diversification of limb morphology. 
+
+
+
+
+
+
+
+Key words: Distal-less, homothorax, dachshund, teashirt, decapentaplegic, wingless, hedgehog, Antenna, Leg, Limb, Drosophila
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Tremendous morphological diversity exists among animal appendages, both between species and within a single organism. Such variations facilitate the many functions of appendages, such as sensing their environments, swimming, feeding, crawling, walking and flying. The Drosophila antenna, for example, has both auditory and olfactory functions, while the leg is used primarily for locomotion. Nonetheless, loss-of-function mutations in a variety of Drosophila genes lead to antenna to leg or leg to antenna transformations (Balkaschina, 1929; Struhl, 1981; Struhl, 1982; Sunkel and Whittle, 1987; Casares and Mann, 1998; Pai et al., 1998), supporting the idea that the antenna and leg are homologous structures. To elucidate the types of genetic changes that underlie morphological diversification of appendages, we are investigating the hierarchies involved in subdividing the proximodistal (PD) axes of the antenna and the leg, and asking at what levels the differences are manifested. 
+
+
+
+In the primordia of both Drosophila antenna and leg, gradients of secreted factors encoded by decapentaplegic (dpp) and wingless (wg) regulate formation of the PD axes. dpp and wg are activated similarly by Hedgehog, possess similar relative expression patterns and exhibit similar mutual antagonism in both appendage primordia (Diaz-Benjumea et al., 1994; Brook and Cohen, 1996; Jiang and Struhl, 1996; Morimura et al., 1996; Penton and Hoffmann, 1996; Theisen et al., 1996; Lecuit and Cohen, 1997). It therefore has been thought that the PD axes of the antenna and leg are similarly constructed. Indeed, until now their primordia have been used interchangeably to examine PD development (e.g. Diaz-Benjumea et al., 1994; Lecuit and Cohen, 1997). 
+
+
+
+Nonetheless, as we report here, crucial differences between the antenna and leg exist at the level of three genes, Distal-less (Dll), dachshund (dac) and homothorax (hth), that are regulated by Dpp and Wg in the developing leg. Some of these differences are due to differential regulation by Hox genes such as Antennapedia (Antp) (Casares and Mann, 1998). However, the fact that a variety of mutations, including those in Dll and hth, can transform the antenna towards leg without activating Antp or other trunk Hox genes (Casares and Mann, 1998; R. Bolinger, personal communication) indicates that the presence or absence of Hox alone is insufficient to explain the morphological differences between the antenna and the leg. Furthermore, although Dpp and Wg are similarly expressed between the Drosophila antenna and leg, differences in the expression of Dpp in the appendages of other arthropods (Jockusch et al., 2000; Niwa et al., 2000) indicate that the function of Dpp in PD axis formation is not universal. 
+
+
+
+In contrast, the expression patterns of Dll, dac and hth are more highly conserved among arthropod legs (Abzhanov and Kaufman, 2000), and even between arthropod and vertebrate appendages (Beauchemin and Savard, 1992; Dolle et al., 1992; Bulfone et al., 1993; Akimenko et al., 1994; Diaz-Benjumea et al., 1994; Mardon et al., 1994; Panganiban et al., 1994; Panganiban et al., 1995; Panganiban et al., 1997; Simeone et al., 1994; Ferrari et al., 1995; Capdevila et al., 1999; Caubit et al., 1999; Davis et al., 1999; Mercader et al., 1999; Wu and Cohen, 1999). We therefore decided to investigate whether alterations in the expression patterns and/or inter-relationships of these three patterning genes could account for any of the morphological differences between the Drosophila antenna and leg. 
+
+
+
+Dll, dac and hth are required to specify the distal, medial and proximal domains, respectively, of the Drosophila antenna and/or leg. Dll encodes a homeodomain transcription factor (Cohen et al., 1989) required for the patterning of the distal portions of the leg and antenna (Sato, 1984; Sunkel and Whittle, 1987; Cohen and Jurgens, 1989; Gorfinkiel et al., 1997; Campbell and Tomlinson, 1998; Dong et al., 2000; Beermann et al., 2001; reviewed in Panganiban, 2000). Loss of Dll function results in truncations of distal parts of these appendages. dac encodes a novel nuclear protein required for the patterning of the medial leg. dac mutant legs exhibit deletions in the femur, tibia and proximal tarsal segments (Mardon et al., 1994). hth and extradenticle (exd) encode TALE class homeodomain proteins required to pattern the proximal leg and antenna (Rauskolb et al., 1993; Gonzalez-Crespo and Morata, 1995; Rauskolb et al., 1995; Gonzalez-Crespo and Morata, 1996; Aspland and White, 1997; Rieckhof et al., 1997; Abu-Shaar and Mann, 1998; Pai et al., 1998). Hth binds to Exd and promotes its nuclear localization (Rieckhof et al., 1997; Kurant et al., 1998; Pai et al., 1998; Abu-Shaar et al., 1999; Jaw et al., 2000). Nuclear Exd (n-Exd) functions as a co-factor for Hox proteins (reviewed by Mann and Chan, 1996). Vertebrate homologs of Hth, the Meis and Prep-1 proteins, are similarly required for nuclear localization of vertebrate Exd homologs, the Pbx proteins (Berthelsen et al., 1999; Saleh et al., 2000). A third proximally expressed gene, teashirt (tsh) represses dac in the developing leg (Erkner et al., 1999). In addition, Dll, exd and hth play roles in specifying antennal identity (Sato, 1984; Sunkel and Whittle, 1987; Cohen and Jurgens, 1989; Gonzalez-Crespo and Morata, 1995; Casares and Mann, 1998; Pai et al., 1998; Dong et al., 2000). We now demonstrate that both the relative expression patterns and interactions among these genes vary between antenna and leg and that the differences contribute to differences in the morphologies of the two appendages. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+The following fly strains were used: (1) dpp-GAL4 (A.3)/TM6B (Morimura et al., 1996); (2) act&gt;CD2&gt;GAL4 (=actin promoter-FRT-CD2-FRT-GAL4) (Pignoni and Zipursky, 1997); (3) UAS-nls-GFP; act&gt;CD2&gt; GAL4; (4) y hs-FLPase; 2piM FRT40A; (5) y hs-FLPase; FRT43D 2piM; (6) y hs-FLPase; FRT82B 2piM; (7) w; dac4 FRT40A (Graeme Mardon); (8) w; FRT43D DllSA1 (Dong et al., 2000); (9) Dll1/CyO, wg-lacZ; (10) Dll3/CyO, wg-lacZ; (11) w; FRT82B hthP2 (Pai et al., 1998); (12) w; UAS-dac; (13) w; UAS-Dll/In(2LR)Gla, Gla Bc Elp (Konrad Basler); (14) y hs-FLPase; UAS-hth8/TM6B, Tb Hu; (15) w; UAS-GFP-hth8/TM6B, Tb Hu (Casares and Mann, 1998); and (16) y hs-FLPase; UAS-tsh. 
+
+
+
+Generation of hypomorphs, null clones, flipout clones and discs that ectopically express Dll, dac, hth or tsh was carried out as described (Dong et al., 2000). Antibody staining and immunohistochemistry were carried out as described (Halder et al., 1998). Antibodies used were rabbit anti-Hth (Pai et al., 1998), rabbit anti-Dll (Panganiban et al., 1995), mouse anti-Dll (Vachon et al., 1992), and mouse anti-Dac (Mardon et al., 1994). Secondary antibodies coupled to Cy2, Cy3 and Cy5 were obtained from Jackson ImmunoResearch. Imaging was carried out on BioRad MRC1024 confocal and Zeiss Axiophot microscopes. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Differential expression of Dpp and Wg targets between the antenna and the leg
+
+
+Each segment in the Drosophila leg is considered to be homologous to part or all of a segment in the antenna (Postlethwait and Schneiderman, 1971; Fig. 1A). The correspondences are based on reproducible homeotic transformations that can occur between parts of the two limbs. Such correlation enables us to compare the expression domains of Dll, dac and hth between the antenna and the leg. We show that the relative wild-type expression of these three important PD patterning genes of the leg differs in the antenna, indicating that their PD axes are differentially subdivided. 
+
+
+
+
+
+
+
+
+
+
+View larger version (23K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. Comparison of gene expression patterns along the PD axes of wild-type leg and antennal discs. (A) Schematics of adult Drosophila antenna (top) and leg (bottom). Arrows indicate homologous domains (Postlethwait and Schneiderman, 1971). The first antennal segment (a1) is homologous to the coxa (cx) of the leg. The second antennal segment (a2) is homologous to the trochanter (tr) of the leg. The third antennal segment (a3) is homologous to the femur (fe), tibia (ti) and first tarsal segment (t1). The arista (ar) and its base (a4 and a5) are homologous to the second through fifth tarsal segments (t2-5) and the tarsal claw (cl). (B,D) Immunohistochemical labeling to visualize Dac (red) and Dll (green) protein in mature third instar antennal (B) and leg (D) discs. The overlap is yellow. The dac expression domain partially overlaps that of Dll in the leg, but lies completely within the Dll domain in the antenna. (C,E) Dac (red) and Hth (blue) protein in mature third instar antennal (C) and leg (E) discs. The overlap is pink. Dac and Hth expression are largely exclusive in the leg, but the two genes are coexpressed in the antenna. (F) Summary of late third instar antenna (top) and leg (bottom) expression patterns. The trochanter expression of Dll is not initiated until fairly late in development, during the third larval instar. Broken lines demarcate homologous segments as determined by transformation phenotypes (Postlethwait and Schneiderman, 1971).
+
+
+
+
+
+&nbsp;
+
+
+
+For example, at late third instar Dll expression extends more proximally in the antenna into regions homologous to the leg trochanter (Fig. 1B,D,F). In addition, dac is expressed at lower levels and is expressed in fewer segments in the antenna than in the leg (Fig. 1B-F). The dac expression domain in the antenna lies completely within the Dll expression domain (Fig. 1B,F). In contrast, the dac and Dll domains in the leg are exclusive when dac expression is activated (Lecuit and Cohen, 1997)and remain largely non-overlapping at late third instar (Fig. 1D,F; Lecuit and Cohen, 1997; Abu-Shaar and Mann, 1998; Yao et al., 1999). hth is expressed only proximally in the leg (Fig. 1E,F; Rieckhof et al., 1997; Casares and Mann, 1998; Pai et al., 1998), but is expressed throughout the antenna disc until early larval stages (Casares and Mann, 1998) when it is lost from distal cells (Fig. 1C,F). Because Dpp and Wg, which regulate Dll, dac and hth in the leg, are similarly expressed in the antenna, we thought it unlikely that the differences in Dll, dac and hth expression could be accounted for by variations in Dpp and Wg expression. Instead, we hypothesized that the differences were due to limb type-specific interactions between Dll, dac and hth. The results of experiments described below confirm that this is the case. 
+
+
+
+Multiple mutually antagonistic domains subdivide the leg
+
+
+Gradients of the morphogens, Wg and Dpp, initiate the PD organization of the Drosophila leg by activating Dll and repressing dac distally (Lecuit and Cohen, 1997) and by repressing hth in the distal and medial leg (Abu-Shaar and Mann, 1998). This creates three domains, distal, medial and proximal, that are specified by the expression Dll, dac and hth, respectively. The expression of dac is derepressed in clones of Dll-null cells in the presumptive distal region of the leg disc (Fig. 2A,A'). The reciprocal is observed in dac null clones, where Dll expression expands into the medial domain (Fig. 2B,B'; Abu-Shaar and Mann, 1998). Mutually repressive interactions between the distal and medial domains therefore are required to keep these domains distinct from one another. 
+
+
+
+
+
+
+
+
+
+
+View larger version (111K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. Mutual antagonism between dac and Dll in the leg. dac is derepressed in a Dll null clone (arrow in A,A'), while Dll is derepressed in a dac null clone (arrows in B,B'). Dac is in red. Dll protein is green. The overlap of Dll and Dac is yellow.
+
+
+
+
+
+&nbsp;
+
+
+
+We also have analyzed the interactions between proximal and medial domains. dac is only rarely derepressed in hth-null clones (Fig. 3A,A'; Wu and Cohen, 1999), and ectopic expression of Hth is insufficient to downregulate dac expression in the medial leg (Fig. 3B,B',C,C'). Thus, proximal-to-medial antagonism does not occur via hth. However, ectopic expression of a second proximal leg gene, tsh, can repress dac (Fig. 3D,D'), and dac expression expands proximally in tsh hypomorphic leg discs (Erkner et al., 1999). Proximal-to-medial antagonism therefore does occur in the Drosophila leg. We have not observed derepression of tsh expression in the dac-null clones (not shown), but others have reported derepression of hth in dac-null clones (Abu-Shaar and Mann, 1998). We therefore conclude that mutually antagonistic interactions between the proximal and medial domains occur via the repression of dac by Tsh and repression of hth by Dac. 
+
+
+
+
+
+
+
+
+
+
+View larger version (82K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. Tsh and not Hth, is a dac repressor in the leg. (A,A') Clonal loss of hth (green in A-C) does not lead to derepression of dac (red in all panels) in the proximal leg (arrows). Ectopic expression of Hth either in flipout clones induced late in development (B,B') or using a dpp-GAL4 driver that is active from early stages onwards (C,C') does not repress dac in the medial leg (arrows in both). In both cases, Hth was detected via a green fluorescent protein (GFP) tag. (D,D') In contrast, ectopic expression of Tsh in the medial leg represses dac (arrows). Clones of cells ectopically expressing Tsh were detected by simultaneously flipping on GFP (blue).
+
+
+
+
+
+&nbsp;
+
+
+
+Dll, dac and hth are not mutually antagonistic in the antenna
+
+
+If the antenna is homologous to the leg, one might expect to find many genetic parallels, particularly with respect to the three major PD patterning genes of the leg, Dll, dac and hth. As in the leg, Dll and hth are required to specify the distal and proximal domains of the antenna. However, dac has a different function in the antenna. No deletions of antennal segments are observed in dac-null flies (Mardon et al., 1994). In addition, the genetic relationships between Dll, dac and hth are different in the developing antenna. Specifically, the extensive overlap in expression of these three genes in the antenna indicates that domains are not kept separated as they are in the leg. The normal expression domain of dac in the antenna lies completely within an area of hth and Dll coexpression, making it unlikely that dac represses either gene. Nonetheless, because Dll and hth appear to have slightly lower levels of expression where dac is normally expressed, we tested whether either Hth or Dll levels would be elevated if we removed dac. We find no detectable changes in the levels of either Dll or Hth in clones of cells that lack Dac (Fig. 4A,A',B,B'). Therefore unlike the situation in the leg, Dac is insufficient to antagonize the expression of either Dll or hth in the antenna. Taken together, these data indicate that mutual antagonism is not a universal feature of appendage development. 
+
+
+
+
+
+
+
+
+
+
+View larger version (72K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. Dac does not antagonize either Dll or hth expression in the antenna. Both Dll (green in A,A') and Hth (green in B,B') expression are normal in dac-null clones (arrows) in the antenna. Dac is in red. (C,D) Increasing the duration, level and area of dac expression in the antenna using a dpp-GAL4 driver induces the formation of medial leg structures in the antenna. (D) A higher magnification image of the portion of the antenna boxed in C. Two bracted bristles characteristic of the medial and distal leg are indicated with arrows in D.(E) High-magnification image of the second and part of the third segments of a wild-type antenna. None of the antennal bristles normally possess bracts. (F) High-magnification image of the distal portion of the femur of a wild-type leg. Note the bracts (arrows) present at the base of each bristle.
+
+
+
+
+
+&nbsp;
+
+
+
+Previous studies have shown dac to be essential for normal development of the medial leg, including trochanter, tibia, femur and first tarsal segment (Mardon et al., 1994). Because dac also is expressed in the antenna, it was previously thought that dac is not involved in specifying leg identity. Instead, the current view is that dac functions during leg development to specify medial addresses. However, we reproducibly detected lower levels of dac in antennal discs than in leg discs (not shown) and were intrigued by the fact that only a single antennal segment (a3) expresses dac. We therefore tested the consequences of increasing the domain and level of dac expression in the antenna. We find that this leads to the differentiation of medial leg structures in 100% of antennae examined (Fig. 4C-F), indicating that dac does play a role in the specification of leg fates. 
+
+
+
+The antennal regulation of dac by Dll also differs from that of the leg. The regulation of dac by Dll in the antenna varies depending on the proximodistal location. Dll can be a dac repressor or activator, or exert no effect on dac. Dac expression is not activated in Dll-null clones in the presumptive arista (not shown), whereas Dll-null clones in the presumptive base of the arista (segments a4 and a5) exhibit non-cell-autonomous dac activation (Fig. 5B,B'), and Dll-null clones in the presumptive third antennal segment (a3), where dac is normally expressed, result in loss of dac (Fig. 5C,C'). Our data indicate that the regulation of dac by Dll in the antenna is different from that in the leg. They also indicate that the normal antennal expression of dac both requires Dll and has PD regional specificities. Because both Dll and Hth are required for antennal identity (Dong et al., 2000) and are coexpressed with dac, Hth may also be required for the antennal expression of dac. Consistent with this view, ectopic expression of either Dll in antennal cells expressing Hth or of Hth in antennal cells expressing Dll can activate dac, as can ectopic coexpression of Dll and Hth in the wing disc (not shown). Furthermore, antennal dac expression, is not efficiently repressed by ectopic Hth (Fig. 6C,C'). 
+
+
+
+
+
+
+
+
+
+
+View larger version (138K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Differential regulation of dac by Dll along the PD axis of the antenna. Dac (red in all panels) expression expands distally in a Dll1/Dll3 hypomorphic antennal disc (A,A'). Dll protein (green in all panels) still is detected in these mutants. The overlap of Dll and Dac is yellow in all panels. In the antenna, the consequences to dac expression of loss of Dll vary with the PD position of the clone (B,B',C and C'). dac expression is activated non-cell autonomously (arrowheads in B') around a Dll-null clone (arrow in B,B') in a4. By contrast, dac expression is lost in a Dll-null clone in a3 (arrowhead in C,C').
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (109K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 6. Hth regulation of dac in the antenna. (A,A',B,B') Dac expression (red in all panels) is activated in hth (green) null clones in the antenna. Dac expression is activated distally (arrow in A,A'), medially (arrowhead A,A') and proximally (arrows in B,B') in hth-null clones. (C,C') Ectopic Hth produced in flipout clones in a3 (the normal dac expression domain) either has no effect on dac expression (arrow in C,C') or weakly represses dac (arrowhead in C,C'). The overlap of Dac and Hth is yellow.
+
+
+
+
+
+&nbsp;
+
+
+
+Unlike Dll-null clones, both Dll hypomorphs and hth-null clones exhibit antenna-to-leg transformations. Examination of Dll hypomorphs and hth-null clones therefore reveals their homeotic functions. One such function may be the repression of leg dac. As described above, leg expression of dac encompasses more segments and occurs at higher levels compared with the antenna. As in Dll hypomorphic leg discs, in Dll hypomorphic antenna discs, dac expression expands distally (Fig. 5A,A'). hth-null clones exhibit derepression of dac in a1, a2 and a4 and elevation of Dac levels in a3 (Fig. 6A,A',B,B'). We therefore propose that the derepression of dac in Dll hypomorphs and in hth-null clones may represent leg-specific dac expression. Conclusive evidence for this awaits identification of dac enhancer elements and analysis of their regulatory inputs. Nonetheless, taken together, our data support the view that the regulation of leg and antennal dac expression occurs via distinct mechanisms and that the homeotic functions of Dll and hth are mediated not only through activation of antenna-specific genes such as spalt (Dong et al., 2000), but also through the active repression of leg development. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Subdivision of appendages by mutually antagonistic domains
+
+
+Gradients of the morphogens Dpp and Wg initiate the PD organization of the Drosophila leg by activating Dll and repressing dac and hth distally, and by allowing the activation of dac while repressing hth medially (Lecuit and Cohen, 1997; Abu-Shaar and Mann, 1998). This creates three domains, distal, medial and proximal that are specified respectively by expression of Dll, dac and hth. We report here that further refinement and maintenance of the borders between domains requires mutually antagonistic interactions between proximal and medial domains as well as between medial and distal domains (Fig. 7). Specifically, we find that Dll and dac are mutually repressive. Also, mutually repressive interactions between the proximal and medial domains do exist via Tsh repression of dac and Dac repression of hth. Thus, pattern formation in the leg requires mutually antagonistic interactions among all three domains in order to refine and maintain borders that initially were set up by morphogens. 
+
+
+
+
+
+
+
+
+
+
+View larger version (18K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 7. Proximal, medial and distal domains antagonize one another in the leg, but not in the antenna. Schematics of the leg and the antenna with Hth-expressing domains indicated in blue, Dac-expressing domains in red, and Dll-expressing domains in green. Mutually antagonistic interactions between proximal and medial and between medial and distal maintain domain identity in the leg. By contrast, the same genes do not antagonize the expression of one another in the antenna. This results in the overlapping expression of hth, Dll and dac, and the absence of a functional medial domain defined by dac. Our data are consistent with Dll and Hth repressing leg-specific expression of dac in the antenna and with both Dll and Hth being required for the normal antennal expression of dac in a3.
+
+
+
+
+
+&nbsp;
+
+
+
+Recent studies of wing development indicate that mutual antagonism is also required for wing patterning. Casares and Mann (Casares and Mann, 2000) reported that the proximally expressed gene, hth, antagonizes wing blade development by repressing vestigial (vg) expression in the wing hinge, while Azpiazu and Morata (Azpiazu and Morata, 2000) found that Vg excludes hth expression from the wing blade. Thus, mutually repressive interactions are required to separate domains along the proximodistal axis of both the wing and the leg. As mutual antagonism appears also to be important for PD axis formation in vertebrates (reviewed in Vogt and Duboule, 1999), we speculate that it may be a common mechanism used to refine and maintain borders of different domains in other animal appendages. We propose that control of the degree of antagonism between domains may be an important evolutionary mechanism for modulation of the relative positions of PD domains, and thus for modulation of limb morphology. 
+
+
+
+The lack of inter-domain antagonism in the Drosophila antenna
+
+
+In contrast to the situation in the Drosophila leg, Dll, dac and hth are expressed in largely overlapping patterns in the antenna. This suggested to us that there was not mutual antagonism between Dll and hth in the antenna. Furthermore, that the entire antennal expression domain of dac lies within an area of Dll and hth coexpression indicated that Dac was unlikely to repress the antennal expression of either Dll or hth. Our analysis of dac mutants confirms that Dac does not antagonize either proximal or distal development in the antenna but it does in the leg. Therefore mutual antagonism is not a universal feature of appendage development. 
+
+
+
+Interestingly, in more basal insects like the cricket, Acheta domesticus, Dll and n-Exd expression are exclusive in the antenna (Abzhanov and Kaufman, 2000). As n-Exd is normally coincident with hth expression, we infer that Dll and Hth expression are exclusive in the cricket antenna. If exclusion reflects mutual antagonism, this in turn could indicate that mutual antagonism between proximal and distal domains was lost in the antenna within the insect lineage during the course of dipteran evolution. 
+
+
+
+We note that the absence of antagonism of any single PD domain towards another leads to overlap of otherwise exclusively expressed transcription factors. This, in turn, may permit the coexpressed factors to execute additional functions. Indeed, while Hth is required for proximal patterning of both antenna and leg, and Dll is required for distal patterning of both antenna and leg, their coexpression leads to the differentiation of antenna-specific cell fates (Dong et al., 2000). Thus, expression of distinct combinations of transcription factors such as Dll, Dac and n-Exd/Hth both in specific domains along the PD axis and between appendage types is likely to activate and repress particular suites of target genes, thereby contributing to differences in their morphologies. 
+
+
+
+The ability of Dll, Dac and n-Exd/Hth to repress the expression of one another undoubtedly is context-dependent. However, the only known factor involved in context specification is the Hox protein Antp. In the presence of Antp in the antenna, Dll and Hth are no longer coexpressed (Casares and Mann, 1998). Conversely, when Antp is removed from the leg, hth is derepressed in cells expressing Dll (Dong et al., 2000). Thus Antp appears to play a role in some aspects of domain antagonism. It remains unclear whether Antp directly modulates interactions among Dll, Dac and n-Exd/Hth or whether there are other molecules that intervene. We have tested the possibility that spineless (ss), which is essential for multiple aspects of antennal differentiation (Struhl, 1982; Burgess and Duncan, 1990; Duncan et al., 1998), might be involved in context specification. However, we observe no changes in Dll, dac or hth expression in ss-null antennal discs (P. D. S. D. and G. P., unpublished). This indicates that Ss does not contribute to the differential interactions among Dll, dac and hth in the antenna versus the leg. 
+
+
+
+The evolution of domains in appendages
+
+
+n-Exd/hth and Dll, and their homologs are expressed respectively in the proximal and distal domains in the appendages of animals as diverse as arthropods and vertebrates, and are required for the proximal and distal development in many Drosophila appendages (Sato, 1984; Sunkel and Whittle, 1987; Cohen and Jurgens, 1989, Rieckhof et al., 1997; Pai et al., 1998; Gorfinkiel et al., 1999; reviewed in Panganiban, 2000). We therefore suggest that the existence of both proximal and distal domains in appendages pre-dates the evolution of the arthropods. However, with the available information, we cannot say whether these domains in the ancestral appendage were distinct, as they are in the modern Drosophila leg, or overlapping, as they are in the Drosophila antenna. We speculate that n-Exd and hth, and their vertebrate homologs, the Pbx and Meis genes were ancestrally expressed in the body wall as they are in modern animals (Gonzalez-Crespo et al., 1998) and that as limbs evolved, they were originally expressed throughout the entire outgrowth. Subsequent antagonism by distal factors such as Dll could have allowed for the evolution of additional domains within different appendages. 
+
+
+
+Our comparison of the Drosophila antenna and leg leads us to conclude that a fundamental difference between these homologous appendages is the presence of a functional medial domain in the leg, specified by dac. The antenna has fewer segments, with dac expressed at relatively low levels and in only one of the segments, whereas dac is expressed in at least four leg segments. Loss of dac results in medial deletions in the leg but not in the antenna. Repression of proximal and distal genes by dac is not observed in the antenna, as it is in the leg. Consequently, the antennal expression of n-Exd/hth and Dll are not separated in the antenna by a medial domain that expresses dac. For these reasons, we propose that the acquisition of a medial domain, possibly through the use of dac, may have been a distinct step in appendage evolution. Consistent with this, increasing the territory and levels of dac expression in the antenna leads to repression of hth and Dll (not shown) and to the differentiation of medial leg structures. 
+
+
+
+We can envision two scenarios by which the existing Drosophila domain organizations may have arisen, given primitive appendages that had only proximal and distal domains. One possibility is that the medial domains were initially acquired by both the antenna and leg, but lost from the antenna sometime prior to the evolution of Drosophila. A second possibility is that the medial domain was an innovation of only the leg and may never have existed in the antenna. The expression of dac in the legs and its absence in the antennae of other arthropods (Abzhanov and Kaufman, 2000) may provide support for the latter scenario. Comparison of the relative domains of expression and the functions of Dll, dac and hth in other organisms will undoubtedly lead to further insights into how distinct PD domains were acquired and became patterned during the course of appendage evolution. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We are grateful to Reese Bolinger for helpful discussions and to Sean Carroll, John Fallon, Georg Halder and Allen Laughon for comments on the manuscript. We thank Sean Carroll for access to his confocal microscope, Richard Mann, Konrad Basler, Henry Sun, Graeme Mardon and the Bloomington Drosophila Stock Center for many of the Drosophila lines used in these experiments, and Adi Salzberg and the University of Iowa Developmental Studies Hybridoma Bank for antibodies. P. D. S. D. and J. C. were supported by NIH Predoctoral Training Grant #T32-HD07477. G. P. is the recipient of a Young Investigator Award in Molecular Studies of Evolution from the Sloan Foundation and the National Science Foundation. This work was supported in part by NIH grant #GM59871-01A1 to G. P. 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Abu-Shaar, M. and Mann, R. S. (1998). Generation of multiple antagonistic domains along the proximodistal axis during Drosophila leg development. Development. 126, 3821-3830.
+
+
+
+Abu-Shaar, M., Ryoo, H. D. and Mann, R. S. (1999). Control of nuclear localization of Extradenticle by competing nuclear import and export signals. Genes Dev. 13, 935-945.[Abstract/Free Full&nbsp;Text]
+
+
+
+Abzhanov, A. and Kaufman, T. C. (2000). Homologs of Drosophila appendage genes in the patterning of arthropod limbs. Dev. Biol. 227, 673-689.[Medline]
+
+
+
+Akimenko, M.-A., Ekker, M., Wegner, J., Lin, W. and Westerfield, M. (1994). Combinatorial expression of three zebrafish genes related to Distal-less: part of a homeobox gene code for the head. J. Neurosci. 14, 3475-3486.[Abstract]
+
+
+
+Aspland, S. E. and White, R. A. (1997). Nucleocytoplasmic localisation of extradenticle protein is spatially regulated throughout development in Drosophila. Development 124, 741-747.[Abstract/Free Full&nbsp;Text]
+
+
+
+Azpiazu, N. and Morata, G. (2000). Function and regulation of homothorax in the wing imaginal disc of Drosophila. Development 127, 2685-2693.[Abstract/Free Full&nbsp;Text]
+
+
+
+Balkaschina, E. J. (1929). Ein Fall der Erbhomoeosis (die Genovariation Aristapedia) bei Drosophila melanogaster. Rouxs Arch. Entwicklungsmechanik Organisation 115, 448-463.
+
+
+
+Beauchemin, M. and Savard, P. (1992). Two Distal-less related homeobox-containing genes expressed in regeneration blastemas of the newt. Dev. Biol. 154, 55-65.[Medline]
+
+
+
+Beermann, A., Jay, D., Beeman, R., Hulskamp, M., Tautz, D. and Jurgens, G. (2001). The Short antennae gene of Tribolium is required for limb development and encodes the orthologue of the Drosophila Distal-less protein. Development 128, 287-297.[Abstract/Free Full&nbsp;Text]
+
+
+
+Berthelsen, J., Kilstrup-Nielsen, C., Blasi, F., Mavilio, F. and Zappavigna, V. (1999). The subcellular localization of PBX1 and EXD proteins depends on nuclear import and export signals and is modulated by association with PREP1 and HTH. Genes Dev. 13, 946-953.[Abstract/Free Full&nbsp;Text]
+
+
+
+Brook, W. J. and Cohen, S. M. (1996). Antagonistic interactions between wingless and decapentaplegic responsible for dorsal-ventral pattern in the Drosophila leg. Science 273, 1373-1377.[Abstract]
+
+
+
+Bulfone, A., Kim, H.-J., Puelles, L., Porteus, M. H., Grippo, J. E. and Rubenstein, J. L. R. (1993). The mouse Dlx-2 (Tes-1) gene is expressed in spatially restricted domains of the forebrain, face and limbs in midgestation mouse embryos. Mech. Dev. 40, 129-140.[Medline]
+
+
+
+Burgess, E.A. and Duncan, I. (1990). Direct control of antennal identity by the spineless-aristapedia gene of Drosophila. Mol. Gen. Genet. 221, 347-352.[Medline]
+
+
+
+Campbell, G. and Tomlinson, A. (1998). The roles of the homeobox genes aristaless and Distal-less in patterning the legs and wings of Drosophila. Development 125, 4483-4493.[Abstract/Free Full&nbsp;Text]
+
+
+
+Capdevila, J., Tsukui, T., Rodriquez-Esteban, C., Zappavigna, V. and Izpisua-Belmonte, J. (1999). Control of vertebrate limb outgrowth by the proximal factor Meis2 and distal antagonism of BMPs by Gremlin. Mol. Cell 4, 839-849.[Medline]
+
+
+
+Casares, F. and Mann, R. S. (1998). Control of antennal versus leg development in Drosophila. Nature 392, 723-726.[Medline]
+
+
+
+Casares, F. and Mann, R. S. (2000). A dual role for homothorax in inhibiting wing blade development and specifying proximal wing identities in Drosophila. Development 127, 1499-1508.[Abstract/Free Full&nbsp;Text]
+
+
+
+Caubit, X., Thangarajah, R., Theil, T., Wirth, J., Nothwang, H., Ruther, U. and Krauss, S. (1999). Mouse Dac, a novel nuclear factor with homology to Drosophila dachshund shows a dynamic expression in the neural crest, the eye, the neocortex, and the limb bud. Dev. Dyn. 214, 66-80.[Medline]
+
+
+
+Cohen, S., Bronner, M., Kuttner, F., Jurgens, G. and Jackle, H. (1989). Distal-less encodes a homeodomain protein required for limb formation in Drosophila. Nature 338, 432-434.[Medline]
+
+
+
+Cohen, S. M. and Jurgens, G. (1989). Proximal-distal pattern formation in Drosophila: cell autonomous requirement for Distal-less gene activity in limb development. EMBO J. 8, 2045-2055.
+
+
+
+Davis, R., Shen, W., Heanue, T. and Mardon, G. (1999). Mouse Dach, a homologue of Drosophila dachshund, is expressed in the developing retina, brain and limbs. Dev. Genes Evol. 209, 526-536.[Medline]
+
+
+
+Diaz-Benjumea, F., Cohen, B. and Cohen, S. M. (1994). Cell interaction between compartments establishes the proximal-distal axis of Drosophila legs. Nature 372, 175-178.[Medline]
+
+
+
+Dolle, P., Price, M. and Duboule, D. (1992). Expression of the murine Dlx-1 homeobox during facial, ocular and limb development. Differentiation 49, 93-99.[Medline]
+
+
+
+Dong, P. D. S., Chu, J. and Panganiban, G. (2000). Coexpression of the homeobox genes Distal-less and homothorax determines Drosophila antennal identity. Development 127, 209-216.[Abstract/Free Full&nbsp;Text]
+
+
+
+Duncan, D. M., Burgess, E. and Duncan, I. (1998). Control of distal antennal identity and tarsal development in Drosophila by spineless-aristapedia, a homolog of the mammalian dioxin receptor. Genes Dev. 12, 1290-1303.[Abstract/Free Full&nbsp;Text]
+
+
+
+Erkner, A., Gallet, A., Angelats, C., Fasano, L. and Kerridge, S. (1999). The role of Teashirt in proximal leg development in Drosophila: ectopic Teashirt expression reveals different cell behaviors in ventral and dorsal domains. Dev. Biol. 215, 221-232.[Medline]
+
+
+
+Ferrari, D., Sumoy, L., Gannon, J., Sun, H., Brown, A. M., Upholt, W. B. and Kosher, R. A. (1995). The expression pattern of the Distal-less homeobox-containing gene Dlx-5 in the developing chick limb bud suggests its involvement in apical ectodermal ridge activity, pattern formation, and cartilage differentiation. Mech. Dev. 52, 257-264.[Medline]
+
+
+
+Gonzalez-Crespo, S., Abu-Shaar, M., Torres, M., Martinez-A, C. and Mann, R. S. (1998). Antagonism between extradenticle function and Hedgehog signalling in the developing limb. Nature 394, 196-199.[Medline]
+
+
+
+Gonzalez-Crespo, S. and Morata, G. (1995). Control of Drosophila adult pattern by extradenticle. Development 121, 2117-2125.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gonzalez-Crespo, S. and Morata, G. (1996). Genetic evidence for the subdivision of the arthropod limb into coxopodite and telopodite. Development 122, 3921-3928.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gorfinkiel, N., Morata, G. and Guerrero, I. (1997). The homeobox gene Distal-less induces ventral appendage development in Drosophila. Genes Dev. 11, 2259-2271.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gorfinkiel, N., Sanchez, L. and Guerrero, I. (1999). Drosophila terminalia as an appendage-like structure. Mech. Dev. 868, 113-123.
+
+
+
+Halder, G., Callaerts, P., Flister, S., Walldorf, U., Kloter, U. and Gehring, W. (1998). Eyeless initiates the expression of both sine oculis and eyes absent during Drosophila compound eye development. Development 125, 2181-2191.[Abstract/Free Full&nbsp;Text]
+
+
+
+Jaw, T., You, L., Knoepfler, P., Yao, L., Pai, C., Tang, C., Chang, L., Berthelsen, J., Blasi, F., Kamps, M. et al. (2000). Direct interaction of two homeoproteins, homothorax and extradenticle, is essential for EXD nuclear localization and function. Mech. Dev. 91, 279-291.[Medline]
+
+
+
+Jiang, J. and Struhl, G. (1996). Complementary and mutually exclusive activities of decapentaplegic and wingless organize axial patterning during Drosophila leg development. Cell 86, 401-409.[Medline]
+
+
+
+Jockusch, E. L., Nulsen, C., Newfeld, S. J. and Nagy, L. M. (2000). Leg development in flies versus grasshoppers: differences in dpp expression do not lead to differences in the expression of downstream components of the leg patterning pathway. Development 127, 1617-1626.[Abstract/Free Full&nbsp;Text]
+
+
+
+Kurant, E., Pai, C. Y., Sharf, R., Halachmi, N., Sun, Y. H. and Salzberg, A. (1998). Dorsotonals/homothorax, the Drosophila homologue of meis1 interacts with extradenticle in patterning of the embryonic PNS. Development 125, 1037-1048.[Abstract/Free Full&nbsp;Text]
+
+
+
+Lecuit, T. and Cohen, S. M. (1997). Proximal-distal axis formation in the Drosophila leg. Nature 388, 139-145.[Medline]
+
+
+
+Mann, R. S. and Chan, S.-K. (1996). Extra specificity from extradenticle: the partnership between HOX and PBX/EXD homeodomain proteins. Trends Genet. 12, 258-262.[Medline]
+
+
+
+Mardon, G., Solomon, N. M. and Rubin, G. M. (1994). dachshund encodes a nuclear protein required for normal eye and leg development in Drosophila. Development 120, 3473-3486.[Abstract/Free Full&nbsp;Text]
+
+
+
+Mercader, N., Leonardo, E., Azpiazu, N., Serrano, A., Morata, G., Martinez, C. and Torres, M. (1999). Conserved regulation of proximodistal limb axis development by Meis1/Hth. Nature 402, 425-429.[Medline]
+
+
+
+Morimura, S., Maves, L., Chen, Y. and Hoffmann, F. M. (1996). decapentaplegic overexpression affects Drosophila wing and leg imaginal disc development and wingless expression. Dev. Biol. 10, 136-151.
+
+
+
+Niwa, N., Inoue, Y., Nozawa, A., Saito, M., Misumi, Y., Ohuchi, H., Yoshioka, H. and Noji, S. (2000). Correlation of diversity of leg morphology in gryllus bimaculatus (cricket) with divergence in dpp expression pattern during leg development. Development 127, 4373-4381.[Abstract/Free Full&nbsp;Text]
+
+
+
+Pai, C.-Y., Kuo, T., Jaw, T., Kurant, E., Chen, C., Bessarab, D., Salzberg, A. and Sun, Y. (1998). The Homothorax homeoprotein activates the nuclear localization of another homeoprotein, Extradenticle, and suppresses eye development in Drosophila. Genes Devt. 12, 435-436.[Abstract/Free Full&nbsp;Text]
+
+
+
+Panganiban, G., Irvine, S. M., Lowe, C., Roehl, H., Corley, L. S., Sherbon, B., Grenier, J., Fallon, J. F., Kimble, J., Walker, M. et al. (1997). The origin and evolution of animal appendages. Proc. Natl. Acad. Sci USA 94, 5162-5166.[Abstract/Free Full&nbsp;Text]
+
+
+
+Panganiban, G. (2000). Distal-less function during Drosophila appendage and sense organ development. Dev. Dyn. 218, 554-562.[Medline]
+
+
+
+Panganiban, G., Nagy, L. and Carroll, S. B. (1994). The role of the Distal-less gene in the development and evolution of insect limbs. Curr. Biol. 4, 671-675.[Medline]
+
+
+
+Panganiban, G., Sebring, A., Nagy, L. and Carroll, S. B. (1995). The development of crustacean limbs and the evolution of arthropods. Science 270, 1363-1366.[Abstract]
+
+
+
+Penton, A. and Hoffmann, F. M. (1996). Decapentaplegic restricts the domain of wingless during Drosophila limb patterning. Nature 382, 162-164.[Medline]
+
+
+
+Pignoni, F. and Zipursky, S. (1997). Induction of Drosophila eye development by Decapentaplegic. Development 124, 271-278.[Abstract/Free Full&nbsp;Text]
+
+
+
+Postlethwait, J. H. and Schneiderman, H. A. (1971). Pattern formation and determination in the antenna of the homoeotic mutant Antennapedia of Drosophila melanogaster. Dev. Biol. 25, 606-640.[Medline]
+
+
+
+Rauskolb, C., Peifer, M. and Wieschaus, E. (1993). extradenticle, a regulator of homeotic gene activity, is a homolog of the homeobox-containing human proto-oncogene pbx-1. Cell 74, 1101-1112.[Medline]
+
+
+
+Rauskolb, C., Smith, K. M., Peifer, M. and Wieschaus, E. (1995). extradenticle determines segmental identities throughout Drosophila development. Development 121, 3663-3673.[Abstract/Free Full&nbsp;Text]
+
+
+
+Rieckhof, G. E., Casares, F., Ryoo, H. D., Abu-Shaar, M. and Mann, R. S. (1997). Nuclear translocation of Extradenticle requires homothorax, which encodes an Extradenticle-related homeodomain protein. Cell 91, 171-183.[Medline]
+
+
+
+Saleh, M., Huang, H., Green, N. and Featherstone, M. (2000). A conformational change in PBX1A is necessary for its nuclear localization. Exp. Cell Res. 260, 105-115.[Medline]
+
+
+
+Sato, T. (1984). A new homeotic mutation affecting antenna and legs. Drosophila Inf. Serv. 60, 180-182.
+
+
+
+Simeone, A., Acampora, D., Pannese, M., DEsposito, M., Stornaiuolo, A., Gulisano, M., Mallamaci, A., Kastury, K., Druck, T., Huebner, K. and Boncinelli, E. (1994). Cloning and characterization of two members of the vertebrate Dlx gene family. Proc. Natl. cad. Sci. USA 91, 2250-2254.
+
+
+
+Struhl, G. (1981). A homeotic mutation transforming leg to antenna in Drosophila. Nature 292, 635-638.[Medline]
+
+
+
+Struhl, G. (1982). Spineless aristapedia: A homeotic gene that does not control the development of specific compartments in Drosophila. Genetics 102, 737-749.[Abstract/Free Full&nbsp;Text]
+
+
+
+Sunkel, C. E. and Whittle, J. R. S. (1987). Brista: A gene involved in the specification and differentiation of distal cephalic and thoracic structures in Drosophila melanogaster. Wilhelm Rouxs Arch. Dev. Biol. 196, 124-132.
+
+
+
+Theisen, H., Haerry, T. E., OConnor, M. B. and Marsh, J. L. (1996). Developmental territories created by mutual antagonism between Wingless and Decapentaplegic. Development 122, 3939-3948.[Abstract/Free Full&nbsp;Text]
+
+
+
+Vachon, G., Cohen, B., Pfeifle, C., McGuffin, M. E., Botas, J. and Cohen, S. M. (1992). Homeotic genes of the bithorax complex repress limb development in the abdomen of the Drosophila embryo through the target gene Distal-less. Cell 71, 437-450.[Medline]
+
+
+
+Vogt, T. F. and Duboule, D. (1999). Antagonists go out on a limb. Cell 99, 563-566.[Medline]
+
+
+
+Wu, J. and Cohen, S. M. (1999). Proximodistal axis formation in the Drosophila leg: subdivision into proximal and distal domains by Homothorax and Distal-less. Development 126, 109-117.[Abstract/Free Full&nbsp;Text]
+
+
+
+Yao, L. C., Liaw, G. J., Pai, C. Y. and Sun, Y. H. (1999). A common mechanism for antenna-to-leg transformation in Drosophila: suppression of homothorax transcription by four HOM-C genes. Dev. Biol. 211, 268-276.[Medline]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

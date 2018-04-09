@@ -1,0 +1,3171 @@
+Processing 00000000.tx.1: Old age psychiatry ALISTAIR BURNS, FRCPsych University of Manchester, Withington Hospital, Manchester IAN G. 
+
+Phrase: "Old age psychiatry ALISTAIR BURNS,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   804   C0006434:Burns [Injury or Poisoning]
+   771 E C1550619:Burn [Substance]
+   717   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+
+Phrase: "FRCPsych University of Manchester,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0041740:University [Manufactured Object,Organization]
+
+Phrase: "Withington Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   861   C1510665:Hospital [Qualitative Concept]
+   777 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Manchester IAN G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.2: McKEITH, FRCPsych Newcastle General Hospital, Newcastle upon Tyne, UK Correspondence: Professor Alistair Burns, Department of Psychiatry, Education and Research Centre, Wythenshawe Hospital, Southmoor Road, Manchester M23 9LT, UK. 
+
+Phrase: "McKEITH,"
+
+Phrase: "FRCPsych Newcastle General Hospital,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   861   C0020008:general hospital [Health Care Related Organization,Manufactured Object]
+   812   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   812   C0205246:General [Spatial Concept]
+   812   C1510665:Hospital [Qualitative Concept]
+   812   C1553889:General [Idea or Concept]
+   729 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Newcastle upon Tyne,"
+
+Phrase: "UK Correspondence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282413:Correspondence [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "Professor Alistair Burns,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0006434:Burns [Injury or Poisoning]
+   793 E C1550619:Burn [Substance]
+
+Phrase: "Department of Psychiatry,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   858   C0587494:Psychiatry department [Health Care Related Organization]
+   790   C1704729:Department [Organization]
+
+Phrase: "Education"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0013621:Education [Educational Activity]
+  1000   C0013622:education [Classification]
+  1000   C0013658:Education, NOS [Finding]
+  1000   C0039401:Education [Educational Activity]
+   928 E C1555905:Educational [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "Research Centre,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0683939:research center [Manufactured Object,Organization]
+   861   C0205099:Center [Spatial Concept]
+
+Phrase: "Wythenshawe Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   861   C1510665:Hospital [Qualitative Concept]
+   777 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Southmoor Road,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442650:Road [Manufactured Object]
+
+Phrase: "Manchester M23 9LT,"
+
+Phrase: "UK."
+Processing 00000000.tx.3: Tel: +44 (0) 161 291 3310; 
+
+Phrase: "Tel"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0254343:TEL [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C0796520:TEL [Gene or Genome]
+  1000   C3272379:TEL [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "+44"
+
+Phrase: "(0"
+
+Phrase: ")"
+
+Phrase: "161 291 3310"
+
+Phrase: ";"
+Processing 00000000.tx.4: Fax: +44 (0) 161 291 5862; 
+
+Phrase: "Fax"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0085205:Fax [Manufactured Object]
+  1000   C1549619:FAX [Conceptual Entity]
+  1000   C1880669:Fax [Manufactured Object]
+
+Phrase: ":"
+
+Phrase: "+44"
+
+Phrase: "(0"
+
+Phrase: ")"
+
+Phrase: "161 291 5862"
+
+Phrase: ";"
+Processing 00000000.tx.5: e-mail: a_burns{at}fsl.with.man.ac.uk DECLARATION OF INTEREST None. 
+
+Phrase: "e-mail"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+   861   C0024492:Mail [Manufactured Object]
+   861   C1538057:MAIL [Gene or Genome]
+   861   C1547565:Mail [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "a_burns{at}fsl."
+
+Phrase: "with.man.ac.uk DECLARATION"
+
+Phrase: "OF INTEREST"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0543488:Interest [Mental Process]
+
+Phrase: "None."
+Processing 00000000.tx.6: See pp. 
+
+Phrase: "See"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042789:see [Organism Function]
+  1000   C1947903:See [Activity]
+
+Phrase: "pp."
+Processing 00000000.tx.7: 116167, this issue. 
+
+Phrase: "116167,"
+
+Phrase: "this issue."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+Processing 00000000.tx.8: It is both fashionable and necessary these days to start any presentation by declaring one's conflicts of interest. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "both fashionable"
+
+Phrase: "and"
+
+Phrase: "necessary"
+
+Phrase: "these days to"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0439228:days [Temporal Concept]
+   827 E C0332173:/day [Temporal Concept]
+   827 E C0439505:/day [Temporal Concept]
+
+Phrase: "start"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439659:Start [Temporal Concept]
+
+Phrase: "any presentation by declaring one's conflicts of interest."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0449450:Presentation [Idea or Concept]
+Processing 00000000.tx.9: As editors of this special supplement we therefore declare our interest in old age psychiatry. 
+
+Phrase: "As editors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1707883:Editor [Occupation or Discipline]
+
+Phrase: "of this special supplement"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0242295:Supplement [Food]
+   861   C1947943:Supplement [Intellectual Product]
+   861   C2348609:Supplement [Functional Concept]
+
+Phrase: "we therefore"
+
+Phrase: "declare"
+
+Phrase: "our interest in old age psychiatry."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0543488:Interest [Mental Process]
+Processing 00000000.tx.10: Not so long ago cynically described as a Cinderella speciality, old age psychiatry has in the past few years become an increasingly popular clinical career choice. 
+
+Phrase: "Not so long ago cynically"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0205166:Long [Qualitative Concept]
+   804   C1518422:Not [Functional Concept]
+   804   C1706317:Long [Qualitative Concept]
+
+Phrase: "described as a Cinderella speciality,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1552738:described [Idea or Concept]
+
+Phrase: "old age psychiatry"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+
+Phrase: "has in the past few years"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   753   C0439234:years [Temporal Concept]
+   753   C1444637:Past [Temporal Concept]
+   753   C3539897:Has [Qualitative Concept]
+   719 E C0439508:/year [Temporal Concept]
+
+Phrase: "become"
+
+Phrase: "an increasingly popular clinical career choice."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   840   C0007239:Career Choice [Mental Process]
+   804   C0008300:choice [Individual Behavior]
+   804   C1707391:Choice [Activity]
+Processing 00000000.tx.11: Community-oriented, multi-disciplinary services that remain relatively unfettered by excessive bureaucracy would of themselves be an attractive option in a largely demoralised health care system  but there are other reasons that the speciality is thriving. 
+
+Phrase: "Community-oriented, multi-disciplinary services"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   897   C0009482:Services, Community [Self-help or Relief Organization]
+   804   C0557854:Services [Occupational Activity]
+   771 E C2825316:Service [Manufactured Object]
+   771 E C3245478:service [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "remain"
+
+Phrase: "relatively"
+
+Phrase: "unfettered by excessive bureaucracy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0442802:Excessive [Qualitative Concept]
+   770   C0680826:bureaucracy [Idea or Concept]
+
+Phrase: "would of themselves"
+
+Phrase: "be"
+
+Phrase: "an attractive option in a largely demoralised health care system"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   739   C1518601:Option [Functional Concept]
+   739   C1550456:option [Idea or Concept]
+
+Phrase: "but"
+
+Phrase: "there"
+
+Phrase: "are"
+
+Phrase: "other"
+
+Phrase: "reasons"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0392360:Reason [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "the speciality"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   928   C0205555:Special [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "thriving."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C2938208:Thrive [Pharmacologic Substance]
+Processing 00000000.tx.12: Not least are the enormous advances that have been made over the past decade in our understanding of the neurobiological basis of late-life psychiatric disorders. 
+
+Phrase: "Not least"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1518422:Not [Functional Concept]
+
+Phrase: "are"
+
+Phrase: "the enormous advances"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0725066:Advance [Medical Device]
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "made over the past decade"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C1444637:Past [Temporal Concept]
+   760   C2981279:Decade [Quantitative Concept]
+   726   C1881534:Make [Functional Concept]
+
+Phrase: "in our understanding"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0162340:Understanding [Mental Process]
+
+Phrase: "of the neurobiological basis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1527178:Basis [Functional Concept]
+   861   C1874451:Basis [Pharmacologic Substance]
+
+Phrase: "of late-life psychiatric disorders."
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   861   C0004936:Psychiatric disorders [Mental or Behavioral Dysfunction]
+   812   C0012634:Disorders [Disease or Syndrome]
+   812   C0205487:Psychiatric [Functional Concept]
+   741 E C0033872:Psychiatry [Professional or Occupational Group]
+   741 E C0033873:Psychiatry [Biomedical Occupation or Discipline]
+Processing 00000000.tx.13: Dementia, in particular, has attracted the attention of top-level neuroscientists who have applied a combination of classical neuropathology, molecular genetics and protein chemistry to reveal some of the key events underlying neurodegeneration. 
+
+Phrase: "Dementia,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "in particular,"
+
+Phrase: "has"
+
+Phrase: "attracted"
+
+Phrase: "the attention of top-level neuroscientists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0004268:Attention [Mental Process]
+
+Phrase: "who"
+
+Phrase: "have"
+
+Phrase: "applied"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0185125:Applied [Health Care Activity]
+   966 E C1632850:Apply [Functional Concept]
+   966 E C1879355:Apply [Functional Concept]
+
+Phrase: "a combination of classical neuropathology,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205195:Combination [Qualitative Concept]
+   760   C1947911:Combination [Physical Object]
+
+Phrase: "molecular genetics"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0086345:Genetics, Molecular [Biomedical Occupation or Discipline]
+   861   C0017398:Genetics [Biomedical Occupation or Discipline]
+   861   C0017399:genetics [Biologic Function]
+   861   C1521991:Molecular [Qualitative Concept]
+   789 E C0567416:Molecule [Substance]
+
+Phrase: "and"
+
+Phrase: "protein chemistry to"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C1514538:Protein Chemistry [Occupation or Discipline]
+   827   C0007996:Chemistry [Occupation or Discipline]
+   827   C0079107:chemistry [Classification]
+   827   C0201682:Chemistry [Laboratory Procedure]
+
+Phrase: "reveal"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443289:reveal [Qualitative Concept]
+
+Phrase: "some of the key events"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0205392:Some [Quantitative Concept]
+   760   C0441471:Events [Event]
+   760   C3540770:Some [Intellectual Product]
+   760   C3541888:Events [Classification]
+
+Phrase: "underlying"
+
+Phrase: "neurodegeneration."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027746:Neurodegeneration [Cell or Molecular Dysfunction]
+Processing 00000000.tx.14: As a result it is conceivable that effective treatments to delay or prevent the onset of Alzheimer's disease could be available within a decade  something that was virtually unthinkable only 10 years ago. 
+
+Phrase: "As a result"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1274040:Result [Functional Concept]
+  1000   C1546471:Result [Idea or Concept]
+  1000   C2825142:Result [Finding]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "conceivable"
+
+Phrase: "that effective treatments to"
+Meta Candidates (Total=7; Excluded=5; Pruned=0; Remaining=2)
+   848   C0087113:effectiveness treatment [Qualitative Concept]
+   827   C0087111:Treatments [Therapeutic or Preventive Procedure]
+   793 E C0039798:treatment [Functional Concept]
+   793 E C1522326:Treatment [Functional Concept]
+   793 E C1533734:Treatment [Therapeutic or Preventive Procedure]
+   793 E C1705169:Treatment [Conceptual Entity]
+   793 E C3538994:TREATMENT [Research Activity]
+
+Phrase: "delay"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205421:Delay [Temporal Concept]
+
+Phrase: "or"
+
+Phrase: "prevent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0309872:PREVENT [Pharmacologic Substance]
+
+Phrase: "the onset of Alzheimer's disease"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   797   C0277793:disease onset [Temporal Concept]
+   760   C0332162:Onset [Qualitative Concept]
+
+Phrase: "could"
+
+Phrase: "be"
+
+Phrase: "available within a decade"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0470187:Available [Functional Concept]
+
+Phrase: "something that"
+
+Phrase: "was"
+
+Phrase: "virtually unthinkable only 10 years ago."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   799   C0439234:years [Temporal Concept]
+   766 E C0439508:/year [Temporal Concept]
+Processing 00000000.tx.15: Old age psychiatry clinicians are near enough to this buzz to feel it and be excited by it. 
+
+Phrase: "Old age psychiatry clinicians"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   812   C0871685:clinicians [Professional or Occupational Group]
+   779 E C1550470:clinician [Idea or Concept]
+   756   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+
+Phrase: "are"
+
+Phrase: "near enough to this buzz to"
+
+Phrase: "feel"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0013987:feel [Mental Process]
+   916 E C1527305:Feeling, NOS [Mental Process]
+
+Phrase: "it"
+
+Phrase: "and"
+
+Phrase: "be"
+
+Phrase: "excited by it."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0549255:Excited [Activity]
+Processing 00000000.tx.16: The differential diagnosis of dementia subtype is now an important part of assessment, the convergence of clinical descriptions of Lewy body dementia and frontotemporal dementia (to give but two examples covered in this issue) allowing increased sophistication in terms of diagnostic reporting by clinicians. 
+
+Phrase: "The differential diagnosis of dementia subtype"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   790   C0011906:Differential Diagnosis [Diagnostic Procedure]
+   790   C0220820:differential diagnosis [Functional Concept]
+   753   C0011900:Diagnosis [Finding]
+   753   C0443199:Differential [Qualitative Concept]
+   753   C1704338:diagnosis [Qualitative Concept]
+   753   C1704656:DIAGNOSIS [Research Activity]
+   753   C1705242:Differential [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "an important part of assessment,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   806   C1292711:Part of [Spatial Concept]
+   760   C0449719:Part [Spatial Concept]
+   760   C1709471:Part [Quantitative Concept]
+
+Phrase: "the convergence of clinical descriptions of Lewy body dementia"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   742   C0443193:Convergence [Spatial Concept]
+   742   C1446614:Convergence [Finding]
+   742   C2700387:Convergence [Activity]
+
+Phrase: "and"
+
+Phrase: "frontotemporal dementia"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0236642:frontotemporal dementia [Disease or Syndrome]
+  1000   C0338451:Frontotemporal dementia [Disease or Syndrome]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "(to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "give"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947971:Give [Functional Concept]
+
+Phrase: "but"
+
+Phrase: "two examples"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1707959:Example [Conceptual Entity]
+
+Phrase: "covered in this issue"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   770   C0033213:Issue [Finding]
+   770   C0439844:Covered [Functional Concept]
+   770   C1706387:Issue [Intellectual Product]
+   770   C1999244:Covered [Functional Concept]
+   737 E C0180153:cover [Medical Device]
+   737 E C1707529:Cover [Medical Device]
+
+Phrase: ")"
+
+Phrase: "allowing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allowing [Social Behavior]
+
+Phrase: "increased sophistication in terms of diagnostic reporting"
+
+Phrase: "by clinicians."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0871685:clinicians [Professional or Occupational Group]
+   966 E C1550470:clinician [Idea or Concept]
+Processing 00000000.tx.17: These distinctions can lead directly to important management decisions, such as the avoidance of neuroleptic agents in Lewy body disease or the use of cholinesterase inhibitors in Alzheimer's disease. 
+
+Phrase: "These distinctions"
+
+Phrase: "can"
+
+Phrase: "lead"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+  1000   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+  1000   C1522538:Lead [Functional Concept]
+  1000   C2348269:Lead [Element, Ion, or Isotope]
+  1000   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "directly to important management decisions,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0001554:Management [Occupational Activity]
+   760   C0376636:management [Health Care Activity]
+   760   C0679006:decisions [Mental Process]
+   760   C1273870:Management [Occupational Activity]
+   760   C1947931:Directly [Qualitative Concept]
+   760   C3273539:Management [Occupation or Discipline]
+
+Phrase: "such as the avoidance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0870186:Avoidance [Mental Process]
+
+Phrase: "of neuroleptic agents"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0040615:Neuroleptic Agents [Pharmacologic Substance]
+   827   C0450442:Agent [Chemical Viewed Functionally]
+   827   C1254351:Agent [Pharmacologic Substance]
+   827   C1521826:Agent [Intellectual Product]
+
+Phrase: "in Lewy body disease"
+Meta Candidates (Total=10; Excluded=4; Pruned=0; Remaining=6)
+  1000   C0752347:Lewy Body Disease [Disease or Syndrome]
+   901   C0085200:Lewy Body [Cell Component]
+   827   C0012634:Disease [Disease or Syndrome]
+   827   C0242821:body [Human]
+   827   C0460148:Body [Anatomical Structure]
+   827   C1268086:Body [Anatomical Structure]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+   743 E C1995017:Bodies [Cell Component]
+
+Phrase: "or"
+
+Phrase: "the use of cholinesterase inhibitors"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   806   C1524063:Use of [Functional Concept]
+   760   C0042153:use [Functional Concept]
+   760   C0457083:Use [Functional Concept]
+   760   C1947944:Use [Intellectual Product]
+
+Phrase: "in Alzheimer's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.18: Recognition that disorders hitherto regarded as functional in nature have an organic basis has stimulated research into uncovering aetiological factors and has again influenced clinical practice. 
+
+Phrase: "Recognition"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0524637:Recognition [Mental Process]
+
+Phrase: "that disorders hitherto"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0012634:Disorders [Disease or Syndrome]
+
+Phrase: "regarded as functional"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0205245:Functional [Functional Concept]
+   790   C0542341:Functional [Functional Concept]
+   790   C2700217:Functional [Conceptual Entity]
+
+Phrase: "in nature"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0349590:Nature [Idea or Concept]
+  1000   C1262865:Nature [Functional Concept]
+   928 E C0205296:Natural [Functional Concept]
+
+Phrase: "have"
+
+Phrase: "an organic basis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1527178:Basis [Functional Concept]
+   861   C1874451:Basis [Pharmacologic Substance]
+
+Phrase: "has"
+
+Phrase: "stimulated research into uncovering aetiological factors"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035168:research [Research Activity]
+   753   C0242481:Research [Research Activity]
+
+Phrase: "and"
+
+Phrase: "has"
+
+Phrase: "again"
+
+Phrase: "influenced"
+
+Phrase: "clinical practice."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0237607:practice [Mental Process]
+   861   C3245512:practice [Intellectual Product]
+Processing 00000000.tx.19: Furthermore, improved methods of measuring symptoms in valid and reliable ways have enabled the effects of therapeutic interventions, especially drug trials, to be assessed in ways that are sufficiently robust to allow regulatory authorities to be convinced of their worth. 
+
+Phrase: "Furthermore,"
+
+Phrase: "improved methods of measuring symptoms"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   760   C0025663:Methods [Intellectual Product]
+   760   C0025664:methods [Intellectual Product]
+   760   C0449851:Methods [Functional Concept]
+   726 E C0871511:METHOD [Intellectual Product]
+
+Phrase: "in valid"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C2349099:Valid [Qualitative Concept]
+   928 E C2349101:Validity [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "reliable ways"
+
+Phrase: "have"
+
+Phrase: "enabled"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0562342:Enabled [Mental Process]
+   966 E C1171285:enable [Mental Process]
+
+Phrase: "the effects of therapeutic interventions,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   781   C1527144:Therapeutic Effect [Health Care Activity]
+   760   C1280500:effects [Qualitative Concept]
+   726 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "especially drug trials,"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   901   C0304229:drug trials [Pharmacologic Substance]
+   827   C0013227:Drug [Pharmacologic Substance]
+   827   C1254351:Drug [Pharmacologic Substance]
+   793   C0008976:Trial [Research Activity]
+   771 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   771 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   734 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "assessed in ways"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1516048:Assessed [Activity]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "sufficiently robust to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C2986815:Robust [Qualitative Concept]
+
+Phrase: "allow"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allow [Social Behavior]
+
+Phrase: "regulatory authorities to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   884   C2981655:Regulatory Authority [Governmental or Regulatory Activity]
+   827   C0599437:authorities [Social Behavior]
+
+Phrase: "be"
+
+Phrase: "convinced of their worth."
+Processing 00000000.tx.20: Our reason for presenting this series of invited papers on the subject of old age psychiatry is to inform the general reader about the major issues, challenges and successes in the speciality today. 
+
+Phrase: "Our reason for presenting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0392360:Reason [Idea or Concept]
+
+Phrase: "this series of invited papers"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205549:Series [Quantitative Concept]
+   760   C2348044:Series [Intellectual Product]
+
+Phrase: "on the subject"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0681850:Subject [Group]
+  1000   C1550501:{Subject} [Idea or Concept]
+  1000   C1706203:Subject [Idea or Concept]
+  1000   C2349001:Subject [Human]
+  1000   C2697811:Subject [Functional Concept]
+
+Phrase: "of old age psychiatry"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+
+Phrase: "is"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "inform"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0537670:Inform [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+  1000   C0700287:inform [Health Care Activity]
+  1000   C1552002:inform [Idea or Concept]
+
+Phrase: "the general reader about the major issues,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C1514743:Reader [Professional or Occupational Group]
+   748   C1706461:Reader [Manufactured Object]
+
+Phrase: "challenges"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0805586:challenges [Health Care Activity]
+   966 E C0798503:Challenge [Clinical Attribute]
+   966 E C3274764:Challenge [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "successes in the speciality today."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0597535:successes [Social Behavior]
+Processing 00000000.tx.21: The following contributions are not intended to be a comprehensive survey of an increasingly widening field, but have been chosen to give a flavour of the richness of clinical practice and research. 
+
+Phrase: "The following contributions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1880177:Contribution [Activity]
+
+Phrase: "are"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "intended"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1283828:Intended [Qualitative Concept]
+  1000   C1551357:intended [Idea or Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "a comprehensive survey of an increasingly widening field,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   767   C1517184:Field Survey [Research Activity]
+   744   C0038951:Survey [Intellectual Product]
+
+Phrase: "but"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "chosen"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707391:Chosen [Activity]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "give"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947971:Give [Functional Concept]
+
+Phrase: "a flavour of the richness of clinical practice"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0475332:FLAVOR [Substance]
+   744   C0596585:flavor [Qualitative Concept]
+   744   C0699771:flavor [Organ or Tissue Function]
+
+Phrase: "and"
+
+Phrase: "research."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0035168:research [Research Activity]
+  1000   C0242481:Research [Research Activity]
+Processing 00000000.tx.22: We have chosen to concentrate on descriptions of organically based syndromes, their differential diagnosis and their effects. 
+
+Phrase: "We"
+
+Phrase: "have"
+
+Phrase: "chosen"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707391:Chosen [Activity]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "concentrate on descriptions of organically based syndromes,"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   748   C0039082:Syndromes [Disease or Syndrome]
+   748   C0678257:descriptions [Idea or Concept]
+   748   C1527178:Based [Functional Concept]
+   748   C1558916:SYNDROMES [Finding]
+   748   C1705938:Based [Idea or Concept]
+   748   C1880310:Concentrate [Manufactured Object]
+   748   C2003864:Concentrate [Substance]
+   714 E C0002055:base [Inorganic Chemical]
+   714 E C0178499:Base [Chemical Viewed Functionally]
+   714 E C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "their differential diagnosis"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0011906:Differential Diagnosis [Diagnostic Procedure]
+  1000   C0220820:differential diagnosis [Functional Concept]
+   861   C0011900:Diagnosis [Finding]
+   861   C0443199:Differential [Qualitative Concept]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+   861   C1705242:Differential [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "their effects."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1280500:effects [Qualitative Concept]
+   966 E C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.23: CURRENT RESEARCH Holmes (2002, this issue) has summarised much of the current information concerning molecular biology and Alzheimer's disease, emphasising the importance that genes can have as risk factors for the disease and stepping outside the often narrow way of thinking which tends to tunnel our vision into equating the genetics of this disease with those early-onset and rare mutations. 
+
+Phrase: "CURRENT RESEARCH Holmes"
+
+Phrase: "(2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "has"
+
+Phrase: "summarised"
+
+Phrase: "much of the current information"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0521116:Current [Temporal Concept]
+   760   C1533716:Information [Idea or Concept]
+   760   C1705970:Current [Natural Phenomenon or Process]
+
+Phrase: "concerning"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: "molecular biology"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0026376:Molecular Biology [Biomedical Occupation or Discipline]
+   861   C0005532:Biology [Biomedical Occupation or Discipline]
+   861   C1521991:Molecular [Qualitative Concept]
+   789 E C0205460:Biologic [Qualitative Concept]
+   789 E C0567416:Molecule [Substance]
+   789 E C2979985:BIOLOGIC [Biologically Active Substance,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease,"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "emphasising"
+
+Phrase: "the importance"
+
+Phrase: "that genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017337:Genes [Gene or Genome]
+
+Phrase: "can"
+
+Phrase: "have as risk factors"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   833   C0035648:risk factors [Quantitative Concept]
+   833   C1553898:risk factors [Idea or Concept]
+   770   C0035647:Risk [Qualitative Concept]
+   770   C3154893:Have [Idea or Concept]
+   770   C3539897:Have [Qualitative Concept]
+   737   C1521761:Factor [Functional Concept]
+   737   C2827422:Factor [Conceptual Entity]
+
+Phrase: "for the disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "stepping"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0427149:stepping [Sign or Symptom]
+   966 E C1261552:Step [Conceptual Entity]
+   966 E C1704379:Step [Functional Concept]
+   966 E C1705117:Step [Quantitative Concept]
+   966 E C2825408:Step [Manufactured Object]
+
+Phrase: "outside"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205101:Outside [Spatial Concept]
+
+Phrase: "the often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "narrow"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205168:Narrow [Qualitative Concept]
+  1000   C0332463:Narrow [Spatial Concept]
+  1000   C0333164:Narrow [Quantitative Concept]
+
+Phrase: "way of thinking"
+
+Phrase: "which"
+
+Phrase: "tends"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "tunnel"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0337138:Tunnel [Manufactured Object]
+
+Phrase: "our vision into equating"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0042789:Vision [Organism Function]
+   770   C2707266:Vision [Clinical Attribute]
+
+Phrase: "the genetics of this disease"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   797   C0019247:genetics disease [Disease or Syndrome]
+   760   C0017398:Genetics [Biomedical Occupation or Discipline]
+   760   C0017399:genetics [Biologic Function]
+
+Phrase: "with those early-onset"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1833334:Early-onset [Finding]
+   861   C0332162:Onset [Qualitative Concept]
+   861   C1279919:Early [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "rare mutations."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0026882:Mutations [Genetic Function]
+   827 E C1705285:Mutation [Cell or Molecular Dysfunction]
+Processing 00000000.tx.24: This is clearly a field where there is much promise in terms of treatment. 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: "clearly"
+
+Phrase: "a field where there"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   827   C0440042:Field's [Indicator, Reagent, or Diagnostic Aid]
+   827   C1521738:Field [Conceptual Entity]
+   827   C2346620:Field [Conceptual Entity]
+   827   C2349184:Field [Conceptual Entity]
+   827   C3539073:FIELD [Spatial Concept]
+
+Phrase: "is"
+
+Phrase: "much"
+
+Phrase: "promise in terms of treatment."
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   760   C0039798:treatment [Functional Concept]
+   760   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   760   C1522326:Treatment [Functional Concept]
+   760   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   760   C1555307:promise [Idea or Concept]
+   760   C1705169:Treatment [Conceptual Entity]
+   760   C3538994:TREATMENT [Research Activity]
+   726   C1515273:Term [Temporal Concept]
+   726   C1705313:Term [Idea or Concept]
+   726   C2826302:TERM [Intellectual Product]
+Processing 00000000.tx.25: This is a theme continued by Bullock (2002, this issue) in his summary of new drugs for Alzheimer's disease. 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: "a theme"
+
+Phrase: "continued by Bullock"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0549178:Continued [Idea or Concept]
+
+Phrase: "(2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "in his summary"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552616:summary [Intellectual Product]
+  1000   C1706244:Summary [Intellectual Product]
+
+Phrase: "of new drugs"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+   861   C0013227:Drugs [Pharmacologic Substance]
+   827 E C1254351:Drug [Pharmacologic Substance]
+   789 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   789 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   761 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "for Alzheimer's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.26: We now have three anticholinesterase drugs available for the treatment of mild to moderate Alzheimer's disease that have been approved by the National Institute for Clinical Excellence in the UK. 
+
+Phrase: "We now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "have"
+
+Phrase: "three anticholinesterase drugs"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+   901   C0008425:Anticholinesterase Drugs [Organic Chemical,Pharmacologic Substance]
+   827   C0013227:Drugs [Pharmacologic Substance]
+   793 E C1254351:Drug [Pharmacologic Substance]
+   755 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   755 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   727 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "available for the treatment of mild to moderate Alzheimer's disease"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   739   C0470187:Available [Functional Concept]
+           Availability of
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "approved by the National Institute"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0021622:institute [Organization]
+   760   C0205540:Approved [Qualitative Concept]
+   760   C1272753:Institute [Idea or Concept]
+   760   C3245503:national [Intellectual Product]
+
+Phrase: "for Clinical Excellence"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   789   C1548784:Excellent [Qualitative Concept]
+   789   C1961136:Excellent [Qualitative Concept]
+
+Phrase: "in the UK."
+Processing 00000000.tx.27: The role of these drugs in the treatment of Alzheimer's disease will become apparent with continued clinical practice influenced by an appropriate audit of their use and benefit to patients. 
+
+Phrase: "The role of these drugs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0035820:Role [Social Behavior]
+   760   C1705810:Role [Conceptual Entity]
+
+Phrase: "in the treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0039798:treatment [Functional Concept]
+  1000   C0087111:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treatment [Functional Concept]
+  1000   C1533734:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1705169:Treatment [Conceptual Entity]
+  1000   C3538994:TREATMENT [Research Activity]
+
+Phrase: "of Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "will"
+
+Phrase: "become"
+
+Phrase: "apparent with continued clinical practice"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0750489:apparent [Idea or Concept]
+
+Phrase: "influenced by an appropriate audit of their use"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   767   C1524063:Use of [Functional Concept]
+   744   C0042153:use [Functional Concept]
+   744   C0457083:Use [Functional Concept]
+   744   C1548787:Appropriate [Qualitative Concept]
+   744   C1704774:Audit [Conceptual Entity]
+   744   C1704775:Audit [Functional Concept]
+   744   C1947944:Use [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "benefit to patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0814225:Benefit [Quantitative Concept]
+Processing 00000000.tx.28: Snowden et al (2002, this issue) provide an up-to-date summary of frontotemporal dementia, drawing together the clinical, neuropsychological and pathological expertise of the group, who were instrumental in the clinical descriptions of what is a relatively common, but underrecognised, cause of dementia, particularly in younger people. 
+
+Phrase: "Snowden et al (2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "provide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provide [Activity]
+
+Phrase: "an up-to-date summary of frontotemporal dementia,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C1552616:summary [Intellectual Product]
+   744   C1706244:Summary [Intellectual Product]
+
+Phrase: "drawing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0013113:drawing [Intellectual Product]
+
+Phrase: "together"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883357:Together [Qualitative Concept]
+
+Phrase: "the clinical, neuropsychological"
+
+Phrase: "and"
+
+Phrase: "pathological expertise of the group,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0870520:expertise [Qualitative Concept]
+
+Phrase: "who"
+
+Phrase: "were"
+
+Phrase: "instrumental in the clinical descriptions of what"
+
+Phrase: "is"
+
+Phrase: "a relatively common,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205214:Common [Quantitative Concept]
+   861   C1522138:Common [Functional Concept]
+   861   C3245511:common [Intellectual Product]
+
+Phrase: "but"
+
+Phrase: "underrecognised,"
+
+Phrase: "cause of dementia,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0015127:cause [Functional Concept]
+   790   C1524003:Cause [Conceptual Entity]
+
+Phrase: "particularly in younger people."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0027361:People [Population Group]
+   737   C0332239:Young [Temporal Concept]
+Processing 00000000.tx.29: Vascular dementia, which in most samples pips frontotemporal dementia to the post as one of the more common causes of the syndrome, is summarised by Stewart (2002, this issue) and the lack of clear blue water between Alzheimer's disease and vascular dementia is plainly acknowledged  a problem that is increasingly influencing clinical practice as well as taxing epidemiologists. 
+
+Phrase: "Vascular dementia,"
+Meta Candidates (Total=14; Excluded=8; Pruned=0; Remaining=6)
+  1000   C0011269:Dementia, Vascular [Disease or Syndrome]
+   861   C0005847:vascular [Body Part, Organ, or Organ Component]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   861   C1558950:VASCULAR [Finding]
+   861   C1801960:Vascular [Qualitative Concept]
+   805 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   805 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C0005767:Blood [Tissue]
+   761 E C0005768:blood [Body Substance]
+   761 E C0229664:Blood [Body Substance]
+   761 E C0392895:Bloods [Population Group]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+   745 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: "which in most samples"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   737   C0370003:Sample [Substance]
+   737   C2347026:Sample [Conceptual Entity]
+
+Phrase: "pips"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0279391:PIP [Therapeutic or Preventive Procedure]
+  1000   C1418587:PIP [Gene or Genome]
+
+Phrase: "frontotemporal dementia to the post"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   806   C0236642:frontotemporal dementia [Disease or Syndrome]
+   806   C0338451:Frontotemporal dementia [Disease or Syndrome]
+   760   C0011265:dementia [Mental or Behavioral Dysfunction]
+   760   C0497327:Dementia [Mental or Behavioral Dysfunction]
+
+Phrase: "as"
+
+Phrase: "one of the more common causes of the syndrome,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C0205447:One [Quantitative Concept]
+
+Phrase: "is"
+
+Phrase: "summarised by Stewart"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1551641:Stewart [Population Group]
+
+Phrase: "(2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "the lack of clear blue water"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   820   C0261660:Lack of water [Injury or Poisoning]
+           lack water
+   820   C0417673:Lack of water [Finding]
+   753   C0332268:lack [Qualitative Concept]
+
+Phrase: "between Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "vascular dementia"
+Meta Candidates (Total=14; Excluded=8; Pruned=0; Remaining=6)
+  1000   C0011269:Dementia, Vascular [Disease or Syndrome]
+   861   C0005847:vascular [Body Part, Organ, or Organ Component]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   861   C1558950:VASCULAR [Finding]
+   861   C1801960:Vascular [Qualitative Concept]
+   805 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   805 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C0005767:Blood [Tissue]
+   761 E C0005768:blood [Body Substance]
+   761 E C0229664:Blood [Body Substance]
+   761 E C0392895:Bloods [Population Group]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+   745 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "plainly"
+
+Phrase: "acknowledged"
+
+Phrase: "a problem"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033213:Problem [Finding]
+
+Phrase: "that"
+
+Phrase: "is"
+
+Phrase: "increasingly"
+
+Phrase: "influencing"
+
+Phrase: "clinical practice"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0237607:practice [Mental Process]
+   861   C3245512:practice [Intellectual Product]
+
+Phrase: "as well as"
+
+Phrase: "taxing epidemiologists."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1516908:epidemiologists [Professional or Occupational Group]
+Processing 00000000.tx.30: The theme of vascular disease is continued with the review of the vascular basis of depression by Baldwin & O'Brien (2002, this issue). 
+
+Phrase: "The theme of vascular disease"
+
+Phrase: "is"
+
+Phrase: "continued with the review of the vascular basis of depression"
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+   739   C0005847:vascular [Body Part, Organ, or Organ Component]
+   739   C0011570:Depression [Mental or Behavioral Dysfunction]
+   739   C0011581:Depression [Mental or Behavioral Dysfunction]
+   739   C0282443:Review [Intellectual Product]
+   739   C0344315:Depression [Finding]
+   739   C0349217:depression nos [Mental or Behavioral Dysfunction]
+   739   C0460137:Depression [Functional Concept]
+   739   C0549178:Continued [Idea or Concept]
+   739   C1527178:Basis [Functional Concept]
+   739   C1552617:Review [Idea or Concept]
+   739   C1558950:VASCULAR [Finding]
+   739   C1801960:Vascular [Qualitative Concept]
+   739   C1874451:Basis [Pharmacologic Substance]
+
+Phrase: "by Baldwin & O'Brien"
+
+Phrase: "(2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")."
+Processing 00000000.tx.31: This condition may explain some elements of treatment resistance in practice and also has implications for the management of patients. 
+
+Phrase: "This condition"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0012634:condition [Disease or Syndrome]
+  1000   C0348080:Condition [Qualitative Concept]
+  1000   C1705253:Condition [Conceptual Entity]
+   928 E C0009647:Conditioned [Mental Process]
+   928 E C1701901:Conditional [Qualitative Concept]
+   928 E C1963686:Conditional [Functional Concept]
+   900 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "may"
+
+Phrase: "explain"
+
+Phrase: "some elements of treatment resistance"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0013879:Elements [Element, Ion, or Isotope]
+   726 E C1705248:Element [Conceptual Entity]
+
+Phrase: "in practice"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0150312:In [Quantitative Concept]
+   861   C0237607:practice [Mental Process]
+   861   C0332285:In [Spatial Concept]
+   861   C3245512:practice [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "also"
+
+Phrase: "has"
+
+Phrase: "implications for the management of patients."
+Processing 00000000.tx.32: Subcortical dementia is summarised by Turner et al (2002, this issue), who emphasise the phenomenological aspects of dementia that have aetiological importance. 
+
+Phrase: "Subcortical dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "is"
+
+Phrase: "summarised by Turner et al (2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "who"
+
+Phrase: "emphasise"
+
+Phrase: "the phenomenological aspects of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   726   C1547011:Aspect [Quantitative Concept]
+   726   C1879746:Aspect [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "aetiological importance."
+Processing 00000000.tx.33: Jacoby (2002, this issue) brings to the fore many of the legal aspects of old age psychiatry which are increasingly becoming part of everyday clinical practice, particularly in relation to consent, euthanasia and mental capacity. 
+
+Phrase: "Jacoby"
+
+Phrase: "(2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "brings to the fore"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0205094:Fore [Spatial Concept]
+   770   C0439780:Fore [Spatial Concept]
+
+Phrase: "many of the legal aspects of old age psychiatry"
+Meta Candidates (Total=18; Excluded=1; Pruned=0; Remaining=17)
+   790   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   764   C0022433:Legal Aspects [Governmental or Regulatory Activity]
+   764   C0220868:Legal Aspects [Regulation or Law]
+   764   C0231337:Old age [Finding]
+   764   C1999167:Old age [Population Group]
+   742   C0001779:Age [Organism Attribute]
+   742   C0033872:Psychiatry [Professional or Occupational Group]
+   742   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   742   C0439064:Many [Quantitative Concept]
+   742   C0580836:Old [Temporal Concept]
+   742   C0747726:many [Conceptual Entity]
+   742   C1301860:Legal [Intellectual Product]
+   742   C1550438:Legal [Idea or Concept]
+   742   C1550727:Legal [Conceptual Entity]
+   726   C0243154:psychiatric aspects [Idea or Concept]
+   709 E C0392079:Senile [Finding]
+   708   C1547011:Aspect [Quantitative Concept]
+   708   C1879746:Aspect [Qualitative Concept]
+
+Phrase: "which"
+
+Phrase: "are"
+
+Phrase: "increasingly"
+
+Phrase: "becoming"
+
+Phrase: "part of everyday clinical practice,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   806   C1292711:Part of [Spatial Concept]
+   760   C0449719:Part [Spatial Concept]
+   760   C1709471:Part [Quantitative Concept]
+
+Phrase: "particularly in relation to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0080103:Relation [Family Group]
+   770   C0869014:relation [Social Behavior]
+
+Phrase: "consent"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1511481:Consent [Functional Concept]
+  1000   C1554192:consent [Idea or Concept]
+
+Phrase: ","
+
+Phrase: "euthanasia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0015187:Euthanasia [Health Care Activity]
+
+Phrase: "and"
+
+Phrase: "mental capacity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1516240:Capacity [Quantitative Concept]
+Processing 00000000.tx.34: The interface between health and social care is highlighted by Challis & Hughes (2002, this issue), and the current political climate is such that this distinction  while clinically blurred in many situations  is becoming more important in administrative and financial terms. 
+
+Phrase: "The interface between health"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C1708533:Interface [Manufactured Object]
+   770   C2698172:Interface [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "social care"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0419189:Social care [Health Care Activity]
+   861   C1947933:Care [Activity]
+
+Phrase: "is"
+
+Phrase: "highlighted by Challis & Hughes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1551730:Hughes [Population Group]
+
+Phrase: "(2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "the current political climate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0008946:Climate [Natural Phenomenon or Process]
+
+Phrase: "is"
+
+Phrase: "such"
+
+Phrase: "that"
+
+Phrase: "this distinction"
+
+Phrase: "while"
+
+Phrase: "clinically"
+
+Phrase: "blurred in many situations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C1511231:Blur [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "becoming"
+
+Phrase: "more important in administrative"
+
+Phrase: "and"
+
+Phrase: "financial terms."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C1515273:Term [Temporal Concept]
+   827   C1705313:Term [Idea or Concept]
+   827   C2826302:TERM [Intellectual Product]
+Processing 00000000.tx.35: Costs of care are an essential underpinning of considerations of clinical care, and Kavanagh & Knapp (2002, this issue) describe some of the models underlying many of the assumptions made by those predicting the cost of caring for people with cognitive impairment. 
+
+Phrase: "Costs of care"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0010186:Costs [Quantitative Concept]
+   790   C0220812:Costs [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "an essential underpinning of considerations of clinical care,"
+
+Phrase: "and"
+
+Phrase: "Kavanagh & Knapp"
+
+Phrase: "(2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "describe"
+
+Phrase: "some of the models"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0205392:Some [Quantitative Concept]
+   770   C3161035:Models [Intellectual Product]
+   770   C3540770:Some [Intellectual Product]
+
+Phrase: "underlying"
+
+Phrase: "many of the assumptions"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0439064:Many [Quantitative Concept]
+   770   C0747726:many [Conceptual Entity]
+
+Phrase: "made by those predicting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C1881534:Make [Functional Concept]
+
+Phrase: "the cost of caring"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0010186:Cost [Quantitative Concept]
+   770   C0220812:cost [Quantitative Concept]
+
+Phrase: "for people"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027361:People [Population Group]
+
+Phrase: "with cognitive impairment."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0338656:Cognitive impairment [Mental or Behavioral Dysfunction]
+   861   C0684336:Impairment [Pathologic Function]
+Processing 00000000.tx.36: Our own contributions concern dementia with Lewy bodies (McKeith, 2002, this issue) and the use of rating scales in old age psychiatry (Burns et al, 2002, this issue). 
+
+Phrase: "Our own contributions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1880177:Contribution [Activity]
+
+Phrase: "concern"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699424:Concern [Idea or Concept]
+
+Phrase: "dementia with Lewy bodies"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0752347:Dementia with Lewy bodies [Disease or Syndrome]
+           dementia lewy bodies
+   865 E C2697416:DEMENTIA, LEWY BODY [Gene or Genome]
+   770   C0011265:dementia [Mental or Behavioral Dysfunction]
+   770   C0497327:Dementia [Mental or Behavioral Dysfunction]
+
+Phrase: "(McKeith,"
+
+Phrase: "2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "the use of rating scales"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   806   C1524063:Use of [Functional Concept]
+   760   C0042153:use [Functional Concept]
+   760   C0457083:Use [Functional Concept]
+   760   C1947944:Use [Intellectual Product]
+
+Phrase: "in old age psychiatry"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+
+Phrase: "(Burns et al,"
+
+Phrase: "2002,"
+
+Phrase: "this issue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+
+Phrase: ")."
+Processing 00000000.tx.37: THE FUTURE We hope that there is useful new information here for those practising old age psychiatry. 
+
+Phrase: "THE FUTURE"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0016884:Future [Temporal Concept]
+
+Phrase: "We"
+
+Phrase: "hope"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0392347:Hope [Mental Process]
+
+Phrase: "that there"
+
+Phrase: "is"
+
+Phrase: "useful new information here for those practising old age psychiatry."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C3242228:new information [Intellectual Product]
+   739   C1533716:Information [Idea or Concept]
+Processing 00000000.tx.38: Two of the costs of being in a rapidly changing and expanding field are those of keeping abreast of the new information and of meeting rising public expectations of what can, should and might be done. 
+
+Phrase: "Two of the costs of"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0205448:Two [Quantitative Concept]
+
+Phrase: "being in a rapidly changing"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   760   C0392747:Changing [Functional Concept]
+   760   C0443172:changing [Quantitative Concept]
+   760   C1637379:Rapidly [Qualitative Concept]
+   760   C2987476:Being [Conceptual Entity]
+   726 E C1705241:Change [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "expanding field"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   861   C0440042:Field's [Indicator, Reagent, or Diagnostic Aid]
+   861   C1521738:Field [Conceptual Entity]
+   861   C2346620:Field [Conceptual Entity]
+   861   C2349184:Field [Conceptual Entity]
+   861   C3539073:FIELD [Spatial Concept]
+
+Phrase: "are"
+
+Phrase: "those of keeping abreast of the new information"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C3242228:new information [Intellectual Product]
+   744   C0205314:New [Temporal Concept]
+   744   C1533716:Information [Idea or Concept]
+   711   C0333118:Keep [Functional Concept]
+
+Phrase: "and of meeting"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0556656:Meeting [Health Care Activity]
+   790   C1515981:And [Idea or Concept]
+
+Phrase: "rising"
+
+Phrase: "public expectations of what"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0679138:Expectations [Idea or Concept]
+
+Phrase: "can"
+
+Phrase: ","
+
+Phrase: "should"
+
+Phrase: "and"
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "done."
+Processing 00000000.tx.39: It is not uncommon now for patients to present themselves to one of the burgeoning number of memory clinics in the UK, asking for early diagnosis and treatment and well aware of recent guidance from the National Institute for Clinical Excellence that the new antidementia drugs should be made available to them within the National Health Service, and the recently published National Service Framework for Older People sets out specific standards of care and aspirations for good practice across a wide range of mental health care issues. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "not uncommon now for patients to"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0030705:Patients [Patient or Disabled Group]
+   753   C0522498:Uncommon [Qualitative Concept]
+   753   C1518422:Not [Functional Concept]
+   753   C1948052:Now [Temporal Concept]
+
+Phrase: "present"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0150312:Present [Quantitative Concept]
+  1000   C0449450:Present [Idea or Concept]
+
+Phrase: "themselves to one of the burgeoning number of memory clinics"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   739   C0205447:One [Quantitative Concept]
+
+Phrase: "in the UK,"
+
+Phrase: "asking for early diagnosis"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   833   C0596473:Early Diagnosis [Diagnostic Procedure]
+   770   C0011900:Diagnosis [Finding]
+   770   C1279919:Early [Temporal Concept]
+   770   C1704338:diagnosis [Qualitative Concept]
+   770   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "and"
+
+Phrase: "treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0039798:treatment [Functional Concept]
+  1000   C0087111:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treatment [Functional Concept]
+  1000   C1533734:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1705169:Treatment [Conceptual Entity]
+  1000   C3538994:TREATMENT [Research Activity]
+
+Phrase: "and"
+
+Phrase: "well aware of recent guidance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0004448:Aware [Mental Process]
+
+Phrase: "from the National Institute"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0021622:institute [Organization]
+   861   C1272753:Institute [Idea or Concept]
+
+Phrase: "for Clinical Excellence"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   789   C1548784:Excellent [Qualitative Concept]
+   789   C1961136:Excellent [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "the new antidementia drugs"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+   884   C1276997:Antidementia drug [Pharmacologic Substance]
+   827   C0013227:Drugs [Pharmacologic Substance]
+   793 E C1254351:Drug [Pharmacologic Substance]
+   755 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   755 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   727 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "should"
+
+Phrase: "be"
+
+Phrase: "made"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1881534:Make [Functional Concept]
+
+Phrase: "available to them"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0470187:Available [Functional Concept]
+
+Phrase: "within the National Health Service,"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+  1000   C0027462:Service, National Health [Health Care Activity]
+   901   C0018747:Service, Health [Health Care Activity]
+   827   C0018684:Health [Idea or Concept]
+   827   C0557854:Service [Occupational Activity]
+   827   C2825316:Service [Manufactured Object]
+   827   C3245478:service [Idea or Concept]
+   827   C3245503:national [Intellectual Product]
+   727 E C0031206:healthiness [Finding]
+
+Phrase: "and"
+
+Phrase: "the recently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332185:Recently [Temporal Concept]
+
+Phrase: "published"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034037:Published [Occupational Activity]
+  1000   C1704324:Published [Intellectual Product]
+
+Phrase: "National Service Framework for Older People"
+
+Phrase: "sets"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0036849:Set [Mental Process]
+  1000   C1442518:Set [Functional Concept]
+  1000   C1705195:Set [Conceptual Entity]
+
+Phrase: "out specific standards of care"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   862   C2936643:Standards of Care [Therapeutic or Preventive Procedure]
+           Care Standards
+   760   C0038137:standards [Intellectual Product]
+   760   C0175675:Standards [Qualitative Concept]
+   726 E C1442989:Standard [Qualitative Concept]
+   726 E C2828392:Standard [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "aspirations for good practice"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+   770   C0004056:Aspirations [Mental Process]
+   737 E C0220787:Aspiration [Health Care Activity]
+   737 E C0349707:Aspiration [Therapeutic or Preventive Procedure]
+   737 E C0700198:Aspiration [Pathologic Function]
+   737 E C2827071:Aspiration [Finding]
+
+Phrase: "across a wide range"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C1514721:Range [Quantitative Concept]
+   861   C2348147:Range [Quantitative Concept]
+   861   C3542016:Range [Intellectual Product]
+
+Phrase: "of mental health care issues."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   779   C0033213:Issue [Finding]
+   779   C1706387:Issue [Intellectual Product]
+   756   C0184643:Mental health care [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.40: So, challenges we have in plenty. 
+
+Phrase: "So,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0037640:SO [Geographic Area]
+
+Phrase: "challenges"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0798503:Challenge [Clinical Attribute]
+  1000   C0805586:Challenge [Health Care Activity]
+  1000   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "we"
+
+Phrase: "have in plenty."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C3154893:Have [Idea or Concept]
+   790   C3539897:Have [Qualitative Concept]
+Processing 00000000.tx.41: This collection of papers gives some indication of how we are responding. 
+
+Phrase: "This collection of papers"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C1516698:Collection [Functional Concept]
+   770   C1704814:Collection [Idea or Concept]
+
+Phrase: "gives"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947971:Give [Functional Concept]
+
+Phrase: "some indication of how"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0392360:indication [Idea or Concept]
+   770   C3146298:Indication [Functional Concept]
+
+Phrase: "we"
+
+Phrase: "are"
+
+Phrase: "responding."
+Processing 00000000.tx.42: REFERENCES Baldwin, R. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Baldwin,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.43: C. 
+
+Phrase: "C."
+Processing 00000000.tx.44: & O'Brien, J. 
+
+Phrase: "& O'Brien,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439114:O NOS [Intellectual Product]
+
+Phrase: "J."
+Processing 00000000.tx.45: (2002) Vascular basis of late-onset depressive disorder. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Vascular basis of late-onset depressive disorder."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C1527178:Basis [Functional Concept]
+   748   C1874451:Basis [Pharmacologic Substance]
+Processing 00000000.tx.46: British Journal of Psychiatry, 180, 157-160.[Abstract/Free FullText] Bullock, R. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "157-160."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Bullock,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.47: (2002) New drugs for Alzheimer's disease and other dementias. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "New drugs for Alzheimer's disease"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0013227:Drugs [Pharmacologic Substance]
+   726 E C1254351:Drug [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "other dementias."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0497327:Dementias [Mental or Behavioral Dysfunction]
+   966 E C0011265:dementia [Mental or Behavioral Dysfunction]
+   893 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.48: British Journal of Psychiatry, 180, 135-139.[Abstract/Free FullText] Burns, A., Lawlor, B. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "135-139."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Burns,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0006434:Burns [Injury or Poisoning]
+   966 E C1550619:Burn [Substance]
+
+Phrase: "A.,"
+
+Phrase: "Lawlor,"
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.49: & Craig, S. 
+
+Phrase: "& Craig,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1551776:Craig [Population Group]
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.50: (2002) Rating scales in old age psychiatry. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Rating scales in old age psychiatry."
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+   790   C0681889:rating scales [Intellectual Product,Quantitative Concept]
+   753   C0175659:Scales [Medical Device]
+   753   C0222045:Scales [Body Part, Organ, or Organ Component]
+   753   C0871208:Rating [Activity]
+   719 E C0349674:Scale [Intellectual Product]
+   719 E C1521828:Rate [Quantitative Concept]
+   719 E C1947916:Scale [Activity]
+   719 E C3536777:Scale [Manufactured Object]
+Processing 00000000.tx.51: British Journal of Psychiatry, 180, 161-167.[Abstract/Free FullText] Challis, D. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "161-167."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Challis,"
+
+Phrase: "D."
+Processing 00000000.tx.52: & Hughes, J. 
+
+Phrase: "& Hughes,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1551730:Hughes [Population Group]
+
+Phrase: "J."
+Processing 00000000.tx.53: (2002) Frail old people at the margins of care: some recent research findings. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Frail old people at the margins of care"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0027361:People [Population Group]
+
+Phrase: ":"
+
+Phrase: "some recent research findings."
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   827   C0035168:research [Research Activity]
+   827   C0242481:Research [Research Activity]
+   827   C2607943:findings [Functional Concept]
+   827   C2926606:Findings [Clinical Attribute]
+   827   C3539655:Findings [Intellectual Product]
+   793 E C0037088:Finding [Sign or Symptom]
+   793 E C0243095:Finding [Finding]
+   793 E C2825141:Finding [Finding]
+Processing 00000000.tx.54: British Journal of Psychiatry, 180, 126-130.[Abstract/Free FullText] Department of Health (2002) National Service Framework for Older People. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "126-130."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Department of Health"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   858   C1514958:Health Department [Health Care Related Organization]
+   790   C1704729:Department [Organization]
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "National Service Framework for Older People."
+Processing 00000000.tx.55: London: Department of Health. 
+
+Phrase: "London"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: ":"
+
+Phrase: "Department of Health."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   858   C1514958:Health Department [Health Care Related Organization]
+   790   C1704729:Department [Organization]
+Processing 00000000.tx.56: Holmes, C. 
+
+Phrase: "Holmes,"
+
+Phrase: "C."
+Processing 00000000.tx.57: (2002) Genotype and phenotype in Alzheimer's disease. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Genotype"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017431:Genotype [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "phenotype in Alzheimer's disease."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0031437:Phenotype [Organism Attribute]
+   770   C1285572:Phenotype [Laboratory Procedure]
+Processing 00000000.tx.58: British Journal of Psychiatry, 180, 131-134.[Abstract/Free FullText] Jacoby, R. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "131-134."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Jacoby,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.59: (2002) Old age psychiatry and the law. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Old age psychiatry"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+
+Phrase: "and"
+
+Phrase: "the law."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0023150:Law [Regulation or Law]
+  1000   C0220866:Law [Regulation or Law]
+  1000   C0728724:law [Regulation or Law]
+  1000   C1947938:Law [Intellectual Product]
+  1000   C1947939:Law [Occupation or Discipline]
+Processing 00000000.tx.60: British Journal of Psychiatry, 180, 116-119.[Abstract/Free FullText] Kavanagh, S. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "116-119."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Kavanagh,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.61: & Knapp, M. 
+
+Phrase: "& Knapp,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.62: (2002) Costs and cognitive disability: modelling the underlying associations. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Costs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0010186:Costs [Quantitative Concept]
+  1000   C0220812:Costs [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "cognitive disability"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0231170:Disability [Finding]
+   789 E C0018576:Disabled [Patient or Disabled Group]
+   789 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "modelling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C3161035:Model [Intellectual Product]
+
+Phrase: "the underlying associations."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0004083:Associations [Mental Process]
+   827 E C0439849:Association [Qualitative Concept]
+   827 E C0596306:Association [Phenomenon or Process]
+   827 E C0699792:association [Social Behavior]
+Processing 00000000.tx.63: British Journal of Psychiatry, 180, 120-125.[Abstract/Free FullText] McKeith, I. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "120-125."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] McKeith,"
+
+Phrase: "I."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0021966:I- [Inorganic Chemical]
+  1000   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+Processing 00000000.tx.64: G. 
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.65: (2002) Dementia with Lewy bodies. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Dementia with Lewy bodies."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0752347:Dementia with Lewy bodies [Disease or Syndrome]
+           dementia lewy bodies
+   865 E C2697416:DEMENTIA, LEWY BODY [Gene or Genome]
+   770   C0011265:dementia [Mental or Behavioral Dysfunction]
+   770   C0497327:Dementia [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.66: British Journal of Psychiatry, 180, 144-147.[Abstract/Free FullText] Snowden, J. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "144-147."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Snowden,"
+
+Phrase: "J."
+Processing 00000000.tx.67: S., Neary, D. 
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Neary,"
+
+Phrase: "D."
+Processing 00000000.tx.68: & Mann, D. 
+
+Phrase: "& Mann,"
+
+Phrase: "D."
+Processing 00000000.tx.69: M. 
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.70: A. 
+
+Phrase: "A."
+Processing 00000000.tx.71: (2002) Frontotemporal dementia. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Frontotemporal dementia."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0236642:frontotemporal dementia [Disease or Syndrome]
+  1000   C0338451:Frontotemporal dementia [Disease or Syndrome]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.72: British Journal of Psychiatry, 180, 140-143.[Abstract/Free FullText] Stewart, R. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "140-143."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Stewart,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1551641:Stewart [Population Group]
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.73: (2002) Vascular dementia: a diagnosis running out of time. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Vascular dementia"
+Meta Candidates (Total=14; Excluded=8; Pruned=0; Remaining=6)
+  1000   C0011269:Dementia, Vascular [Disease or Syndrome]
+   861   C0005847:vascular [Body Part, Organ, or Organ Component]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   861   C1558950:VASCULAR [Finding]
+   861   C1801960:Vascular [Qualitative Concept]
+   805 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   805 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C0005767:Blood [Tissue]
+   761 E C0005768:blood [Body Substance]
+   761 E C0229664:Blood [Body Substance]
+   761 E C0392895:Bloods [Population Group]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+   745 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "a diagnosis running out of time."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035953:Running [Daily or Recreational Activity]
+   753   C2346414:Running [Finding]
+Processing 00000000.tx.74: British Journal of Psychiatry, 180, 152-156.[Abstract/Free FullText] Turner, M. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "152-156."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Turner,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.75: A., Moran, N. 
+
+Phrase: "A.,"
+
+Phrase: "Moran,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2945650:moran [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: "N."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+Processing 00000000.tx.76: F. 
+
+Phrase: "F."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+  1000   C0439133:(f) [Intellectual Product]
+  1000   C1553038:[f] [Quantitative Concept]
+Processing 00000000.tx.77: & Kopelman, M. 
+
+Phrase: "& Kopelman,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.78: D. 
+
+Phrase: "D."
+Processing 00000000.tx.79: (2002) Subcortical dementia. 
+
+Phrase: "(2002"
+
+Phrase: ")"
+
+Phrase: "Subcortical dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.80: British Journal of Psychiatry, 180, 148-151.[Abstract/Free FullText] Received for publication August 1, 2001. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "180,"
+
+Phrase: "148-151."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "]"
+
+Phrase: "Received for publication August 1,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1514756:Received [Qualitative Concept]
+   760   C1704324:Publication [Intellectual Product]
+
+Phrase: "2001."
+Processing 00000000.tx.81: Revision received August 9, 2001. 
+
+Phrase: "Revision"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439617:Revision [Temporal Concept]
+  1000   C0558347:Revision [Therapeutic or Preventive Procedure]
+  1000   C1527075:Revision [Therapeutic or Preventive Procedure]
+
+Phrase: "received"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514756:Received [Qualitative Concept]
+
+Phrase: "August 9,"
+
+Phrase: "2001."
+Processing 00000000.tx.82: Accepted for publication August 10, 2001. 
+
+Phrase: "Accepted for publication August 10,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1272684:Accepted [Qualitative Concept]
+   760   C1548435:Accepted [Idea or Concept]
+   760   C1704324:Publication [Intellectual Product]
+   726 E C1548601:Accept [Idea or Concept]
+
+Phrase: "2001."
+Processing 00000000.tx.83: Related articles in BJP: Highlights of this issue ELIZABETH WALSH BJP 2002 180: 0. 
+
+Phrase: "Related articles in BJP"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C1706852:Article [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "Highlights of this issue ELIZABETH WALSH BJP 2002 180"
+
+Phrase: ":"
+
+Phrase: "0."
+Processing 00000000.tx.84: [Full Text]  Old age psychiatry and the law ROBIN JACOBY BJP 2002 180: 116-119. 
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Old age psychiatry"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1273857:Old age psychiatry [Biomedical Occupation or Discipline]
+   827   C0033872:Psychiatry [Professional or Occupational Group]
+   827   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   755 E C0205487:Psychiatric [Functional Concept]
+   734   C0231337:Old age [Finding]
+   734   C1999167:Old age [Population Group]
+
+Phrase: "and"
+
+Phrase: "the law ROBIN JACOBY BJP 2002 180"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   799   C0023150:Law [Regulation or Law]
+   799   C0220866:Law [Regulation or Law]
+   799   C0542318:Robin [Bird]
+   799   C0728724:law [Regulation or Law]
+   799   C1947938:Law [Intellectual Product]
+   799   C1947939:Law [Occupation or Discipline]
+
+Phrase: ":"
+
+Phrase: "116-119."
+Processing 00000000.tx.85: [Abstract] [Full Text]  Costs and cognitive disability: modelling the underlying associations SHANE KAVANAGH and MARTIN KNAPP BJP 2002 180: 120-125. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Costs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0010186:Costs [Quantitative Concept]
+  1000   C0220812:Costs [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "cognitive disability"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0231170:Disability [Finding]
+   789 E C0018576:Disabled [Patient or Disabled Group]
+   789 E C1880351:Disabled [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "modelling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C3161035:Model [Intellectual Product]
+
+Phrase: "the underlying associations SHANE KAVANAGH"
+
+Phrase: "and"
+
+Phrase: "MARTIN KNAPP BJP 2002 180"
+
+Phrase: ":"
+
+Phrase: "120-125."
+Processing 00000000.tx.86: [Abstract] [Full Text]  Frail old people at the margins of care: some recent research findings DAVID CHALLIS and JANE HUGHES BJP 2002 180: 126-130. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Frail old people at the margins of care"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0027361:People [Population Group]
+
+Phrase: ":"
+
+Phrase: "some recent research findings DAVID CHALLIS"
+
+Phrase: "and"
+
+Phrase: "JANE HUGHES BJP 2002 180"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C1551730:Hughes [Population Group]
+
+Phrase: ":"
+
+Phrase: "126-130."
+Processing 00000000.tx.87: [Abstract] [Full Text]  Genotype and phenotype in Alzheimer's disease CLIVE HOLMES BJP 2002 180: 131-134. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Genotype"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017431:Genotype [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "phenotype in Alzheimer's disease CLIVE HOLMES BJP 2002 180"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C0031437:Phenotype [Organism Attribute]
+   742   C1285572:Phenotype [Laboratory Procedure]
+
+Phrase: ":"
+
+Phrase: "131-134."
+Processing 00000000.tx.88: [Abstract] [Full Text]  New drugs for Alzheimer's disease and other dementias ROGER BULLOCK BJP 2002 180: 135-139. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  New drugs for Alzheimer's disease"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0013227:Drugs [Pharmacologic Substance]
+   726 E C1254351:Drug [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "other dementias ROGER BULLOCK BJP 2002 180"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   799   C0497327:Dementias [Mental or Behavioral Dysfunction]
+   799   C3463939:Roger [Eukaryote]
+   766 E C0011265:dementia [Mental or Behavioral Dysfunction]
+
+Phrase: ":"
+
+Phrase: "135-139."
+Processing 00000000.tx.89: [Abstract] [Full Text]  Frontotemporal dementia JULIE S. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Frontotemporal dementia JULIE S."
+Processing 00000000.tx.90: SNOWDEN, DAVID NEARY, and DAVID M. 
+
+Phrase: "SNOWDEN,"
+
+Phrase: "DAVID NEARY,"
+
+Phrase: "and"
+
+Phrase: "DAVID M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.91: A. 
+
+Phrase: "A."
+Processing 00000000.tx.92: MANN BJP 2002 180: 140-143. 
+
+Phrase: "MANN BJP 2002 180"
+
+Phrase: ":"
+
+Phrase: "140-143."
+Processing 00000000.tx.93: [Abstract] [Full Text]  Dementia with Lewy bodies IAN G. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Dementia with Lewy bodies IAN G."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   882   C0752347:Dementia with Lewy bodies [Disease or Syndrome]
+           dementia lewy bodies
+   804 E C2697416:DEMENTIA, LEWY BODY [Gene or Genome]
+   753   C0011265:dementia [Mental or Behavioral Dysfunction]
+   753   C0497327:Dementia [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.94: McKEITH BJP 2002 180: 144-147. 
+
+Phrase: "McKEITH BJP 2002 180"
+
+Phrase: ":"
+
+Phrase: "144-147."
+Processing 00000000.tx.95: [Abstract] [Full Text]  Subcortical dementia MARK A. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Subcortical dementia MARK A."
+Processing 00000000.tx.96: TURNER, NICHOLAS F. 
+
+Phrase: "TURNER,"
+
+Phrase: "NICHOLAS F."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+Processing 00000000.tx.97: MORAN, and MICHAEL D. 
+
+Phrase: "MORAN,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2945650:moran [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "MICHAEL D."
+Processing 00000000.tx.98: KOPELMAN BJP 2002 180: 148-151. 
+
+Phrase: "KOPELMAN BJP 2002 180"
+
+Phrase: ":"
+
+Phrase: "148-151."
+Processing 00000000.tx.99: [Abstract] [Full Text]  Vascular dementia: a diagnosis running out of time ROBERT STEWART BJP 2002 180: 152-156. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Vascular dementia"
+Meta Candidates (Total=14; Excluded=8; Pruned=0; Remaining=6)
+  1000   C0011269:Dementia, Vascular [Disease or Syndrome]
+   861   C0005847:vascular [Body Part, Organ, or Organ Component]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   861   C1558950:VASCULAR [Finding]
+   861   C1801960:Vascular [Qualitative Concept]
+   805 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   805 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C0005767:Blood [Tissue]
+   761 E C0005768:blood [Body Substance]
+   761 E C0229664:Blood [Body Substance]
+   761 E C0392895:Bloods [Population Group]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+   745 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "a diagnosis running out of time ROBERT STEWART BJP 2002 180"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   738   C0035953:Running [Daily or Recreational Activity]
+   738   C2346414:Running [Finding]
+
+Phrase: ":"
+
+Phrase: "152-156."
+Processing 00000000.tx.100: [Abstract] [Full Text]  Vascular basis of late-onset depressive disorder ROBERT C. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Vascular basis of late-onset depressive disorder ROBERT C."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C1527178:Basis [Functional Concept]
+   742   C1874451:Basis [Pharmacologic Substance]
+Processing 00000000.tx.101: BALDWIN and JOHN O'BRIEN BJP 2002 180: 157-160. 
+
+Phrase: "BALDWIN"
+
+Phrase: "and"
+
+Phrase: "JOHN O'BRIEN BJP 2002 180"
+
+Phrase: ":"
+
+Phrase: "157-160."
+Processing 00000000.tx.102: [Abstract] [Full Text]  Rating scales in old age psychiatry ALISTAIR BURNS, BRIAN LAWLOR, and SARAH CRAIG BJP 2002 180: 161-167. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]  Rating scales in old age psychiatry ALISTAIR BURNS,"
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+   770   C0681889:rating scales [Intellectual Product,Quantitative Concept]
+   744   C0175659:Scales [Medical Device]
+   744   C0222045:Scales [Body Part, Organ, or Organ Component]
+   744   C0871208:Rating [Activity]
+   711 E C0349674:Scale [Intellectual Product]
+   711 E C1521828:Rate [Quantitative Concept]
+   711 E C1947916:Scale [Activity]
+   711 E C3536777:Scale [Manufactured Object]
+
+Phrase: "BRIAN LAWLOR,"
+
+Phrase: "and"
+
+Phrase: "SARAH CRAIG BJP 2002 180"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C1551776:Craig [Population Group]
+
+Phrase: ":"
+
+Phrase: "161-167."
+Processing 00000000.tx.103: [Abstract] [Full Text]  This Article Full Text (PDF) Submit a response Alert me when this article is cited Alert me when eLetters are posted Alert me if a correction is posted Citation Map Services Email this article to a friend Related articles in BJP Similar articles in this journal Similar articles in PubMed Alert me to new issues of the journal Download to citation manager Google Scholar Articles by BURNS, A. 
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "[Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1527021:Text [Intellectual Product]
+   861   C1554111:Text [Idea or Concept]
+   861   C1705606:Text [Intellectual Product]
+   861   C3541382:Text [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "This Article Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "Submit"
+
+Phrase: "a response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "eLetters"
+
+Phrase: "are"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Citation Map Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C0557854:Services [Occupational Activity]
+   793 E C2825316:Service [Manufactured Object]
+   793 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Related articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in BJP Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal Download"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0162443:Journal [Intellectual Product,Manufactured Object]
+   744   C0205314:New [Temporal Concept]
+   711   C0033213:Issue [Finding]
+   711   C1706387:Issue [Intellectual Product]
+
+Phrase: "to citation manager Google Scholar Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   771   C1706852:Article [Intellectual Product]
+
+Phrase: "by BURNS,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0006434:Burns [Injury or Poisoning]
+   966 E C1550619:Burn [Substance]
+
+Phrase: "A."
+Processing 00000000.tx.104: Articles by McKEITH, I. 
+
+Phrase: "Articles by McKEITH,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "I."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0021966:I- [Inorganic Chemical]
+  1000   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+Processing 00000000.tx.105: G. 
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.106: Articles citing this Article PubMed PubMed Citation Articles by BURNS, A. 
+
+Phrase: "Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1706852:Article [Intellectual Product]
+
+Phrase: "citing"
+
+Phrase: "this Article PubMed PubMed Citation Articles by BURNS,"
+
+Phrase: "A."
+Processing 00000000.tx.107: Articles by McKEITH, I. 
+
+Phrase: "Articles by McKEITH,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "I."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0021966:I- [Inorganic Chemical]
+  1000   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+Processing 00000000.tx.108: G. 
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.109: HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin Advances in Psychiatric Treatment All RCPsych Journals
+
+Phrase: "HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   738   C0039224:Table [Manufactured Object]
+   738   C1706073:Table [Medical Device]
+   738   C1706074:Table [Intellectual Product]
+
+Phrase: "Advances in Psychiatric Treatment"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   833   C0204523:psychiatric treatment [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0205487:Psychiatric [Functional Concept]
+   770   C0725066:Advance [Medical Device]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "All RCPsych Journals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0162443:journals [Intellectual Product,Manufactured Object]
+

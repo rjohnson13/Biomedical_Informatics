@@ -1,0 +1,827 @@
+
+
+Primitive erythropoiesis in the Xenopus embryo: the synergistic role of LMO-2, SCL and GATA-binding proteins
+
+
+
+Paul E. Mead1,*, 
+Anne E. Deconinck1,2, 
+Tara L. Huber1, 
+Stuart H. Orkin1,2 and 
+Leonard I. Zon1,2,
+
+
+
+
+1 Division of Hematology/Oncology, Department of Pediatrics, Harvard Medical School,
+
+2 Howard Hughes Medical Institute, Childrens Hospital, 300 Longwood Ave, Boston, MA 02115, USA
+
+* Present address: Department of Pathology, D4047C, St. Jude Childrens Research Hospital, Memphis, TN 38103, USA
+
+
+
+
+Author for correspondence (e-mail: zon{at}rascal.med.harvard.edu)
+
+
+
+
+
+Accepted March 26, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+Hematopoietic stem cells are derived from ventral mesoderm during vertebrate development. Gene targeting experiments in the mouse have demonstrated key roles for the basic helix-loop-helix transcription factor SCL and the GATA-binding protein GATA-1 in hematopoiesis. When overexpressed in Xenopus animal cap explants, SCL and GATA-1 are each capable of specifying mesoderm to become blood. Forced expression of either factor in whole embryos, however, does not lead to ectopic blood formation. This apparent paradox between animal cap assays and whole embryo phenotype has led to the hypothesis that additional factors are involved in specifying hematopoietic mesoderm. SCL and GATA-1 interact in a transcriptional complex with the LIM domain protein LMO-2. We have cloned the Xenopus homolog of LMO-2 and show that it is expressed in a similar pattern to SCL during development. LMO-2 can specify hematopoietic mesoderm in animal cap assays. SCL and LMO-2 act synergistically to expand the blood island when overexpressed in whole embryos. Furthermore, co-expression of GATA-1 with SCL and LMO-2 leads to embryos that are ventralized and have blood throughout the dorsal-ventral axis. The synergistic effect of SCL, LMO-2 and GATA-1, taken together with the findings that these factors can form a complex in vitro, suggests that this complex specifies mesoderm to become blood during embryogenesis. 
+
+
+
+
+
+
+
+Key words: Xenopus, LMO-2, SCL, GATA-binding factors, Hematopoiesis
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Blood cells are derived from ventral mesoderm early in embryonic development (Zon, 1995). Like other mesoderm derivatives, the formation of blood cells can be traced back to early cleavage stages where inductive interactions give rise to the mesodermal germ layer. Patterning and specification events occur that limit the potential of the nascent mesoderm. These temporal and spatial signals direct the formation of hematopoietic stem cells (HSCs) that give rise, through proliferation and differentiation, to all of the blood cells in the body. Vertebrate blood cell formation occurs in two successive waves, termed primitive and definitive hematopoiesis. The first, primitive hematopoiesis, gives rise to predominantly erythrocytes (primitive red blood cells) that are biochemically and morphologically distinct from definitive red blood cells. All primitive erythrocytes are nucleated and express embryonic globin chains, while definitive erythrocytes from higher vertebrates are enucleated and express adult globin chains. Primitive hematopoiesis takes place in the blood islands of vertebrates. In amphibians, the blood islands are located along the ventral side of the embryo; the analogous structures in higher vertebrates are the extra-embryonic blood islands on the yolk sac. Definitive hematopoiesis occurs in the AGM (aorta-gonads-mesonephros) region of vertebrates and gives rise to all blood cell types that are required during the life span of the animal (Kau and Turpen, 1983; Cumano et al., 1996; Medvinsky and Dzierzak, 1996).  
+
+
+
+The formation of ventral mesoderm requires the activity of soluble growth factors such as bone morphogenetic proteins (BMPs). Ectopic expression of BMP-4 in the developing Xenopus embryo leads to ventralization that is characterized by lack of notochord, decreased muscle formation and increased blood formation. Animal pole ectoderm explants from BMP-4-injected embryos express globin mRNA, suggesting that BMP-4 can directly induce erythroid differentiation (Dale et al., 1992; Jones et al., 1992). Interference with normal BMP-4 signaling by ectopic expression of a truncated BMP-receptor results in dorsalized embryos with decreased blood formation (Graff et al., 1994; Maeno et al., 1994a; Suzuki et al., 1994). BMP-4 signaling results in expression of a variety of downstream targets including GATA-1, GATA-2 and SCL (Maeno et al., 1996; Zhang and Evans, 1996; Mead et al., 1998). 
+
+
+
+GATA-1 and GATA-2 are zinc-finger DNA-binding proteins required for normal blood cell development. Targeted disruption of each of these genes in mice results in a failure of hematopoiesis and death due to anemia (Pevny et al., 1991; Tsai et al., 1994). In Xenopus, GATA-1 and GATA-2 are early markers of hematopoietic mesoderm (Kelley et al., 1994). GATA-1 expression is restricted to hematopoietic cells during embryogenesis whereas GATA-2 is more widely expressed (Kelley et al., 1994; Walmsley et al., 1994). GATA-2 is present at a very low level as a maternal RNA and zygotic expression begins during gastrulation (Zon et al., 1991; Kelley et al., 1994). GATA-1 is undetectable by in situ hybridization until late neurula stages when it becomes expressed in the ventral blood island (Kelley et al., 1994). 
+
+
+
+Stem cell leukemia (SCL) is a basic helix-loop-helix (bHLH) transcription factor and is an early marker of hematopoietic cells in the vertebrate embryo. SCL was originally identified in a chromosomal translocation in T-cell acute lymphoblastic leukemia (Begley et al., 1989; Aplan et al., 1990; Bernard et al., 1990; Begley et al., 1991; Chen et al., 1990a; Chen et al., 1990b; Visvader et al., 1991). Gene targeting experiments have indicated an essential role for SCL in hematopoiesis and vasculogenesis (Shivdasani et al., 1995; Robb et al., 1995; Porcher et al., 1996; Visvader et al., 1998). We have recently reported the cloning and characterization of Xenopus SCL and showed that ectopic expression of SCL was sufficient to direct primitive mesoderm to a hematopoietic fate. SCL expression is induced by BMP-4 and we proposed that SCL lay downstream of BMP in a ventral signaling cascade to specify HSCs from undifferentiated mesoderm (Mead et al., 1998). SCL binds DNA as a heterodimer in complex with the bHLH proteins E12/E47. Gel mobility shift studies have shown that SCL can associate in a high order complex on DNA that includes SCL, E12/E47, GATA-1, Ldb-1 and LMO-2 (Wadman et al., 1997).  
+
+
+
+Like SCL, LMO-2 (LIM-only protein 2; also known as TTG-2 and Rbtn-2) was first identified as a chromosomal translocation associated with T-cell acute lymphoblastic leukemia (Royer-Pokora et al., 1991). LMO-2 is more broadly expressed than SCL, although high levels of LMO-2 expression are found in the sites of hematopoiesis (Foroni et al., 1992). Targeted gene disruption experiments in mice have shown an essential role for LMO-2 in hematopoiesis (Yamada et al., 1998). Homozygous mice null for LMO-2 die at day 9-10 of severe anemia and LMO-2-negative stem cells fail to contribute to the hematopoietic cells of adult chimeric mice. LMO-2 does not bind DNA, but instead acts as a bridging molecule between DNA-binding molecules such as SCL and GATA-1. Wadman and colleagues have demonstrated that LMO-2 is an integral part of a five-member erythroid transcription-activating complex, which includes SCL, E2A, GATA-1, Ldb1/NL1 and LMO-2 (Wadman et al., 1997). This erythroid complex recognizes a bipartite DNA motif of an E-box (CAGGTG) approximately nine base pairs upstream of a GATA site. DNA-site CASTing experiments in T cells isolated from LMO-2 transgenic mice identified a novel LMO-2-containing complex that forms on two E-box sites separated by approximately ten base pairs (Grutz et al., 1998). This complex is restricted to immature (CD8-/CD4-) T-cells and may indicate a role for this LMO-2-containing complex in the block in differentiation of pre-cancerous thymocytes. The 5' regulatory regions of the gene for GATA-1 contain sites that promote the formation of a multimeric erythroid complex suggesting that GATA-1 itself may be a transcriptional target of the complex (Vyas et al., 1999). Recently, a pentameric protein complex (LMO-2, SCL, E2A, Ldb-1 and pRb), that assembles on a consensus SCL site, has been shown to downregulate the expression of c-kit in maturing erythroblasts (Vitelli et al., 2000). Thus, LMO-2 plays a pivotal role in hematopoiesis by bridging multi-protein DNA-binding complexes to regulate transcription of downstream targets during blood cell formation. 
+
+
+
+We now report the cloning and functional characterization of Xenopus LMO-2. In situ hybridization studies show that LMO-2 is highly expressed in the ventral region of the early neurula, and as development proceeds, becomes localized to the ventral blood island (VBI). LMO-2 is also highly expressed outside the hematopoietic system with abundant expression in the nascent tailbud region and in the brain. Ectopic expression of LMO-2 in animal pole explants treated with basic fibroblast growth factor (bFGF) results in erythroid differentiation. Like SCL and GATA-1, ectopic expression of LMO-2 on its own has little effect on developing embryos; the embryos develop normally with normal blood island formation. Ectopic expression of both SCL and LMO-2, however, results in embryos developing with a truncated body and an enlarged ventral blood island. This ventral phenotype is exaggerated by ectopic expression of GATA-1 together with SCL and LMO-2. Embryos injected with LMO-2, SCL and GATA-1 mRNAs develop with virtually no dorsal-anterior structures and express globin throughout the body axis. These transcription factors also work synergistically in animal pole explant assays to induce the development of erythroid cells. Our studies strongly suggest that the formation of the LMO-2/SCL/GATA-1 complex in vivo specifies ventral mesoderm to become blood. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Cloning Xenopus LMO-2
+
+
+A fragment of the Xenopus LMO-2 cDNA was amplified using reverse transcriptase-polymerase chain reaction (RT-PCR) from total RNA isolated from Xenopus spleen. Primers used in the amplification process were designed to invariant regions in the murine, zebrafish and human LMO-2 protein sequences (5' oligonucleotide to human sequence EEPVDEV (amino acids 14 to 19) GA(AG) GA(AG) CCN GTN GA(TC) GA(AG) GT and 3' oligonucleotide to human sequence DIVCEQD (amino acids 141 to 147) TC(CT) TG(CT) TC(AG) CAN AC(TGA) AT(AG) TC). The approximately 400 bp fragment was cloned into pGEM-T Easy (Promega, WI) and sequenced. Clone L21 was identified as the Xenopus homolog of LMO-2 (sharing 96% amino acid identity with mouse LMO-2). A full length clone was isolated from a ZAP-Express Xenopus adult spleen cDNA library (Deconinck et al., 2000) by probing 8x105 plaques with radiolabeled L21. Multiple positives were identified and eight clones were purified by successive rounds of plaque hybridization. Plasmid sequences were rescued by in vivo excision and the resulting plasmids were sequenced. All clones shared sequence identity with L21 and appeared to represent full-length Xenopus LMO-2 clones, hereafter referred to as XLMO-2. Sequence analysis was performed using the DNASTAR molecular biology software package for Macintosh. The GenBank Accession Number for Xenopus LMO-2 is AF374473. 
+
+
+
+Whole embryo RNA in situ hybridization analysis and immunohistochemistry
+
+
+RNA in situ hybridization analysis using labeled probes was performed as described (Harland, 1991; Hemmati-Brivanlou et al., 1990a). Antisense XLMO-2 RNA probes were in vitro transcribed in the presence of digoxigenin-labeled rUTP (Boehringer Mannheim Biochemicals). Whole embryo immunohistochemistry was performed, using a monoclonal antibody (L4-27) directed against tadpole -globin at 1/40 (v/v), as described (Hemmati-Brivanlou et al., 1990b). Embryos were staged according to Nieuwkoops normal table of development (Nieuwkoop and Faber, 1967). 
+
+
+
+RT-PCR assay
+
+
+RNA extractions, first strand cDNA synthesis and PCR analysis were performed as previously described (Kelley et al., 1994). PCR primer sets and conditions for EF-1 and T3 globin were as described (Kelley et al., 1994). PCR conditions were determined for each primer set to ensure that amplification was in the exponential range. PCR primers for XLMO-2: forward 5'-GGG AAG TCG GAA GGA GAC-3'; and reverse, 5'-CGG TCA CCC ACG CAG AAG-3'. These primers amplify a 208 bp fragment with an optimal annealing temperature of 55C. 
+
+
+
+In vitro transcription and micro-injection
+
+
+Synthetic mRNA was prepared from linearized plasmid DNA using mMessage mMachine in vitro transcription kits (Ambion, TX). RNA yield was quantitated spectrophotometrically. The integrity of the in vitro transcribed RNA was determined by agarose gel electrophoresis in the presence of formaldehyde. Injection of Xenopus embryos was as previously described (Smith and Harland, 1992). o-dianisidine staining of isolated animal cap cells was as described (Huber et al., 1998). Injection experiments were repeated at least three times with similar results. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Cloning and expression analysis of Xenopus LMO-2 (XLMO-2)
+
+
+A cDNA representing the full-length Xenopus LMO-2 mRNA was isolated from a Xenopus spleen cDNA library. Sequence analysis of XLMO-2 predicted a 158 amino acid protein that shares greater than 90% sequence identity to the mouse (Boehm et al., 1991), human (Royer-Pokora et al., 1991) and zebrafish LMO-2 (Thompson et al., 1998) proteins (Fig. 1A). The phylogenetic tree also demonstrates close evolutionary conservation of the LMO-2 proteins from fish to humans (Fig. 1B). RT-PCR analysis for XLMO-2 transcripts on developmentally staged embryos (Nieuwkoop and Faber, 1967) revealed that XLMO-2 was not expressed as a maternal transcript and zygotic expression began after gastrulation at about stage 12.5 (Fig. 2; data not shown). For comparison, the expression profiles of XFOG and XGATA-2 are shown, both are present in the maternal RNA pool in the embryo (Kelley et al., 1994; Deconinck et al., 2000).  
+
+
+
+
+
+
+
+
+
+
+View larger version (60K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. Amino acid sequence homology between XLMO-2 and the mouse, human and zebrafish homologs. (A) Pile-up analysis of the LMO-2 protein sequences reveals extensive sequence identity between vertebrate LMO-2 proteins. Accession Numbers for sequences used in this comparison: human (hLMO-2, NM_005574; Boehm et al., 1991), mouse (mLMO-2, NM_008505; Boehm et al., 1991) and zebrafish (zLMO-2, AF191560; Thompson et al., 1998). (B) A phylogenetic tree of the LIM-only proteins shows the close relationship of the vertebrate LMO-2 proteins.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (90K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. Developmental expression of XLMO-2. RT-PCR analysis on developmentally staged embryos shows that XLMO-2 expression begins after gastrulation and is maintained during embryogenesis. RT-PCR analysis of GATA-1, GATA-2 and XFOG transcripts are included for comparison. Ornithine decarboxylase (ODC) is included as a control of RNA recovery. RT is a standard reaction that lacks reverse transcriptase and is included as a control for genomic DNA contamination.
+
+
+
+
+
+&nbsp;
+
+
+
+Hematopoietic expression of XLMO-2
+
+
+In situ hybridization detects XLMO-2 expression by neurula stage 15, on the ventral side of the embryo (data not shown). At this stage, the expression of XLMO-2 resembles that of GATA-2 (Kelley et al., 1994). As the embryo develops, the ventral expression XLMO-2 becomes further restricted to the region of the developing ventral blood island (VBI). By stage 21, XLMO-2 staining in the ventral region is very similar to that of SCL and demarcates the nascent V-shaped VBI (Fig. 3A, lateral and ventral views; Mead et al., 1998). Transverse sections of a stage 26 embryo revealed that the XLMO-2 staining was present in the mesoderm layer beneath the ectoderm (Fig. 3E). XLMO-2 expression remains at a high level in developing blood cells in the VBI and expression can be detected in circulating blood cells of swimming tadpoles (Fig. 3C,D, asterisked arrowhead). XLMO-2 staining is also evident in the dorsal lateral plate (DLP) of the late neurula and early tailbud embryos (Fig. 3A,B, black arrowheads). The DLP, the anatomical equivalent of the mammalian aorta-gonad-mesonephros (AGM) region, is the site of definitive hematopoiesis in the tadpole (Kau and Turpen, 1983). XLMO-2 expression in this region is very similar to that of SCL. Like SCL, XLMO-2 expression in the DLP diminishes during tailbud stages (Mead et al., 1998). During early neurula stages, as staining becomes condensed within the developing VBI, XLMO-2 expression is also detected at high levels in the tailbud region (Fig. 3A-D). Transverse sections of a neurula revealed that XLMO-2 is detected in the circumblastoporal collar in the nascent tailbud region (Fig. 3F). XLMO-2 expression is also detected in the central nervous system. The hematopoietic expression pattern of XLMO-2 is very similar to that of SCL and GATA-1 at the swimming tadpole stage (Fig. 4). While all three are highly expressed in the VBI, LMO-2 and SCL are also present in other tissues such as the tailbud and brain. GATA-1 expression is restricted to the developing erythrocytes within the VBI. 
+
+
+
+
+
+
+
+
+
+
+View larger version (74K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. XLMO-2 expression pattern in embryos. RNA in situ hybridization analysis was performed with full-length antisense digoxigenin-labeled probes on albino Xenopus laevis embryos. (A) Stage 21; lateral, dorsal and ventral views of the same embryo showing extensive staining in the nascent ventral blood island (VBI), the tailbud region and the dorsal lateral plate (DLP) mesoderm (black arrowheads). (B) Stage 26; lateral view. Staining is evident in the VBI, DLP (black arrowhead) and tailbud region. Staining is also seen in the brain and in the eye. (C) Stage 33; lateral view. Expression of XLMO-2 is maintained at a high level in the VBI but has diminished in the DLP region (black arrowhead). Staining in the tailbud has condensed to a small region at the tip of the outgrowing tail. (D) Stage 37; lateral view. Staining is evident throughout the circulatory system as XLMO-2 expression is maintained in circulating primitive erythrocytes (asterisked arrowhead). Expression in the tailbud region has condensed to the very tip of the tail. (E) Transverse section of a stage 26 embryo (ventral half only). XLMO-2 stains the ventral blood island (hematopoietic) mesoderm. (F) Transverse section of a stage 21 embryo stained with XLMO-2. Staining is diffuse throughout the mesoderm of the nascent tail bud.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (134K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. Comparison of XLMO-2, GATA-1 and SCL expression patterns. RNA in situ hybridization analysis reveals that these genes have very similar expression patterns. Each gene is expressed at a high level in the VBI. GATA-1 expression is restricted to erythrocytes whereas SCL and XLMO-2 are also expressed in other embryonic tissues such as the brain and tailbud.
+
+
+
+
+
+&nbsp;
+
+
+
+Growth factor induction of XLMO-2
+
+
+To determine the growth factor sensitivity of XLMO-2 expression, we performed animal cap assays. Animal pole explants loaded with a variety of growth factors were assayed for XLMO-2 expression by semi-quantitative RT-PCR (Fig. 5). Ectopic expression of BMP-4 resulted in high levels of XLMO-2 in the primitive ectoderm explants. As expected, ectopic expression of the BMP-4 responsive SMAD, XMAD1, also elicited high levels of XLMO-2 expression in the primitive ectoderm explants. The sensitivity of XLMO-2 expression to BMP-4 signaling probably accounts for the high level of expression of this transcription factor in nascent hematopoietic mesoderm. A low level of XLMO-2 expression was also seen with the other growth factors assayed (activin, AVg and FGF), and most likely reflects the expression of XLMO-2 outside the hematopoietic system (i.e. in the brain and the tailbud region). Untreated animal pole explants do not express LMO-2. 
+
+
+
+
+
+
+
+
+
+
+View larger version (61K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Growth factor sensitivity of XLMO-2. Animal pole explants were dissected from embryos injected with various growth factors. Injections were at the 1-cell stage and animal caps were harvested at stage 8. Basic human fibroblast growth factor (bFGF) (20 ng/ml) was applied to uninjected animal caps immediately after dissection. AVg is a chimeric molecule containing the prodomain of activin fused to the functional domain of Vg1. Explants and untreated control siblings were harvested at stage 33. XLMO-2 and GATA-1 transcripts were assayed by semi-quantitative RT-PCR analysis. ODC is ornithine decarboxylase and is used a loading control; RT is a standard reaction that lacks reverse transcriptase and is included as a control for genomic DNA contamination. WE is a whole-embryo positive control.
+
+
+
+
+
+&nbsp;
+
+
+
+XLMO-2 induces globin gene expression
+
+
+To determine whether XLMO-2 can induce globin gene expression in nascent mesoderm we performed an animal pole explant assay. Ectopic expression of XLMO-2 in FGF-treated animal pole explants results in extensive globin gene expression as determined by RT-PCR analysis (Fig. 6). Neither FGF treatment alone nor expression of XLMO-2 alone were sufficient to induce globin gene expression (Fig. 6; data not shown). 
+
+
+
+
+
+
+
+
+
+
+View larger version (52K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 6. Ectopic expression of XLMO-2 in FGF-treated animal caps induces globin gene expression. (Top) Animal pole explants were harvested from embryos injected with XLMO-2 mRNA, treated with 20 ng/ml bFGF and allowed to develop to stage 33. (Bottom) RT-PCR analysis was performed for tadpole -globin and SCL. XLMO-2 expression in FGF-treated animal caps leads to expression of -globin and SCL. EF-1 was included as a control for RNA recovery. Embryo lane is a whole sibling embryo used as a positive control for the RT-PCR procedure; RT is a standard reaction that lacks reverse transcriptase and is included as a control for genomic DNA contamination.
+
+
+
+
+
+&nbsp;
+
+
+
+Synergistic hematopoietic activity of LMO-2, SCL and GATA-1
+
+
+The effect of ectopic expression of XLMO-2 was examined in whole embryos. Micro-injection of mRNA encoding LMO-2, SCL or GATA-1 alone have no effect on development (Fig. 7; Mead et al., 1998). Increasing doses of these transcription factors alone have no apparent effect on development until RNA toxicity problems are encountered at very high doses (data not shown). We have previously shown that ectopic expression of SCL in developing Xenopus or zebrafish embryos does not alter normal embryonic development (Mead et al., 1998; Liao et al., 1998; Porcher et al., 1999). At odds with these findings, Green and co-workers have reported that ectopic expression of SCL alone in the zebrafish is sufficient to perturb normal development, resulting in overproduction of hematopoietic and endothelial progenitors at the expense of pronephric duct and somite tissue (Gering et al., 1998). These differences may be due to the differing doses of SCL mRNA and the expression constructs used by the two groups. 
+
+
+
+
+
+
+
+
+
+
+View larger version (91K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 7. Synergistic activity of LMO-2, SCL and GATA-1 expression in whole embryos. (Top) Embryos were injected at the one cell stage with synthetic mRNAs encoding SCL and LMO-2 (1 ng). Embryos were cultured to stage 33 and stained for tadpole -globin protein by immunohistochemistry. (Bottom) Tadpoles injected with SCL, LMO-2 or GATA-1 alone develop normally and globin expression is limited to the ventral blood island (VBI, black arrows). Combination of SCL and LMO-2 mRNA results in developmental abnormalities. Head structures are diminished or completely missing and globin expression extends laterally around the embryo, reaching at least half way up the body. Co-injection of LMO-2, SCL and GATA-1 results in severe developmental abnormalities: dorsal/anterior structures are absent and globin staining is evident throughout the body axis.
+
+
+
+
+
+&nbsp;
+
+
+
+Based on the observation that LMO-2, SCL and GATA-1 exist in a transcriptional complex (Wadman et al., 1997), we tested the effect of overexpression of combinations of these transcription factors in whole embryos. Surprisingly, co-injection of SCL and LMO-2 (1 ng each) results in dramatic phenotypic changes: head structures are diminished and the length of the body is decreased. Globin expression, as determined by whole-mount immunohistochemistry, is no longer restricted to the ventral surface of the embryo and is extended laterally up the side of the embryo (Fig. 7). Qualitatively, there appear to be many more globin-positive cells in the LMO-2- and SCL-injected embryos than in the controls. This mild ventralization is greatly enhanced by including GATA-1 mRNA in the injection cocktail. Embryos injected with LMO-2, SCL and GATA-1 develop without normal dorsal/anterior structures and the body axis is severely truncated. Globin immunohistochemistry revealed that the triple-injected embryos contain large numbers of globin-expressing cells all over the body (Fig. 7). 
+
+
+
+In an attempt to quantitate the synergy between these hematopoietic transcription factors, we used an animal pole explant assay. Embryos were injected with CMV-driven plasmids encoding LMO-2, SCL and GATA-1, either alone, in pairs, or all three together. Animal pole explants were dissected from the embryos at stage 8 and treated with activin (100 pM). The explants were cultured to swimming tadpole stage (Stage 33) and then dissociated with collagenase. Animal cap cell suspensions were stained with o-dianisidine to identify hemoglobin-containing erythrocytes. The cell suspensions were transferred to glass slides and the hemoglobin-positive cells counted under a microscope (Fig. 8). Activin treatment alone does not induce erythrocyte development: activin induces dorsal mesoderm such as muscle and notochord and not ventral mesoderm (blood). Expression of LMO-2, SCL or GATA-1 alone results in the formation of a small number of red blood cells in the animal pole explants (100 hemoglobin-positive cells). Injection of the transcription factors in pairs results in a moderate increase in the number of red blood cells. Combination of LMO-2, SCL and GATA-1 in the injection cocktail results in a massive increase in the numbers of hemoglobinized cells in the animal pole explants. The number of erythrocytes produced by the combination of LMO-2, SCL and GATA-1 is higher than the additive value for each transcription factor alone, indicating that these transcription factors synergize in nascent mesoderm to promote primitive hematopoiesis. The total number of red blood cells is approximately tenfold higher in the triple-injected embryos compared with the single transcription factors alone. Similar results were obtained when basic FGF was used as the mesoderm-inducing agent on the dissected animal pole explants instead of activin (data not shown). 
+
+
+
+
+
+
+
+
+
+
+View larger version (40K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 8 LMO-2, SCL and GATA-1 act synergistically in animal pole explants to stimulate red blood cell production. (Top) Embryos were injected at the one-cell stage with CMV-driven plasmids encoding LMO-2, SCL and GATA-1 alone or in combination (100 pg). Animal caps were dissected at stage 8, treated with activin (100 pM) and collected for analysis at stage 33. Animal cap cells were enzymatically dissociated, stained with o-dianisidine and collected on glass slides in a cytocentrifuge. Hemoglobinzed cells (erythrocytes), stained brown with the chromogenic reagent, were counted on a bright field microscope. (Graph) Activin treatment of animal pole explants does not result in the formation of red blood cells (mock column, animal pole explants treated with activin from uninjected embryos). Expression of LMO-2, GATA-1 and SCL alone, or in tandem, gives rise to a moderate number of erythroid cells. Co-injection of LMO-2/GATA-1/SCL results in large numbers of o-dianisidine-positive cells in the embryonic explants.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Xenopus LMO-2 is expressed in hematopoietic mesoderm and is responsive to BMP-4 signaling.
+
+
+We have cloned the Xenopus homolog of LMO-2, a gene first identified in humans with T-cell acute lymphoblastic leukemia. Analysis of the expression profile of this gene in Xenopus indicates that it is expressed in ventral mesoderm shortly after gastrulation. In the early neurula, LMO-2 is expressed in a broader domain than SCL and resembles the expression pattern of GATA-2 on the ventral surface of the embryo. Like GATA-2, LMO-2 expression in ventral mesoderm becomes restricted to the nascent ventral blood island (VBI) as development proceeds (Kelley et al., 1994; Walmsley et al., 1994). LMO-2 expression is maintained at a high level in the VBI and can be detected in circulating blood cells at swimming tadpole stages. LMO-2, like SCL and GATA-3, is also expressed in the dorsal lateral plate mesoderm  the site of definitive hematopoiesis in Xenopus (C. M. Kelley, PhD Thesis. Harvard University, Boston, MA, 1995; Kau and Turpen, 1983; Mead et al., 1998). LMO-2 is also expressed outside the hematopoietic compartment, with high levels evident in the tailbud region and in the brain. 
+
+
+
+Using animal cap explant assays we have shown that LMO-2 expression is upregulated by BMP-4 activity. This is consistent with a role for LMO-2 in the regulation of primitive hematopoiesis. XLMO-2, which does not bind DNA itself, can induce the expression of -globin in FGF-treated animal pole explants. Treatment of animal caps with FGF, however, results in a low level of SCL expression (Fig. 6; Mead et al., 1998). In the presence of a small amount of SCL, ectopic LMO-2 expression may result in the stabilization of an erythroid-promoting transcription complex and thus upregulate -globin expression. The GATA-binding factors, GATA-1 and GATA-2, are normally present in animal pole ectoderm and are thus likely to be able to participate in the multimeric transcription complex (Kelley et al., 1994). In support of this hypothesis, SCL expression is also upregulated in the presence of XLMO-2, perhaps indicating a positive feedback mechanism promoting erythroid differentiation (Fig. 6). 
+
+
+
+LMO-2, SCL and GATA-1 act synergistically to promote red blood cell formation
+
+
+Overexpression of SCL, LMO-2 and GATA-1 in activin-treated animal pole explants leads to the production of a large numbers of hemoglobinized cells. Expression of these transcription factors alone, or in pairs, leads to a mild increase in erythrocyte production. The synergy of these transcription factors was also noted in the phenotypes resulting from embryos injected with LMO-2, SCL and GATA-1. The phenotype of the "triple-injected" embryos is reminiscent of those injected with BMP-4, where ventralization results in expansion of ventral mesoderm derivatives (such as blood) at the expense of dorsal structures (such as muscle and notochord). These data, taken together with the overlapping expression patterns of these transcription factors and the fact that these proteins interact in vitro, strongly suggest that LMO-2, SCL and GATA-1 act synergistically in a multi-protein complex to promote red blood cell formation. It is important to note, however, that the activity of this transcription complex in explanted embryonic tissue may not necessarily reflect the response seen in the context of the whole embryo. 
+
+
+
+Two models, which do not preclude each other, can be proposed to explain the phenotypic effects of the injecting these erythroid transcription factors. The first model predicts the cell autonomous activation of the blood program by the formation of the hematopoietic complex containing SCL, LMO-2 and GATA-1. In this manner, the complex provides a molecular address for hematopoietic mesoderm formation within the embryo and overrides endogenous signals that specify other tissues. For instance, when overexpressed, the erythroid complex (SCL, LMO-2 and GATA-1) may compete with a myogenic complex that specifies muscle. The second model posits that the overexpression of SCL, LMO-2 and GATA-1 acts, in part, in a non-cell autonomous manner. Non-neuronal ectoderm has been shown to participate in hematopoiesis in a non-cell autonomous manner, in part, through the action of bone morphogenetic proteins (BMPs). When ectodermal cells, a source of BMP signaling, are co-cultured with ventral mesoderm, there is an enhancement of blood formation (Maeno et al., 1994b). In support of this model, we have demonstrated that a cocktail of SCL, LMO-2 and GATA-1 can activate a BMP promoter reporter construct in Xenopus embryos (data not shown). Indeed, the BMP-4 promoter region contains multiple GATA and E-box binding sites and may be directly induced by factors that bind these sites (Kim et al., 1998). BMP-4, secreted from cells expressing the LMO-2/SCL/GATA-1 transcription complex, could influence neighboring cells to adopt a ventral (hematopoietic) fate. An auto-activation loop of BMP signaling may then enhance the initial BMP induction (Metz et al., 1998). Such sequential activation of BMP may normally occur during embryonic development. Our data do not rule out either model, and it is likely that the observed effects are the result of both cell autonomous and cell non-autonomous effects. 
+
+
+
+Control of hematopoietic transcription in the developing embryo
+
+
+Our data show that the co-expression of LMO-2, SCL and GATA-1 can drive ectopic erythropoiesis in the Xenopus embryo. A model for primitive erthryopoiesis emerges in which the overlapping expression patterns of LMO-2, SCL and GATA-1 allow the formation of a transcription activating complex that drives the early blood program. The composition of these transcription complexes may differ in a cell type- and cis-element-specific context. Furthermore, the composition of the complex formed on discrete DNA binding sites may lead to either induction or repression of target genes (Visvader et al., 1997; Anderson et al., 1998; Ono et al., 1998; Vyas et al., 1999; Vitelli et al., 2000; Anderson et al., 2000). The interaction of proteins in these multimeric complexes allows exquisite control of gene regulation at the transcriptional level. Our experiments have indicated an inductive role for the combination of LMO-2, SCL and GATA-1 in developing Xenopus embryos. It will be of interest to include other potential members of the transcription complex in this type of mRNA cocktail injection experiments. For example, the LIM-binding protein Ldb1, and LMO-2 itself, have been shown to be negative regulators of the erythroid differentiation in a proerythroblast cell line (Visvader et al., 1997). Inhibitory factors, such as Ldb1, FOG and pRb (Visvader et al., 1997; Deconinck et al., 2000; Vitelli et al., 2000), may counteract the blood inducing activity of LMO-2, SCL and GATA-1 and may serve to limit erythroid differentiation. Future studies will help dissect how complex transcription factor interactions regulate the hematopoietic program in the developing vertebrate embryo. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We thank the members of the Zon and Orkin laboratories at Childrens Hospital, Boston for insightful discussions and suggestions. We thank Drs Clair Kelley, Eric Liao and Paul Ney for comments on the manuscript, Dr Kim for the gift of the Xenopus BMP-4 promoter reporter construct, and Dr Whitman for the AVg construct. A. E. D. was supported by a Fulbright fellowship. S. H. O. and L. I. Z. are Investigators with the Howard Hughes Medical Institute. 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Anderson, K. P., Crable, S. C. and Lingrel, J. B. (1998). Multiple proteins binding to a GATA-E box-GATA motif regulate the erythroid Kruppel-like factor (EKLF) gene. J. Biol. Chem. 273, 14347-14354.[Abstract/Free Full&nbsp;Text]
+
+
+
+Anderson, K. P., Crable, S. C. and Lingrel, J. B. (2000). The GATA-E box-GATA motif in the EKLF promoter is required for in vivo expression. Blood 95, 1652-1655.[Abstract/Free Full&nbsp;Text]
+
+
+
+Aplan, P. D., Begley, C. G., Bertness, V., Nussmeier, M., Ezquerra, A., Coligan, J. and Kirsch, I. R. (1990). The SCL gene is formed from a transcriptionally complex locus. Mol. Cell. Biol. 10, 6426-6435.[Medline]
+
+
+
+Begley, C. G., Aplan, P. D., Denning, S. M., Haynes, B. F., Waldmann, T. A. and Kirsch, I. R. (1989). The gene SCL is expressed during early hematopoiesis and encodes a differentiation-related DNA-binding motif. Proc. Natl. Acad. Sci. USA 86, 10128-10132.[Abstract]
+
+
+
+Begley, C. G., Visvader, J., Green, A. R., Aplan, P. D., Metcalf, D., Kirsch, I. R. and Gough, N. M. (1991). Molecular cloning and chromosomal localization of the murine homolog of the human helix-loop-helix gene SCL. Proc. Natl. Acad. Sci. USA 88, 869-873.[Abstract]
+
+
+
+Bernard, O., Guglielmi, P., Jonveaux, P., Cherif, D., Gisselbrecht, S., Mauchauffe, M., Berger, R., Larsen, C. J. and Mathieu-Mahul, D. (1990). Two distinct mechanisms for the SCL gene activation in the t(1;14) translocation of T-cell leukemias. Genes Chromosomes Cancer 1, 194-208.[Medline]
+
+
+
+Boehm, T., Foroni, L., Kaneko, Y., Perutz, M. F. and Rabbitts, T. H. (1991). The rhombotin family of cysteine-rich LIM-domain oncogenes: distinct members are involved in T-cell translocations to human chromosomes 11p15 and 11p13. Proc. Natl. Acad. Sci. USA 88, 4367-4371.[Abstract]
+
+
+
+Chen, Q., Cheng, J. T., Tasi, L. H., Schneider, N., Buchanan, G., Carroll, A., Crist, W., Ozanne, B., Siciliano, M. J. and Baer, R. (1990a). The tal gene undergoes chromosome translocation in T cell leukemia and potentially encodes a helix-loop-helix protein. EMBO J. 9, 415-424.[Abstract]
+
+
+
+Chen, Q., Yang, C. Y., Tsan, J. T., Xia, Y., Ragab, A. H., Peiper, S. C., Carroll, A. and Baer, R. (1990b). Coding sequences of the tal-1 gene are disrupted by chromosome translocation in human T cell leukemia. J. Exp. Med. 172, 1403-1408.[Abstract]
+
+
+
+Cumano, A., Dieterlen-Lievre, F. and Godin, I. (1996). Lymphoid potential, probed before circulation in mouse, is restricted to caudal intraembryonic splanchnopleura. Cell 86, 907-916.[Medline]
+
+
+
+Dale, L., Howes, G., Price, B. M. and Smith, J. C. (1992). Bone morphogenetic protein 4: a ventralizing factor in early Xenopus development. Development 115, 573-585.[Abstract]
+
+
+
+Deconinck, A. E., Mead, P. E., Tevosian, S. G., Crispino, J. D., Katz, S. G., Zon, L. I. and Orkin, S. H. (2000). FOG acts as a repressor of red blood cell development in Xenopus. Development 127, 2031-2040.[Abstract/Free Full&nbsp;Text]
+
+
+
+Foroni, L., Boehm, T., White, L., Forster, A., Sherrington, P., Liao, X. B., Brannan, C. I., Jenkins, N. A., Copeland, N. G. and Rabbitts, T. H. (1992). The rhombotin gene family encode related LIM-domain proteins whose differing expression suggests multiple roles in mouse development. J. Mol. Biol. 226, 747-761.[Medline]
+
+
+
+Gering, M., Rodaway, A.R.F., Gottgens, B., Patient, R. K. and Green, A. R. (1998). The SCL gene specifies haemangioblast development from early mesoderm. EMBO J. 17, 4029-4045.[Abstract/Free Full&nbsp;Text]
+
+
+
+Graff, J. M., Thies, R. S., Song, J. J., Celeste, A. J. and Melton, D. A. (1994). Studies with a Xenopus BMP receptor suggest that ventral mesoderm-inducing signals override dorsal signals in vivo. Cell 79, 169-179.[Medline]
+
+
+
+Grutz, G. G., Bucher, K., Lavenir, I., Larson, T., Larson, R. and Rabbitts, T. H. (1998). The oncogenic T cell LIM-protein Lmo2 forms part of a DNA-binding complex specifically in immature T cells. EMBO J. 17, 4594-4605.[Abstract/Free Full&nbsp;Text]
+
+
+
+Harland, R. M. (1991). In situ hybridization: an improved whole-mount method for Xenopus embryos. Methods Cell Biol. 36, 685-695.[Medline]
+
+
+
+Hemmati-Brivanlou, A., Frank, D., Bolce, M. E., Brown, B. D., Sive, H. L. and Harland, R. M. (1990a). Localization of specific mRNAs in Xenopus embryos by whole-mount in situ hybridization. Development 110, 325-330.[Abstract]
+
+
+
+Hemmati-Brivanlou, A., Stewart, R. M. and Harland, R. M. (1990b). Region-specific neural induction of an engrailed protein by anterior notochord in Xenopus. Science 250, 800-802.[Medline]
+
+
+
+Huber, T. L., Zhou, Y., Mead, P. E. and Zon, L. I. (1998). Cooperative effects of growth factors involved in the induction of hematopoietic mesoderm. Blood 92, 4128-4137.[Abstract/Free Full&nbsp;Text]
+
+
+
+Jones, C. M., Lyons, K. M., Lapan, P. M., Wright, C. V. and Hogan, B. L. (1992). DVR-4 (bone morphogenetic protein-4) as a posterior-ventralizing factor in Xenopus mesoderm induction. Development 115, 639-647.[Abstract/Free Full&nbsp;Text]
+
+
+
+Kau, C. L. and Turpen, J. B. (1983). Dual contribution of embryonic ventral blood island and dorsal lateral plate mesoderm during ontogeny of hemopoietic cells in Xenopus laevis. J. Immunol. 131, 2262-2266.[Abstract/Free Full&nbsp;Text]
+
+
+
+Kelley, C., Yee, K., Harland, R. and Zon, L. I. (1994). Ventral expression of GATA-1 and GATA-2 in the Xenopus embryo defines induction of hematopoietic mesoderm. Dev. Biol. 165, 193-205.[Medline]
+
+
+
+Kim, J., Ault, K. T., Chen, H. D., Xu, R. H., Roh, D. H., Lin, M. C., Park, M. J. and Kung, H. F. (1998). Transcriptional regulation of BMP-4 in the Xenopus embryo: analysis of genomic BMP-4 and its promoter. Biochem. Biophys. Res. Commun. 250, 516-530.[Medline]
+
+
+
+Liao, E. C., Paw, B. H., Oates, A. C., Pratt, S. J., Postlethwait, J. H. and Zon, L. I. (1998). SCL/Tal-1 transcription factor acts downstream of cloche to specify hematopoietic and vascular progenitors in zebrafish. Genes Dev. 12, 621-626.[Abstract/Free Full&nbsp;Text]
+
+
+
+Maeno, M., Ong, R. C., Suzuki, A., Ueno, N. and Kung, H. F. (1994a). A truncated bone morphogenetic protein 4 receptor alters the fate of ventral mesoderm to dorsal mesoderm: roles of animal pole tissue in the development of ventral mesoderm. Proc. Natl. Acad. Sci. USA 91, 10260-10264.[Abstract/Free Full&nbsp;Text]
+
+
+
+Maeno, M., Ong, R. C., Xue, Y., Nishimatsu, S., Ueno, N. and Kung, H. F. (1994b). Regulation of primary erythropoiesis in the ventral mesoderm of Xenopus gastrula embryo: evidence for the expression of a stimulatory factor(s) in animal pole tissue. Dev. Biol. 161, 522-529.[Medline]
+
+
+
+Maeno, M., Mead, P. E., Kelley, C., Xu, R. H., Kung, H. F., Suzuki, A., Ueno, N. and Zon, L. I. (1996). The role of BMP-4 and GATA-2 in the induction and differentiation of hematopoietic mesoderm in Xenopus laevis. Blood 88, 1965-1972.[Abstract/Free Full&nbsp;Text]
+
+
+
+Mead, P. E., Kelley, C. M., Hahn, P. S., Piedad, O. and Zon, L. I. (1998). SCL specifies hematopoietic mesoderm in Xenopus embryos. Development 125, 2611-2620.[Abstract/Free Full&nbsp;Text]
+
+
+
+Medvinsky, A. and Dzierzak, E. (1996). Definitive hematopoiesis is autonomously initiated by the AGM region. Cell 86, 897-906.[Medline]
+
+
+
+Metz, A., Knochel, S., Buchler, P., Koster, M. and Knochel, W. (1998). Structural and functional analysis of the BMP-4 promoter in early embryos of Xenopus laevis. Mech. Dev. 74, 29-39.[Medline]
+
+
+
+Nieuwkoop, P. D. and Faber, J. (1967) Normal Table of Xenopus laevis (Daudin). Amsterdam: North Holland.
+
+
+
+Ono, Y., Fukuhara, N. and Yoshie, O. (1998). TAL1 and LIM-only proteins synergistically induce retinaldehyde dehydrogenase 2 expression in T-cell acute lymphoblastic leukemia by acting as cofactors for GATA3. Mol. Cell. Biol. 18, 6939-6950.[Abstract/Free Full&nbsp;Text]
+
+
+
+Pevny, L., Simon, M. C., Robertson, E., Klein, W. H., Tsai, S. F., DAgati, V., Orkin, S. H. and Costantini, F. (1991). Erythroid differentiation in chimaeric mice blocked by a targeted mutation in the gene for transcription factor GATA-1. Nature 349, 257-260.[Medline]
+
+
+
+Porcher, C., Swat, W., Rockwell, K., Fujiwara, Y., Alt, F. W. and Orkin, S. H. (1996). The T cell leukemia oncoprotein SCL/tal-1 is essential for development of all hematopoietic lineages. Cell 86, 47-57.[Medline]
+
+
+
+Porcher, C., Liao, E. C., Fujiwara, Y., Zon, L. I. and Orkin, S. H. (1999). Specification of hematopoietic and vascular development by the bHLH transcription factor SCL without direct DNA binding. Development 126, 4603-4615.[Abstract/Free Full&nbsp;Text]
+
+
+
+Robb, L., Lyons, I., Li, R., Hartley, L., Kontgen, F., Harvey, R. P., Metcalf, D. and Begley, C. G. (1995). Absence of yolk sac hematopoiesis from mice with a targeted disruption of the scl gene. Proc. Natl. Acad. Sci. USA 92, 7075-7709.[Abstract]
+
+
+
+Royer-Pokora, B., Loos, U. and Ludwig, W. D. (1991). TTG-2, a new gene encoding a cysteine-rich protein with the LIM motif, is overexpressed in acute T-cell leukaemia with the t(11;14)(p13;q11). Oncogene 6, 1887-1893.[Medline]
+
+
+
+Shivdasani, R. A., Mayer, E. L. and Orkin, S. H. (1995). Absence of blood formation in mice lacking the T-cell leukaemia oncoprotein tal-1/SCL. Nature 373, 432-434.[Medline]
+
+
+
+Smith, W. C. and Harland, R. M. (1992). Expression cloning of noggin, a new dorsalizing factor localized to the Spemann organizer in Xenopus embryos. Cell 70, 829-840.[Medline]
+
+
+
+Suzuki, A., Thies, R. S., Yamaji, N., Song, J. J., Wozney, J. M., Murakami, K. and Ueno, N. (1994). A truncated bone morphogenetic protein receptor affects dorsal-ventral patterning in the early Xenopus embryo. Proc. Natl. Acad. Sci. USA 91, 10255-10259.[Abstract/Free Full&nbsp;Text]
+
+
+
+Thompson, M. A., Ransom, D. G., Pratt, S. J., MacLennan, H., Kieran, M. W., Detrich, H. W., 3rd, Vail, B., Huber, T. L., Paw, B., Brownlie, A. J. et al. (1998). The cloche and spadetail genes differentially affect hematopoiesis and vasculogenesis. Dev Biol 197, 248-69.[Medline]
+
+
+
+Tsai, F. Y., Keller, G., Kuo, F. C., Weiss, M., Chen, J., Rosenblatt, M., Alt, F. W. and Orkin, S. H. (1994). An early haematopoietic defect in mice lacking the transcription factor GATA-2. Nature 371, 221-226.[Medline]
+
+
+
+Visvader, J., Begley, C. G. and Adams, J. M. (1991). Differential expression of the LYL, SCL and E2A helix-loop-helix genes within the hemopoietic system. Oncogene 6, 187-194.[Medline]
+
+
+
+Visvader, J. E., Mao, X., Fujiwara, Y., Hahm, K. and Orkin, S. H. (1997). The LIM-domain binding protein Ldb1 and its partner LMO2 act as negative regulators of erythroid differentiation. Proc. Natl. Acad. Sci. USA 94, 13707-13712.[Abstract/Free Full&nbsp;Text]
+
+
+
+Visvader, J. E., Fujiwara, Y. and Orkin, S. H. (1998). Unsuspected role for the T-cell leukemia protein SCL/tal-1 in vascular development. Genes Dev. 12, 473-479.[Abstract/Free Full&nbsp;Text]
+
+
+
+Vitelli, L., Condorelli, G., Lulli, V., Hoang, T., Luchetti, L., Croce, C. M. and Peschle, C. (2000). A pentamer transcriptional complex including tal-1 and retinoblastoma protein downmodulates c-kit expression in normal erythroblasts. Mol. Cell. Biol. 20, 5330-5342.[Abstract/Free Full&nbsp;Text]
+
+
+
+Vyas, P., McDevitt, M. A., Cantor, A. B., Katz, S. G., Fujiwara, Y. and Orkin, S. H. (1999). Different sequence requirements for expression in erythroid and megakaryocytic cells within a regulatory element upstream of the GATA-1 gene. Development 126, 2799-2811.[Abstract/Free Full&nbsp;Text]
+
+
+
+Wadman, I. A., Osada, H., Grutz, G. G., Agulnick, A. D., Westphal, H., Forster, A. and Rabbitts, T. H. (1997). The LIM-only protein Lmo2 is a bridging molecule assembling an erythroid, DNA-binding complex which includes the TAL1, E47, GATA-1 and Ldb1/NLI proteins. EMBO J. 16, 3145-3157.[Abstract/Free Full&nbsp;Text]
+
+
+
+Walmsley, M. E., Guille, M. J., Bertwistle, D., Smith, J. C., Pizzey, J. A. and Patient, R. K. (1994). Negative control of Xenopus GATA-2 by activin and noggin with eventual expression in precursors of the ventral blood islands. Development 120, 2519-2529.[Abstract/Free Full&nbsp;Text]
+
+
+
+Yamada, Y., Warren, A. J., Dobson, C., Forster, A., Pannell, R. and Rabbitts, T. H. (1998). The T cell leukemia LIM protein Lmo2 is necessary for adult mouse hematopoiesis. Proc. Natl. Acad. Sci. USA 95, 3890-3895.[Abstract/Free Full&nbsp;Text]
+
+
+
+Zhang, C. and Evans, T. (1996). BMP-like signals are required after the midblastula transition for blood cell development. Dev. Genet. 18, 267-278.[Medline]
+
+
+
+Zon, L. I., Mather, C., Burgess, S., Bolce, M. E., Harland, R. M. and Orkin, S. H. (1991). Expression of GATA-binding proteins during embryonic development in Xenopus laevis. Proc. Natl. Acad. Sci. USA 88, 10642-10646.[Abstract]
+
+
+
+Zon, L. I. (1995). Developmental biology of hematopoiesis. Blood 86, 2876-2891.[Abstract/Free Full&nbsp;Text]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

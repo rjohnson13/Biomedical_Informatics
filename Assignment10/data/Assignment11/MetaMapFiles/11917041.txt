@@ -1,0 +1,4541 @@
+Processing 00000000.tx.1: Controversies concerning the importance of genetic polymorphism in IgA nephropathy Luc Frimat and Michle Kessler Department of Nephrology, University Hospital Nancy, France In a recent letter to Nature Genetics, Gharavi and colleagues reported a study of 30 multiplex kindreds, demonstrating the linkage of IgA nephropathy (IgAN) to 6q22-23 [1]. 
+
+Phrase: "Controversies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0680243:controversies [Social Behavior]
+
+Phrase: "concerning"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: "the importance of genetic polymorphism"
+
+Phrase: "in IgA nephropathy Luc Frimat"
+
+Phrase: "and"
+
+Phrase: "Michle Kessler Department of Nephrology,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   797   C0587474:Nephrology department [Health Care Related Organization]
+   760   C1704729:Department [Organization]
+
+Phrase: "University Hospital Nancy,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   734   C0020028:university hospital [Health Care Related Organization,Manufactured Object]
+
+Phrase: "France In a recent letter"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0016674:France [Geographic Area]
+
+Phrase: "to Nature Genetics,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017398:Genetics [Biomedical Occupation or Discipline]
+   861   C0017399:genetics [Biologic Function]
+
+Phrase: "Gharavi"
+
+Phrase: "and"
+
+Phrase: "colleagues"
+
+Phrase: "reported"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0684224:Reported [Intellectual Product]
+  1000   C0700287:Reported [Health Care Activity]
+  1000   C3496591:Reported [Clinical Attribute]
+   966 E C3273238:Report [Intellectual Product]
+
+Phrase: "a study of 30 multiplex kindreds,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0557651:Study [Manufactured Object]
+   753   C2603343:Study [Research Activity]
+
+Phrase: "demonstrating"
+
+Phrase: "the linkage of IgA nephropathy (IgAN)"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0023745:linkage [Molecular Function]
+
+Phrase: "to 6q22-23"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0450348:23 [Quantitative Concept]
+   861   C1521566:6q22 [Cell Component]
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.2: This finding is a considerable step towards a comprehensive explanation of this form of chronic glomerulonephritis. 
+
+Phrase: "This finding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0037088:Finding [Sign or Symptom]
+  1000   C0243095:Finding [Finding]
+  1000   C2825141:Finding [Finding]
+
+Phrase: "is"
+
+Phrase: "a considerable step towards a comprehensive explanation of this form of chronic glomerulonephritis."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   735   C1261552:Step [Conceptual Entity]
+   735   C1704379:Step [Functional Concept]
+   735   C1705117:Step [Quantitative Concept]
+   735   C2825408:Step [Manufactured Object]
+Processing 00000000.tx.3: As previously suggested, genetic studies of familial IgAN provide the best way to identify IgAN genes [2]. 
+
+Phrase: "As"
+
+Phrase: "previously"
+
+Phrase: "suggested"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: ","
+
+Phrase: "genetic studies of familial IgAN"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   773   C2827447:Genetic Study [Research Activity]
+   767   C0199236:Familial Study [Diagnostic Procedure]
+   753   C0947630:studies [Laboratory Procedure]
+   719 E C0557651:Study [Manufactured Object]
+   719 E C2603343:Study [Research Activity]
+
+Phrase: "provide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provide [Activity]
+
+Phrase: "the best way to"
+
+Phrase: "identify"
+
+Phrase: "IgAN genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0017337:Genes [Gene or Genome]
+   734   C0017661:Nephropathy, IGA [Disease or Syndrome]
+
+Phrase: "[2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.4: Following this approach, the number of publications on genetic polymorphism underlying IgAN grew rapidly in the 1990s. 
+
+Phrase: "Following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "this approach,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449445:Approach [Spatial Concept]
+
+Phrase: "the number of publications"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0237753:*Number [Quantitative Concept]
+   770   C0449788:Number [Quantitative Concept]
+
+Phrase: "on genetic polymorphism underlying IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   840   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   804   C0022658:Nephropathy [Disease or Syndrome]
+   804   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "grew"
+
+Phrase: "rapidly in the 1990s."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0681758:1990s [Temporal Concept]
+   770   C1637379:Rapidly [Qualitative Concept]
+Processing 00000000.tx.5: For example, in 1996, in this journal, significant results of the first studies showing an association between a genetic polymorphism of the renin-angiotensin system (RAS) and IgAN were met with great enthusiasm [3]. 
+
+Phrase: "For example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "in 1996,"
+
+Phrase: "in this journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "significant results of the first studies"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   783   C0683954:results studies [Finding]
+   719   C1274040:Result [Functional Concept]
+   719   C1546471:Result [Idea or Concept]
+   719   C2825142:Result [Finding]
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "an association between a genetic polymorphism of the renin-angiotensin system (RAS)"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   754   C1328885:genetic association [Occupation or Discipline]
+   738   C0004083:Association [Mental Process]
+   738   C0439849:Association [Qualitative Concept]
+   738   C0596306:Association [Phenomenon or Process]
+   738   C0699792:association [Social Behavior]
+
+Phrase: "and"
+
+Phrase: "IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "were"
+
+Phrase: "met with great enthusiasm"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0424090:Enthusiasm [Mental Process]
+   770   C0549177:Great [Quantitative Concept]
+   770   C1704243:Great [Quantitative Concept]
+   737   C1550543:Meet [Idea or Concept]
+
+Phrase: "[3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.6: A few years later, reports of negative findings with respect to this association tempered this initial impression [2,4,5]. 
+
+Phrase: "A few years later,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0439234:years [Temporal Concept]
+   793 E C0439508:/year [Temporal Concept]
+
+Phrase: "reports of negative findings"
+Meta Candidates (Total=14; Excluded=3; Pruned=0; Remaining=11)
+   816   C1513916:Negative Finding [Finding]
+           Negative
+   770   C0205160:Negative [Qualitative Concept]
+   770   C0684224:Report [Intellectual Product]
+   770   C0700287:Report [Health Care Activity]
+   770   C2607943:findings [Functional Concept]
+   770   C2825415:Negative [Conceptual Entity]
+   770   C2825491:Negative [Qualitative Concept]
+   770   C2926606:Findings [Clinical Attribute]
+   770   C3273238:Report [Intellectual Product]
+   770   C3539655:Findings [Intellectual Product]
+   737 E C0037088:Finding [Sign or Symptom]
+   737 E C0243095:Finding [Finding]
+   737 E C2825141:Finding [Finding]
+
+Phrase: "with respect to this association"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0004083:Association [Mental Process]
+  1000   C0439849:Association [Qualitative Concept]
+  1000   C0596306:Association [Phenomenon or Process]
+  1000   C0699792:association [Social Behavior]
+
+Phrase: "tempered"
+
+Phrase: "this initial impression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0596764:impression [Individual Behavior]
+   861   C1998467:Impression [Qualitative Concept]
+
+Phrase: "[2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "4,"
+
+Phrase: "5"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: "]."
+Processing 00000000.tx.7: Some authors were even unable to confirm their own results [5,6]. 
+
+Phrase: "Some authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "were"
+
+Phrase: "even unable to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1299582:Unable [Finding]
+
+Phrase: "confirm"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0521093:confirm [Qualitative Concept]
+  1000   C0750484:confirm [Idea or Concept]
+  1000   C1456348:Confirm [Qualitative Concept]
+
+Phrase: "their own results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C1274040:Result [Functional Concept]
+   827   C1546471:Result [Idea or Concept]
+   827   C2825142:Result [Finding]
+
+Phrase: "[5,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: "6"
+
+Phrase: "]."
+Processing 00000000.tx.8: We propose here a reappraisal of the background implications and methodological foundations of existing research into IgAN, which might be an important source of conflicting results. 
+
+Phrase: "We"
+
+Phrase: "propose"
+
+Phrase: "here"
+
+Phrase: "a reappraisal of the background implications"
+
+Phrase: "and"
+
+Phrase: "methodological foundations of existing research"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0016617:Foundations [Organization]
+   751   C2986512:Research Base [Organization]
+
+Phrase: "into IgAN,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "which"
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "an important source of conflicting results."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0449416:Source [Finding]
+   753   C1705919:Source [Idea or Concept]
+Processing 00000000.tx.9: IgAN as a complex, multifactorial disorder The IgAN phenotype does not exhibit classic Mendelian recessive or dominant inheritance attributable to a single gene locus [7]. 
+
+Phrase: "IgAN as a complex,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   806   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   760   C0022658:Nephropathy [Disease or Syndrome]
+   760   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "multifactorial disorder"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0012634:Disorder [Disease or Syndrome]
+   861   C1837655:Multifactorial [Finding]
+
+Phrase: "The IgAN phenotype"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0031437:Phenotype [Organism Attribute]
+   827   C1285572:Phenotype [Laboratory Procedure]
+   734   C0017661:Nephropathy, IGA [Disease or Syndrome]
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "exhibit"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0015272:Exhibit [Intellectual Product]
+
+Phrase: "classic Mendelian"
+
+Phrase: "recessive"
+
+Phrase: "or"
+
+Phrase: "dominant inheritance"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0678942:dominant inheritance [Genetic Function]
+   861   C0242538:Inheritance [Quantitative Concept]
+   861   C0728826:Inheritance [Functional Concept]
+   861   C1527180:Dominant [Functional Concept]
+
+Phrase: "attributable to a single gene locus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0596130:Attributable [Mental Process]
+
+Phrase: "[7"
+
+Phrase: "]."
+Processing 00000000.tx.10: This is a common feature, which IgAN shares with cardiovascular disease, cancer, type 2 diabetes and Alzheimer's disease [8], although the incidence of IgAN is much lower in absolute terms. 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: "a common feature,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C1521970:Feature [Qualitative Concept]
+   861   C1706388:Feature [Conceptual Entity]
+   861   C2346469:Feature [Qualitative Concept]
+   861   C2348519:Feature [Qualitative Concept]
+
+Phrase: "which IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "shares with cardiovascular disease,"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   833   C0007222:Cardiovascular disease [Disease or Syndrome]
+   770   C0007226:Cardiovascular [Body System]
+   770   C0012634:Disease [Disease or Syndrome]
+   770   C0237876:Share [Social Behavior]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+
+Phrase: "cancer,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0006826:Cancer [Neoplastic Process]
+  1000   C0998265:Cancer [Eukaryote]
+  1000   C1306459:Cancer [Finding]
+
+Phrase: "type 2 diabetes"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0011860:Type 2 Diabetes [Disease or Syndrome]
+   913   C1320657:type diabetes [Finding]
+   901   C0441730:Type 2 [Classification]
+   827   C0011847:Diabetes [Disease or Syndrome]
+   827   C0011849:Diabetes [Disease or Syndrome]
+   827   C0332307:Type [Qualitative Concept]
+   827   C1547052:*Type [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "[8"
+
+Phrase: "],"
+
+Phrase: "although"
+
+Phrase: "the incidence of IgAN"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0021149:Incidence [Quantitative Concept]
+   760   C0220856:incidence [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "much lower in absolute terms."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0441994:Lower [Spatial Concept]
+   760   C1548802:Lower [Body Location or Region]
+   760   C2003888:Lower [Activity]
+Processing 00000000.tx.11: IgAN is characterized by high levels of genetic complexity [7,8]. 
+
+Phrase: "IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "characterized by high levels of genetic complexity"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   748   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   748   C0205250:High [Qualitative Concept]
+   748   C0314603:Genetic [Functional Concept]
+   748   C0441889:Levels [Qualitative Concept]
+   748   C1299351:High [Qualitative Concept]
+   748   C1880022:Characterized [Activity]
+   748   C2700149:HIGH [Intellectual Product]
+   714 E C0456079:Level [Classification]
+   714 E C1547707:Level [Geographic Area]
+   714 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "[7,"
+
+Phrase: "8"
+
+Phrase: "]."
+Processing 00000000.tx.12: For instance, some individuals who inherit a predisposing allele might not manifest IgAN (incomplete penetrance), whereas others who inherit no predisposing allele might develop the disease as a result of an environmental cause. 
+
+Phrase: "For instance,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1550608:Instance [Idea or Concept]
+
+Phrase: "some individuals"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0027361:Individual [Population Group]
+   966   C0237401:Individual [Human]
+
+Phrase: "who"
+
+Phrase: "inherit"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439660:inherit [Functional Concept]
+
+Phrase: "a predisposing allele"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0002085:Allele [Gene or Genome]
+
+Phrase: "might"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "manifest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205319:Manifest [Functional Concept]
+
+Phrase: "IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "(incomplete penetrance"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1836598:Incomplete penetrance [Finding]
+   861   C0524899:Penetrance [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "whereas"
+
+Phrase: "others"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1955473:Others [Finding]
+   966 E C0205394:Other [Qualitative Concept]
+
+Phrase: "who"
+
+Phrase: "inherit"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439660:inherit [Functional Concept]
+
+Phrase: "no predisposing allele"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0002085:Allele [Gene or Genome]
+
+Phrase: "might"
+
+Phrase: "develop"
+
+Phrase: "the disease as a result of an environmental cause."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   781   C0683331:environmental disease cause [Functional Concept]
+   762   C1314792:disease cause [Functional Concept]
+   742   C0012634:Disease [Disease or Syndrome]
+Processing 00000000.tx.13: Furthermore, mutations in any one of several genes (locus heterogeneity) may possibly result in identical phenotypes. 
+
+Phrase: "Furthermore,"
+
+Phrase: "mutations in any one of several genes"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   757   C0596611:gene mutations [Genetic Function]
+   748   C0026882:Mutations [Genetic Function]
+   714 E C1705285:Mutation [Cell or Molecular Dysfunction]
+
+Phrase: "(locus heterogeneity"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C2986542:Locus Heterogeneity [Qualitative Concept]
+   861   C0019409:Heterogeneity [Qualitative Concept]
+   777 E C1512426:Heterogenous [Idea or Concept]
+
+Phrase: ")"
+
+Phrase: "may"
+
+Phrase: "possibly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2362652:Possibly [Qualitative Concept]
+
+Phrase: "result in identical phenotypes."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   770   C0031437:Phenotypes [Organism Attribute]
+   770   C0205280:Identical [Qualitative Concept]
+   770   C1274040:Result [Functional Concept]
+   770   C1546471:Result [Idea or Concept]
+   770   C2825142:Result [Finding]
+   737 E C1285572:Phenotype [Laboratory Procedure]
+Processing 00000000.tx.14: Consequently, there is no way to distinguish between different genetic causes of phenotypically identical cases of IgAN unless the genes can be mapped. 
+
+Phrase: "Consequently,"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "no way to"
+
+Phrase: "distinguish between different genetic causes of phenotypically identical cases of IgAN"
+Meta Candidates (Total=14; Excluded=3; Pruned=0; Remaining=11)
+   753   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   736   C0015127:causes [Functional Concept]
+   736   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   736   C0022658:Nephropathy [Disease or Syndrome]
+   736   C0205280:Identical [Qualitative Concept]
+   736   C0314603:Genetic [Functional Concept]
+   736   C0868928:Cases [Functional Concept]
+   736   C1314792:Causes [Functional Concept]
+   736   C1533148:Cases [Quantitative Concept]
+   736   C1705242:Different [Qualitative Concept]
+   736   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+   703 E C1524003:Cause [Conceptual Entity]
+   703 E C1706255:CASE [Medical Device]
+   703 E C1706256:Case [Conceptual Entity]
+
+Phrase: "unless"
+
+Phrase: "the genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017337:Genes [Gene or Genome]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "mapped."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0024779:Map [Manufactured Object]
+   966   C1706473:Map [Conceptual Entity]
+Processing 00000000.tx.15: Of importance, is the possibly common occurrence of alleles associated with increased susceptibility to IgAN in the general population, and the fact that a given gene might proportionally contribute only minimally to the total genetic/environmental variance. 
+
+Phrase: "Of importance,"
+
+Phrase: "is"
+
+Phrase: "the possibly common occurrence of alleles"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0243132:occurrence [Functional Concept]
+   753   C1554210:occurrence [Idea or Concept]
+   753   C2745955:Occurrence [Temporal Concept]
+
+Phrase: "associated with increased susceptibility"
+Meta Candidates (Total=10; Excluded=2; Pruned=0; Remaining=8)
+   833   C0332281:Associated with [Qualitative Concept]
+           Associated
+   770   C0012655:Susceptibility [Clinical Attribute]
+   770   C0205217:Increased [Quantitative Concept]
+   770   C0220898:Susceptibility [Organism Attribute]
+   770   C0442805:Increased [Functional Concept]
+   770   C1264642:Susceptibility [Functional Concept]
+   770   C1547045:*Susceptibility [Quantitative Concept]
+   737 E C0750490:Associate [Idea or Concept]
+   737 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "to IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "in the general population,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0683971:General Population [Population Group]
+   861   C0032659:Population [Quantitative Concept]
+   861   C1257890:Population [Population Group]
+
+Phrase: "and"
+
+Phrase: "the fact"
+
+Phrase: "that"
+
+Phrase: "a given gene"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017337:Gene [Gene or Genome]
+
+Phrase: "might"
+
+Phrase: "proportionally"
+
+Phrase: "contribute"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1880177:Contribute [Activity]
+
+Phrase: "only minimally to the total genetic/environmental variance."
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+   767   C0042333:genetic variance [Natural Phenomenon or Process]
+   744   C0014406:Environmental [Spatial Concept]
+   744   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   744   C0205171:Only [Quantitative Concept]
+   744   C0314603:Genetic [Functional Concept]
+   744   C0439175:% total [Quantitative Concept]
+   744   C0439810:Total [Qualitative Concept]
+   744   C1711260:Variance [Qualitative Concept]
+   744   C1720467:Only [Intellectual Product]
+   744   C2348152:Variance [Quantitative Concept]
+   739   C0551759:Births.total [Clinical Attribute]
+   739   C0552336:Births.total [Organism Attribute]
+   739   C3494751:Environmental - origin [Finding]
+Processing 00000000.tx.16: Two main methods have been used to depict potential genetic traits in complex diseases. 
+
+Phrase: "Two main methods"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0025663:Methods [Intellectual Product]
+   827   C0025664:methods [Intellectual Product]
+   827   C0449851:Methods [Functional Concept]
+   793 E C0871511:METHOD [Intellectual Product]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "used"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1273517:used [Finding]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "depict"
+
+Phrase: "potential genetic traits in complex diseases."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0678922:genetic traits [Organism Attribute]
+   753   C0599883:traits [Organism Attribute]
+   753   C1427926:TRAITS [Gene or Genome]
+Processing 00000000.tx.17: Most of the genetic studies reported to date on IgAN have been association studies, i.e. case-control studies, searching for a diseaseallelle correlation in a given population [7]. 
+
+Phrase: "Most of the genetic studies"
+Meta Candidates (Total=14; Excluded=9; Pruned=0; Remaining=5)
+   790   C2827447:Genetic Study [Research Activity]
+   760   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   760   C0205393:Most [Quantitative Concept]
+   760   C0314603:Genetic [Functional Concept]
+   760   C0947630:studies [Laboratory Procedure]
+   726 E C0557651:Study [Manufactured Object]
+   726 E C2603343:Study [Research Activity]
+   704 E C0005615:Birth [Organism Function]
+   704 E C0035150:Reproduction [Organism Function]
+   704 E C0079946:origin [Classification]
+   704 E C0439659:Origin [Temporal Concept]
+   704 E C1550512:origin [Intellectual Product]
+   704 E C1550722:birth [Idea or Concept]
+   704 E C3245487:birth [Intellectual Product]
+
+Phrase: "reported to date"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   858   C1302584:Reported Date [Temporal Concept]
+   790   C0011008:Date [Temporal Concept]
+   790   C0684224:Reported [Intellectual Product]
+   790   C0700287:Reported [Health Care Activity]
+   790   C2348077:Date [Food]
+   790   C3496591:Reported [Clinical Attribute]
+   756 E C3273238:Report [Intellectual Product]
+
+Phrase: "on IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "association studies,"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "i.e. case-control studies,"
+Meta Candidates (Total=14; Excluded=2; Pruned=0; Remaining=12)
+   884   C0007328:Case-Control Studies [Research Activity]
+   853   C0085973:Case Studies [Intellectual Product]
+   840   C0872128:case control [Health Care Activity]
+   804   C0243148:control [Qualitative Concept]
+   804   C0868928:Case [Functional Concept]
+   804   C0947630:studies [Laboratory Procedure]
+   804   C1550141:Control [Substance]
+   804   C1706255:CASE [Medical Device]
+   804   C1706256:Case [Conceptual Entity]
+   804   C1882979:Control [Conceptual Entity]
+   804   C2587213:Control [Functional Concept]
+   804   C3274648:Control [Qualitative Concept]
+   771 E C0557651:Study [Manufactured Object]
+   771 E C2603343:Study [Research Activity]
+
+Phrase: "searching for a diseaseallelle correlation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C1707520:Correlation [Qualitative Concept]
+   726   C1552603:search [Intellectual Product]
+   726   C1706202:Search [Activity]
+
+Phrase: "in a given population"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0032659:Population [Quantitative Concept]
+   861   C1257890:Population [Population Group]
+
+Phrase: "[7"
+
+Phrase: "]."
+Processing 00000000.tx.18: The alternative method is linkage analysis, focusing on concordant inheritance in familial IgAN. 
+
+Phrase: "The alternative method"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0025663:Method [Intellectual Product]
+   861   C0449851:Method [Functional Concept]
+   861   C0871511:METHOD [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "linkage analysis,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0796345:linkage analysis [Laboratory Procedure]
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0023745:linkage [Molecular Function]
+   861   C0936012:Analysis [Research Activity]
+   861   C1524024:analysis [Functional Concept]
+
+Phrase: "focusing on concordant inheritance"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   770   C0000936:focusing [Clinical Attribute]
+   770   C0242538:Inheritance [Quantitative Concept]
+   770   C0728826:Inheritance [Functional Concept]
+   770   C2981153:Focusing [Finding]
+   737 E C0205234:Focus [Spatial Concept]
+   737 E C1285542:focus [Functional Concept]
+
+Phrase: "in familial IgAN."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   913   C0403443:Familial nephropathy [Disease or Syndrome]
+   901   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   827   C0022658:Nephropathy [Disease or Syndrome]
+   827   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.19: Defining IgA nephropathy The numerous problems encountered in genetic research in kidney disease are related above all to difficult issues of nosology [9]. 
+
+Phrase: "Defining IgA nephropathy"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   827   C0022658:Nephropathy [Disease or Syndrome]
+   827   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "The numerous problems"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C1546466:Problems [Idea or Concept]
+   827 E C0033213:Problem [Finding]
+
+Phrase: "encountered in genetic research"
+Meta Candidates (Total=15; Excluded=7; Pruned=0; Remaining=8)
+   833   C0243064:Genetic Research [Research Activity]
+   770   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   770   C0035168:research [Research Activity]
+   770   C0242481:Research [Research Activity]
+   770   C0314603:Genetic [Functional Concept]
+   737   C0545082:Encounter [Behavior]
+   737   C1512346:encounter [Health Care Activity]
+   737   C1947978:Encounter [Behavior]
+   715 E C0005615:Birth [Organism Function]
+   715 E C0035150:Reproduction [Organism Function]
+   715 E C0079946:origin [Classification]
+   715 E C0439659:Origin [Temporal Concept]
+   715 E C1550512:origin [Intellectual Product]
+   715 E C1550722:birth [Idea or Concept]
+   715 E C3245487:birth [Intellectual Product]
+
+Phrase: "in kidney disease"
+Meta Candidates (Total=10; Excluded=4; Pruned=0; Remaining=6)
+  1000   C0022658:Kidney disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   861   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   861   C0227665:kidney [Body Part, Organ, or Organ Component]
+   861   C1278978:Kidney [Body Part, Organ, or Organ Component]
+   861   C1514845:KIDNEY [Tissue]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+   768 E C0027697:Nephritides [Disease or Syndrome]
+
+Phrase: "are"
+
+Phrase: "related above all"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C0439849:Related [Qualitative Concept]
+   790   C0445223:Related [Finding]
+   756 E C0163712:Relate [Organic Chemical]
+
+Phrase: "to difficult issues"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0033213:Issue [Finding]
+   827   C1706387:Issue [Intellectual Product]
+
+Phrase: "of nosology"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683326:nosology [Intellectual Product]
+
+Phrase: "[9"
+
+Phrase: "]."
+Processing 00000000.tx.20: IgA is unique among glomerular diseases in being defined by immunofluorescence description, i.e. mesangial deposits of IgA, rather than by light microscopy. 
+
+Phrase: "IgA"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "unique among glomerular diseases"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1710548:Unique [Qualitative Concept]
+
+Phrase: "in"
+
+Phrase: "being"
+
+Phrase: "defined by immunofluorescence description,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   770   C0016318:Immunofluorescence [Laboratory Procedure]
+   770   C0079603:Immunofluorescence [Laboratory Procedure]
+   770   C0678257:Description [Idea or Concept]
+   770   C1704788:Defined [Conceptual Entity]
+   770   C3539106:Defined [Intellectual Product]
+   715 E C0282648:Direct immunofluorescence [Laboratory Procedure]
+
+Phrase: "i.e. mesangial deposits of IgA,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   767   C2959644:IgA deposit [Finding]
+   753   C0333562:Deposits [Functional Concept]
+
+Phrase: "rather than by light microscopy."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0430389:Light microscopy [Laboratory Procedure]
+   760   C0023693:Light [Natural Phenomenon or Process]
+   760   C0026018:Microscopy [Laboratory Procedure]
+   760   C1306462:Light [Functional Concept]
+   760   C1881376:Light [Qualitative Concept]
+Processing 00000000.tx.21: However, biopsy specimens are largely inadequate to clearly establish a limit between various diseases. 
+
+Phrase: "However,"
+
+Phrase: "biopsy specimens"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   983   C0677862:Biopsy Specimen [Tissue]
+   861   C0370003:specimens [Substance]
+   827 E C2347026:Specimen [Conceptual Entity]
+
+Phrase: "are"
+
+Phrase: "largely inadequate to clearly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0205412:Inadequate [Qualitative Concept]
+
+Phrase: "establish"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443211:establish [Qualitative Concept]
+
+Phrase: "a limit between various diseases."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0439801:limit [Functional Concept]
+   760   C1549649:Limit [Idea or Concept]
+   760   C2349209:Limit [Conceptual Entity]
+Processing 00000000.tx.22: I-Hong Hsu et al. reminded us of the problem, demonstrating how difficult it is to unravel the genetic situation of the Zuni Indians, a highly consanguinous community in the US, who have genuine IgAN with consistent deposits of IgM and IgG in 94 and 45% of cases, respectively [2,7]. 
+
+Phrase: "I-Hong Hsu et al."
+
+Phrase: "reminded"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0557033:reminded [Therapeutic or Preventive Procedure]
+
+Phrase: "us of the problem,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0033213:Problem [Finding]
+
+Phrase: "demonstrating"
+
+Phrase: "how difficult"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0332218:Difficult [Qualitative Concept]
+   789 E C1299586:Difficulty [Finding]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "unravel"
+
+Phrase: "the genetic situation of the Zuni Indians,"
+
+Phrase: "a highly consanguinous community in the"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0009462:Community [Geographic Area]
+
+Phrase: "US,"
+
+Phrase: "who"
+
+Phrase: "have"
+
+Phrase: "genuine IgAN with consistent deposits of IgM"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   767   C0403433:IgM nephropathy [Disease or Syndrome]
+   750   C2959644:IgA deposit [Finding]
+   744   C0022658:Nephropathy [Disease or Syndrome]
+   744   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "IgG in 94"
+
+Phrase: "and"
+
+Phrase: "45% of cases,"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   790   C0868928:Cases [Functional Concept]
+   790   C1533148:Cases [Quantitative Concept]
+   756 E C1706255:CASE [Medical Device]
+   756 E C1706256:Case [Conceptual Entity]
+
+Phrase: "respectively"
+
+Phrase: "[2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "7"
+
+Phrase: "]."
+Processing 00000000.tx.23: Moreover, renal biopsies are not always obtained in uraemic patients, so the definitive diagnosis of IgAN is not validated in each instance. 
+
+Phrase: "Moreover,"
+
+Phrase: "renal biopsies"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   983   C0194073:Renal biopsy [Diagnostic Procedure]
+   861   C0005558:biopsies [Diagnostic Procedure]
+   827 E C0220797:biopsy [Functional Concept]
+
+Phrase: "are"
+
+Phrase: "not always"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1518422:Not [Functional Concept]
+   861   C2003902:Always [Temporal Concept]
+
+Phrase: "obtained in uraemic patients,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C1301820:Obtained [Functional Concept]
+   737 E C1706701:Obtain [Activity]
+
+Phrase: "so"
+
+Phrase: "the definitive diagnosis of IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0011900:Diagnosis [Finding]
+   753   C1704338:diagnosis [Qualitative Concept]
+   753   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "validated in each instance."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1550608:Instance [Idea or Concept]
+Processing 00000000.tx.24: Even in Gharavi's report, five of the 17 ESRD patients did not have biopsy-proven IgAN [1]. 
+
+Phrase: "Even in Gharavi's report,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0684224:Report [Intellectual Product]
+   770   C0700287:Report [Health Care Activity]
+   770   C3273238:Report [Intellectual Product]
+
+Phrase: "five of the 17 ESRD patients"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0022661:ESRD [Disease or Syndrome]
+   753   C0030705:Patients [Patient or Disabled Group]
+   753   C0035078:ESRD [Disease or Syndrome]
+   753   C0205451:Five [Quantitative Concept]
+   753   C2316810:ESRD [Disease or Syndrome,Finding]
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "have"
+
+Phrase: "biopsy-proven IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   812   C0022658:Nephropathy [Disease or Syndrome]
+   812   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.25: Late onset of clinical symptoms is typical for IgAN, thus hampering diagnosis in the early stages of the disease [2,1012]. 
+
+Phrase: "Late onset of clinical symptoms"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205087:Late [Temporal Concept]
+   760   C0332162:Onset [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "typical for IgAN,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C3538928:Typical [Qualitative Concept]
+
+Phrase: "thus"
+
+Phrase: "hampering"
+
+Phrase: "diagnosis in the early stages of the disease"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   778   C0699749:disease stage diagnosis [Diagnostic Procedure]
+   767   C0596473:Early Diagnosis [Diagnostic Procedure]
+   744   C0011900:Diagnosis [Finding]
+   744   C1704338:diagnosis [Qualitative Concept]
+   744   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "[2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "1012"
+
+Phrase: "]."
+Processing 00000000.tx.26: Light microscopy findings range from minimal changes to extracapillary crescents. 
+
+Phrase: "Light microscopy findings range from minimal changes"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C1514721:Range [Quantitative Concept]
+   748   C2348147:Range [Quantitative Concept]
+   748   C3542016:Range [Intellectual Product]
+
+Phrase: "to extracapillary crescents."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0444628:Crescents [Spatial Concept]
+Processing 00000000.tx.27: Primary IgAN can appear either as macroscopic haematuria or microscopic haematuria/proteinuria, and less frequently as nephrotic syndrome. 
+
+Phrase: "Primary IgAN"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0017661:Primary IgA nephropathy [Disease or Syndrome]
+           Nephropathy, IGA
+   827   C0022658:Nephropathy [Disease or Syndrome]
+   827   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "can"
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "either as macroscopic haematuria"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C0473237:Macroscopic haematuria [Finding]
+   770   C0018965:Haematuria [Finding]
+   770   C0439806:Macroscopic [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "microscopic haematuria/proteinuria,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0033687:Proteinuria [Finding]
+   827   C1962972:Proteinuria [Finding]
+   734   C0239937:Microscopic haematuria [Pathologic Function]
+
+Phrase: "and"
+
+Phrase: "less frequently as nephrotic syndrome."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0027726:Nephrotic Syndrome [Disease or Syndrome]
+   760   C0039082:Syndrome [Disease or Syndrome]
+   760   C0332183:Frequently [Temporal Concept]
+   760   C0439092:less [Intellectual Product]
+   760   C0547044:Less [Qualitative Concept]
+Processing 00000000.tx.28: The description of IgAN before, during or after another disease is often reported and clouds the clinical reports. 
+
+Phrase: "The description of IgAN before,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0678257:Description [Idea or Concept]
+
+Phrase: "during"
+
+Phrase: "or after another disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0012634:Disease [Disease or Syndrome]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "reported"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0684224:Reported [Intellectual Product]
+  1000   C0700287:Reported [Health Care Activity]
+  1000   C3496591:Reported [Clinical Attribute]
+   966 E C3273238:Report [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "clouds"
+
+Phrase: "the clinical reports."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1299495:clinical reports [Intellectual Product]
+   861   C0684224:Reports [Intellectual Product]
+   861   C0700287:reports [Health Care Activity]
+   827 E C3273238:Report [Intellectual Product]
+Processing 00000000.tx.29: For example, the concurrent appearance of IgAN and minimal change disease points out the lack of mutually exclusive diagnostic criteria [9]. 
+
+Phrase: "For example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "the concurrent appearance of IgAN"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0233426:Appearance [Organism Attribute]
+   753   C0700364:Appearance [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "minimal change disease"
+Meta Candidates (Total=14; Excluded=5; Pruned=0; Remaining=9)
+  1000   C0027721:Minimal Change Disease [Disease or Syndrome]
+  1000   C1704320:Minimal Change Disease [Disease or Syndrome]
+   827   C0012634:Disease [Disease or Syndrome]
+   827   C0392747:Change [Functional Concept]
+   827   C0443172:change [Quantitative Concept]
+   827   C0547040:Minimal [Qualitative Concept]
+   827   C1524031:MINIMAL [Qualitative Concept]
+   827   C1705241:Change [Quantitative Concept]
+   827   C2945599:Minimal [Qualitative Concept]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+   755 E C1552614:minimum [Idea or Concept]
+   755 E C2826545:MINIMUM [Quantitative Concept]
+
+Phrase: "points"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552961:Point [Quantitative Concept]
+  1000   C2347617:point [Quantitative Concept]
+
+Phrase: "out"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439787:Out [Spatial Concept]
+  1000   C0849355:Out [Qualitative Concept]
+
+Phrase: "the lack of mutually exclusive diagnostic criteria"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0332268:lack [Qualitative Concept]
+
+Phrase: "[9"
+
+Phrase: "]."
+Processing 00000000.tx.30: The discovery of IgAN with terminal glomerulosclerosis in a diabetic patient also illustrates the problem of the lack of independence between disease and risk factor assessments [9]. 
+
+Phrase: "The discovery of IgAN"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1880355:Discovery [Activity]
+
+Phrase: "with terminal glomerulosclerosis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0178664:Glomerulosclerosis [Disease or Syndrome]
+   861   C1417247:glomerulosclerosis [Gene or Genome]
+
+Phrase: "in a diabetic patient also"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "illustrates"
+
+Phrase: "the problem of the lack of independence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0033213:Problem [Finding]
+
+Phrase: "between disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "risk factor assessments"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   983   C2983699:Risk Factor Assessment [Intellectual Product]
+   913   C0086930:Risk Assessments [Health Care Activity]
+   896 E C3539808:Risk Assessment [Intellectual Product]
+   827   C1261322:assessments [Health Care Activity]
+   793 E C1516048:Assessment [Activity]
+   734   C0035648:Risk factor [Quantitative Concept]
+
+Phrase: "[9"
+
+Phrase: "]."
+Processing 00000000.tx.31: Finally, glomerular lesions in HenochSchnlein purpura are often indistinguishable from IgAN and each disease can occur in a multiplex kindred. 
+
+Phrase: "Finally,"
+
+Phrase: "glomerular lesions in HenochSchnlein purpura"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0221198:lesions [Finding]
+   726 E C1546698:Lesion [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: "often indistinguishable from IgAN"
+
+Phrase: "and"
+
+Phrase: "each disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "can"
+
+Phrase: "occur in a multiplex kindred."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0598429:kindred [Qualitative Concept]
+   760   C1709305:Occur [Activity]
+   760   C2745955:OCCUR [Temporal Concept]
+Processing 00000000.tx.32: In their study, Gharavi et al. did not discuss this matter [1]. 
+
+Phrase: "In their study,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "Gharavi et al."
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "discuss"
+
+Phrase: "this matter"
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.33: To get around this clinical diversity, geneticists have suggested restricting the patient population, so work can be done on a trait with a pattern that is closer to Mendelian inheritance, and thus a theoretically more homogeneous genotype [7]. 
+
+Phrase: "To"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "get around this clinical diversity,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205210:Clinical [Qualitative Concept]
+   760   C1880371:Diversity [Qualitative Concept]
+
+Phrase: "geneticists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0402118:geneticists [Professional or Occupational Group]
+
+Phrase: "have"
+
+Phrase: "suggested"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "restricting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443288:restricting [Functional Concept]
+
+Phrase: "the patient population,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0032659:Population [Quantitative Concept]
+   861   C1257890:Population [Population Group]
+
+Phrase: "so"
+
+Phrase: "work"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0043227:Work [Occupational Activity]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "done on a trait"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0599883:Trait [Organism Attribute]
+   770   C1272695:Done [Qualitative Concept]
+   770   C2746065:Done [Temporal Concept]
+
+Phrase: "with a pattern"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449774:Pattern [Spatial Concept]
+
+Phrase: "that"
+
+Phrase: "is"
+
+Phrase: "closer to Mendelian inheritance,"
+
+Phrase: "and"
+
+Phrase: "thus"
+
+Phrase: "a theoretically more homogeneous genotype"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0017431:Genotype [Organism Attribute]
+
+Phrase: "[7"
+
+Phrase: "]."
+Processing 00000000.tx.34: For instance, the clinical phenotype could be limited to patients with bouts of macroscopic haematuria. 
+
+Phrase: "For instance,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1550608:Instance [Idea or Concept]
+
+Phrase: "the clinical phenotype"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0031437:Phenotype [Organism Attribute]
+   861   C1285572:Phenotype [Laboratory Procedure]
+
+Phrase: "could"
+
+Phrase: "be"
+
+Phrase: "limited to patients"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   790   C0030705:Patients [Patient or Disabled Group]
+   790   C0439801:Limited [Functional Concept]
+   790   C3542948:Limited [Intellectual Product]
+   756 E C1549649:Limit [Idea or Concept]
+   756 E C2349209:Limit [Conceptual Entity]
+
+Phrase: "with bouts"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0741605:bouts [Temporal Concept]
+
+Phrase: "of macroscopic haematuria."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0473237:Macroscopic haematuria [Finding]
+   861   C0018965:Haematuria [Finding]
+Processing 00000000.tx.35: One could also hypothesize that patients with early-onset IgAN might be genetically more homogeneous than those with late-onset disease. 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "could"
+
+Phrase: "also"
+
+Phrase: "hypothesize"
+
+Phrase: "that patients with early-onset IgAN"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "genetically more homogeneous than those"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1881065:Homogeneous [Qualitative Concept]
+
+Phrase: "with late-onset disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   827   C0012634:Disease [Disease or Syndrome]
+   827   C0205087:Late [Temporal Concept]
+   827   C0332162:Onset [Qualitative Concept]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.36: This approach has been applied to study polymorphisms of the mannose-binding lectin gene in a sub-group of patients <18 years old at disease onset [13]. 
+
+Phrase: "This approach"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449445:Approach [Spatial Concept]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "applied"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0185125:Applied [Health Care Activity]
+   966 E C1632850:Apply [Functional Concept]
+   966 E C1879355:Apply [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "polymorphisms of the mannose-binding lectin gene"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   774   C0678951:gene polymorphisms [Genetic Function]
+   748   C0032529:polymorphisms [Genetic Function]
+   714 E C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "in a sub-group"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   861   C0441833:Group [Idea or Concept]
+   861   C0542339:Sub- [Spatial Concept]
+   861   C0687744:group [Population Group]
+   861   C1257890:Group [Population Group]
+   861   C1264637:SUB [Quantitative Concept]
+   861   C1552516:Group [Health Care Related Organization]
+   861   C1705428:Group [Conceptual Entity]
+   861   C1705429:Group [Population Group]
+
+Phrase: "of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "<18 years old at disease onset"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0580836:Old [Temporal Concept]
+
+Phrase: "[13"
+
+Phrase: "]."
+Processing 00000000.tx.37: Another solution is to consider only patients with very severe disease, i.e. rapidly progressive IgAN; 
+
+Phrase: "Another solution"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0037633:Solution [Substance]
+  1000   C0525069:Solution [Biomedical or Dental Material]
+
+Phrase: "is"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "consider"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: "only patients with very severe disease,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "i.e. rapidly progressive IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   799   C0022658:Nephropathy [Disease or Syndrome]
+   799   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: ";"
+Processing 00000000.tx.38: however, these cases are very rare. 
+
+Phrase: "however,"
+
+Phrase: "these cases"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0868928:Cases [Functional Concept]
+  1000   C1533148:Cases [Quantitative Concept]
+   966 E C1706255:CASE [Medical Device]
+   966 E C1706256:Case [Conceptual Entity]
+
+Phrase: "are"
+
+Phrase: "very rare."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C1855575:Very rare [Finding]
+   861   C0521114:Rare [Temporal Concept]
+   861   C0522498:Rare [Qualitative Concept]
+   861   C1514917:RARE [Gene or Genome]
+Processing 00000000.tx.39: Identifying genes that initiate IgAN or promote kidney failure The clinical puzzle is muddled further by physiological considerations, because the diagnosis of IgAN does not imply a common pathogenic mechanism [2,10]. 
+
+Phrase: "Identifying genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017337:Genes [Gene or Genome]
+
+Phrase: "that"
+
+Phrase: "initiate"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1548602:Initiate [Idea or Concept]
+  1000   C1704686:Initiate [Functional Concept]
+
+Phrase: "IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "or"
+
+Phrase: "promote"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033414:Promote [Activity]
+
+Phrase: "kidney failure"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+  1000   C0035078:Kidney Failure [Disease or Syndrome]
+   972 E C1963154:Renal failure [Finding]
+   861   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   861   C0227665:kidney [Body Part, Organ, or Organ Component]
+   861   C0231174:Failure [Functional Concept]
+   861   C0680095:failure [Individual Behavior]
+   861   C1278978:Kidney [Body Part, Organ, or Organ Component]
+   861   C1514845:KIDNEY [Tissue]
+   768 E C0027697:Nephritides [Disease or Syndrome]
+
+Phrase: "The clinical puzzle"
+
+Phrase: "is"
+
+Phrase: "muddled"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0009676:Muddled [Mental or Behavioral Dysfunction]
+
+Phrase: "further by physiological considerations,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0205463:Physiological [Functional Concept]
+   770   C0518609:considerations [Finding]
+   770   C1517331:Further [Spatial Concept]
+   737 E C0205108:far [Spatial Concept]
+
+Phrase: "because"
+
+Phrase: "the diagnosis of IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011900:Diagnosis [Finding]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "imply"
+
+Phrase: "a common pathogenic mechanism"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0441712:Mechanism [Functional Concept]
+   827   C1706376:Mechanism [Manufactured Object]
+
+Phrase: "[2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "10"
+
+Phrase: "]."
+Processing 00000000.tx.40: There are, however, three physiological sequences relatively characteristic of IgAN. 
+
+Phrase: "There"
+
+Phrase: "are"
+
+Phrase: ","
+
+Phrase: "however,"
+
+Phrase: "three physiological sequences"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+   827   C0162326:Sequences [Nucleotide Sequence]
+   793 E C0004793:Sequence [Nucleotide Sequence]
+   793 E C0162327:Sequence [Nucleotide Sequence]
+   793 E C1519249:Sequence [Functional Concept]
+   743 E C1548958:Sequential [Idea or Concept]
+   743 E C1705294:Sequential [Qualitative Concept]
+
+Phrase: "relatively characteristic of IgAN."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1521970:Characteristic [Qualitative Concept]
+Processing 00000000.tx.41: The first concerns the processes initiating mesangial IgA deposits. 
+
+Phrase: "The first"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205435:First [Quantitative Concept]
+  1000   C1279901:First [Qualitative Concept]
+
+Phrase: "concerns"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699424:Concern [Idea or Concept]
+
+Phrase: "the processes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C1184743:Process [Body Part, Organ, or Organ Component]
+   966   C1522240:Process [Phenomenon or Process]
+
+Phrase: "initiating"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C1548602:Initiate [Idea or Concept]
+   966   C1704686:Initiate [Functional Concept]
+
+Phrase: "mesangial IgA deposits."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   884   C2959644:IgA deposit [Finding]
+   827   C0333562:Deposits [Functional Concept]
+Processing 00000000.tx.42: This condition probably occurs more often than one might imagine. 
+
+Phrase: "This condition probably"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   861   C0012634:condition [Disease or Syndrome]
+   861   C0348080:Condition [Qualitative Concept]
+   861   C1705253:Condition [Conceptual Entity]
+   789 E C0009647:Conditioned [Mental Process]
+   789 E C1701901:Conditional [Qualitative Concept]
+   789 E C1963686:Conditional [Functional Concept]
+   761 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "occurs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1709305:Occur [Activity]
+  1000   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "more often than one"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0205172:More [Functional Concept]
+   770   C0205447:One [Quantitative Concept]
+   770   C0332183:Often [Temporal Concept]
+
+Phrase: "might"
+
+Phrase: "imagine."
+Processing 00000000.tx.43: Actually, unquestionable IgA deposits are frequently discovered in systematic autopsies of subjects who died without a renal history [14]. 
+
+Phrase: "Actually,"
+
+Phrase: "unquestionable IgA deposits"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   884   C2959644:IgA deposit [Finding]
+   827   C0333562:Deposits [Functional Concept]
+
+Phrase: "are"
+
+Phrase: "frequently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Frequently [Temporal Concept]
+
+Phrase: "discovered in systematic autopsies of subjects"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   753   C0004398:Autopsies [Diagnostic Procedure]
+   753   C0220922:systematic [Functional Concept]
+   719   C0681850:Subject [Group]
+   719   C1550501:{Subject} [Idea or Concept]
+   719   C1706203:Subject [Idea or Concept]
+   719   C1880355:Discover [Activity]
+   719   C2349001:Subject [Human]
+   719   C2697811:Subject [Functional Concept]
+
+Phrase: "who"
+
+Phrase: "died without a renal history"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   760   C0011065:Died [Organism Function]
+   760   C0019664:History [Occupation or Discipline]
+   760   C0019665:history [Intellectual Product]
+   760   C0022646:Renal [Body Part, Organ, or Organ Component]
+   760   C0262512:History, NOS [Organism Attribute]
+   760   C0262926:History [Finding]
+   760   C1546956:Died [Finding]
+   760   C1705255:History [Conceptual Entity]
+   760   C2004062:History [Finding]
+
+Phrase: "[14"
+
+Phrase: "]."
+Processing 00000000.tx.44: This is the hidden part of the iceberg. 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: "the hidden part of the iceberg."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C1292711:Part of [Spatial Concept]
+   753   C0449719:Part [Spatial Concept]
+   753   C1709471:Part [Quantitative Concept]
+Processing 00000000.tx.45: The second sequence concerns only a small portion of these subjects, those with pathological IgA deposits generating mesangial cell damage and activation. 
+
+Phrase: "The second sequence"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   861   C0004793:Sequence [Nucleotide Sequence]
+   861   C0162326:Sequence [Nucleotide Sequence]
+   861   C0162327:Sequence [Nucleotide Sequence]
+   861   C1519249:Sequence [Functional Concept]
+   789 E C1548958:Sequential [Idea or Concept]
+   789 E C1705294:Sequential [Qualitative Concept]
+
+Phrase: "concerns"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699424:Concern [Idea or Concept]
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "a small portion of these subjects,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0449719:Portion [Spatial Concept]
+
+Phrase: "those with pathological IgA deposits"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C2959644:IgA deposit [Finding]
+   760   C0030664:Pathological [Biomedical Occupation or Discipline]
+   760   C0333562:Deposits [Functional Concept]
+   760   C1521733:Pathological [Functional Concept]
+   760   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "generating"
+
+Phrase: "mesangial cell damage"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0599732:cell damage [Cell or Molecular Dysfunction]
+   827   C0010957:Damage [Injury or Poisoning]
+   827   C1883709:Damage [Functional Concept]
+   734   C0227651:Mesangial cell [Cell]
+
+Phrase: "and"
+
+Phrase: "activation."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1879547:Activation [Activity]
+Processing 00000000.tx.46: The third sequence is not specific to IgAN, since the processes subsequently promoting kidney failure are likely to be generic (with few differences), with analogous events in other types of chronic glomerulonephritis [9,10]. 
+
+Phrase: "The third sequence"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   861   C0004793:Sequence [Nucleotide Sequence]
+   861   C0162326:Sequence [Nucleotide Sequence]
+   861   C0162327:Sequence [Nucleotide Sequence]
+   861   C1519249:Sequence [Functional Concept]
+   789 E C1548958:Sequential [Idea or Concept]
+   789 E C1705294:Sequential [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "not specific to IgAN,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205369:Specific [Qualitative Concept]
+   760   C1552740:specific [Intellectual Product]
+
+Phrase: "since"
+
+Phrase: "the processes subsequently"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1184743:Process [Body Part, Organ, or Organ Component]
+   827   C1522240:Process [Phenomenon or Process]
+
+Phrase: "promoting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033414:Promoting [Activity]
+
+Phrase: "kidney failure"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+  1000   C0035078:Kidney Failure [Disease or Syndrome]
+   972 E C1963154:Renal failure [Finding]
+   861   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   861   C0227665:kidney [Body Part, Organ, or Organ Component]
+   861   C0231174:Failure [Functional Concept]
+   861   C0680095:failure [Individual Behavior]
+   861   C1278978:Kidney [Body Part, Organ, or Organ Component]
+   861   C1514845:KIDNEY [Tissue]
+   768 E C0027697:Nephritides [Disease or Syndrome]
+
+Phrase: "are"
+
+Phrase: "likely to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0332148:Likely [Qualitative Concept]
+   861   C0750492:Likely [Idea or Concept]
+
+Phrase: "be"
+
+Phrase: "generic"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085155:generic [Pharmacologic Substance]
+
+Phrase: "("
+
+Phrase: "with few differences"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C1705241:*Difference [Quantitative Concept]
+   827   C1705242:Difference [Qualitative Concept]
+   777 E C0443199:Differential [Qualitative Concept]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "with analogous events"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0441471:Events [Event]
+   861   C3541888:Events [Classification]
+
+Phrase: "in other types"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0332307:Types [Qualitative Concept]
+   966 E C1547052:*Type [Quantitative Concept]
+
+Phrase: "of chronic glomerulonephritis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0152451:Chronic glomerulonephritis [Disease or Syndrome]
+   861   C0017658:Glomerulonephritis [Disease or Syndrome]
+   861   C0205191:chronic [Temporal Concept]
+
+Phrase: "[9,"
+
+Phrase: "10"
+
+Phrase: "]."
+Processing 00000000.tx.47: This context hinders the construction of realistic hypotheses. 
+
+Phrase: "This context"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0449255:Context [Finding]
+  1000   C0542559:Context [Functional Concept]
+
+Phrase: "hinders"
+
+Phrase: "the construction of realistic hypotheses."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0441513:Construction [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.48: Yet, suitable association studies should investigate associations that make biological sense and alleles that affect the gene product in a physiologically meaningful way [8]. 
+
+Phrase: "Yet,"
+
+Phrase: "suitable association studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C0947630:studies [Laboratory Procedure]
+   793 E C0557651:Study [Manufactured Object]
+   793 E C2603343:Study [Research Activity]
+
+Phrase: "should"
+
+Phrase: "investigate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1292732:investigate [Functional Concept]
+
+Phrase: "associations"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0004083:Associations [Mental Process]
+   966 E C0439849:Association [Qualitative Concept]
+   966 E C0596306:Association [Phenomenon or Process]
+   966 E C0699792:association [Social Behavior]
+
+Phrase: "that"
+
+Phrase: "make"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "biological sense"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0036658:sense [Organ or Tissue Function]
+
+Phrase: "and"
+
+Phrase: "alleles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0002085:Alleles [Gene or Genome]
+
+Phrase: "that"
+
+Phrase: "affect"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001721:Affect [Mental Process]
+
+Phrase: "the gene product in a physiologically meaningful way"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0033684:gene product [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   770   C1704222:Gene Product [Amino Acid, Peptide, or Protein,Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   744   C0017337:Gene [Gene or Genome]
+   744   C1514468:product [Entity]
+   744   C1704444:Product [Quantitative Concept]
+
+Phrase: "[8"
+
+Phrase: "]."
+Processing 00000000.tx.49: The study design should, at the very least, clearly distinguish between initiators likely to be specific for IgAN and general promoters of kidney failure. 
+
+Phrase: "The study design"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0035171:Study Design [Research Activity]
+  1000   C2983265:Study Design [Intellectual Product]
+           DESIGN
+  1000   C2986888:Study Design [Research Activity]
+   861   C0557651:Study [Manufactured Object]
+   861   C1707689:Design [Activity]
+   861   C2603343:Study [Research Activity]
+
+Phrase: "should"
+
+Phrase: ","
+
+Phrase: "at the very least,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442824:Very [Qualitative Concept]
+
+Phrase: "clearly"
+
+Phrase: "distinguish between initiators likely to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0332148:Likely [Qualitative Concept]
+   760   C0750492:Likely [Idea or Concept]
+   726   C1444748:Initiator [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "specific for IgAN"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0205369:Specific [Qualitative Concept]
+   770   C1552740:specific [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "general promoters of kidney failure."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0086860:promoters [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+Processing 00000000.tx.50: Logically, early initiators should be studied in comparison with a healthy control group. 
+
+Phrase: "Logically,"
+
+Phrase: "early initiators"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1444748:Initiator [Qualitative Concept]
+
+Phrase: "should"
+
+Phrase: "be"
+
+Phrase: "studied in comparison"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   841   C0489479:Comparison.study [Clinical Attribute]
+   841   C1579762:comparison study [Research Activity]
+   790   C1707455:Comparison [Activity]
+   756   C0557651:Study [Manufactured Object]
+   756   C2603343:Study [Research Activity]
+
+Phrase: "with a healthy control group."
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   901   C0009932:Control Group [Group]
+   827   C0441833:Group [Idea or Concept]
+   827   C0687744:group [Population Group]
+   827   C1257890:Group [Population Group]
+   827   C1552516:Group [Health Care Related Organization]
+   827   C1705428:Group [Conceptual Entity]
+   827   C1705429:Group [Population Group]
+   734   C2986479:Healthy Control [Qualitative Concept]
+Processing 00000000.tx.51: One study devoted to a candidate gene for control of IgA1 production is an illustrative example [15]; 
+
+Phrase: "One study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+
+Phrase: "devoted to a candidate gene"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C1332838:Candidate Gene [Gene or Genome]
+   760   C0017337:Gene [Gene or Genome]
+
+Phrase: "for control"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0243148:control [Qualitative Concept]
+  1000   C1550141:Control [Substance]
+  1000   C1882979:Control [Conceptual Entity]
+  1000   C2587213:Control [Functional Concept]
+  1000   C3274648:Control [Qualitative Concept]
+
+Phrase: "of IgA1 production"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0033268:production [Occupational Activity]
+
+Phrase: "is"
+
+Phrase: "an illustrative example"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1707959:Example [Conceptual Entity]
+
+Phrase: "[15"
+
+Phrase: "]"
+
+Phrase: ";"
+Processing 00000000.tx.52: comparison with a control group produced a negative result, but a concurrent comparison considering the same gene as a promoter was positive. 
+
+Phrase: "comparison with a control group"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1707455:Comparison [Activity]
+
+Phrase: "produced"
+
+Phrase: "a negative result,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C1274040:Result [Functional Concept]
+   861   C1546471:Result [Idea or Concept]
+   861   C2825142:Result [Finding]
+
+Phrase: "but"
+
+Phrase: "a concurrent comparison"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1707455:Comparison [Activity]
+
+Phrase: "considering"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considering [Idea or Concept]
+
+Phrase: "the same gene as a promoter"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   783   C0314621:Promoter gene [Gene or Genome]
+   753   C0017337:Gene [Gene or Genome]
+
+Phrase: "was"
+
+Phrase: "positive."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0439178:% Positive [Quantitative Concept]
+  1000   C1446409:Positive [Qualitative Concept]
+  1000   C1514241:Positive [Finding]
+  1000   C2825490:Positive [Qualitative Concept]
+Processing 00000000.tx.53: Another example is the apparently significant role of polymorphism in the functional promoter region of the FcR gene, demonstrated by comparing 90 patients with IgAN, 50 with other glomerulonephritis and 83 healthy controls, without taking progression into account [16]. 
+
+Phrase: "Another example"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "is"
+
+Phrase: "the apparently significant role of polymorphism"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035820:Role [Social Behavior]
+   753   C1705810:Role [Conceptual Entity]
+
+Phrase: "in the functional promoter region"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   901   C0033413:Region, Promoter [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   827   C0017446:Region [Geographic Area]
+   827   C0086860:Promoter [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   827   C0205147:Region [Spatial Concept]
+   755 E C0205276:Regional [Spatial Concept]
+   755 E C1947913:Regional [Spatial Concept]
+
+Phrase: "of the FcR gene,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017337:Gene [Gene or Genome]
+
+Phrase: "demonstrated by comparing 90 patients"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0030705:Patients [Patient or Disabled Group]
+   760   C0439083:>90 [Quantitative Concept]
+   760   C0439087:<90 [Quantitative Concept]
+   726   C1707455:Compare [Activity]
+
+Phrase: "with IgAN,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "50 with other glomerulonephritis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0017658:Glomerulonephritis [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "83 healthy controls,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   884   C2986479:Healthy Control [Qualitative Concept]
+   793   C0243148:control [Qualitative Concept]
+   793   C1550141:Control [Substance]
+   793   C1882979:Control [Conceptual Entity]
+   793   C2587213:Control [Functional Concept]
+   793   C3274648:Control [Qualitative Concept]
+
+Phrase: "without taking progression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0242656:progression [Pathologic Function]
+   861   C0449258:Progression [Functional Concept]
+
+Phrase: "into account"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1551359:account [Idea or Concept]
+  1000   C2741673:Account # [Clinical Attribute]
+  1000   C2981730:Account [Classification]
+
+Phrase: "[16"
+
+Phrase: "]."
+Processing 00000000.tx.54: Under relevant functional assumptions, it is undeniable that the renin-angiotensin system plays a role in promoting kidney failure [2,3,10]. 
+
+Phrase: "Under relevant functional assumptions,"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "undeniable"
+
+Phrase: "that"
+
+Phrase: "the renin-angiotensin system"
+Meta Candidates (Total=12; Excluded=3; Pruned=0; Remaining=9)
+  1000   C0035096:Renin-angiotensin system [Body System]
+  1000   C2984247:Renin-angiotensin system [Functional Concept]
+   827   C0003018:Angiotensin [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   827   C0035094:Renin [Amino Acid, Peptide, or Protein,Enzyme]
+   827   C0035100:Rennin [Amino Acid, Peptide, or Protein,Enzyme,Pharmacologic Substance]
+   827   C0449913:System [Functional Concept]
+   827   C1419338:RENIN [Gene or Genome]
+   827   C1553451:System [Manufactured Object]
+   827   C1704459:System [Medical Device]
+   771 E C0022877:Lab [Manufactured Object,Organization]
+   771 E C0587081:Labs [Finding]
+   755 E C0205373:Systemic [Functional Concept]
+
+Phrase: "plays"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0032214:Play [Daily or Recreational Activity]
+  1000   C0600138:Plays [Finding]
+
+Phrase: "a role in promoting kidney failure"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035820:Role [Social Behavior]
+   753   C1705810:Role [Conceptual Entity]
+
+Phrase: "[2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "3,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "10"
+
+Phrase: "]."
+Processing 00000000.tx.55: If an association between a gene and IgAN could be found, it would be consistent since the bias of heterogeneity of pathogenesis is avoided in the more homogeneous IgAN group [7]. 
+
+Phrase: "If"
+
+Phrase: "an association between a gene"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0004083:Association [Mental Process]
+   760   C0439849:Association [Qualitative Concept]
+   760   C0596306:Association [Phenomenon or Process]
+   760   C0699792:association [Social Behavior]
+
+Phrase: "and"
+
+Phrase: "IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "could"
+
+Phrase: "be"
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: ","
+
+Phrase: "it"
+
+Phrase: "would"
+
+Phrase: "be"
+
+Phrase: "consistent"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332290:Consistent [Idea or Concept]
+   928 E C0332529:Consistencies [Qualitative Concept]
+   928 E C1547017:Consistency [Quantitative Concept]
+
+Phrase: "since"
+
+Phrase: "the bias of heterogeneity of pathogenesis"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   753   C0242568:Bias [Idea or Concept]
+   753   C1504315:Bias [Bird]
+   719 E C1061346:Bia [Eukaryote]
+   719 E C1704746:BIA [Diagnostic Procedure]
+
+Phrase: "is"
+
+Phrase: "avoided in the more homogeneous IgAN group"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   770   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   744   C0022658:Nephropathy [Disease or Syndrome]
+   744   C0441833:Group [Idea or Concept]
+   744   C0687744:group [Population Group]
+   744   C1257890:Group [Population Group]
+   744   C1552516:Group [Health Care Related Organization]
+   744   C1705428:Group [Conceptual Entity]
+   744   C1705429:Group [Population Group]
+   744   C1881065:Homogeneous [Qualitative Concept]
+   744   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "[7"
+
+Phrase: "]."
+Processing 00000000.tx.56: Generalization to other progressive nephropathies would be realistic. 
+
+Phrase: "Generalization to other progressive nephropathies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0017324:Generalization [Mental Process]
+
+Phrase: "would"
+
+Phrase: "be"
+
+Phrase: "realistic."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   928   C0237815:Realism [Idea or Concept]
+Processing 00000000.tx.57: Unfortunately, association studies have produced conflicting results about genetic polymorphisms of the RAS in IgAN [26]. 
+
+Phrase: "Unfortunately,"
+
+Phrase: "association studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "have"
+
+Phrase: "produced"
+
+Phrase: "conflicting results about genetic polymorphisms of the RAS"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   730   C3244125:lab results [Intellectual Product]
+   706   C1274040:Result [Functional Concept]
+   706   C1546471:Result [Idea or Concept]
+   706   C2825142:Result [Finding]
+
+Phrase: "in IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "[26"
+
+Phrase: "]."
+Processing 00000000.tx.58: Many explanations of failure to replicate initial results can be given: small sample size, artefacts, random events, and initial false-positive results [8]. 
+
+Phrase: "Many explanations of failure to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0681841:Explanations [Intellectual Product]
+
+Phrase: "replicate"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205173:Replicate [Functional Concept]
+  1000   C0205341:Replicate [Functional Concept]
+  1000   C1883725:Replicate [Qualitative Concept]
+
+Phrase: "initial results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C1274040:Result [Functional Concept]
+   827   C1546471:Result [Idea or Concept]
+   827   C2825142:Result [Finding]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "given"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1442162:GIVEN [Conceptual Entity]
+  1000   C1550718:given [Idea or Concept]
+  1000   C3244317:given [Intellectual Product]
+   966 E C1947971:Give [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "small sample size,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   913   C0748864:small size [Finding]
+   901   C0242618:Sample Size [Quantitative Concept]
+   827   C0456389:size [Spatial Concept]
+
+Phrase: "artefacts,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085089:Artefacts [Human-caused Phenomenon or Process]
+
+Phrase: "random events,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0441471:Events [Event]
+   861   C3541888:Events [Classification]
+
+Phrase: "and"
+
+Phrase: "initial false-positive results"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   906   C0205557:false-positive result [Laboratory or Test Result]
+   906   C1880724:FALSE POSITIVE RESULT [Finding]
+   779   C1274040:Result [Functional Concept]
+   779   C1546471:Result [Idea or Concept]
+   779   C2825142:Result [Finding]
+
+Phrase: "[8"
+
+Phrase: "]."
+Processing 00000000.tx.59: The main problem is the choice of a control group [7], cognate with the methodological difficulties encountered in assessing the progression of nephropathies [4,9]. 
+
+Phrase: "The main problem"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0033213:Problem [Finding]
+
+Phrase: "is"
+
+Phrase: "the choice of a control group"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0008300:choice [Individual Behavior]
+   753   C1707391:Choice [Activity]
+
+Phrase: "[7"
+
+Phrase: "],"
+
+Phrase: "cognate with the methodological difficulties"
+
+Phrase: "encountered in assessing"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   756   C0545082:Encounter [Behavior]
+   756   C1512346:encounter [Health Care Activity]
+   756   C1516048:Assess [Activity]
+   756   C1947978:Encounter [Behavior]
+
+Phrase: "the progression of nephropathies"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0242656:progression [Pathologic Function]
+   770   C0449258:Progression [Functional Concept]
+
+Phrase: "[4,"
+
+Phrase: "9"
+
+Phrase: "]."
+Processing 00000000.tx.60: The end point should be unambiguous, clinically relevant and definitive. 
+
+Phrase: "The end point"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C2349179:End Point [Qualitative Concept]
+  1000   C2826544:ENDPOINT [Quantitative Concept]
+   861   C0444930:End [Spatial Concept]
+   861   C1552961:Point [Quantitative Concept]
+   861   C2347617:point [Quantitative Concept]
+   861   C2746065:End [Temporal Concept]
+   805 E C0205088:Terminal [Temporal Concept]
+   805 E C1705314:Terminal [Manufactured Object]
+   805 E C1705315:Terminal [Spatial Concept]
+
+Phrase: "should"
+
+Phrase: "be"
+
+Phrase: "unambiguous, clinically relevant"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C2347946:Relevant [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "definitive."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443196:Definitive [Temporal Concept]
+Processing 00000000.tx.61: Among the three largest RAS polymorphism-IgAN association studies (all three showing negative results), two used end-stage renal failure as the end point [4,5]. 
+
+Phrase: "Among the three largest RAS polymorphism-IgAN association studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   790   C0947630:studies [Laboratory Procedure]
+   756 E C0557651:Study [Manufactured Object]
+   756 E C2603343:Study [Research Activity]
+
+Phrase: "("
+
+Phrase: "all three showing negative results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   779   C1274040:Result [Functional Concept]
+   779   C1546471:Result [Idea or Concept]
+   779   C2825142:Result [Finding]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "two used end-stage renal failure as the end point"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   806   C0022661:Renal Failure, End-Stage [Disease or Syndrome]
+   806   C2316810:End Stage Renal Failure [Disease or Syndrome,Finding]
+   760   C0035078:Renal Failure [Disease or Syndrome]
+   760   C1963154:Renal failure [Finding]
+   739   C0022646:Renal [Body Part, Organ, or Organ Component]
+   739   C0231174:Failure [Functional Concept]
+   739   C0680095:failure [Individual Behavior]
+
+Phrase: "[4,"
+
+Phrase: "5"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: "]."
+Processing 00000000.tx.62: Another possibility is an underestimation of the DD genotype due to competing cardiovascular risk [2]. 
+
+Phrase: "Another possibility"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   928   C0332149:Possible [Qualitative Concept]
+   928   C1705910:Possible [Qualitative Concept]
+   928   C2362652:Possible [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "an underestimation of the DD genotype"
+
+Phrase: "due to competing cardiovascular risk"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0007226:Cardiovascular [Body System]
+   827   C0035647:Risk [Qualitative Concept]
+
+Phrase: "[2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.63: In any case, if an association between the ACE gene D allele and progression of IgAN exists, it has a very weak effect. 
+
+Phrase: "In any case,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0868928:Case [Functional Concept]
+  1000   C1706255:CASE [Medical Device]
+  1000   C1706256:Case [Conceptual Entity]
+
+Phrase: "if"
+
+Phrase: "an association between the ACE gene D allele"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0004083:Association [Mental Process]
+   744   C0439849:Association [Qualitative Concept]
+   744   C0596306:Association [Phenomenon or Process]
+   744   C0699792:association [Social Behavior]
+
+Phrase: "and"
+
+Phrase: "progression of IgAN"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0242656:progression [Pathologic Function]
+   770   C0449258:Progression [Functional Concept]
+
+Phrase: "exists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2987476:Exist [Conceptual Entity]
+
+Phrase: ","
+
+Phrase: "it"
+
+Phrase: "has"
+
+Phrase: "a very weak effect."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1280500:Effect [Qualitative Concept]
+   827   C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.64: Since association studies bring forward limited inferences, linkage analyses of familial IgAN might be a more appropriate approach [2]. 
+
+Phrase: "Since"
+
+Phrase: "association studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "bring"
+
+Phrase: "forward limited inferences,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C0679201:Inference [Mental Process]
+
+Phrase: "linkage analyses of familial IgAN"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   767   C0796345:analysis linkage [Laboratory Procedure]
+   753   C0023745:linkage [Molecular Function]
+   719   C0002778:Analysis [Laboratory Procedure]
+   719   C0936012:Analysis [Research Activity]
+   719   C1524024:analysis [Functional Concept]
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "a more appropriate approach"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0449445:Approach [Spatial Concept]
+
+Phrase: "[2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.65: This offers the advantage of searching for genes without any prior biological assumptions. 
+
+Phrase: "This"
+
+Phrase: "offers"
+
+Phrase: "the advantage of searching"
+
+Phrase: "for genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017337:Genes [Gene or Genome]
+
+Phrase: "without any prior biological assumptions."
+Processing 00000000.tx.66: Ghavari et al. 
+
+Phrase: "Ghavari et al."
+Processing 00000000.tx.67: [1] first sought linkages between IgAN and all candidate genes (exclusively initiators) suggested by biological abnormalities. 
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "] first sought linkages between IgAN"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   719   C0023745:linkage [Molecular Function]
+
+Phrase: "and"
+
+Phrase: "all candidate genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1332838:Candidate Genes [Gene or Genome]
+   861   C0017337:Genes [Gene or Genome]
+
+Phrase: "(exclusively initiators"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1444748:Initiator [Qualitative Concept]
+
+Phrase: ")"
+
+Phrase: "suggested by biological abnormalities."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   770   C0000768:Abnormalities [Congenital Abnormality]
+   770   C0000769:abnormalities [Functional Concept]
+   770   C0005532:Biological [Biomedical Occupation or Discipline]
+   770   C0205460:biological [Qualitative Concept]
+   737 E C1704258:Abnormality [Finding]
+   737   C1705535:Suggest [Idea or Concept]
+Processing 00000000.tx.68: Surprisingly, no significant linkage could be found. 
+
+Phrase: "Surprisingly,"
+
+Phrase: "no significant linkage"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0023745:linkage [Molecular Function]
+
+Phrase: "could"
+
+Phrase: "be"
+
+Phrase: "found."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+Processing 00000000.tx.69: The linkage of IgAN to locus 6q22-23 could only be demonstrated with genome-wide analysis using a dominant model with incomplete penetrance and locus heterogeneity [1]. 
+
+Phrase: "The linkage of IgAN"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0023745:linkage [Molecular Function]
+
+Phrase: "to locus 6q22-23"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0450348:23 [Quantitative Concept]
+   827   C1521566:6q22 [Cell Component]
+   827   C1708726:Locus [Gene or Genome]
+
+Phrase: "could"
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "be"
+
+Phrase: "demonstrated with genome-wide analysis"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0002778:Analysis [Laboratory Procedure]
+   760   C0017428:Genome [Gene or Genome]
+   760   C0332464:Wide [Spatial Concept]
+   760   C0936012:Analysis [Research Activity]
+   760   C1524024:analysis [Functional Concept]
+   760   C2338314:Genome [Conceptual Entity]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "a dominant model with incomplete penetrance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C3161035:Model [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "locus heterogeneity"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C2986542:Locus Heterogeneity [Qualitative Concept]
+   861   C0019409:Heterogeneity [Qualitative Concept]
+   777 E C1512426:Heterogenous [Idea or Concept]
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.70: Now the challenge is to identify the efficient genes of this locus and their effects. 
+
+Phrase: "Now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "the challenge"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0798503:Challenge [Clinical Attribute]
+  1000   C0805586:Challenge [Health Care Activity]
+  1000   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "is"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "identify"
+
+Phrase: "the efficient genes of this locus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   767   C1708726:Gene Locus [Gene or Genome]
+   753   C0017337:Genes [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "their effects."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1280500:effects [Qualitative Concept]
+   966 E C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.71: Further research is therefore needed to explain the phenotypic variations among 6q22-23 carriers and to correlate genotypes more closely with outcomes. 
+
+Phrase: "Further research"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0035168:research [Research Activity]
+   861   C0242481:Research [Research Activity]
+
+Phrase: "is"
+
+Phrase: "therefore"
+
+Phrase: "needed"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027552:Needed [Qualitative Concept]
+  1000   C0686904:needed [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "explain"
+
+Phrase: "the phenotypic variations among 6q22-23 carriers"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0205419:variations [Qualitative Concept]
+   745   C1836717:Phenotypic variation [Finding]
+
+Phrase: "and"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "correlate"
+
+Phrase: "genotypes more closely with outcomes."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0017431:Genotypes [Organism Attribute]
+   726   C1274040:Outcome [Functional Concept]
+Processing 00000000.tx.72: One other unanswered question is why this study failed to find a linkage with genes implicated in the pathogenesis of IgAN. 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "other unanswered question"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1522634:Question [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "why"
+
+Phrase: "this study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "failed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0231175:Failed [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "find"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0243095:Find [Finding]
+
+Phrase: "a linkage with genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0023745:linkage [Molecular Function]
+
+Phrase: "implicated in the pathogenesis of IgAN."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   778   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   748   C0022658:Nephropathy [Disease or Syndrome]
+   748   C0543483:pathogenesis [Functional Concept]
+   748   C0699748:Pathogenesis [Pathologic Function]
+   748   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.73: Correlations, interactions and causation Finally, no matter how we choose to study IgAN, it is more than likely that we will become entrenched in circular arguments. 
+
+Phrase: "Correlations,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1707520:Correlation [Qualitative Concept]
+
+Phrase: "interactions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1704675:Interaction [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "causation Finally,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0085978:Causation [Idea or Concept]
+   861   C1524003:Causation [Conceptual Entity]
+
+Phrase: "no matter how"
+
+Phrase: "we"
+
+Phrase: "choose"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707391:Choose [Activity]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "IgAN,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "more than likely"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0205172:More [Functional Concept]
+   790   C0332148:Likely [Qualitative Concept]
+   790   C0750492:Likely [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "we"
+
+Phrase: "will"
+
+Phrase: "become"
+
+Phrase: "entrenched in circular arguments."
+Processing 00000000.tx.74: The Human Genome Project has recently provided us with a complete catalogue of all human genes [8], so positional cloning will now come down to systematic evaluation of candidate genes [7]. 
+
+Phrase: "The Human Genome Project"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0020125:Human Genome Project [Research Activity]
+   901   C0017429:Genome, Human [Gene or Genome]
+   827   C0017428:Genome [Gene or Genome]
+   827   C0086418:Human [Human]
+   827   C1709701:Project [Conceptual Entity]
+   827   C2338314:Genome [Conceptual Entity]
+
+Phrase: "has"
+
+Phrase: "recently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332185:Recently [Temporal Concept]
+
+Phrase: "provided"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provided [Activity]
+
+Phrase: "us with a complete catalogue of all human genes"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   762   C0314604:genes human [Gene or Genome]
+   742   C0017337:Genes [Gene or Genome]
+   742   C0086418:Human [Human]
+   742   C0205197:Complete [Qualitative Concept]
+   742   C0376658:Catalog [Intellectual Product]
+   742   C0725685:COMPLEAT [Food]
+
+Phrase: "[8"
+
+Phrase: "],"
+
+Phrase: "so"
+
+Phrase: "positional cloning"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1656250:positional cloning [Research Activity]
+   861   C0009015:Cloning [Research Activity]
+
+Phrase: "will"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "come down"
+
+Phrase: "to systematic evaluation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0220825:Evaluation [Functional Concept]
+   861   C1261322:Evaluation [Health Care Activity]
+
+Phrase: "of candidate genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1332838:Candidate Genes [Gene or Genome]
+   861   C0017337:Genes [Gene or Genome]
+
+Phrase: "[7"
+
+Phrase: "]."
+Processing 00000000.tx.75: Gold standard tests for human genes should combine association studies and transgenic studies demonstrating that gene addition or gene knockout in animals produce a phenotypic effect [7]. 
+
+Phrase: "Gold standard tests for human genes"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   790   C0150110:GOLD STANDARD [Qualitative Concept]
+   753   C0022885:Tests [Laboratory Procedure]
+   753   C0392366:Tests [Intellectual Product]
+   753   C1442989:Standard [Qualitative Concept]
+   753   C2828392:Standard [Intellectual Product]
+   719 E C0039593:Test [Functional Concept]
+
+Phrase: "should"
+
+Phrase: "combine"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0336789:Combine [Manufactured Object]
+
+Phrase: "association studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "and"
+
+Phrase: "transgenic studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "demonstrating"
+
+Phrase: "that gene addition"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C1883712:Addition [Functional Concept]
+   789 E C1524062:Additional [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "gene knockout in animals"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   833   C0599772:Gene Knock Out [Molecular Biology Research Technique]
+   802   C1171353:knockout animal [Animal]
+   770   C0560617:knock out [Injury or Poisoning]
+   770   C1522225:Knock-out [Experimental Model of Disease]
+
+Phrase: "produce"
+
+Phrase: "a phenotypic effect"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1280500:Effect [Qualitative Concept]
+   861   C2348382:Effect [Qualitative Concept]
+
+Phrase: "[7"
+
+Phrase: "]."
+Processing 00000000.tx.76: The challenge would be to gather an adequate sample size, e.g. 
+
+Phrase: "The challenge"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0798503:Challenge [Clinical Attribute]
+  1000   C0805586:Challenge [Health Care Activity]
+  1000   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "would"
+
+Phrase: "be"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "gather"
+
+Phrase: "an adequate sample size,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0242618:Sample Size [Quantitative Concept]
+   827   C0456389:size [Spatial Concept]
+
+Phrase: "e.g."
+Processing 00000000.tx.77: 1000 cases and as many controls [8]. 
+
+Phrase: "1000 cases"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C0868928:Cases [Functional Concept]
+   861   C1533148:Cases [Quantitative Concept]
+   827 E C1706255:CASE [Medical Device]
+   827 E C1706256:Case [Conceptual Entity]
+
+Phrase: "and as many controls"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C1515981:And [Idea or Concept]
+   737   C0243148:control [Qualitative Concept]
+   737   C1550141:Control [Substance]
+   737   C1882979:Control [Conceptual Entity]
+   737   C2587213:Control [Functional Concept]
+   737   C3274648:Control [Qualitative Concept]
+
+Phrase: "[8"
+
+Phrase: "]."
+Processing 00000000.tx.78: This would allow an accurate estimate of correlations and genegene interactions or geneenvironment interactions (for instance medications) [17], with small P values, i.e. 
+
+Phrase: "This"
+
+Phrase: "would"
+
+Phrase: "allow"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allow [Social Behavior]
+
+Phrase: "an accurate estimate of correlations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0750572:Estimate [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "genegene interactions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1704675:Interaction [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "geneenvironment interactions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1704675:Interaction [Functional Concept]
+
+Phrase: "("
+
+Phrase: "for instance medications"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   861   C0013227:Medications [Pharmacologic Substance]
+   861   C0802604:Medications [Clinical Attribute]
+   861   C2598133:Medications [Clinical Attribute]
+   827 E C3244316:medication [Functional Concept]
+
+Phrase: ")"
+
+Phrase: "[17"
+
+Phrase: "],"
+
+Phrase: "with small P values,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   896   C0205165:small value [Qualitative Concept]
+   867   C1709380:P-Value [Quantitative Concept]
+   827   C0042295:Values [Qualitative Concept]
+   793 E C1522609:Value [Quantitative Concept]
+
+Phrase: "i.e."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0683454:I-E [Diagnostic Procedure,Intellectual Product]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+Processing 00000000.tx.79: <10-6 [8]. 
+
+Phrase: "<10-6"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439187:/10^6 [Quantitative Concept]
+  1000   C1881839:10^6 [Quantitative Concept]
+
+Phrase: "[8"
+
+Phrase: "]."
+Processing 00000000.tx.80: Systematic collection of data on risk factors for IgAN and renal injury would also be most helpful in building conceptual models for causation [9]. 
+
+Phrase: "Systematic collection of data"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   819   C0010995:Data Collection [Research Activity]
+   770   C1516698:Collection [Functional Concept]
+   770   C1704814:Collection [Idea or Concept]
+
+Phrase: "on risk factors"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0035648:risk factors [Quantitative Concept]
+  1000   C1553898:risk factors [Idea or Concept]
+   861   C0035647:Risk [Qualitative Concept]
+   827   C1521761:Factor [Functional Concept]
+   827   C2827422:Factor [Conceptual Entity]
+
+Phrase: "for IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "renal injury"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0160420:Renal injury [Injury or Poisoning]
+   861   C3263722:Injury [Injury or Poisoning]
+   861   C3263723:Injury [Injury or Poisoning]
+
+Phrase: "would"
+
+Phrase: "also"
+
+Phrase: "be"
+
+Phrase: "most helpful in building conceptual models"
+
+Phrase: "for causation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0085978:Causation [Idea or Concept]
+  1000   C1524003:Causation [Conceptual Entity]
+
+Phrase: "[9"
+
+Phrase: "]."
+Processing 00000000.tx.81: However, IgAN results from the interplay of environment, behaviour and common, low-penetrance genes with additive effects. 
+
+Phrase: "However,"
+
+Phrase: "IgAN"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "results from the interplay of environment,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0014406:Environment [Spatial Concept]
+   753   C1274040:Result [Functional Concept]
+   753   C1546471:Result [Idea or Concept]
+   753   C2825142:Result [Finding]
+
+Phrase: "behaviour"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0004927:Behavior [Individual Behavior]
+  1000   C2707008:Behavior [Clinical Attribute]
+   928 E C2986890:Behavioral [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "common, low-penetrance genes with additive effects."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0017337:Genes [Gene or Genome]
+Processing 00000000.tx.82: Many combinations could all lead to the same pathogenic effect. 
+
+Phrase: "Many combinations"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0453882:Combinations [Manufactured Object]
+   966 E C0205195:Combination [Qualitative Concept]
+   966 E C1947911:Combination [Physical Object]
+
+Phrase: "could"
+
+Phrase: "all"
+
+Phrase: "lead to the same pathogenic effect."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   753   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   753   C0445247:Same [Qualitative Concept]
+   753   C0450254:Pathogenic [Organism]
+   753   C1280500:Effect [Qualitative Concept]
+   753   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   753   C1522538:Lead [Functional Concept]
+   753   C2348269:Lead [Element, Ion, or Isotope]
+   753   C2348382:Effect [Qualitative Concept]
+   753   C3275067:LEAD [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.83: This complexity casts doubt on whether accurate prediction will ever be possible [18]. 
+
+Phrase: "This complexity"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   928   C0439855:Complex [Qualitative Concept]
+   928   C1704241:Complex [Chemical Viewed Structurally]
+
+Phrase: "casts"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0179686:Cast [Medical Device]
+  1000   C0302143:Cast [Body Substance]
+  1000   C2699127:CASTS [Laboratory Procedure]
+
+Phrase: "doubt on"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   833   C0870444:doubt [Mental Process]
+   761 E C0750558:Doubtful [Conceptual Entity]
+
+Phrase: "whether"
+
+Phrase: "accurate prediction"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0681842:Prediction [Idea or Concept]
+
+Phrase: "will"
+
+Phrase: "ever"
+
+Phrase: "be"
+
+Phrase: "possible"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332149:Possible [Qualitative Concept]
+  1000   C1705910:Possible [Qualitative Concept]
+  1000   C2362652:Possible [Qualitative Concept]
+
+Phrase: "[18"
+
+Phrase: "]."
+Processing 00000000.tx.84: In IgAN, the attributable risk of each susceptibility-conferring genotype will be very weak. 
+
+Phrase: "In IgAN,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "the attributable risk of each susceptibility-conferring genotype"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0814766:Attributable Risk [Qualitative Concept]
+   744   C0035647:Risk [Qualitative Concept]
+   744   C0596130:Attributable [Mental Process]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "very weak."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0004093:Weak [Sign or Symptom]
+   861   C1762617:Weak [Qualitative Concept]
+Processing 00000000.tx.85: So testing patients for specific genotype would not be as efficient as thought at the beginning of genetic research [3]. 
+
+Phrase: "So"
+
+Phrase: "testing patients for specific genotype"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "would"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "be as efficient"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C0442799:Efficient [Qualitative Concept]
+   790   C2987476:Be [Conceptual Entity]
+   718 E C0013682:Efficiency [Quantitative Concept]
+
+Phrase: "as"
+
+Phrase: "thought at the beginning of genetic research"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   778   C0243064:Genetic Research [Research Activity]
+   748   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   748   C0035168:research [Research Activity]
+   748   C0039869:Thought [Mental Process]
+   748   C0242481:Research [Research Activity]
+   748   C0314603:Genetic [Functional Concept]
+   748   C0439659:Beginning [Temporal Concept]
+
+Phrase: "[3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.86: Fortunately, we may be more optimistic for treatment and prevention, since genomics will undoubtedly provide us with new options for clinical management. 
+
+Phrase: "Fortunately,"
+
+Phrase: "we"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "more optimistic for treatment"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0564470:Optimistic [Finding]
+
+Phrase: "and"
+
+Phrase: "prevention,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0199176:Prevention [Therapeutic or Preventive Procedure]
+  1000   C1706420:PREVENTION [Research Activity]
+  1000   C2700409:prevention [Qualitative Concept]
+
+Phrase: "since"
+
+Phrase: "genomics"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0887950:Genomics [Biomedical Occupation or Discipline]
+
+Phrase: "will"
+
+Phrase: "undoubtedly"
+
+Phrase: "provide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provide [Activity]
+
+Phrase: "us with new options"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0205314:New [Temporal Concept]
+   770   C1518601:Options [Functional Concept]
+   737 E C1550456:option [Idea or Concept]
+
+Phrase: "for clinical management."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C1516615:Clinical Management [Health Care Activity]
+   861   C0001554:Management [Occupational Activity]
+   861   C0376636:management [Health Care Activity]
+   861   C1273870:Management [Occupational Activity]
+   861   C3273539:Management [Occupation or Discipline]
+Processing 00000000.tx.87: Notes Correspondence and offprint requests to: Dr L. 
+
+Phrase: "Notes"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1316572:Note [Clinical Attribute]
+  1000   C1317574:Note [Intellectual Product]
+  1000   C1369612:Note [Clinical Attribute]
+
+Phrase: "Correspondence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0282413:Correspondence [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "offprint"
+
+Phrase: "requests"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0686900:request [Functional Concept]
+  1000   C1272683:Request [Functional Concept]
+  1000   C1522634:Request [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "Dr L."
+Processing 00000000.tx.88: Frimat, Service de Nphrologie, CHU de Nancy, Hpitaux de Brabois, F-54500 Vandoeuvre-les-Nancy, France. 
+
+Phrase: "Frimat,"
+
+Phrase: "Service de Nphrologie,"
+
+Phrase: "CHU de Nancy,"
+
+Phrase: "Hpitaux de Brabois,"
+
+Phrase: "F-54500 Vandoeuvre-les-Nancy,"
+
+Phrase: "France."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0016674:France [Geographic Area]
+Processing 00000000.tx.89: Email: l.frimat{at}chu\|[hyphen]\|nancy.fr References Gharavi AG, Yan Y, Scolari F et al. 
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "l.frimat{at}chu\\|"
+
+Phrase: "[hyphen"
+
+Phrase: "]\\|nancy.fr"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C2348513:Fr. [Conceptual Entity]
+   861   C3538902:FR [Gene or Genome]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Gharavi AG,"
+
+Phrase: "Yan Y,"
+
+Phrase: "Scolari F et al."
+Processing 00000000.tx.90: IgA nephropathy, the most common cause of glomerulonephritis, is linked to 6q22-23. 
+
+Phrase: "IgA nephropathy,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "the most common cause of glomerulonephritis,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0015127:cause [Functional Concept]
+   753   C1524003:Cause [Conceptual Entity]
+
+Phrase: "is"
+
+Phrase: "linked to 6q22-23."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0450348:23 [Quantitative Concept]
+   770   C1521566:6q22 [Cell Component]
+   737   C1517892:Link [Intellectual Product]
+   737   C1704666:Link [Intellectual Product]
+Processing 00000000.tx.91: Nat Genet2000; 
+
+Phrase: "Nat Genet2000"
+
+Phrase: ";"
+Processing 00000000.tx.92: 26: 354357[ISI][Medline] I-Hong Hsu S, Ramirez SB, Winn MP, Bonventre JV, Owen WF. 
+
+Phrase: "26"
+
+Phrase: ":"
+
+Phrase: "354357"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] I-Hong Hsu S,"
+
+Phrase: "Ramirez SB,"
+
+Phrase: "Winn MP,"
+
+Phrase: "Bonventre JV,"
+
+Phrase: "Owen WF."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0043021:WF [Geographic Area]
+Processing 00000000.tx.93: Evidence for genetic factors in the development and progression of IgA nephropathy. 
+
+Phrase: "Evidence for genetic factors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0332120:Evidence [Functional Concept]
+
+Phrase: "in the development"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0243107:development [Physiologic Function]
+  1000   C0678723:Development [Organism Function]
+  1000   C1527148:Development [Functional Concept]
+   928 E C0458003:Developmental [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "progression of IgA nephropathy."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0242656:progression [Pathologic Function]
+   770   C0449258:Progression [Functional Concept]
+Processing 00000000.tx.94: Kidney Int2000; 
+
+Phrase: "Kidney Int2000"
+
+Phrase: ";"
+Processing 00000000.tx.95: 57: 18181835[ISI][Medline] Harden PN, O'Kane KPJ, Ueda S, Connell JMC, Jardine AG. 
+
+Phrase: "57"
+
+Phrase: ":"
+
+Phrase: "18181835"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "Harden"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0702118:harden [Finding]
+   944 E C0036429:Scleroses [Pathologic Function]
+
+Phrase: "PN,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C3539925:PN [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C3541307:PN [Gene or Genome]
+
+Phrase: "O'Kane KPJ,"
+
+Phrase: "Ueda S,"
+
+Phrase: "Connell JMC,"
+
+Phrase: "Jardine AG."
+Processing 00000000.tx.96: Association studies, ACE polymorphisms and renal disease. 
+
+Phrase: "Association studies,"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "ACE polymorphisms"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0032529:polymorphisms [Genetic Function]
+   827 E C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "renal disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0022658:Renal disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   861   C0022646:Renal [Body Part, Organ, or Organ Component]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.97: Nephrol Dial Transplant1996; 
+
+Phrase: "Nephrol Dial Transplant1996"
+
+Phrase: ";"
+Processing 00000000.tx.98: 11: 757759[ISI][Medline] Frimat L, Philippe C, Maghakian MN et al. 
+
+Phrase: "11"
+
+Phrase: ":"
+
+Phrase: "757759"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Frimat L,"
+
+Phrase: "Philippe C,"
+
+Phrase: "Maghakian MN et al."
+Processing 00000000.tx.99: Polymorphism of angiotensin converting enzyme, angiotensinogen and angiotensin II type 1 receptor genes and end-stage renal failure in IgA nephropathy. 
+
+Phrase: "Polymorphism of angiotensin converting enzyme,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0032529:Polymorphism [Genetic Function]
+   760   C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "angiotensinogen"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0003017:Angiotensinogen [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "and"
+
+Phrase: "angiotensin II type 1 receptor genes"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   810   C1335671:Receptor Gene [Gene or Genome]
+   799   C0017337:Genes [Gene or Genome]
+   780   C0529330:Angiotensin II Type 1 Receptor [Amino Acid, Peptide, or Protein,Receptor]
+           Angiotensin Type 1 Receptor
+   719   C0003011:Receptor, Angiotensin II [Amino Acid, Peptide, or Protein,Receptor]
+   709   C0034787:Angiotensin Receptor [Amino Acid, Peptide, or Protein,Receptor]
+   709   C0072471:Angiotensin Receptor [Amino Acid, Peptide, or Protein,Receptor]
+
+Phrase: "and"
+
+Phrase: "end-stage renal failure in IgA nephropathy."
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   853   C0022661:Renal Failure, End-Stage [Disease or Syndrome]
+   853   C2316810:End Stage Renal Failure [Disease or Syndrome,Finding]
+   778   C0035078:Renal Failure [Disease or Syndrome]
+   778   C1963154:Renal failure [Finding]
+   748   C0022646:Renal [Body Part, Organ, or Organ Component]
+   748   C0231174:Failure [Functional Concept]
+   748   C0680095:failure [Individual Behavior]
+Processing 00000000.tx.100: IGARAS: a study of 274 men. 
+
+Phrase: "IGARAS"
+
+Phrase: ":"
+
+Phrase: "a study of 274 men."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0557651:Study [Manufactured Object]
+   760   C2603343:Study [Research Activity]
+Processing 00000000.tx.101: J Am Soc Nephrol2000; 
+
+Phrase: "J"
+
+Phrase: "Am"
+
+Phrase: "Soc Nephrol2000"
+
+Phrase: ";"
+Processing 00000000.tx.102: 11: 20622067[Abstract/Free FullText] Suzuki S, Suzuki Y, Kobayashi Y et al. 
+
+Phrase: "11"
+
+Phrase: ":"
+
+Phrase: "20622067"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Suzuki S,"
+
+Phrase: "Suzuki Y,"
+
+Phrase: "Kobayashi Y et al."
+Processing 00000000.tx.103: Insertion/deletion polymorphism in ACE gene is not associated with renal progression in Japanese patients with IgA nephropathy. 
+
+Phrase: "Insertion/deletion polymorphism in ACE gene"
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+   783   C0017260:Gene Deletion [Genetic Function]
+   783   C0678951:gene polymorphism [Genetic Function]
+   783   C1442161:Gene Deletion [Cell or Molecular Dysfunction]
+           Deletion
+   783   C1955829:Gene Insertion [Cell or Molecular Dysfunction]
+   753   C0021107:Insertion [Therapeutic or Preventive Procedure]
+   753   C0032529:Polymorphism [Genetic Function]
+   753   C0441587:Insertion [Health Care Activity]
+   753   C1511760:Deletion [Genetic Function]
+   753   C1512796:Insertion [Genetic Function]
+   753   C1880274:Deletion [Activity]
+   753   C1882417:Polymorphism [Qualitative Concept]
+   753   C1883719:Insertion [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "associated with renal progression"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   833   C0332281:Associated with [Qualitative Concept]
+           Associated
+   770   C0022646:Renal [Body Part, Organ, or Organ Component]
+   770   C0242656:progression [Pathologic Function]
+   770   C0449258:Progression [Functional Concept]
+   737 E C0750490:Associate [Idea or Concept]
+   737 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "in Japanese patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with IgA nephropathy."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.104: Am J Kidney Dis2000; 
+
+Phrase: "Am"
+
+Phrase: "J Kidney Dis2000"
+
+Phrase: ";"
+Processing 00000000.tx.105: 35: 896903[ISI][Medline] Yoshida H, Mitarai T, Kawamura T et al. 
+
+Phrase: "35"
+
+Phrase: ":"
+
+Phrase: "896903"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Yoshida H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Mitarai T,"
+
+Phrase: "Kawamura T et al."
+Processing 00000000.tx.106: Role of the deletion polymorphism of the angiotensin converting enzyme gene in the progression and therapeutic responsiveness of IgA nephropathy. 
+
+Phrase: "Role of the deletion polymorphism of the angiotensin converting enzyme gene"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   738   C0035820:Role [Social Behavior]
+   738   C1705810:Role [Conceptual Entity]
+
+Phrase: "in the progression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0242656:progression [Pathologic Function]
+  1000   C0449258:Progression [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "therapeutic responsiveness of IgA nephropathy."
+Processing 00000000.tx.107: J Clin Invest1995; 
+
+Phrase: "J Clin Invest1995"
+
+Phrase: ";"
+Processing 00000000.tx.108: 96: 21622169[ISI][Medline] Lander ES, Schork NJ. 
+
+Phrase: "96"
+
+Phrase: ":"
+
+Phrase: "21622169"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Lander ES,"
+
+Phrase: "Schork NJ."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0027971:NJ [Geographic Area]
+Processing 00000000.tx.109: Genetic dissection of complex traits. 
+
+Phrase: "Genetic dissection of complex traits."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0012737:Dissection [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.110: Science1994; 
+
+Phrase: "Science1994"
+
+Phrase: ";"
+Processing 00000000.tx.111: 265: 20372048[ISI][Medline] Todd JA. 
+
+Phrase: "265"
+
+Phrase: ":"
+
+Phrase: "20372048"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Todd JA."
+Processing 00000000.tx.112: Interpretation of results from genetic studies of multifactorial diseases. 
+
+Phrase: "Interpretation of results"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0459471:Interpretation [Intellectual Product]
+   790   C3173575:Interpretation [Clinical Attribute]
+
+Phrase: "from genetic studies"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   983   C2827447:Genetic Study [Research Activity]
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "of multifactorial diseases."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Diseases [Disease or Syndrome]
+   789 E C1836721:MALS [Finding]
+   789 E C3538764:MALS [Gene or Genome]
+   789 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.113: Lancet1999; 
+
+Phrase: "Lancet1999"
+
+Phrase: ";"
+Processing 00000000.tx.114: 354 [Suppl. 1]: 1516[ISI] Perneger TV, Brancati FL, Whelton PK, Klag MJ. 
+
+Phrase: "354"
+
+Phrase: "[Suppl. 1"
+
+Phrase: "]"
+
+Phrase: ":"
+
+Phrase: "1516"
+
+Phrase: "[ISI] Perneger TV,"
+
+Phrase: "Brancati FL,"
+
+Phrase: "Whelton PK,"
+
+Phrase: "Klag MJ."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439254:MJ [Medical Device]
+Processing 00000000.tx.115: Studying the causes of kidney disease in humans: a review of methodologic obstacles and possible solutions. 
+
+Phrase: "Studying"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0557651:Study [Manufactured Object]
+   966   C2603343:Study [Research Activity]
+
+Phrase: "the causes of kidney disease"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   781   C1314792:disease cause [Functional Concept]
+           Causes
+   760   C0015127:causes [Functional Concept]
+   726 E C1524003:Cause [Conceptual Entity]
+
+Phrase: "in humans"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0086418:Humans [Human]
+
+Phrase: ":"
+
+Phrase: "a review of methodologic obstacles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0282443:Review [Intellectual Product]
+   760   C1552617:Review [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "possible solutions."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0037633:Solutions [Substance]
+   827 E C0525069:Solution [Biomedical or Dental Material]
+Processing 00000000.tx.116: Am J Kidney Dis1995; 
+
+Phrase: "Am"
+
+Phrase: "J Kidney Dis1995"
+
+Phrase: ";"
+Processing 00000000.tx.117: 25: 721732 Floege J, Feehally J. 
+
+Phrase: "25"
+
+Phrase: ":"
+
+Phrase: "721732 Floege J,"
+
+Phrase: "Feehally J."
+Processing 00000000.tx.118: IgA nephropathy: recent developments. 
+
+Phrase: "IgA nephropathy"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: ":"
+
+Phrase: "recent developments."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0243107:development [Physiologic Function]
+   827   C0678723:Development [Organism Function]
+   827   C1527148:Development [Functional Concept]
+   777 E C0458003:Developmental [Qualitative Concept]
+Processing 00000000.tx.119: J Am Soc Nephrol2000; 
+
+Phrase: "J"
+
+Phrase: "Am"
+
+Phrase: "Soc Nephrol2000"
+
+Phrase: ";"
+Processing 00000000.tx.120: 11: 23952403[Free FullText] Roodnat JI, Van Stiphout WAHJ, Rosendaal FR, Van Es LA, Vandenbroucke JP. 
+
+Phrase: "11"
+
+Phrase: ":"
+
+Phrase: "23952403"
+
+Phrase: "[Free FullText"
+
+Phrase: "] Roodnat JI,"
+
+Phrase: "Van Stiphout WAHJ,"
+
+Phrase: "Rosendaal FR,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C2348513:Fr. [Conceptual Entity]
+   861   C3538902:FR [Gene or Genome]
+
+Phrase: "Van Es LA,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0023031:La [Element, Ion, or Isotope]
+
+Phrase: "Vandenbroucke JP."
+Processing 00000000.tx.121: What do we really know about the long-tem prognosis of IgA-nephropathy? 
+
+Phrase: "What"
+
+Phrase: "do"
+
+Phrase: "we really"
+
+Phrase: "know about the long-tem prognosis of IgA-nephropathy?"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   764   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   742   C0022658:Nephropathy [Disease or Syndrome]
+   742   C0033325:Prognosis [Health Care Activity]
+   742   C0205166:Long [Qualitative Concept]
+   742   C1706317:Long [Qualitative Concept]
+   742   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.122: J Nephrol1991; 
+
+Phrase: "J Nephrol1991"
+
+Phrase: ";"
+Processing 00000000.tx.123: 3: 145151 D'Amico G. 
+
+Phrase: "3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ":"
+
+Phrase: "145151"
+
+Phrase: "D'"
+
+Phrase: "Amico G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.124: Natural history of idiopathic IgA nephropathy: role of clinical and histological prognostic factors. 
+
+Phrase: "Natural history of idiopathic IgA nephropathy"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   790   C0175860:Natural History [Occupation or Discipline]
+   753   C0019664:History [Occupation or Discipline]
+   753   C0019665:history [Intellectual Product]
+   753   C0205296:Natural [Functional Concept]
+   753   C0262512:History, NOS [Organism Attribute]
+   753   C0262926:History [Finding]
+   753   C1705255:History [Conceptual Entity]
+   753   C2004062:History [Finding]
+
+Phrase: ":"
+
+Phrase: "role of clinical"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0035820:Role [Social Behavior]
+   790   C1705810:Role [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "histological prognostic factors."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   867   C1514474:Prognostic Factor [Clinical Attribute]
+   827   C0220901:prognostic [Intellectual Product]
+   793   C1521761:Factor [Functional Concept]
+   793   C2827422:Factor [Conceptual Entity]
+Processing 00000000.tx.125: Am J Kidney Dis2000; 
+
+Phrase: "Am"
+
+Phrase: "J Kidney Dis2000"
+
+Phrase: ";"
+Processing 00000000.tx.126: 36: 227237[ISI][Medline] Pirulli D, Boniotto M, Vatta L et al. 
+
+Phrase: "36"
+
+Phrase: ":"
+
+Phrase: "227237"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Pirulli D,"
+
+Phrase: "Boniotto M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Vatta L et al."
+Processing 00000000.tx.127: Polymorphisms in the promoter region and at codon 54 of the MBL2 gene are not associated with IgA nephropathy. 
+
+Phrase: "Polymorphisms in the promoter region"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0032529:polymorphisms [Genetic Function]
+   726 E C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "and at codon 54 of the MBL2 gene"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C1417054:MBL2 gene [Gene or Genome]
+           MBL2
+   744   C0009221:Codon [Nucleotide Sequence]
+   744   C0017337:Gene [Gene or Genome]
+   744   C1095825:Codon [Plant]
+   744   C1515981:And [Idea or Concept]
+
+Phrase: "are"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "associated with IgA nephropathy."
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   833   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   833   C0332281:Associated with [Qualitative Concept]
+           Associated
+   770   C0022658:Nephropathy [Disease or Syndrome]
+   770   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+   737 E C0750490:Associate [Idea or Concept]
+   737 E C1706221:Associate [Professional or Occupational Group]
+Processing 00000000.tx.128: Nephrol Dial Transplant2001; 
+
+Phrase: "Nephrol Dial Transplant2001"
+
+Phrase: ";"
+Processing 00000000.tx.129: 16: 759764[Abstract/Free FullText] Waldherr R, Rambausek M, Duncker WD, Ritz E. 
+
+Phrase: "16"
+
+Phrase: ":"
+
+Phrase: "759764"
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Waldherr R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Rambausek M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Duncker WD,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0019202:WD [Disease or Syndrome]
+   861   C0332135:WD [Qualitative Concept]
+   861   C1862191:WD [Intellectual Product]
+   861   C3538902:WD [Gene or Genome]
+
+Phrase: "Ritz E."
+Processing 00000000.tx.130: Frequency of mesangial IgA deposits in a nonselected autopsy series. 
+
+Phrase: "Frequency of mesangial IgA"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0376249:frequency [Quantitative Concept]
+   770   C0439603:Frequency [Temporal Concept]
+   770   C0871396:Frequency [Quantitative Concept]
+   770   C1561548:Frequency [Qualitative Concept]
+   770   C1705502:Frequency [Quantitative Concept]
+
+Phrase: "deposits in a nonselected autopsy series."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0004398:Autopsy [Diagnostic Procedure]
+   753   C0205549:Series [Quantitative Concept]
+   753   C0333562:Deposit [Functional Concept]
+   753   C2348044:Series [Intellectual Product]
+Processing 00000000.tx.131: Nephrol Dial Transplant1989; 
+
+Phrase: "Nephrol Dial Transplant1989"
+
+Phrase: ";"
+Processing 00000000.tx.132: 4: 943946[Abstract] Aupetit C, Drouet M, Pinaud E et al. 
+
+Phrase: "4"
+
+Phrase: ":"
+
+Phrase: "943946"
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Aupetit C,"
+
+Phrase: "Drouet M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Pinaud E et al."
+Processing 00000000.tx.133: Alleles of the 1 immunoglobulin gene 3' enhancer control evolution of IgA nephropathy toward renal failure. 
+
+Phrase: "Alleles of the 1 immunoglobulin gene 3' enhancer control evolution of IgA nephropathy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   735   C0002085:Alleles [Gene or Genome]
+
+Phrase: "toward renal failure."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0035078:Renal Failure [Disease or Syndrome]
+  1000   C1963154:Renal failure [Finding]
+   861   C0022646:Renal [Body Part, Organ, or Organ Component]
+   861   C0231174:Failure [Functional Concept]
+   861   C0680095:failure [Individual Behavior]
+Processing 00000000.tx.134: Kidney Int2000; 
+
+Phrase: "Kidney Int2000"
+
+Phrase: ";"
+Processing 00000000.tx.135: 58: 966971[ISI][Medline] Tsuge T, Shimokawa T, Horikoshi S, Tomino Y, Ra C. 
+
+Phrase: "58"
+
+Phrase: ":"
+
+Phrase: "966971"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Tsuge T,"
+
+Phrase: "Shimokawa T,"
+
+Phrase: "Horikoshi S,"
+
+Phrase: "Tomino Y,"
+
+Phrase: "Ra C."
+Processing 00000000.tx.136: Polymorphism in promoter region of Fc receptor gene in patients with IgA nephropathy. 
+
+Phrase: "Polymorphism in promoter region of Fc receptor gene"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   767   C0678951:gene polymorphism [Genetic Function]
+   744   C0032529:Polymorphism [Genetic Function]
+   744   C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "in patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with IgA nephropathy."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017661:Nephropathy, IGA [Disease or Syndrome]
+   861   C0022658:Nephropathy [Disease or Syndrome]
+   861   C2825347:IgA [Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.137: Hum Genet2001; 
+
+Phrase: "Hum Genet2001"
+
+Phrase: ";"
+Processing 00000000.tx.138: 108: 128133[ISI][Medline] Yang Q, Khoury MJ. 
+
+Phrase: "108"
+
+Phrase: ":"
+
+Phrase: "128133"
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Yang Q,"
+
+Phrase: "Khoury MJ."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439254:MJ [Medical Device]
+Processing 00000000.tx.139: Evolving methods in genetic epidemiology III. 
+
+Phrase: "Evolving methods in genetic epidemiology III."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   767   C0014503:Epidemiology, Method [Research Activity]
+   753   C0025663:Methods [Intellectual Product]
+   753   C0025664:methods [Intellectual Product]
+   753   C0449851:Methods [Functional Concept]
+   719 E C0871511:METHOD [Intellectual Product]
+Processing 00000000.tx.140: Geneenvironment interaction in epidemiologic research. 
+
+Phrase: "Geneenvironment interaction in epidemiologic research."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1704675:Interaction [Functional Concept]
+Processing 00000000.tx.141: Epidemiol Rev1997; 
+
+Phrase: "Epidemiol Rev1997"
+
+Phrase: ";"
+Processing 00000000.tx.142: 1: 3343 Holtzman NA, Marteau TM. 
+
+Phrase: "1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ":"
+
+Phrase: "3343 Holtzman NA,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0597484:Na+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   827   C1272460:{NA} [Qualitative Concept]
+
+Phrase: "Marteau TM."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0145779:TM [Amino Acid, Peptide, or Protein,Receptor]
+   861   C3540468:TM [Gene or Genome]
+Processing 00000000.tx.143: Will genetics revolutionize medicine? 
+
+Phrase: "Will"
+
+Phrase: "genetics"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017398:Genetics [Biomedical Occupation or Discipline]
+  1000   C0017399:genetics [Biologic Function]
+
+Phrase: "revolutionize"
+
+Phrase: "medicine?"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013227:Medicine, NOS [Pharmacologic Substance]
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+Processing 00000000.tx.144: N Engl J Med2000; 
+
+Phrase: "N Engl J Med2000"
+
+Phrase: ";"
+Processing 00000000.tx.145: 343: 141144[Free FullText] This Article Extract FREE Full Text (PDF) Alert me when this article is cited Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in ISI Web of Science Similar articles in PubMed Alert me to new issues of the journal Add to My Personal Archive Download to citation manager Search for citing articles in: ISI Web of Science (1) Disclaimer Request Permissions Google Scholar Articles by Frimat, L. 
+
+Phrase: "343"
+
+Phrase: ":"
+
+Phrase: "141144"
+
+Phrase: "[Free FullText"
+
+Phrase: "]"
+
+Phrase: "This Article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "Extract"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2828366:Extract [Substance]
+
+Phrase: "FREE Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in ISI Web"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282111:Web [Manufactured Object]
+
+Phrase: "of Science Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0162443:Journal [Intellectual Product,Manufactured Object]
+   748   C0205314:New [Temporal Concept]
+   714   C0033213:Issue [Finding]
+   714   C1706387:Issue [Intellectual Product]
+
+Phrase: "Add to My Personal Archive Download"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0003738:archive [Manufactured Object]
+   753   C0024552:MY [Geographic Area]
+   753   C1519021:Personal [Organism Attribute]
+   753   C1554162:Archive [Idea or Concept]
+   753   C1883712:Add [Functional Concept]
+
+Phrase: "to citation manager Search"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1552603:search [Intellectual Product]
+   827   C1706202:Search [Activity]
+
+Phrase: "for citing articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1706852:Article [Intellectual Product]
+
+Phrase: "in"
+
+Phrase: ":"
+
+Phrase: "ISI Web of Science"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0282111:Web [Manufactured Object]
+
+Phrase: "(1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: "Disclaimer Request Permissions Google Scholar Articles by Frimat,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   711   C1706852:Article [Intellectual Product]
+
+Phrase: "L."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+Processing 00000000.tx.146: Articles by Kessler, M. 
+
+Phrase: "Articles by Kessler,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.147: PubMed PubMed Citation Articles by Frimat, L. 
+
+Phrase: "PubMed PubMed Citation Articles by Frimat,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   719   C1706852:Article [Intellectual Product]
+
+Phrase: "L."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+Processing 00000000.tx.148: Articles by Kessler, M. 
+
+Phrase: "Articles by Kessler,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.149: Online ISSN 1460-2385 - Print ISSN 0931-0509 Copyright  2005 European Renal Association - European Dialysis and Transplant Assoc Oxford Journals Oxford University Press Site Map Privacy Policy Frequently Asked Questions Other Oxford University Press sites: Oxford University Press American National Biography Booksellers' Information Service Children's Fiction and Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights and Permissions Science School Books Social Sciences Very Short Introductions World's Classics
+
+Phrase: "Online ISSN 1460-2385 - Print ISSN 0931-0509 Copyright  2005 European Renal Association - European Dialysis"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   808   C0019004:Renal Dialysis [Therapeutic or Preventive Procedure]
+   808   C0917873:Renal dialysis [Therapeutic or Preventive Procedure]
+           dialysis
+   785   C0011945:Dialysis [Natural Phenomenon or Process]
+   785   C0011946:dialysis [Therapeutic or Preventive Procedure]
+   785   C1059964:Dialysis [Eukaryote]
+
+Phrase: "and"
+
+Phrase: "Transplant Assoc Oxford Journals Oxford University Press Site Map Privacy Policy Frequently"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   799   C2735290:Privacy policy [Intellectual Product]
+   787   C0242456:Policy [Intellectual Product]
+
+Phrase: "Asked"
+
+Phrase: "Questions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1522634:Question [Intellectual Product]
+
+Phrase: "Other Oxford University Press sites"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0205145:Sites [Spatial Concept]
+   779 E C1515974:Site [Body Location or Region]
+   779 E C2825164:Site [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "Oxford University Press American National Biography Booksellers' Information Service Children's Fiction"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   788   C0887933:fiction [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary"
+
+Phrase: "of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   852   C0947619:Finger.right [Body Part, Organ, or Organ Component]
+   782   C0035621:Rights [Qualitative Concept]
+   782   C0205090:Right [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "Permissions Science School Books Social Sciences Very Short Introductions World's Classics"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   788   C0439658:classics [Qualitative Concept]
+   755 E C0439858:Classic [Qualitative Concept]
+

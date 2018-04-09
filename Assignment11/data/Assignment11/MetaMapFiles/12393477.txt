@@ -1,0 +1,4739 @@
+Processing 00000000.tx.1: High-dose immune suppression and autologous hematopoietic stem cell transplantation in refractory Crohn disease Richard K. 
+
+Phrase: "High-dose immune suppression"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   861   C0021079:IMMUNE SUPPRESSION [Therapeutic or Preventive Procedure]
+   861   C1373218:Immune Suppression [Pathologic Function]
+   861   C1840264:IMMUNE SUPPRESSION [Disease or Syndrome]
+   812   C0221103:Suppression [Pathologic Function]
+   812   C0301625:Suppression [Organism Function]
+   812   C0439181:% suppression [Quantitative Concept]
+   812   C0728721:suppression [Mental Process]
+
+Phrase: "and"
+
+Phrase: "autologous hematopoietic stem cell transplantation in refractory Crohn disease Richard K."
+Meta Candidates (Total=24; Excluded=0; Pruned=0; Remaining=24)
+   820   C1831743:autologous hematopoietic stem cell transplantation [Therapeutic or Preventive Procedure]
+           Autologous Stem Cell Transplantation
+   797   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   775   C0018956:Haematopoietic stem cell [Cell]
+   775   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   756   C0038250:Stem cell [Cell]
+   756   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   754   C0022686:K cell [Cell]
+   754   C0022688:K cell [Cell]
+   754   C0040736:Transplantation, Autologous [Therapeutic or Preventive Procedure]
+   754   C2323499:Hematopoietic cell [Cell]
+   738   C0007634:Cell [Cell]
+   738   C0018957:Haematopoietic [Body System]
+   738   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   738   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   738   C0040733:transplantation [Functional Concept]
+   738   C0229601:Hematopoietic [Functional Concept]
+   738   C0242767:Stem [Plant]
+   738   C1186763:Stem [Body Part, Organ, or Organ Component]
+   738   C1269647:Cell [Cell]
+   738   C1704653:Cell [Medical Device]
+   738   C1948049:Cell [Spatial Concept]
+   726   C0018939:Hemopoietic disease [Disease or Syndrome]
+Processing 00000000.tx.2: Burt, Ann Traynor, Yu Oyama, and Robert Craig From the Division of Immunotherapy, Northwestern University Medical School, Chicago, IL.  
+
+Phrase: "Burt,"
+
+Phrase: "Ann Traynor,"
+
+Phrase: "Yu Oyama,"
+
+Phrase: "and"
+
+Phrase: "Robert Craig From the Division of Immunotherapy,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1551776:Craig [Population Group]
+
+Phrase: "Northwestern University Medical School,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0036378:School, Medical [Health Care Related Organization,Manufactured Object]
+   812   C0036375:School [Manufactured Object,Organization]
+
+Phrase: "Chicago,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008044:Chicago [Geographic Area]
+
+Phrase: "IL."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0020898:IL [Geographic Area]
+  1000   C0021764:IL [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0022271:IL [Geographic Area]
+Processing 00000000.tx.3: Abstract Top Abstract Introduction Study design Results and discussion References Two patients with severe Crohn disease, defined by a Crohn Disease Activity Index (CDAI) higher than 250despite anti-tumor necrosis factor (TNF-), were treated by intense immune suppression and autologous hematopoietic stem cell transplantation (HSCT). 
+
+Phrase: "Abstract Top Abstract Introduction Study design Results"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   829   C0683954:study results [Finding]
+   762   C1274040:Result [Functional Concept]
+   762   C1546471:Result [Idea or Concept]
+   762   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "discussion"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557061:Discussion [Therapeutic or Preventive Procedure]
+  1000   C2584313:Discussion [Social Behavior]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Two patients with severe Crohn disease,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "defined by a Crohn Disease Activity Index (CDAI)"
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+   853   C0451071:Crohn's disease activity index [Intellectual Product]
+   778   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   748   C0012634:Disease [Disease or Syndrome]
+   748   C0205177:Activity [Functional Concept]
+   748   C0439167:% activity [Quantitative Concept]
+   748   C0441655:Activity [Activity]
+   748   C0918012:Index [Intellectual Product]
+   748   C1552854:index [Idea or Concept]
+   748   C1561536:*Activity [Idea or Concept]
+   748   C1637833:% index [Quantitative Concept]
+   748   C1704788:Defined [Conceptual Entity]
+   748   C3539106:Defined [Intellectual Product]
+
+Phrase: "higher than 250despite anti-tumor necrosis factor (TNF-),"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   714   C0205250:High [Qualitative Concept]
+   714   C1299351:High [Qualitative Concept]
+   714   C2700149:HIGH [Intellectual Product]
+
+Phrase: "were"
+
+Phrase: "treated by intense immune suppression"
+Meta Candidates (Total=12; Excluded=1; Pruned=0; Remaining=11)
+   806   C0021079:IMMUNE SUPPRESSION [Therapeutic or Preventive Procedure]
+   806   C1373218:Immune Suppression [Pathologic Function]
+   806   C1840264:IMMUNE SUPPRESSION [Disease or Syndrome]
+   760   C0221103:Suppression [Pathologic Function]
+   760   C0301625:Suppression [Organism Function]
+   760   C0332293:treated [Therapeutic or Preventive Procedure]
+   760   C0439181:% suppression [Quantitative Concept]
+   760   C0439662:Immune [Functional Concept]
+   760   C0522510:Intense [Qualitative Concept]
+   760   C0728721:suppression [Mental Process]
+   760   C1522326:Treated [Functional Concept]
+   726 E C1292734:TREAT [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "autologous hematopoietic stem cell transplantation (HSCT)."
+Meta Candidates (Total=22; Excluded=1; Pruned=0; Remaining=21)
+  1000   C1831743:autologous hematopoietic stem cell transplantation [Therapeutic or Preventive Procedure]
+           Autologous Stem Cell Transplantation
+   937   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   897   C0040736:Transplantation, Autologous [Therapeutic or Preventive Procedure]
+   884   C0018956:Haematopoietic stem cell [Cell]
+   884   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   853   C2323499:Hematopoietic cell [Cell]
+   840   C0038250:Stem cell [Cell]
+   840   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   804   C0007634:Cell [Cell]
+   804   C0018957:Haematopoietic [Body System]
+   804   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040733:transplantation [Functional Concept]
+   804   C0229601:Hematopoietic [Functional Concept]
+   804   C0242767:Stem [Plant]
+   804   C1186763:Stem [Body Part, Organ, or Organ Component]
+   804   C1269647:Cell [Cell]
+   804   C1704653:Cell [Medical Device]
+   804   C1948049:Cell [Spatial Concept]
+   733 E C0018951:Haematopoiesis [Organ or Tissue Function]
+Processing 00000000.tx.4: Stem cells were mobilized from the peripheral blood using cyclophosphamide (2.0g/m2) and granulocyte colony-stimulating factor (G-CSF; 5g/kg/d), enriched ex vivo by CD34+ selection, and reinfused after immune conditioning with cyclophosphamide (200mg/kg) and equine anti-thymocyte globulin (ATG; 90mg/kg). 
+
+Phrase: "Stem cells"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0038250:Stem cells [Cell]
+   861   C0007634:Cells [Cell]
+   861   C0242767:Stem [Plant]
+   861   C1186763:Stem [Body Part, Organ, or Organ Component]
+   861   C3282337:Cells [Cell]
+   827 E C1269647:Cell [Cell]
+   827 E C1704653:Cell [Medical Device]
+   827 E C1948049:Cell [Spatial Concept]
+
+Phrase: "were"
+
+Phrase: "mobilized from the peripheral blood"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   806   C0229664:peripheral blood [Body Substance]
+           Blood
+   765 E C0150936:Peripheral Blood Vessel [Body Part, Organ, or Organ Component]
+   760   C0005767:Blood [Tissue]
+   760   C0005768:blood [Body Substance]
+   760   C0185112:mobilized [Therapeutic or Preventive Procedure]
+   760   C0205100:Peripheral [Spatial Concept]
+   760   C0578718:mobilized [Finding]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "cyclophosphamide"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0010583:Cyclophosphamide [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699319:Cytoxan [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699320:Endoxan [Organophosphorus Compound,Pharmacologic Substance]
+
+Phrase: "(2.0g/m2"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0457242:m2 [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "granulocyte colony-stimulating factor"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+  1000   C0079459:Granulocyte Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   923   C0009392:Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   923   C0079460:Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   812   C0018183:granulocyte [Cell]
+   812   C0439158:colony [Quantitative Concept]
+   812   C1521761:Factor [Functional Concept]
+   812   C1947989:Colony [Cell]
+   812   C1948023:Stimulating [Natural Phenomenon or Process]
+   812   C2827422:Factor [Conceptual Entity]
+
+Phrase: "(G-CSF"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0079459:G CSF [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0439267:g% [Quantitative Concept]
+   861   C3540512:CSF [Therapeutic or Preventive Procedure]
+
+Phrase: "; 5g/kg/"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022718:KG [Geographic Area]
+   861   C0439209:kg [Quantitative Concept]
+
+Phrase: "d)"
+
+Phrase: ","
+
+Phrase: "enriched"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0359583:enriched [Food]
+
+Phrase: "ex vivo by CD34+ selection,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C2348480:ex vivo [Functional Concept]
+   760   C1515655:vivo [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "reinfused after immune conditioning"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0009647:Conditioning [Mental Process]
+   770   C0439662:Immune [Functional Concept]
+
+Phrase: "with cyclophosphamide"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0010583:Cyclophosphamide [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699319:Cytoxan [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699320:Endoxan [Organophosphorus Compound,Pharmacologic Substance]
+
+Phrase: "(200mg/kg)"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022718:KG [Geographic Area]
+   861   C0439209:kg [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "equine anti-thymocyte globulin"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0359163:Equine antithymocyte globulin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   923   C0003442:Anti-Thymocyte Globulin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   812   C0017649:Globulin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   812   C0814999:thymocyte [Cell]
+
+Phrase: "(ATG"
+
+Phrase: "; 90mg/kg"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022718:KG [Geographic Area]
+   861   C0439209:kg [Quantitative Concept]
+
+Phrase: ")."
+Processing 00000000.tx.5: Patients have remained in remission (CDAI <100) for 1year since HSCT. 
+
+Phrase: "Patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "have"
+
+Phrase: "remained in remission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0544452:Remission [Finding]
+   790   C0687702:remission [Neoplastic Process]
+
+Phrase: "(CDAI"
+Meta Candidates (Total=14; Excluded=3; Pruned=0; Remaining=11)
+  1000   C0451071:Crohn's disease activity index [Intellectual Product]
+   861   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   812   C0012634:Disease [Disease or Syndrome]
+   812   C0205177:Activity [Functional Concept]
+   812   C0439167:% activity [Quantitative Concept]
+   812   C0441655:Activity [Activity]
+   812   C0918012:Index [Intellectual Product]
+   812   C1552854:index [Idea or Concept]
+   812   C1561536:*Activity [Idea or Concept]
+   812   C1637833:% index [Quantitative Concept]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+
+Phrase: "<100"
+
+Phrase: ")"
+
+Phrase: "for 1year"
+
+Phrase: "since"
+
+Phrase: "HSCT."
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+Processing 00000000.tx.6: We conclude that further HSCT studies for severe Crohn disease appear warranted. 
+
+Phrase: "We"
+
+Phrase: "conclude"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0917903:conclude [Biomedical or Dental Material,Organic Chemical]
+
+Phrase: "that further HSCT"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+   937   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   884   C0018956:Haematopoietic stem cell [Cell]
+   884   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   853   C2323499:Hematopoietic cell [Cell]
+   840   C0038250:Stem cell [Cell]
+   840   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   804   C0007634:Cell [Cell]
+   804   C0018957:Haematopoietic [Body System]
+   804   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040733:transplantation [Functional Concept]
+   804   C0229601:Hematopoietic [Functional Concept]
+   804   C0242767:Stem [Plant]
+   804   C1186763:Stem [Body Part, Organ, or Organ Component]
+   804   C1269647:Cell [Cell]
+   804   C1704653:Cell [Medical Device]
+   804   C1948049:Cell [Spatial Concept]
+   733 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "studies for severe Crohn disease"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   806   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   760   C0012634:Disease [Disease or Syndrome]
+   760   C0205082:Severe [Qualitative Concept]
+   760   C0557651:Study [Manufactured Object]
+   760   C0947630:studies [Laboratory Procedure]
+   760   C2603343:Study [Research Activity]
+   704 E C1836721:MALS [Finding]
+   704 E C3538764:MALS [Gene or Genome]
+   704 E C3540595:MAL [Gene or Genome]
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "warranted."
+Processing 00000000.tx.7: (Blood. 
+
+Phrase: "(Blood."
+Meta Candidates (Total=10; Excluded=7; Pruned=0; Remaining=3)
+  1000   C0005767:Blood [Tissue]
+  1000   C0005768:blood [Body Substance]
+  1000   C0229664:Blood [Body Substance]
+   928 E C0333275:Bloody [Qualitative Concept]
+   916 E C0005847:Blood Vessel [Body Part, Organ, or Organ Component]
+   916 E C0392895:Bloods [Population Group]
+   916 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   916 E C1511228:VESSEL, BLOOD [Tissue]
+   900 E C1558950:VASCULAR [Finding]
+   900 E C1801960:Vascular [Qualitative Concept]
+Processing 00000000.tx.8: 2003;101:2064-2066)  2003 by The American Society of Hematology.  
+
+Phrase: "2003"
+
+Phrase: ";101"
+
+Phrase: ":"
+
+Phrase: "2064-2066"
+
+Phrase: ")"
+
+Phrase: "2003 by The American Society of Hematology."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   853   C1515949:American Society of Hematology [Professional Society]
+   748   C0018943:Haematology NOS [Biomedical Occupation or Discipline]
+   748   C0037455:society [Organization]
+   748   C0200627:HEMATOLOGY [Laboratory Procedure]
+   748   C0596070:American [Population Group]
+Processing 00000000.tx.9: Introduction Top Abstract Introduction Study design Results and discussion References Crohn disease (CD) is presumed to be an immune-mediated disease of the intestinal tract. 
+
+Phrase: "Introduction Top Abstract Introduction Study design Results"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   829   C0683954:study results [Finding]
+   762   C1274040:Result [Functional Concept]
+   762   C1546471:Result [Idea or Concept]
+   762   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "discussion"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557061:Discussion [Therapeutic or Preventive Procedure]
+  1000   C2584313:Discussion [Social Behavior]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Crohn disease (CD)"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "presumed"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "an immune-mediated disease of the intestinal tract."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   848   C0021831:DISEASES OF THE INTESTINAL TRACT [Disease or Syndrome]
+           Disease of intestine, NOS
+           Intestinal disease
+           diseases intestinal tract
+   767   C0021053:Immune disease NOS [Disease or Syndrome]
+   744   C0012634:Disease [Disease or Syndrome]
+Processing 00000000.tx.10: It is associated with significant morbidity including fistulas, abscesses, eye manifestations, skin illnesses, arthritis, hepatobiliary complications, the need for recurrent surgery, severe abdominal pain with drug addiction, and eventually after multiple operations, a short-bowel syndrome requiring home parenteral nutrition. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "associated with significant morbidity"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   833   C0332281:Associated with [Qualitative Concept]
+           Associated
+   770   C0026538:Morbidity [Quantitative Concept]
+   770   C0220880:morbidity [Intellectual Product]
+   770   C0237881:significant [Quantitative Concept]
+   770   C0750502:Significant [Idea or Concept]
+   770   C1546944:Significant [Qualitative Concept]
+   737 E C0750490:Associate [Idea or Concept]
+   737 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "fistulas,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0016169:Fistulas [Anatomical Abnormality]
+
+Phrase: "abscesses,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0000833:Abscesses [Disease or Syndrome]
+   966 E C0549483:Abscess [Pathologic Function]
+
+Phrase: "eye manifestations,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0015411:Eye Manifestations [Sign or Symptom]
+   861   C0205319:manifestations [Functional Concept]
+   861   C1280464:manifestations [Qualitative Concept]
+
+Phrase: "skin illnesses,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+   861   C0221423:illnesses [Finding]
+   777 E C0231218:Ill [Sign or Symptom]
+   777 E C0332271:worse [Qualitative Concept]
+   777 E C1279889:Worse [Finding]
+   777 E C1457868:Worse [Qualitative Concept]
+   777 E C1522166:Worst [Qualitative Concept]
+
+Phrase: "arthritis,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003864:Arthritis [Disease or Syndrome]
+   907 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "hepatobiliary complications,"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C0009566:Complications [Pathologic Function]
+   861   C1171258:complications [Pathologic Function]
+   827 E C2362589:Complication [Idea or Concept]
+   777 E C0231242:Complicated [Functional Concept]
+
+Phrase: "the need for recurrent surgery,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0027552:Need [Qualitative Concept]
+   760   C0686904:need [Functional Concept]
+
+Phrase: "severe abdominal pain with drug addiction,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C0000737:Abdominal Pain [Sign or Symptom]
+   783   C0278140:Severe pain [Sign or Symptom]
+   753   C0000726:Abdominal [Body Location or Region]
+   753   C0030193:Pain [Sign or Symptom]
+   753   C1962977:Pain NOS [Finding]
+
+Phrase: "and"
+
+Phrase: "eventually after multiple operations,"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   770   C0038895:operations [Functional Concept]
+   770   C0439064:Multiple [Quantitative Concept]
+   770   C3244305:operations [Functional Concept]
+   770   C3244306:operations [Intellectual Product]
+   737 E C0543467:Operation [Health Care Activity]
+   737 E C3241922:Operation [Activity]
+
+Phrase: "a short-bowel syndrome requiring home parenteral nutrition."
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   845   C0079543:Parenteral Nutrition, Home [Therapeutic or Preventive Procedure]
+   818   C0030547:Parenteral Nutrition [Therapeutic or Preventive Procedure]
+   818   C0030548:parenteral nutrition [Therapeutic or Preventive Procedure]
+   795   C0028707:Nutrition [Biomedical Occupation or Discipline]
+   795   C0392209:nutrition [Organism Attribute]
+   795   C1442959:Nutrition [Organism Function]
+   724 E C1521739:Nutritional [Qualitative Concept]
+   724 E C2707262:Nutritional [Clinical Attribute]
+Processing 00000000.tx.11: There is little in the literature available on mortality data related to CD, but a large series by Farmer et al showed a 6% mortality attributable to CD.1 The mortality rate for selective patients with refractory and severe disease is probably higher. 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "little in the literature"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0023882:Little NOS [Congenital Abnormality,Disease or Syndrome]
+   770   C0700321:Little [Quantitative Concept]
+   770   C2700395:Little [Quantitative Concept]
+
+Phrase: "available on mortality data"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0470187:Available [Functional Concept]
+
+Phrase: "related to CD,"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   833   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   770   C0012634:Disease [Disease or Syndrome]
+   770   C0439849:Related [Qualitative Concept]
+   770   C0445223:Related [Finding]
+   737 E C0163712:Relate [Organic Chemical]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+
+Phrase: "but"
+
+Phrase: "a large series by Farmer et al"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0205549:Series [Quantitative Concept]
+   748   C2348044:Series [Intellectual Product]
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "a 6% mortality"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0026565:Mortality [Quantitative Concept]
+   861   C0026566:mortality [Quantitative Concept]
+
+Phrase: "attributable to CD.1"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0596130:Attributable [Mental Process]
+
+Phrase: "The mortality rate for selective patients"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   790   C0026565:Mortality rate [Quantitative Concept]
+           Mortality
+   790   C0205848:Mortality Rate [Quantitative Concept]
+   753   C0026566:mortality [Quantitative Concept]
+   753   C0871208:Rate [Activity]
+   753   C1521828:Rate [Quantitative Concept]
+
+Phrase: "with refractory"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205269:Refractory [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "severe disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "probably higher."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0205250:High [Qualitative Concept]
+   827   C1299351:High [Qualitative Concept]
+   827   C2700149:HIGH [Intellectual Product]
+   777 E C0489786:Height [Organism Attribute]
+Processing 00000000.tx.12: Crohn disease is treated by immune-modulating or immune-suppressive therapies. 
+
+Phrase: "Crohn disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "treated by immune-modulating"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   770   C0332293:treated [Therapeutic or Preventive Procedure]
+   770   C0439662:Immune [Functional Concept]
+   770   C0443264:Modulating [Spatial Concept]
+   770   C1522326:Treated [Functional Concept]
+   737 E C1292734:TREAT [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "immune-suppressive therapies."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C0087111:therapies [Therapeutic or Preventive Procedure]
+   793 E C0039798:therapy [Functional Concept]
+   793 E C1363945:Therapy [Finding]
+Processing 00000000.tx.13: These treatments include local anti-inflammatory agents such as 5-aminosalicylic acid products; 
+
+Phrase: "These treatments"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0087111:Treatments [Therapeutic or Preventive Procedure]
+   966 E C0039798:treatment [Functional Concept]
+   966 E C1522326:Treatment [Functional Concept]
+   966 E C1533734:Treatment [Therapeutic or Preventive Procedure]
+   966 E C1705169:Treatment [Conceptual Entity]
+   966 E C3538994:TREATMENT [Research Activity]
+
+Phrase: "include"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:include [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "local anti-inflammatory agents such as 5-aminosalicylic acid products"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   782   C0003209:Anti-Inflammatory Agents [Pharmacologic Substance]
+   757   C0040616:anti-agents [Pharmacologic Substance]
+   706   C0450442:Agent [Chemical Viewed Functionally]
+   706   C1254351:Agent [Pharmacologic Substance]
+   706   C1521826:Agent [Intellectual Product]
+
+Phrase: ";"
+Processing 00000000.tx.14: broad immune suppression such as corticosteroids, azathioprine, or methotrexate; 
+
+Phrase: "broad immune suppression such as corticosteroids,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   790   C0021079:IMMUNE SUPPRESSION [Therapeutic or Preventive Procedure]
+   790   C1373218:Immune Suppression [Pathologic Function]
+   790   C1840264:IMMUNE SUPPRESSION [Disease or Syndrome]
+   753   C0221103:Suppression [Pathologic Function]
+   753   C0301625:Suppression [Organism Function]
+   753   C0439181:% suppression [Quantitative Concept]
+   753   C0728721:suppression [Mental Process]
+
+Phrase: "azathioprine,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0004482:Azathioprine [Organic Chemical,Pharmacologic Substance]
+   944 E C0699279:Imuran [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "or"
+
+Phrase: "methotrexate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025677:Methotrexate [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ";"
+Processing 00000000.tx.15: cytokine suppression such as antibody to tumor necrosis factor alpha (TNF-); 
+
+Phrase: "cytokine suppression such as antibody"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   806   C1511619:Cytokine Suppression [Physiologic Function]
+   797   C1516008:Antibody Suppression [Physiologic Function]
+   760   C0221103:Suppression [Pathologic Function]
+   760   C0301625:Suppression [Organism Function]
+   760   C0439181:% suppression [Quantitative Concept]
+   760   C0728721:suppression [Mental Process]
+
+Phrase: "to tumor necrosis factor alpha"
+Meta Candidates (Total=17; Excluded=0; Pruned=0; Remaining=17)
+  1000   C0041368:tumor necrosis factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           tumor necrosis factor
+  1000   C1168005:Tumor Necrosis Factor alpha [Laboratory Procedure]
+  1000   C1456820:Tumor Necrosis Factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Tumour necrosis factor
+   923   C1323304:tumor necrosis factor [Molecular Function]
+   861   C0333516:Tumor necrosis [Neoplastic Process]
+   812   C0027540:Necrosis [Organ or Tissue Function]
+   812   C0027651:Tumor [Neoplastic Process]
+   812   C0439095:Alpha [Intellectual Product]
+   812   C1334928:Necrosis [Finding]
+   812   C1521761:Factor [Functional Concept]
+   812   C1578706:Tumor [Intellectual Product]
+   812   C2003941:Alpha [Intellectual Product]
+   812   C2350010:Alpha [Qualitative Concept]
+   812   C2827422:Factor [Conceptual Entity]
+   812   C3273930:Tumor [Finding]
+
+Phrase: "(TNF-"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+  1000   C0041368:tumor necrosis factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C1323304:tumor necrosis factor [Molecular Function]
+  1000   C1456820:Tumour necrosis factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   901   C0333516:Tumor necrosis [Neoplastic Process]
+   827   C0027540:Necrosis [Organ or Tissue Function]
+   827   C0027651:Tumor [Neoplastic Process]
+   827   C1334928:Necrosis [Finding]
+   827   C1521761:Factor [Functional Concept]
+   827   C1578706:Tumor [Intellectual Product]
+   827   C2827422:Factor [Conceptual Entity]
+   827   C3273930:Tumor [Finding]
+
+Phrase: ")"
+
+Phrase: ";"
+Processing 00000000.tx.16: and antibiotics such as ciprofloxacin and metronidazole, which might work by decreasing the putative antigen exposure to the intestine.  
+
+Phrase: "and"
+
+Phrase: "antibiotics such as ciprofloxacin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0003232:Antibiotics [Antibiotic]
+
+Phrase: "and"
+
+Phrase: "metronidazole,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0025872:Metronidazole [Organic Chemical,Pharmacologic Substance]
+   944 E C0699678:Flagyl [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "which"
+
+Phrase: "might"
+
+Phrase: "work by decreasing"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   790   C0043227:Work [Occupational Activity]
+   790   C0442797:Decreasing [Qualitative Concept]
+   756 E C0392756:Decrease [Qualitative Concept]
+   756 E C0547047:Decrease [Quantitative Concept]
+
+Phrase: "the putative antigen exposure to the intestine."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   778   C0332157:Exposure to [Clinical Attribute]
+           Exposure
+   748   C0274281:Exposure, NOS [Injury or Poisoning]
+Processing 00000000.tx.17: Study design Top Abstract Introduction Study design Results and discussion References Patients signed informed consent under institutional review board- and United States Food and Drug Administration-approved study IDE 7846.
+
+Phrase: "Study design Top Abstract Introduction Study design Results"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   892   C0683954:study results [Finding]
+   760   C1274040:Result [Functional Concept]
+   760   C1546471:Result [Idea or Concept]
+   760   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "discussion"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557061:Discussion [Therapeutic or Preventive Procedure]
+  1000   C2584313:Discussion [Social Behavior]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "signed"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C1519316:Signed [Intellectual Product]
+  1000   C1561610:signed [Idea or Concept]
+   966 E C0311392:Sign [Finding]
+   966 E C1547188:Sign [Idea or Concept]
+
+Phrase: "informed consent under institutional review board-"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   790   C0021430:Informed Consent [Regulation or Law]
+   753   C1511481:Consent [Functional Concept]
+   753   C1522154:Informed [Qualitative Concept]
+   753   C1554192:consent [Idea or Concept]
+   719 E C0537670:Inform [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   719 E C0700287:inform [Health Care Activity]
+   719 E C1552002:inform [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "United States Food and Drug Administration-approved study IDE 7846."
+Meta Candidates (Total=24; Excluded=4; Pruned=0; Remaining=20)
+   884   C0041714:United States Food and Drug Administration [Health Care Related Organization]
+           Food and Drug Administration
+           food drug administration
+   824   C0013175:DRUG STUDY [Research Activity]
+   804   C0041703:United States [Geographic Area]
+   804   C0150270:Drug administration [Health Care Activity]
+   804   C3469597:Drug administration [Health Care Activity]
+   790   C0001554:Administration [Occupational Activity]
+   790   C0013227:Drug [Pharmacologic Substance]
+   790   C0016452:Food [Food]
+   790   C0205540:Approved [Qualitative Concept]
+   790   C0328104:Ide [Fish]
+   790   C0557651:Study [Manufactured Object]
+   790   C1254351:Drug [Pharmacologic Substance]
+   790   C1301808:states [Geographic Area]
+   790   C1415875:IDE [Gene or Genome]
+   790   C1533734:Administration [Therapeutic or Preventive Procedure]
+   790   C2603343:Study [Research Activity]
+   790   C2826366:IDE [Idea or Concept]
+   756   C0166872:unite [Biomedical or Dental Material]
+   756 E C1442792:State [Functional Concept]
+   756 E C3148680:State [Geographic Area]
+   734 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   734 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.18: Candidates for HSCT had to have failed corticosteroids, 5aminosalicylic acid, metronidazole, azathioprine, and the TNF- inhibitor infliximab. 
+
+Phrase: "Candidates for HSCT"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   716   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+
+Phrase: "had"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "failed corticosteroids,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0001617:Corticosteroids [Hormone,Pharmacologic Substance,Steroid]
+   827 E C3536709:Corticosteroid [Pharmacologic Substance]
+
+Phrase: "5aminosalicylic acid,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0001128:Acid [Chemical]
+   861   C0202406:Acid [Laboratory Procedure]
+
+Phrase: "metronidazole,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0025872:Metronidazole [Organic Chemical,Pharmacologic Substance]
+   944 E C0699678:Flagyl [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "azathioprine,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0004482:Azathioprine [Organic Chemical,Pharmacologic Substance]
+   944 E C0699279:Imuran [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "the TNF- inhibitor infliximab."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   804   C0666743:infliximab [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   717   C0041368:tumor necrosis factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   717   C1323304:tumor necrosis factor [Molecular Function]
+   717   C1456820:Tumour necrosis factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+Processing 00000000.tx.19: Failure being defined as a Crohn disease activity index (CDAI) higher than 250with the patient being considered for surgical excision because of active disease. 
+
+Phrase: "Failure"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0231174:Failure [Functional Concept]
+  1000   C0680095:failure [Individual Behavior]
+
+Phrase: "being"
+
+Phrase: "defined as a Crohn disease activity index"
+Meta Candidates (Total=13; Excluded=0; Pruned=0; Remaining=13)
+   853   C0451071:Crohn's disease activity index [Intellectual Product]
+   778   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   748   C0012634:Disease [Disease or Syndrome]
+   748   C0205177:Activity [Functional Concept]
+   748   C0439167:% activity [Quantitative Concept]
+   748   C0441655:Activity [Activity]
+   748   C0918012:Index [Intellectual Product]
+   748   C1552854:index [Idea or Concept]
+   748   C1561536:*Activity [Idea or Concept]
+   748   C1637833:% index [Quantitative Concept]
+   748   C1704788:Defined [Conceptual Entity]
+   748   C3539106:Defined [Intellectual Product]
+
+Phrase: "(CDAI"
+Meta Candidates (Total=14; Excluded=3; Pruned=0; Remaining=11)
+  1000   C0451071:Crohn's disease activity index [Intellectual Product]
+   861   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   812   C0012634:Disease [Disease or Syndrome]
+   812   C0205177:Activity [Functional Concept]
+   812   C0439167:% activity [Quantitative Concept]
+   812   C0441655:Activity [Activity]
+   812   C0918012:Index [Intellectual Product]
+   812   C1552854:index [Idea or Concept]
+   812   C1561536:*Activity [Idea or Concept]
+   812   C1637833:% index [Quantitative Concept]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+
+Phrase: ")"
+
+Phrase: "higher than 250with"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   756   C0205250:High [Qualitative Concept]
+   756   C1299351:High [Qualitative Concept]
+   756   C2700149:HIGH [Intellectual Product]
+   706 E C0489786:Height [Organism Attribute]
+
+Phrase: "the patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "being"
+
+Phrase: "considered for surgical excision"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   833   C0728940:Surgical excision [Therapeutic or Preventive Procedure]
+           Excision
+   770   C0015252:excision [Therapeutic or Preventive Procedure]
+   770   C0543467:Surgical [Health Care Activity]
+   770   C0750591:considered [Idea or Concept]
+
+Phrase: "because of active disease."
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0012634:Disease [Disease or Syndrome]
+   861   C0205177:Active [Functional Concept]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.20: Patients' stem cells were mobilized by administration of cyclophosphamide (2.0g/m2 intravenously) and granulocyte colony-stimulating factor (G-CSF; 5g/kg/d) beginning 48hours after cyclophosphamide infusion. 
+
+Phrase: "Patients' stem cells"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   901   C0038250:Stem cells [Cell]
+   827   C0007634:Cells [Cell]
+   827   C0242767:Stem [Plant]
+   827   C1186763:Stem [Body Part, Organ, or Organ Component]
+   827   C3282337:Cells [Cell]
+   793 E C1269647:Cell [Cell]
+   793 E C1704653:Cell [Medical Device]
+   793 E C1948049:Cell [Spatial Concept]
+
+Phrase: "were"
+
+Phrase: "mobilized by administration of cyclophosphamide"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   760   C0001554:Administration [Occupational Activity]
+   760   C0010583:Cyclophosphamide [Organophosphorus Compound,Pharmacologic Substance]
+   760   C0185112:mobilized [Therapeutic or Preventive Procedure]
+   760   C0578718:mobilized [Finding]
+   760   C1533734:Administration [Therapeutic or Preventive Procedure]
+   704 E C0699319:Cytoxan [Organophosphorus Compound,Pharmacologic Substance]
+   704 E C0699320:Endoxan [Organophosphorus Compound,Pharmacologic Substance]
+
+Phrase: "(2.0g/m2 intravenously"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0457242:m2 [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "granulocyte colony-stimulating factor"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+  1000   C0079459:Granulocyte Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   923   C0009392:Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   923   C0079460:Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   812   C0018183:granulocyte [Cell]
+   812   C0439158:colony [Quantitative Concept]
+   812   C1521761:Factor [Functional Concept]
+   812   C1947989:Colony [Cell]
+   812   C1948023:Stimulating [Natural Phenomenon or Process]
+   812   C2827422:Factor [Conceptual Entity]
+
+Phrase: "(G-CSF"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0079459:G CSF [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0439267:g% [Quantitative Concept]
+   861   C3540512:CSF [Therapeutic or Preventive Procedure]
+
+Phrase: "; 5g/kg/"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022718:KG [Geographic Area]
+   861   C0439209:kg [Quantitative Concept]
+
+Phrase: "d)"
+
+Phrase: "beginning 48hours after cyclophosphamide infusion."
+Processing 00000000.tx.21: Stem cells were enriched by CD34+ selection using immunoselection (Isolex, Baxter, Chicago, IL). 
+
+Phrase: "Stem cells"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0038250:Stem cells [Cell]
+   861   C0007634:Cells [Cell]
+   861   C0242767:Stem [Plant]
+   861   C1186763:Stem [Body Part, Organ, or Organ Component]
+   861   C3282337:Cells [Cell]
+   827 E C1269647:Cell [Cell]
+   827 E C1704653:Cell [Medical Device]
+   827 E C1948049:Cell [Spatial Concept]
+
+Phrase: "were"
+
+Phrase: "enriched by CD34+ selection"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0036576:selection [Genetic Function]
+   770   C0359583:enriched [Food]
+   770   C3538723:CD34 [Laboratory Procedure]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "immunoselection"
+
+Phrase: "(Isolex,"
+
+Phrase: "Baxter,"
+
+Phrase: "Chicago,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008044:Chicago [Geographic Area]
+
+Phrase: "IL"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0020898:IL [Geographic Area]
+  1000   C0021764:IL [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0022271:IL [Geographic Area]
+
+Phrase: ")."
+Processing 00000000.tx.22: The immune suppressive regimen was cyclophosphamide (200mg/kg; divided 50mg/kg on days 5, 4, 3, and 2), and equine anti-thymocyte globulin (ATG; 90mg/kg; divided 30mg/kg on days 4, 3, and 2). 
+
+Phrase: "The immune suppressive regimen"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0040808:Regimen [Therapeutic or Preventive Procedure]
+   827   C2945654:regimen [Intellectual Product]
+
+Phrase: "was"
+
+Phrase: "cyclophosphamide"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0010583:Cyclophosphamide [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699319:Cytoxan [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699320:Endoxan [Organophosphorus Compound,Pharmacologic Substance]
+
+Phrase: "(200mg/kg"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022718:KG [Geographic Area]
+   861   C0439209:kg [Quantitative Concept]
+
+Phrase: "; divided 50mg/kg on days 5,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   767   C0439418:kg/day [Quantitative Concept]
+   753   C0022718:KG [Geographic Area]
+   753   C0439209:kg [Quantitative Concept]
+
+Phrase: "4,"
+
+Phrase: "3,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "and"
+
+Phrase: "2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "equine anti-thymocyte globulin"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0359163:Equine antithymocyte globulin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   923   C0003442:Anti-Thymocyte Globulin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   812   C0017649:Globulin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   812   C0814999:thymocyte [Cell]
+
+Phrase: "(ATG"
+
+Phrase: "; 90mg/kg"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0022718:KG [Geographic Area]
+   861   C0439209:kg [Quantitative Concept]
+
+Phrase: "; divided 30mg/kg on days 4,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   767   C0439418:kg/day [Quantitative Concept]
+   753   C0022718:KG [Geographic Area]
+   753   C0439209:kg [Quantitative Concept]
+
+Phrase: "3,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "and"
+
+Phrase: "2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: ")."
+Processing 00000000.tx.23: Methylprednisolone (1.0g) was administered 30minutes prior to each dose of ATG. 
+
+Phrase: "Methylprednisolone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0025815:Methylprednisolone [Hormone,Pharmacologic Substance,Steroid]
+   944 E C0699458:Medrol [Pharmacologic Substance,Steroid]
+
+Phrase: "(1.0g"
+
+Phrase: ")"
+
+Phrase: "was"
+
+Phrase: "administered"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1521801:Administered [Functional Concept]
+   966 E C1621583:Administer [Functional Concept]
+
+Phrase: "30minutes prior to each dose of ATG."
+Processing 00000000.tx.24: From admission until discharge supportive care included fluconazole, ciprofloxacin, oral acyclovir, and metronidazole. 
+
+Phrase: "From admission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0184666:admission [Health Care Activity]
+  1000   C0809949:Admission [Health Care Activity]
+
+Phrase: "until"
+
+Phrase: "discharge supportive care included fluconazole,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0016277:Fluconazole [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "ciprofloxacin,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008809:Ciprofloxacin [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "oral acyclovir,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0001367:Aciclovir [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "metronidazole."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0025872:Metronidazole [Organic Chemical,Pharmacologic Substance]
+   944 E C0699678:Flagyl [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.25: When neutropenia developed, cefepime was added independent of fever. 
+
+Phrase: "When"
+
+Phrase: "neutropenia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027947:Neutropenia [Finding]
+  1000   C0853697:Neutropenia [Finding]
+
+Phrase: "developed"
+
+Phrase: ","
+
+Phrase: "cefepime"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0055003:cefepime [Antibiotic,Organic Chemical]
+
+Phrase: "was"
+
+Phrase: "added independent of fever."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   833   C0332291:Independent of [Functional Concept]
+   770   C0015967:Fever [Finding]
+   770   C0085862:Independent [Idea or Concept]
+   770   C1299583:Independent [Finding]
+   770   C1524062:Added [Functional Concept]
+   737 E C1883712:Add [Functional Concept]
+Processing 00000000.tx.26: Leukocyte-depleted, irradiated, and cytomegalovirus (CMV)-safe blood products were administered to maintain hemoglobin levels higher than 80g/L (8.0g/dL) and platelet counts higher than 20000/L. 
+
+Phrase: "Leukocyte-depleted,"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0333668:Depleted [Functional Concept]
+   789 E C1550032:Unload [Idea or Concept]
+   789 E C1880497:Empty [Qualitative Concept]
+   789 E C1996907:Emptying [Activity]
+
+Phrase: "irradiated"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1517600:Irradiated [Functional Concept]
+  1000   C1522449:Irradiated [Therapeutic or Preventive Procedure]
+  1000   C1548980:Irradiated [Idea or Concept]
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "cytomegalovirus (CMV)-safe blood products"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C0456388:Blood products [Pharmacologic Substance]
+   844 E C1547007:Blood product [Idea or Concept]
+   812   C1514468:Products [Entity]
+   779 E C1704444:Product [Quantitative Concept]
+
+Phrase: "were"
+
+Phrase: "administered"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1521801:Administered [Functional Concept]
+   966 E C1621583:Administer [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "maintain"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0024501:Maintain [Activity]
+
+Phrase: "hemoglobin levels"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0019029:haemoglobin levels [Laboratory or Test Result]
+  1000   C1314664:haemoglobin levels [Laboratory Procedure]
+   861   C0019046:Haemoglobin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   861   C0441889:Levels [Qualitative Concept]
+   827 E C0456079:Level [Classification]
+   827 E C1547707:Level [Geographic Area]
+   827 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "higher than 80g/L (8.0g/dL)"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   714   C0205250:High [Qualitative Concept]
+   714   C1299351:High [Qualitative Concept]
+   714   C2700149:HIGH [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "platelet counts"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0032181:Platelet Counts [Laboratory Procedure]
+   966 E C1287267:Platelet count [Laboratory or Test Result]
+   861   C0005821:Platelet [Cell]
+   861   C0439157:counts [Quantitative Concept]
+   827 E C0750480:Count [Activity]
+   827 E C1705566:Count [Quantitative Concept]
+   777 E C1963076:Platelets [Finding]
+
+Phrase: "higher than 20000/L."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   737   C0205250:High [Qualitative Concept]
+   737   C1299351:High [Qualitative Concept]
+   737   C2700149:HIGH [Intellectual Product]
+Processing 00000000.tx.27: For 6months after HSCT, patients were placed on prophylactic fluconazole, acyclovir, and trimethaprim sulfamethoxazole.  
+
+Phrase: "For 6months"
+
+Phrase: "after HSCT,"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "were"
+
+Phrase: "placed on prophylactic fluconazole,"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   770   C0016277:Fluconazole [Organic Chemical,Pharmacologic Substance]
+   770   C0355642:Prophylactic [Pharmacologic Substance]
+   770   C0445202:Prophylactic [Functional Concept]
+   770   C0677582:Prophylactic [Medical Device]
+   737   C0442504:Place [Spatial Concept]
+   737   C1704765:Place [Functional Concept]
+   737   C1882509:Place [Activity]
+   737   C3496241:place [Disease or Syndrome]
+
+Phrase: "acyclovir,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001367:Aciclovir [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "trimethaprim sulfamethoxazole."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0038689:Sulfamethoxazole [Antibiotic,Organic Chemical]
+   805 E C0740161:Gantanol [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.28: Results and discussion Top Abstract Introduction Study design Results and discussion References Two patients were treated. 
+
+Phrase: "Results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1274040:Result [Functional Concept]
+   966   C1546471:Result [Idea or Concept]
+   966   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "discussion Top Abstract Introduction Study design Results"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   829   C0683954:study results [Finding]
+   762   C1274040:Result [Functional Concept]
+   762   C1546471:Result [Idea or Concept]
+   762   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "discussion"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557061:Discussion [Therapeutic or Preventive Procedure]
+  1000   C2584313:Discussion [Social Behavior]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Two patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "were"
+
+Phrase: "treated."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0332293:treated [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treated [Functional Concept]
+   966 E C1292734:TREAT [Functional Concept]
+Processing 00000000.tx.29: The first patient had continuous disease for 6years prior to HSCT, the second, for 10years. 
+
+Phrase: "The first patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "had"
+
+Phrase: "continuous disease for 6years"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0012634:Disease [Disease or Syndrome]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+
+Phrase: "prior to HSCT,"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "the second,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0205436:Second [Quantitative Concept]
+  1000   C0457385:Second [Temporal Concept]
+  1000   C0565930:/second [Quantitative Concept]
+  1000   C1561503:second [Idea or Concept]
+  1000   C1705190:Second [Qualitative Concept]
+   928 E C0027627:secondary [Neoplastic Process]
+   928 E C0175668:Secondary [Temporal Concept]
+
+Phrase: "for 10years."
+Processing 00000000.tx.30: After mobilization, both patients continued to have active disease without significant change in diarrhea or pain. 
+
+Phrase: "After mobilization,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0185112:Mobilisation [Therapeutic or Preventive Procedure]
+  1000   C0300926:mobilization [Functional Concept]
+
+Phrase: "both patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "continued"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0549178:Continued [Idea or Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "active disease without significant change"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   760   C0012634:Disease [Disease or Syndrome]
+   760   C0205177:Active [Functional Concept]
+   704 E C1836721:MALS [Finding]
+   704 E C3538764:MALS [Gene or Genome]
+   704 E C3540595:MAL [Gene or Genome]
+
+Phrase: "in diarrhea"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011991:Diarrhea [Sign or Symptom]
+  1000   C1963091:Diarrhea [Finding]
+
+Phrase: "or"
+
+Phrase: "pain."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0030193:Pain [Sign or Symptom]
+  1000   C1962977:Pain NOS [Finding]
+Processing 00000000.tx.31: The first patient, a 22-year-old woman, had a CDAI of 308,and was extremely ill, addicted to opiates, and receiving 6-mercaptopurine (6-MP) and corticosteroids at time of entry. 
+
+Phrase: "The first patient,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "a 22-year-old woman,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0043210:Woman [Population Group]
+
+Phrase: "had"
+
+Phrase: "a CDAI of 308,"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   853   C0451071:Crohn's disease activity index [Intellectual Product]
+   778   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   748   C0012634:Disease [Disease or Syndrome]
+   748   C0205177:Activity [Functional Concept]
+   748   C0439167:% activity [Quantitative Concept]
+   748   C0441655:Activity [Activity]
+   748   C0918012:Index [Intellectual Product]
+   748   C1552854:index [Idea or Concept]
+   748   C1561536:*Activity [Idea or Concept]
+   748   C1637833:% index [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "was"
+
+Phrase: "extremely ill,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0231218:Ill [Sign or Symptom]
+
+Phrase: "addicted to opiates,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0242401:Opiates, NOS [Laboratory Procedure]
+   790   C0376196:Opiates [Hazardous or Poisonous Substance,Pharmacologic Substance]
+   790   C0858354:addicted [Patient or Disabled Group]
+
+Phrase: "and"
+
+Phrase: "receiving 6-mercaptopurine (6-MP)"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0000618:mercaptopurine [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+   771 E C0722911:Purinethol [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "corticosteroids at time of entry."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0001617:Corticosteroids [Hormone,Pharmacologic Substance,Steroid]
+   726 E C3536709:Corticosteroid [Pharmacologic Substance]
+Processing 00000000.tx.32: She had undergone prior resection of part of her ileum and colon and had been on total parenteral nutrition for 2years. 
+
+Phrase: "She"
+
+Phrase: "had"
+
+Phrase: "undergone prior resection of part of her ileum"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   793   C0399935:Resection of ileum [Therapeutic or Preventive Procedure]
+           ileum resection
+   744   C0015252:resection [Therapeutic or Preventive Procedure]
+   744   C0728940:Resection [Therapeutic or Preventive Procedure]
+
+Phrase: "and"
+
+Phrase: "colon"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0009368:Colon [Body Part, Organ, or Organ Component]
+  1000   C1281569:Colon [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "had"
+
+Phrase: "been on total parenteral nutrition"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   862   C0030548:Parenteral Nutrition, Total [Therapeutic or Preventive Procedure]
+           parenteral nutrition
+   806   C0030547:Parenteral Nutrition [Therapeutic or Preventive Procedure]
+   760   C0028707:Nutrition [Biomedical Occupation or Discipline]
+   760   C0392209:nutrition [Organism Attribute]
+   760   C0439175:% total [Quantitative Concept]
+   760   C0439810:Total [Qualitative Concept]
+   760   C1442959:Nutrition [Organism Function]
+
+Phrase: "for 2years."
+Processing 00000000.tx.33: She was having 25liquid stools per 24hours, severe abdominal pain despite continuous infusion narcotics, arthralgias, anal fissures, and anal and vaginal fistulas. 
+
+Phrase: "She"
+
+Phrase: "was"
+
+Phrase: "having"
+
+Phrase: "25liquid stools per 24hours,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0015733:Stools [Body Substance]
+   770   C0489144:Stools [Clinical Attribute]
+
+Phrase: "severe abdominal pain despite continuous infusion narcotics,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   778   C0000737:Abdominal Pain [Sign or Symptom]
+   774   C0278140:Severe pain [Sign or Symptom]
+   748   C0000726:Abdominal [Body Location or Region]
+   748   C0030193:Pain [Sign or Symptom]
+   748   C1962977:Pain NOS [Finding]
+
+Phrase: "arthralgias,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0003862:Arthralgias [Sign or Symptom]
+
+Phrase: "anal fissures,"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0016167:anal fissures [Acquired Abnormality]
+   861   C0003461:Anal [Body Part, Organ, or Organ Component]
+   861   C0332469:fissures [Body Space or Junction]
+   861   C2939124:Anal [Spatial Concept]
+   777 E C1517198:Fissural [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "anal"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0003461:Anal [Body Part, Organ, or Organ Component]
+  1000   C2939124:Anal [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "vaginal fistulas."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042253:Vaginal Fistulas [Anatomical Abnormality]
+   861   C0016169:Fistulas [Anatomical Abnormality]
+Processing 00000000.tx.34: Physical examination was remarkable for tender vulvar edema, large tender perianal skin tags, and bilateral lower abdominal tenderness. 
+
+Phrase: "Physical examination"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0031809:Physical Examination [Health Care Activity]
+           Physical
+   861   C0205485:Physical [Functional Concept]
+   861   C1509143:Physical [Finding]
+
+Phrase: "was"
+
+Phrase: "remarkable for tender vulvar edema,"
+
+Phrase: "large tender perianal skin tags,"
+Meta Candidates (Total=15; Excluded=6; Pruned=0; Remaining=9)
+   884   C0521605:Perianal skin tags [Anatomical Abnormality]
+   853   C0241164:tender skin [Sign or Symptom]
+   840   C0037293:Skin tags [Neoplastic Process]
+       E   Tag
+   840   C0444595:Perianal skin [Body Part, Organ, or Organ Component]
+   840   C1704244:Perianal skin [Body Part, Organ, or Organ Component]
+   804   C0444099:Skin [Body Substance]
+   804   C1123023:Skin [Body System]
+   804   C1139855:tags [Medical Device]
+   804   C1278993:Skin [Body System]
+   771 E C0181496:Tag [Manufactured Object]
+   771 E C1710492:TAG [Gene or Genome]
+   748 E C0221912:Cutaneous [Spatial Concept]
+   748 E C0221928:Dermal [Qualitative Concept]
+   748 E C1522447:Cutaneous [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "bilateral"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0238767:Bilateral [Spatial Concept]
+
+Phrase: "lower"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0441994:Lower [Spatial Concept]
+  1000   C1548802:Lower [Body Location or Region]
+  1000   C2003888:Lower [Activity]
+
+Phrase: "abdominal tenderness."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0232498:Abdominal tenderness [Sign or Symptom]
+   861   C0234233:Tenderness [Sign or Symptom]
+   861   C0684239:tenderness [Mental Process]
+   789 E C0234234:Tender [Qualitative Concept]
+Processing 00000000.tx.35: Entry colonoscopy and small-bowel series revealed severe ileal and colonic ulcerating disease (Figure 1). 
+
+Phrase: "Entry colonoscopy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0009378:colonoscopy [Diagnostic Procedure]
+   861   C1548837:Colonoscopy [Health Care Activity]
+
+Phrase: "and"
+
+Phrase: "small-bowel series"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0412112:Small bowel series [Diagnostic Procedure]
+   827   C0205549:Series [Quantitative Concept]
+   827   C2348044:Series [Intellectual Product]
+   734   C0021852:Small bowel [Body Part, Organ, or Organ Component]
+   734   C1519375:Small Bowel [Tissue]
+
+Phrase: "revealed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443289:Revealed [Qualitative Concept]
+
+Phrase: "severe ileal"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0020885:Ileal [Body Part, Organ, or Organ Component]
+   789 E C1278923:Ileum [Body Part, Organ, or Organ Component]
+   777 E C0020889:Ilium [Body Part, Organ, or Organ Component]
+   777 E C1279102:Ilium [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "colonic ulcerating disease"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   913   C0009373:Disease, Colonic [Disease or Syndrome]
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(Figure 1"
+
+Phrase: ")."
+Processing 00000000.tx.36: Following HSCT, she has entered a medication-free remission on a normal diet, although occasional diarrhea has occurred. 
+
+Phrase: "Following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "HSCT,"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "she"
+
+Phrase: "has"
+
+Phrase: "entered"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1521975:Entered [Qualitative Concept]
+   966 E C1522196:ENTER [Functional Concept]
+
+Phrase: "a medication-free remission on a normal diet,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0544452:Remission [Finding]
+   744   C0687702:remission [Neoplastic Process]
+
+Phrase: "although"
+
+Phrase: "occasional diarrhea"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0011991:Diarrhea [Sign or Symptom]
+   861   C1963091:Diarrhea [Finding]
+
+Phrase: "has"
+
+Phrase: "occurred."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1709305:Occurred [Activity]
+   966 E C2745955:OCCUR [Temporal Concept]
+Processing 00000000.tx.37: A follow-up colonoscopy showed marked improvement, although there remained slight ulceration at the ileocecal valve area (Figure 2). 
+
+Phrase: "A follow-up colonoscopy"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   827   C0009378:colonoscopy [Diagnostic Procedure]
+   827   C1548837:Colonoscopy [Health Care Activity]
+   734   C0589120:Follow-up [Finding]
+   734   C1522577:follow-up [Health Care Activity]
+   734   C1704685:FOLLOW-UP [Intellectual Product]
+   734   C3274571:FOLLOW-UP [Health Care Activity]
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "marked improvement,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2986411:Improvement [Conceptual Entity]
+
+Phrase: "although"
+
+Phrase: "there"
+
+Phrase: "remained"
+
+Phrase: "slight ulceration at the ileocecal valve area"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0041582:Ulceration [Pathologic Function]
+   748   C1963256:Ulceration [Finding]
+
+Phrase: "(Figure 2"
+
+Phrase: ")."
+Processing 00000000.tx.38: She is no longer receiving corticosteroids or any therapy for Crohn disease, and her narcotics are being tapered through a methadone program (Table 1). 
+
+Phrase: "She"
+
+Phrase: "is"
+
+Phrase: "no longer receiving corticosteroids"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0001617:Corticosteroids [Hormone,Pharmacologic Substance,Steroid]
+   793 E C3536709:Corticosteroid [Pharmacologic Substance]
+
+Phrase: "or"
+
+Phrase: "any therapy for Crohn disease,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0039798:therapy [Functional Concept]
+   760   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   760   C1363945:Therapy [Finding]
+
+Phrase: "and"
+
+Phrase: "her narcotics"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027415:Narcotics [Hazardous or Poisonous Substance,Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "being"
+
+Phrase: "tapered through a methadone program"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0025605:Methadone [Organic Chemical,Pharmacologic Substance]
+   760   C0441640:tapered [Health Care Activity]
+   760   C1552533:Methadone [Health Care Related Organization,Manufactured Object]
+   760   C1709697:Program [Conceptual Entity]
+   760   C2728259:Program [Pharmacologic Substance]
+   760   C3484370:Program [Functional Concept]
+
+Phrase: "(Table 1"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+
+Phrase: ")."
+Processing 00000000.tx.39: View larger version (90K): [in this window] [in a new window]  Figure 1. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "larger version"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0333052:Version [Functional Concept]
+   861   C2607870:Version [Spatial Concept]
+
+Phrase: "(90K"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1334335:90K [Gene or Genome]
+  1000   C1705384:90K [Gene or Genome]
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  Figure 1."
+Processing 00000000.tx.40: Pretransplantation colonoscopy of first patient shows deep serpiginous ulcers in transverse colon. 
+
+Phrase: "Pretransplantation colonoscopy of first patient"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0009378:colonoscopy [Diagnostic Procedure]
+   760   C1548837:Colonoscopy [Health Care Activity]
+
+Phrase: "shows"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "deep serpiginous ulcers in transverse colon."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   783   C0267491:colon ulcers [Disease or Syndrome]
+   773   C0271259:Serpiginous ulcer [Disease or Syndrome]
+   767 E C1963259:Colon ulcer [Finding]
+   753   C0041582:ULCERS [Pathologic Function]
+Processing 00000000.tx.41: The colonoscope was unable to transverse the inflammed and narrowed segment. 
+
+Phrase: "The colonoscope"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0180022:Colonoscope [Medical Device]
+
+Phrase: "was"
+
+Phrase: "unable to transverse"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1299582:Unable [Finding]
+
+Phrase: "the inflammed"
+
+Phrase: "and"
+
+Phrase: "narrowed"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0333164:Narrowed [Quantitative Concept]
+   966 E C0205168:Narrow [Qualitative Concept]
+   966 E C0332463:Narrow [Spatial Concept]
+
+Phrase: "segment."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0441635:Segment [Spatial Concept]
+   928 E C0205122:Segmental [Spatial Concept]
+Processing 00000000.tx.42: View larger version (68K): [in this window] [in a new window]  Figure 2. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "larger version"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0333052:Version [Functional Concept]
+   861   C2607870:Version [Spatial Concept]
+
+Phrase: "(68K"
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  Figure 2."
+Processing 00000000.tx.43: Colonoscopy of the first patient shows marked improvement 6months after transplantation. 
+
+Phrase: "Colonoscopy of the first patient"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0009378:colonoscopy [Diagnostic Procedure]
+   760   C1548837:Colonoscopy [Health Care Activity]
+
+Phrase: "shows"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1547282:Show [Intellectual Product]
+
+Phrase: "marked improvement 6months after transplantation."
+Processing 00000000.tx.44: Full colonoscopy was easily performed showing only a few superficial ulcerations in the area of the ileocecal valve.  
+
+Phrase: "Full colonoscopy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0009378:colonoscopy [Diagnostic Procedure]
+   861   C1548837:Colonoscopy [Health Care Activity]
+
+Phrase: "was"
+
+Phrase: "easily"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332219:Easily [Qualitative Concept]
+
+Phrase: "performed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0884358:Performed [Functional Concept]
+   966 E C2947996:Perform [Pharmacologic Substance]
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "a few superficial ulcerations in the area of the ileocecal valve."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   739   C0333307:Superficial ulceration [Acquired Abnormality]
+   738   C0041582:ulcerations [Pathologic Function]
+   704 E C1963256:Ulceration [Finding]
+Processing 00000000.tx.45: View this table: [in this window] [in a new window]  Table 1. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "this table"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0039224:Table [Manufactured Object]
+  1000   C1706073:Table [Medical Device]
+  1000   C1706074:Table [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  Table 1."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+Processing 00000000.tx.46: First stem cell transplantation for Crohn disease The second HSCT was performed on a 16-year-old boy who had been continuously ill for 6years. 
+
+Phrase: "First stem cell transplantation for Crohn disease"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   814   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   778   C0038250:Stem cell [Cell]
+   778   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   748   C0007634:Cell [Cell]
+   748   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   748   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   748   C0040733:transplantation [Functional Concept]
+   748   C0242767:Stem [Plant]
+   748   C1186763:Stem [Body Part, Organ, or Organ Component]
+   748   C1269647:Cell [Cell]
+   748   C1704653:Cell [Medical Device]
+   748   C1948049:Cell [Spatial Concept]
+
+Phrase: "The second HSCT"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+   937   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   884   C0018956:Haematopoietic stem cell [Cell]
+   884   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   853   C2323499:Hematopoietic cell [Cell]
+   840   C0038250:Stem cell [Cell]
+   840   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   804   C0007634:Cell [Cell]
+   804   C0018957:Haematopoietic [Body System]
+   804   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040733:transplantation [Functional Concept]
+   804   C0229601:Hematopoietic [Functional Concept]
+   804   C0242767:Stem [Plant]
+   804   C1186763:Stem [Body Part, Organ, or Organ Component]
+   804   C1269647:Cell [Cell]
+   804   C1704653:Cell [Medical Device]
+   804   C1948049:Cell [Spatial Concept]
+   733 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "was"
+
+Phrase: "performed on a 16-year-old boy"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   748   C0439234:year [Temporal Concept]
+   748   C0439508:/year [Temporal Concept]
+   748   C0580836:Old [Temporal Concept]
+   748   C0870221:Boy [Age Group]
+   748   C0884358:Performed [Functional Concept]
+   714 E C2947996:Perform [Pharmacologic Substance]
+
+Phrase: "who"
+
+Phrase: "had"
+
+Phrase: "been"
+
+Phrase: "continuously ill for 6years."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0231218:Ill [Sign or Symptom]
+Processing 00000000.tx.47: His CDAI was 267prior to the transplantation. 
+
+Phrase: "His CDAI"
+Meta Candidates (Total=14; Excluded=3; Pruned=0; Remaining=11)
+  1000   C0451071:Crohn's disease activity index [Intellectual Product]
+   861   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   812   C0012634:Disease [Disease or Syndrome]
+   812   C0205177:Activity [Functional Concept]
+   812   C0439167:% activity [Quantitative Concept]
+   812   C0441655:Activity [Activity]
+   812   C0918012:Index [Intellectual Product]
+   812   C1552854:index [Idea or Concept]
+   812   C1561536:*Activity [Idea or Concept]
+   812   C1637833:% index [Quantitative Concept]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+
+Phrase: "was"
+
+Phrase: "267prior to the transplantation."
+Processing 00000000.tx.48: His colonoscopy showed severe disease especially in his transverse colon. 
+
+Phrase: "His colonoscopy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0009378:colonoscopy [Diagnostic Procedure]
+  1000   C1548837:Colonoscopy [Health Care Activity]
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "severe disease especially in his transverse colon."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   774   C0009373:colon disease [Disease or Syndrome]
+   748   C0012634:Disease [Disease or Syndrome]
+Processing 00000000.tx.49: He was maintained with tube feeding, methotrexate, 6-MP, and 5-aminosalicylic acid. 
+
+Phrase: "He"
+
+Phrase: "was"
+
+Phrase: "maintained with tube feeding,"
+Meta Candidates (Total=12; Excluded=2; Pruned=0; Remaining=10)
+   833   C0014327:tube feeding [Therapeutic or Preventive Procedure]
+   833   C0041281:Tube Feeding [Therapeutic or Preventive Procedure]
+   833   C0973654:tube feeding [Food]
+   819 E C2945625:Feeding tube [Medical Device]
+   770   C0175730:Tube [Medical Device]
+   770   C0204695:Feeding [Health Care Activity]
+   770   C1314677:Maintained [Functional Concept]
+   770   C1547937:Tube NOS [Intellectual Product]
+   770   C1561954:tube [Conceptual Entity]
+   770   C1704730:TUBE [Medical Device]
+   770   C2987508:Feeding [Activity]
+   737 E C0024501:Maintain [Activity]
+
+Phrase: "methotrexate,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025677:Methotrexate [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "6-MP,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0000618:6-Mercaptopurine [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+           mercaptopurine
+   805 E C0722911:Purinethol [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "5-aminosalicylic acid."
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+  1000   C0127615:5-Aminosalicylic Acid [Organic Chemical,Pharmacologic Substance]
+   901   C0030125:aminosalicylic acid [Organic Chemical,Pharmacologic Substance]
+   845 E C0878243:Pamisyl [Organic Chemical,Pharmacologic Substance]
+   845 E C1879696:Parasal [Organic Chemical,Pharmacologic Substance]
+   827   C0001128:Acid [Chemical]
+   827   C0202406:Acid [Laboratory Procedure]
+Processing 00000000.tx.50: Entry colonoscopy and small-bowel series revealed severe Crohn colitis, transverse colonic stricture, and multiple small-bowel skip areas of inflammation. 
+
+Phrase: "Entry colonoscopy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0009378:colonoscopy [Diagnostic Procedure]
+   861   C1548837:Colonoscopy [Health Care Activity]
+
+Phrase: "and"
+
+Phrase: "small-bowel series"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0412112:Small bowel series [Diagnostic Procedure]
+   827   C0205549:Series [Quantitative Concept]
+   827   C2348044:Series [Intellectual Product]
+   734   C0021852:Small bowel [Body Part, Organ, or Organ Component]
+   734   C1519375:Small Bowel [Tissue]
+
+Phrase: "revealed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443289:Revealed [Qualitative Concept]
+
+Phrase: "severe Crohn colitis,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   913   C1859543:Severe colitis [Finding]
+   901   C0156147:Crohn Colitis [Disease or Syndrome]
+   827   C0009319:Colitis [Disease or Syndrome]
+   827   C1963084:Colitis [Finding]
+
+Phrase: "transverse colonic stricture,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0267466:Colonic stricture [Disease or Syndrome]
+   827   C1261287:Stricture [Anatomical Abnormality]
+
+Phrase: "and"
+
+Phrase: "multiple small-bowel skip areas of inflammation."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   748   C0205146:areas [Spatial Concept]
+   714 E C0017446:Area [Geographic Area]
+Processing 00000000.tx.51: Physical examination was remarkable for a midabdominal tender mass. 
+
+Phrase: "Physical examination"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0031809:Physical Examination [Health Care Activity]
+           Physical
+   861   C0205485:Physical [Functional Concept]
+   861   C1509143:Physical [Finding]
+
+Phrase: "was"
+
+Phrase: "remarkable for a midabdominal tender mass."
+Processing 00000000.tx.52: Following HSCT, he has remained in an asymptomatic remission on no medications (Table 2). 
+
+Phrase: "Following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "HSCT,"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "he"
+
+Phrase: "has"
+
+Phrase: "remained in an asymptomatic remission"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0231221:Asymptomatic [Finding]
+   760   C0544452:Remission [Finding]
+   760   C0687702:remission [Neoplastic Process]
+
+Phrase: "on no medications"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0013227:Medications [Pharmacologic Substance]
+  1000   C0802604:Medications [Clinical Attribute]
+  1000   C2598133:Medications [Clinical Attribute]
+   966 E C3244316:medication [Functional Concept]
+
+Phrase: "(Table 2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+
+Phrase: ")."
+Processing 00000000.tx.53: Pretransplantation transverse colon stricture and abdominal mass have both disappeared. 
+
+Phrase: "Pretransplantation transverse colon stricture"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0267466:colon stricture [Disease or Syndrome]
+   812   C1261287:Stricture [Anatomical Abnormality]
+
+Phrase: "and"
+
+Phrase: "abdominal mass"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0000734:Abdominal mass [Finding]
+   861   C0577559:Mass [Finding]
+   861   C1306372:*Mass [Quantitative Concept]
+   861   C3152252:Mass [Quantitative Concept]
+
+Phrase: "have"
+
+Phrase: "both"
+
+Phrase: "disappeared."
+Processing 00000000.tx.54: He has returned to school full-time and is active in contact sports.  
+
+Phrase: "He"
+
+Phrase: "has"
+
+Phrase: "returned to school"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   866   C0332156:Return to [Qualitative Concept]
+           Return
+   790   C0036375:School [Manufactured Object,Organization]
+
+Phrase: "full-time"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0682295:Full Time [Finding]
+  1000   C1553424:full-time [Idea or Concept]
+   861   C0040223:Time [Temporal Concept]
+   861   C0443225:Full [Qualitative Concept]
+   861   C3541383:Time [Temporal Concept]
+   805 E C0442043:Temporal [Spatial Concept]
+   805 E C2362314:Temporal [Temporal Concept]
+   777 E C1632851:Times [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "is"
+
+Phrase: "active in contact sports."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   844   C0336924:Contact sport [Daily or Recreational Activity]
+   812   C0038039:Sports [Daily or Recreational Activity]
+   812   C1552306:Sports [Professional or Occupational Group]
+Processing 00000000.tx.55: View this table: [in this window] [in a new window]  Table 2. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "this table"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0039224:Table [Manufactured Object]
+  1000   C1706073:Table [Medical Device]
+  1000   C1706074:Table [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  Table 2."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+Processing 00000000.tx.56: Second Crohn disease stem cell transplantation The duration of neutropenia (absolute neutrophil count [ANC] <500/L) was 7and 8days for the first and second patient, respectively. 
+
+Phrase: "Second Crohn disease stem cell transplantation"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   861   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   827   C0038250:Stem cell [Cell]
+   827   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   799   C0007634:Cell [Cell]
+   799   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   799   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   799   C0040733:transplantation [Functional Concept]
+   799   C0242767:Stem [Plant]
+   799   C1186763:Stem [Body Part, Organ, or Organ Component]
+   799   C1269647:Cell [Cell]
+   799   C1704653:Cell [Medical Device]
+   799   C1948049:Cell [Spatial Concept]
+
+Phrase: "The duration of neutropenia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0449238:Duration [Temporal Concept]
+   770   C2926735:Duration [Pharmacologic Substance]
+
+Phrase: "(absolute neutrophil count [ANC]"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C0948762:Absolute neutrophil count [Laboratory Procedure]
+   901   C0200633:Neutrophil count [Laboratory Procedure]
+   827   C0027950:Neutrophile [Cell]
+   827   C0205344:Absolute [Qualitative Concept]
+   827   C0750480:Count [Activity]
+   827   C1705566:Count [Quantitative Concept]
+   755 E C0746885:neutrophilic [Cell Function]
+   727 E C0151683:Neutrophilia [Finding]
+
+Phrase: "<500/L)"
+
+Phrase: "was"
+
+Phrase: "7and 8days for the first"
+
+Phrase: "and"
+
+Phrase: "second patient,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "respectively."
+Processing 00000000.tx.57: Both patients had culture-negative fever for 48hours while neutropenic. 
+
+Phrase: "Both patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "had"
+
+Phrase: "culture-negative fever for 48hours"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0015967:Fever [Finding]
+
+Phrase: "while"
+
+Phrase: "neutropenic."
+Processing 00000000.tx.58: The transplantations were otherwise uncomplicated with no unexpected toxicity. 
+
+Phrase: "The transplantations"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0040732:Transplantations [Therapeutic or Preventive Procedure]
+   966 E C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   966 E C0040733:transplantation [Functional Concept]
+
+Phrase: "were"
+
+Phrase: "otherwise uncomplicated with no unexpected toxicity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0443334:Uncomplicated [Qualitative Concept]
+Processing 00000000.tx.59: No late opportunistic infections have occurred. 
+
+Phrase: "No late opportunistic infections"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   901   C0029118:Opportunistic Infections [Disease or Syndrome]
+   827   C0009450:Infections [Disease or Syndrome]
+   743 E C0439663:Infected [Functional Concept]
+   711 E C0030657:infectivity [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "occurred."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1709305:Occurred [Activity]
+   966 E C2745955:OCCUR [Temporal Concept]
+Processing 00000000.tx.60: Autologous HSCT has been suggested as a method to reintroduce tolerance based on successful treatment of some animal autoimmune diseases, and recent reports of clinical results for HSCT of autoimmune diseases such as systemic lupus erythematosus.2-5 However, an autoimmune etiology for CD remains controversial and unproven. 
+
+Phrase: "Autologous HSCT"
+Meta Candidates (Total=22; Excluded=1; Pruned=0; Remaining=21)
+  1000   C1831743:autologous hematopoietic stem cell transplantation [Therapeutic or Preventive Procedure]
+           Autologous Stem Cell Transplantation
+   937   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   897   C0040736:Transplantation, Autologous [Therapeutic or Preventive Procedure]
+   884   C0018956:Haematopoietic stem cell [Cell]
+   884   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   853   C2323499:Hematopoietic cell [Cell]
+   840   C0038250:Stem cell [Cell]
+   840   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   804   C0007634:Cell [Cell]
+   804   C0018957:Haematopoietic [Body System]
+   804   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   804   C0040733:transplantation [Functional Concept]
+   804   C0229601:Hematopoietic [Functional Concept]
+   804   C0242767:Stem [Plant]
+   804   C1186763:Stem [Body Part, Organ, or Organ Component]
+   804   C1269647:Cell [Cell]
+   804   C1704653:Cell [Medical Device]
+   804   C1948049:Cell [Spatial Concept]
+   733 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "suggested as a method to"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0025663:Method [Intellectual Product]
+   760   C0449851:Method [Functional Concept]
+   760   C0871511:METHOD [Intellectual Product]
+   726   C1705535:Suggest [Idea or Concept]
+
+Phrase: "reintroduce"
+
+Phrase: "tolerance"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0013220:Tolerance [Finding]
+  1000   C0020963:Tolerance [Pathologic Function]
+  1000   C0220929:tolerance [Mental Process]
+  1000   C0231197:Tolerance [Physiologic Function]
+  1000   C1704410:Tolerance [Qualitative Concept]
+   944 E C0680282:toleration [Social Behavior]
+   928 E C0231198:Tolerant [Functional Concept]
+
+Phrase: "based on successful treatment of some animal autoimmune diseases,"
+Meta Candidates (Total=19; Excluded=4; Pruned=0; Remaining=15)
+   764   C0004364:Autoimmune Diseases [Disease or Syndrome]
+   764   C0521982:successful treatment [Clinical Attribute]
+   762   C0003047:Animal Diseases [Disease or Syndrome]
+   742   C0003062:Animal [Animal]
+   742   C0012634:Diseases [Disease or Syndrome]
+   742   C0039798:treatment [Functional Concept]
+   742   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   742   C0443146:Autoimmune [Pathologic Function]
+   742   C1272703:Successful [Qualitative Concept]
+   742   C1522326:Treatment [Functional Concept]
+   742   C1527178:Based [Functional Concept]
+   742   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   742   C1705169:Treatment [Conceptual Entity]
+   742   C1705938:Based [Idea or Concept]
+   742   C3538994:TREATMENT [Research Activity]
+   729 E C0679864:success treatment [Qualitative Concept]
+   708 E C0002055:base [Inorganic Chemical]
+   708 E C0178499:Base [Chemical Viewed Functionally]
+   708 E C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "and"
+
+Phrase: "recent reports of clinical results"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   797   C1299495:clinical reports [Intellectual Product]
+   760   C0684224:Reports [Intellectual Product]
+   760   C0700287:reports [Health Care Activity]
+   726 E C3273238:Report [Intellectual Product]
+
+Phrase: "for HSCT"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "of autoimmune diseases"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0004364:Autoimmune Diseases [Disease or Syndrome]
+   861   C0012634:Diseases [Disease or Syndrome]
+   861   C0443146:Autoimmune [Pathologic Function]
+   789 E C1836721:MALS [Finding]
+   789 E C3538764:MALS [Gene or Genome]
+   789 E C3540595:MAL [Gene or Genome]
+
+Phrase: "such as systemic lupus erythematosus.2-5 However,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   861   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+   861   C2984317:Systemic lupus erythematosus [Functional Concept]
+   827   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   799   C0024131:Lupus [Disease or Syndrome]
+   799   C0024138:lupus [Disease or Syndrome]
+   799   C0205373:Systemic [Functional Concept]
+
+Phrase: "an autoimmune etiology for CD"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   783   C1314792:disease etiology [Functional Concept]
+           Aetiology
+   753   C0015127:aetiology [Functional Concept]
+   753   C1524003:Etiology [Conceptual Entity]
+
+Phrase: "remains"
+
+Phrase: "controversial"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   928   C0680243:controversies [Social Behavior]
+
+Phrase: "and"
+
+Phrase: "unproven."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0456370:Unproven [Qualitative Concept]
+Processing 00000000.tx.61: No intestinal self-antigen (initiating or spread epitope) has been identified. 
+
+Phrase: "No intestinal self-antigen"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   901   C0004359:self antigen [Immunologic Factor]
+   827   C0003320:Antigen [Immunologic Factor]
+   827   C0036588:Self [Idea or Concept]
+   827   C1551994:self [Intellectual Product]
+   827   C3244295:Self [Intellectual Product]
+   727 E C2698667:ANTIGENICITY [Regulation or Law]
+
+Phrase: "(initiating"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C1548602:Initiate [Idea or Concept]
+   966   C1704686:Initiate [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "spread epitope"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0003316:Epitope [Immunologic Factor]
+
+Phrase: ")"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "identified."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+Processing 00000000.tx.62: On the other hand, several animal gene knock-out models suggest that inflammatory bowel disease may be a result of immune dsyregulation between TH1 and TH2 cytokines. 
+
+Phrase: "On the"
+
+Phrase: "other hand,"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0018563:Hand [Body Part, Organ, or Organ Component]
+  1000   C1281583:Hand [Body Part, Organ, or Organ Component]
+  1000   C1552914:hand [Quantitative Concept]
+   944 E C0024763:Manual [Intellectual Product,Manufactured Object]
+   944 E C0175674:Manual [Functional Concept]
+
+Phrase: "several animal gene knock-out"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   884   C0599772:Gene Knock Out [Molecular Biology Research Technique]
+   840   C0560617:knock out [Injury or Poisoning]
+   840   C1522225:Knock-out [Experimental Model of Disease]
+   804   C0439787:Out [Spatial Concept]
+   804   C0849355:Out [Qualitative Concept]
+
+Phrase: "models"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3161035:Model [Intellectual Product]
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that inflammatory bowel disease"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C0021390:Inflammatory bowel disease [Disease or Syndrome]
+   913   C1290884:Inflammatory disease [Disease or Syndrome]
+   901   C0021831:bowel disease [Disease or Syndrome]
+   827   C0012634:Disease [Disease or Syndrome]
+   827   C0021853:Bowel [Body Part, Organ, or Organ Component]
+   827   C0333348:Inflammatory [Functional Concept]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "a result of immune dsyregulation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C1274040:Result [Functional Concept]
+   760   C1546471:Result [Idea or Concept]
+   760   C2825142:Result [Finding]
+
+Phrase: "between TH1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1423842:TH1 [Gene or Genome]
+  1000   C3540579:TH1 [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "TH2 cytokines."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0079189:Cytokines [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C1524094:Cytokines [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.63: Deficiency of multiple TH2 cytokines may cause colitis. 
+
+Phrase: "Deficiency of multiple TH2 cytokines"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011155:Deficiency [Functional Concept]
+   760   C0162429:Deficiency [Disease or Syndrome]
+   760   C1623416:deficiency [Qualitative Concept]
+
+Phrase: "may"
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "colitis."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0009319:Colitis [Disease or Syndrome]
+  1000   C1963084:Colitis [Finding]
+Processing 00000000.tx.64: Interleukin-10 (IL-10)-deficient mice develop acute and chronic colitis.6 IL-2-deficient,7 double-mutant IL-2- and IL-4-deficient, and transforming growth factor beta-deficient8 mice also develop colitis. 
+
+Phrase: "Interleukin-10 (IL-10)-deficient mice"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0025914:Mice [Mammal]
+   812   C0025929:mice [Mammal]
+   812   C0026809:Mice [Mammal]
+
+Phrase: "develop"
+
+Phrase: "acute"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205178:acute [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "chronic colitis.6 IL-2-deficient,7 double-mutant IL-2-"
+
+Phrase: "and"
+
+Phrase: "IL-4-deficient,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0011155:Deficient [Functional Concept]
+   827   C1636779:% deficient [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "transforming growth factor beta-deficient8 mice also"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   795   C0025914:Mice [Mammal]
+   795   C0025929:mice [Mammal]
+   795   C0026809:Mice [Mammal]
+   710   C0040690:Transforming Growth Factor beta [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "develop"
+
+Phrase: "colitis."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0009319:Colitis [Disease or Syndrome]
+  1000   C1963084:Colitis [Finding]
+Processing 00000000.tx.65: When raised in a germ-free environment these gene knock-out mice remain disease free. 
+
+Phrase: "When"
+
+Phrase: "raised in a germ-free environment"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   790   C1517529:Germ-Free [Idea or Concept]
+   753   C0014406:Environment [Spatial Concept]
+   753   C0332296:free [Functional Concept]
+   753   C0442818:Raised [Quantitative Concept]
+   753   C1517528:Germ [Idea or Concept]
+   753   C1880497:Free [Qualitative Concept]
+   753   C1996904:Free [Qualitative Concept]
+
+Phrase: "these gene knock-out mice"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   923   C0206745:Knock-out Mice [Mammal]
+   812   C0025914:Mice [Mammal]
+   812   C0025929:mice [Mammal]
+   812   C0026809:Mice [Mammal]
+   756   C0599772:Gene Knock Out [Molecular Biology Research Technique]
+
+Phrase: "remain"
+
+Phrase: "disease free."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   861   C0012634:Disease [Disease or Syndrome]
+   861   C0332296:free [Functional Concept]
+   861   C1880497:Free [Qualitative Concept]
+   861   C1996904:Free [Qualitative Concept]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.66: Animal models, therefore, demonstrate the need for both cytokine imbalance and gut bacterial flora as disease triggers. 
+
+Phrase: "Animal models,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0599779:Models, Animal [Animal]
+   861   C0003062:Animal [Animal]
+   861   C3161035:Models [Intellectual Product]
+
+Phrase: "therefore,"
+
+Phrase: "demonstrate"
+
+Phrase: "the need for both cytokine imbalance"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0027552:Need [Qualitative Concept]
+   753   C0686904:need [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "gut bacterial flora as disease triggers."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   783   C2985398:gut flora [Classification]
+Processing 00000000.tx.67: Histologically, CD generally manifests as a TH1 delayed-type hypersensitivity of the gut wall with granuloma formation.9 Failure to induce disease by immunization with intestinal autoantigens and murine models of cytokine gene knock-out dsyregulation suggests that CD is a TH1 immune-mediated imbalance perhaps caused by a delayed-type hypersensitivity against intestinal flora. 
+
+Phrase: "Histologically,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205462:Histologically [Functional Concept]
+
+Phrase: "CD generally"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   901   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "manifests as a TH1 delayed-type hypersensitivity of the gut wall"
+Meta Candidates (Total=17; Excluded=0; Pruned=0; Remaining=17)
+   775   C0020522:Delayed-Type Hypersensitivity [Pathologic Function]
+           Delayed Hypersensitivity
+   770   C0836201:Wall of gut [Body Location or Region]
+           Gut wall
+   754   C0441750:hypersensitivity type [Intellectual Product]
+   738   C0017189:Gut [Body System]
+   738   C0020517:Hypersensitivity [Pathologic Function]
+   738   C0205319:Manifest [Functional Concept]
+   738   C0205421:Delayed [Temporal Concept]
+   738   C0332307:Type [Qualitative Concept]
+   738   C0520946:Hypersensitivity [Finding]
+   738   C0677535:Wall [Manufactured Object]
+   738   C0699819:Gut [Body Part, Organ, or Organ Component]
+   738   C1423842:TH1 [Gene or Genome]
+   738   C1547052:*Type [Quantitative Concept]
+   738   C3272602:Delayed [Qualitative Concept]
+   738   C3540579:TH1 [Gene or Genome]
+
+Phrase: "with granuloma formation.9 Failure to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C0231174:Failure [Functional Concept]
+   804   C0680095:failure [Individual Behavior]
+
+Phrase: "induce"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "disease by immunization"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   790   C0012634:Disease [Disease or Syndrome]
+   734 E C1836721:MALS [Finding]
+   734 E C3538764:MALS [Gene or Genome]
+   734 E C3540595:MAL [Gene or Genome]
+
+Phrase: "with intestinal autoantigens"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0004359:Autoantigens [Immunologic Factor]
+
+Phrase: "and"
+
+Phrase: "murine models of cytokine gene knock-out dsyregulation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   811   C1517490:Gene Knock-Out Model [Experimental Model of Disease]
+   744   C3161035:Models [Intellectual Product]
+
+Phrase: "suggests"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that CD"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "a TH1 immune-mediated imbalance perhaps"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   853   C0542042:IMMUNE IMBALANCE [Finding]
+   804   C1397014:Imbalance [Sign or Symptom]
+
+Phrase: "caused by a delayed-type hypersensitivity"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   833   C0020522:Delayed-Type Hypersensitivity [Pathologic Function]
+           Delayed Hypersensitivity
+   783   C0441750:hypersensitivity type [Intellectual Product]
+   753   C0020517:Hypersensitivity [Pathologic Function]
+   753   C0205421:Delayed [Temporal Concept]
+   753   C0332307:Type [Qualitative Concept]
+   753   C0520946:Hypersensitivity [Finding]
+   753   C1547052:*Type [Quantitative Concept]
+   753   C3272602:Delayed [Qualitative Concept]
+   719   C0015127:cause [Functional Concept]
+   719   C1524003:Cause [Conceptual Entity]
+
+Phrase: "against intestinal flora."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C2985398:Intestinal Flora [Classification]
+   861   C0021853:Intestinal [Body Part, Organ, or Organ Component]
+   789 E C1708548:INTESTINE [Tissue]
+Processing 00000000.tx.68: High-dose immune ablative therapy and HSCT may reset the immune balance resulting in regeneration of a normal phenotype and prolonged disease remission. 
+
+Phrase: "High-dose immune ablative therapy"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   804   C0039798:therapy [Functional Concept]
+   804   C0087111:Therapy [Therapeutic or Preventive Procedure]
+   804   C1363945:Therapy [Finding]
+
+Phrase: "and"
+
+Phrase: "HSCT"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: "may"
+
+Phrase: "reset"
+
+Phrase: "the immune balance"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0014653:Balance [Organism Function]
+   861   C0205415:Balance [Functional Concept]
+   861   C0439662:Immune [Functional Concept]
+   861   C0560184:Balance [Finding]
+
+Phrase: "resulting in regeneration of a normal phenotype"
+Meta Candidates (Total=12; Excluded=3; Pruned=0; Remaining=9)
+   778   C0332294:Resulting in [Functional Concept]
+   757   C0459422:Normal result [Finding]
+   748   C0031437:Phenotype [Organism Attribute]
+   748   C0034963:Regeneration [Organ or Tissue Function]
+   748   C0205307:Normal [Qualitative Concept]
+   748   C0439166:% normal [Quantitative Concept]
+   748   C0678226:resulting [Functional Concept]
+   748   C1285572:Phenotype [Laboratory Procedure]
+   748   C2347086:% Normal [Quantitative Concept]
+   714 E C1274040:Result [Functional Concept]
+   714 E C1546471:Result [Idea or Concept]
+   714 E C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "prolonged disease remission."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C0544452:Disease remission [Finding]
+           Remission
+   827   C0687702:remission [Neoplastic Process]
+Processing 00000000.tx.69: There have been 6patients with CD reported who underwent allogeneic bone marrow transplantation for other reasons.10 Of these patients, one was in remission at the time of the transplantation and remained in remission for 15years in spite of discontinuation of immunosuppression. 
+
+Phrase: "There"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "6patients with CD"
+
+Phrase: "reported"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0684224:Reported [Intellectual Product]
+  1000   C0700287:Reported [Health Care Activity]
+  1000   C3496591:Reported [Clinical Attribute]
+   966 E C3273238:Report [Intellectual Product]
+
+Phrase: "who"
+
+Phrase: "underwent"
+
+Phrase: "allogeneic bone marrow transplantation for other reasons.10 Of these patients,"
+Meta Candidates (Total=20; Excluded=1; Pruned=0; Remaining=19)
+   797   C0149615:Allogeneic bone marrow transplantation [Therapeutic or Preventive Procedure]
+   788   C0005961:Transplantation of bone marrow [Therapeutic or Preventive Procedure]
+           Bone Marrow Transplantation
+           Marrow Transplantation
+   770   C0005976:Transplantation of bone [Therapeutic or Preventive Procedure]
+           Bone Transplantation
+   756   C0005953:Bone Marrow [Tissue]
+   754   C0040739:Transplantation, Allogeneic [Therapeutic or Preventive Procedure]
+   738   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   738   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   738   C0040733:transplantation [Functional Concept]
+   738   C0086590:Marrow [Food]
+   738   C0262950:Bone, NOS [Body Part, Organ, or Organ Component]
+   738   C0376152:Marrow [Body Part, Organ, or Organ Component]
+   738   C0391978:Bone [Tissue]
+   738   C1266908:Bone [Body Part, Organ, or Organ Component]
+   738   C1266909:Bone [Body System]
+   738   C1515895:Allogeneic [Qualitative Concept]
+   738   C1546708:Marrow [Intellectual Product]
+   726 E C1708973:Medullary Bone [Tissue]
+
+Phrase: "one"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "was in remission"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C0043194:WAS [Disease or Syndrome]
+   790   C0258432:WAS [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   790   C0544452:Remission [Finding]
+   790   C0687702:remission [Neoplastic Process]
+   790   C1421478:WAS [Gene or Genome]
+
+Phrase: "at the time"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0040223:Time [Temporal Concept]
+  1000   C3541383:Time [Temporal Concept]
+   944 E C0442043:Temporal [Spatial Concept]
+   944 E C2362314:Temporal [Temporal Concept]
+   916 E C1632851:Times [Quantitative Concept]
+
+Phrase: "of the transplantation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040733:transplantation [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "remained in remission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0544452:Remission [Finding]
+   790   C0687702:remission [Neoplastic Process]
+
+Phrase: "for 15years"
+
+Phrase: "in spite of discontinuation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0457454:Discontinuation [Health Care Activity]
+  1000   C1444662:Discontinuation [Finding]
+
+Phrase: "of immunosuppression."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0021079:Immunosuppression [Therapeutic or Preventive Procedure]
+  1000   C0021080:Immunosuppression [Organism Function]
+  1000   C1373218:Immunosuppression [Pathologic Function]
+Processing 00000000.tx.70: At the time of transplantation, 3of the 5with active CD went into remission for 6to 10years and remained in remission at the time of the report. 
+
+Phrase: "At the time"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0040223:Time [Temporal Concept]
+  1000   C3541383:Time [Temporal Concept]
+   944 E C0442043:Temporal [Spatial Concept]
+   944 E C2362314:Temporal [Temporal Concept]
+   916 E C1632851:Times [Quantitative Concept]
+
+Phrase: "of transplantation,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040733:transplantation [Functional Concept]
+
+Phrase: "3of"
+
+Phrase: "the 5with active CD"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   861   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   812   C0012634:Disease [Disease or Syndrome]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+
+Phrase: "went into remission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0544452:Remission [Finding]
+   790   C0687702:remission [Neoplastic Process]
+
+Phrase: "for 6to 10years"
+
+Phrase: "and"
+
+Phrase: "remained in remission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0544452:Remission [Finding]
+   790   C0687702:remission [Neoplastic Process]
+
+Phrase: "at the time"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0040223:Time [Temporal Concept]
+  1000   C3541383:Time [Temporal Concept]
+   944 E C0442043:Temporal [Spatial Concept]
+   944 E C2362314:Temporal [Temporal Concept]
+   916 E C1632851:Times [Quantitative Concept]
+
+Phrase: "of the report."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0684224:Report [Intellectual Product]
+  1000   C0700287:Report [Health Care Activity]
+  1000   C3273238:Report [Intellectual Product]
+Processing 00000000.tx.71: The fourth had significant fistulous disease in the year following the transplantation, requiring ileal resection. 
+
+Phrase: "The fourth"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205438:Fourth [Quantitative Concept]
+  1000   C1706303:Fourth [Qualitative Concept]
+
+Phrase: "had"
+
+Phrase: "significant fistulous disease in the year"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0012634:Disease [Disease or Syndrome]
+
+Phrase: "following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "the transplantation,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040733:transplantation [Functional Concept]
+
+Phrase: "requiring"
+
+Phrase: "ileal resection."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0399935:Ileal resection [Therapeutic or Preventive Procedure]
+   861   C0015252:resection [Therapeutic or Preventive Procedure]
+   861   C0020885:Ileal [Body Part, Organ, or Organ Component]
+   861   C0728940:Resection [Therapeutic or Preventive Procedure]
+   789 E C1278923:Ileum [Body Part, Organ, or Organ Component]
+   777 E C0020889:Ilium [Body Part, Organ, or Organ Component]
+   777 E C1279102:Ilium [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.72: The fifth died from sepsis 3months following the transplantation. 
+
+Phrase: "The fifth"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205439:Fifth [Quantitative Concept]
+
+Phrase: "died from sepsis 3months"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0011065:Died [Organism Function]
+   770   C0036690:Sepsis [Disease or Syndrome]
+   770   C0243026:Sepsis [Disease or Syndrome]
+   770   C1090821:Sepsis [Eukaryote]
+   770   C1546956:Died [Finding]
+
+Phrase: "following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "the transplantation."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040733:transplantation [Functional Concept]
+Processing 00000000.tx.73: Another report of a patient with an allogeneic bone marrow transplantation described improvement in CD following the transplantation, at least for the short term.11 A patient with coincidental CD undergoing autologous bone marrow transplantation for non-Hodgkin lymphoma went into remission from both his lymphoma and CD for 7years and remained in remission at the time of the report.12 Finally, a patient with incidental Crohn colitis who underwent an autologous bone marrow transplantation was reported to enter a symptomatic remission, although there remained colonic inflammation on colonoscopy.13 To our knowledge, this is the first report of HSCT being performed for the indication of CD. 
+
+Phrase: "Another report of a patient"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   797   C0747307:patient report [Intellectual Product]
+   760   C0684224:Report [Intellectual Product]
+   760   C0700287:Report [Health Care Activity]
+   760   C3273238:Report [Intellectual Product]
+
+Phrase: "with an allogeneic bone marrow transplantation"
+Meta Candidates (Total=22; Excluded=5; Pruned=0; Remaining=17)
+  1000   C0149615:Allogeneic bone marrow transplantation [Therapeutic or Preventive Procedure]
+   923   C0005961:Bone Marrow Transplantation [Therapeutic or Preventive Procedure]
+           Marrow Transplantation
+   902   C0040739:Transplantation, Allogeneic [Therapeutic or Preventive Procedure]
+   875   C0005976:Bone Transplantation [Therapeutic or Preventive Procedure]
+   861   C0005953:Bone Marrow [Tissue]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0086590:Marrow [Food]
+   812   C0262950:Bone, NOS [Body Part, Organ, or Organ Component]
+   812   C0376152:Marrow [Body Part, Organ, or Organ Component]
+   812   C0391978:Bone [Tissue]
+   812   C1266908:Bone [Body Part, Organ, or Organ Component]
+   812   C1266909:Bone [Body System]
+   812   C1515895:Allogeneic [Qualitative Concept]
+   812   C1546708:Marrow [Intellectual Product]
+   756 E C0001629:Medullary [Body Part, Organ, or Organ Component]
+   756 E C0025148:Medullary [Body Part, Organ, or Organ Component]
+   756 E C1550278:Medullary [Body Part, Organ, or Organ Component]
+   741 E C0443157:Bony [Functional Concept]
+   729 E C0330477:Marrows [Plant]
+
+Phrase: "described"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: "improvement in CD"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C2986411:Improvement [Conceptual Entity]
+
+Phrase: "following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "the transplantation,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+  1000   C0040733:transplantation [Functional Concept]
+
+Phrase: "at least"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0439092:less [Intellectual Product]
+   966   C0547044:Less [Qualitative Concept]
+
+Phrase: "for the short term.11"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   901   C0443303:Short-term [Temporal Concept]
+   827   C1282927:short [Qualitative Concept]
+   827   C1515273:Term [Temporal Concept]
+   827   C1705313:Term [Idea or Concept]
+   827   C1806781:Short [Quantitative Concept]
+   827   C2350002:Short [Quantitative Concept]
+   827   C2826302:TERM [Intellectual Product]
+
+Phrase: "A patient with coincidental CD"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "undergoing"
+
+Phrase: "autologous bone marrow transplantation for non-Hodgkin lymphoma"
+Meta Candidates (Total=21; Excluded=1; Pruned=0; Remaining=20)
+   833   C0194037:autologous bone marrow transplantation [Therapeutic or Preventive Procedure]
+           Autologous Marrow Transplantation
+   800   C0005961:Bone Marrow Transplantation [Therapeutic or Preventive Procedure]
+           Marrow Transplantation
+   800   C2986504:Autologous Bone Marrow [Body Substance]
+   770   C0005953:Bone Marrow [Tissue]
+   767   C0005976:Bone Transplantation [Therapeutic or Preventive Procedure]
+   767   C0040736:Transplantation, Autologous [Therapeutic or Preventive Procedure]
+   767   C1332582:Bone Lymphoma [Neoplastic Process]
+   744   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   744   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   744   C0040733:transplantation [Functional Concept]
+   744   C0086590:Marrow [Food]
+   744   C0262950:Bone, NOS [Body Part, Organ, or Organ Component]
+   744   C0376152:Marrow [Body Part, Organ, or Organ Component]
+   744   C0391978:Bone [Tissue]
+   744   C0439859:Autologous [Qualitative Concept]
+   744   C1266908:Bone [Body Part, Organ, or Organ Component]
+   744   C1266909:Bone [Body System]
+   744   C1546708:Marrow [Intellectual Product]
+   739 E C1708973:Medullary Bone [Tissue]
+
+Phrase: "went into remission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0544452:Remission [Finding]
+   790   C0687702:remission [Neoplastic Process]
+
+Phrase: "from both"
+
+Phrase: "his lymphoma"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0024299:Lymphoma [Neoplastic Process]
+
+Phrase: "and"
+
+Phrase: "CD for 7years"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   833   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   770   C0012634:Disease [Disease or Syndrome]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "remained in remission"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0544452:Remission [Finding]
+   790   C0687702:remission [Neoplastic Process]
+
+Phrase: "at the time"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0040223:Time [Temporal Concept]
+  1000   C3541383:Time [Temporal Concept]
+   944 E C0442043:Temporal [Spatial Concept]
+   944 E C2362314:Temporal [Temporal Concept]
+   916 E C1632851:Times [Quantitative Concept]
+
+Phrase: "of the report.12 Finally,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0684224:Report [Intellectual Product]
+   827   C0700287:Report [Health Care Activity]
+   827   C3273238:Report [Intellectual Product]
+
+Phrase: "a patient with incidental Crohn colitis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "who"
+
+Phrase: "underwent"
+
+Phrase: "an autologous bone marrow transplantation"
+Meta Candidates (Total=24; Excluded=5; Pruned=0; Remaining=19)
+  1000   C0194037:autologous bone marrow transplantation [Therapeutic or Preventive Procedure]
+           Autologous Marrow Transplantation
+   923   C0005961:Bone Marrow Transplantation [Therapeutic or Preventive Procedure]
+           Marrow Transplantation
+   923   C2986504:Autologous Bone Marrow [Body Substance]
+   902   C0040736:Transplantation, Autologous [Therapeutic or Preventive Procedure]
+   875   C0005976:Bone Transplantation [Therapeutic or Preventive Procedure]
+   861   C0005953:Bone Marrow [Tissue]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0086590:Marrow [Food]
+   812   C0262950:Bone, NOS [Body Part, Organ, or Organ Component]
+   812   C0376152:Marrow [Body Part, Organ, or Organ Component]
+   812   C0391978:Bone [Tissue]
+   812   C0439859:Autologous [Qualitative Concept]
+   812   C1266908:Bone [Body Part, Organ, or Organ Component]
+   812   C1266909:Bone [Body System]
+   812   C1546708:Marrow [Intellectual Product]
+   756 E C0001629:Medullary [Body Part, Organ, or Organ Component]
+   756 E C0025148:Medullary [Body Part, Organ, or Organ Component]
+   756 E C1550278:Medullary [Body Part, Organ, or Organ Component]
+   741 E C0443157:Bony [Functional Concept]
+   729 E C0330477:Marrows [Plant]
+
+Phrase: "was"
+
+Phrase: "reported"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0684224:Reported [Intellectual Product]
+  1000   C0700287:Reported [Health Care Activity]
+  1000   C3496591:Reported [Clinical Attribute]
+   966 E C3273238:Report [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "enter"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1522196:ENTER [Functional Concept]
+
+Phrase: "a symptomatic remission,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0544452:Remission [Finding]
+   861   C0687702:remission [Neoplastic Process]
+
+Phrase: "although"
+
+Phrase: "there"
+
+Phrase: "remained"
+
+Phrase: "colonic inflammation on colonoscopy.13"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0021368:Inflammation [Pathologic Function]
+
+Phrase: "To our knowledge,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0376554:Knowledge [Intellectual Product]
+
+Phrase: "this"
+
+Phrase: "is"
+
+Phrase: "the first report of HSCT"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0684224:Report [Intellectual Product]
+   744   C0700287:Report [Health Care Activity]
+   744   C3273238:Report [Intellectual Product]
+
+Phrase: "being"
+
+Phrase: "performed for the indication of CD."
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   778   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   748   C0012634:Disease [Disease or Syndrome]
+   748   C0392360:indication [Idea or Concept]
+   748   C0884358:Performed [Functional Concept]
+   748   C3146298:Indication [Functional Concept]
+   714 E C2947996:Perform [Pharmacologic Substance]
+Processing 00000000.tx.74: Both cases were severe and refractory to currently available therapies prior to transplantation. 
+
+Phrase: "Both cases"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0868928:Cases [Functional Concept]
+  1000   C1533148:Cases [Quantitative Concept]
+   966 E C1706255:CASE [Medical Device]
+   966 E C1706256:Case [Conceptual Entity]
+
+Phrase: "were"
+
+Phrase: "severe"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205082:Severe [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "refractory to currently available therapies prior to transplantation."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   750   C1514463:Prior Therapy [Clinical Attribute]
+   744   C0087111:therapies [Therapeutic or Preventive Procedure]
+   711 E C0039798:therapy [Functional Concept]
+   711 E C1363945:Therapy [Finding]
+Processing 00000000.tx.75: Both patients are now clinically asymptomatic off all therapies. 
+
+Phrase: "Both patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "are"
+
+Phrase: "now clinically asymptomatic off all therapies."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0231221:Asymptomatic [Finding]
+Processing 00000000.tx.76: It is unknown if a similar beneficial response could be obtained without infusion of stem cells or without purging or CD34+ selection of the reinfused graft. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "unknown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439673:Unknown [Qualitative Concept]
+
+Phrase: "if"
+
+Phrase: "a similar beneficial response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0871261:Response [Organism Attribute]
+   827   C1704632:Response [Finding]
+   827   C1706817:Response [Intellectual Product]
+   827   C2911692:Response [Mental Process]
+
+Phrase: "could"
+
+Phrase: "be"
+
+Phrase: "obtained without infusion of stem cells"
+Meta Candidates (Total=12; Excluded=4; Pruned=0; Remaining=8)
+   790   C0038250:Stem cells [Cell]
+   753   C0007634:Cells [Cell]
+   753   C0242767:Stem [Plant]
+   753   C0574032:Infusion [Therapeutic or Preventive Procedure]
+   753   C1186763:Stem [Body Part, Organ, or Organ Component]
+   753   C1301820:Obtained [Functional Concept]
+   753   C1827465:Infusion [Functional Concept]
+   753   C3282337:Cells [Cell]
+   719 E C1269647:Cell [Cell]
+   719 E C1704653:Cell [Medical Device]
+   719 E C1706701:Obtain [Activity]
+   719 E C1948049:Cell [Spatial Concept]
+
+Phrase: "or without purging"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C0855227:purging [Disease or Syndrome]
+   756 E C0722910:Purge [Lipid,Pharmacologic Substance]
+
+Phrase: "or"
+
+Phrase: "CD34+ selection of the reinfused graft."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0036576:selection [Genetic Function]
+Processing 00000000.tx.77: Whether persistent subclinical pathologic inflammation will gradually resolve or become clinically active in the future is also unknown. 
+
+Phrase: "Whether"
+
+Phrase: "persistent subclinical pathologic inflammation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   902   C1265824:Persistent inflammation [Pathologic Function]
+   812   C0021368:Inflammation [Pathologic Function]
+
+Phrase: "will"
+
+Phrase: "gradually"
+
+Phrase: "resolve"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2699488:Resolve [Conceptual Entity]
+
+Phrase: "or"
+
+Phrase: "become"
+
+Phrase: "clinically active in the future"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0205177:Active [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "also unknown."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439673:Unknown [Qualitative Concept]
+Processing 00000000.tx.78: Although follow-up is short, the patients have demonstrated remarkable improvements, becoming medication- and nearly symptom-free for the first time since disease onset. 
+
+Phrase: "Although"
+
+Phrase: "follow-up"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0589120:Follow-up [Finding]
+  1000   C1522577:follow-up [Health Care Activity]
+  1000   C1704685:FOLLOW-UP [Intellectual Product]
+  1000   C3274571:FOLLOW-UP [Health Care Activity]
+   861   C0332283:follow [Temporal Concept]
+   861   C1719822:Follow [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "short,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1282927:short [Qualitative Concept]
+  1000   C1806781:Short [Quantitative Concept]
+  1000   C2350002:Short [Quantitative Concept]
+
+Phrase: "the patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "have"
+
+Phrase: "demonstrated remarkable improvements,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C2986411:Improvement [Conceptual Entity]
+
+Phrase: "becoming"
+
+Phrase: "medication-"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013227:Medication, NOS [Pharmacologic Substance]
+  1000   C3244316:medication [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "nearly symptom-free for the first time"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   774   C0683585:free time [Daily or Recreational Activity]
+   748   C0332296:free [Functional Concept]
+   748   C1457887:Symptom, NOS [Sign or Symptom]
+   748   C1880497:Free [Qualitative Concept]
+   748   C1996904:Free [Qualitative Concept]
+
+Phrase: "since"
+
+Phrase: "disease onset."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0277793:disease onset [Temporal Concept]
+   861   C0332162:Onset [Qualitative Concept]
+Processing 00000000.tx.79: Further studies of HSCT in refractory Crohn disease appear warranted.  
+
+Phrase: "Further studies of HSCT"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   748   C0947630:studies [Laboratory Procedure]
+   714 E C0557651:Study [Manufactured Object]
+   714 E C2603343:Study [Research Activity]
+
+Phrase: "in refractory Crohn disease"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   913   C1514815:Refractory Disease [Finding]
+   901   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "warranted."
+Processing 00000000.tx.80: Footnotes Submitted July 15,2002; 
+
+Phrase: "Footnotes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2825232:Footnote [Intellectual Product]
+
+Phrase: "Submitted July 15,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1515023:Submitted [Functional Concept]
+
+Phrase: "2002"
+
+Phrase: ";"
+Processing 00000000.tx.81: accepted September 30,2002. 
+
+Phrase: "accepted September 30,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1272684:Accepted [Qualitative Concept]
+   827   C1548435:Accepted [Idea or Concept]
+
+Phrase: "2002."
+Processing 00000000.tx.82: Prepublished online as Blood First Edition Paper, October 10,2002; 
+
+Phrase: "Prepublished online as Blood First Edition Paper,"
+
+Phrase: "October 10,"
+
+Phrase: "2002"
+
+Phrase: ";"
+Processing 00000000.tx.83: DOI 10.1182/blood-2002-07-2122. 
+
+Phrase: "DOI 10.1182/blood-2002-07-2122."
+Meta Candidates (Total=9; Excluded=5; Pruned=0; Remaining=4)
+   795   C0005767:Blood [Tissue]
+   795   C0005768:blood [Body Substance]
+   795   C0229664:Blood [Body Substance]
+   795   C2348291:DOI [Classification]
+   724 E C0333275:Bloody [Qualitative Concept]
+   712 E C0005847:Blood Vessel [Body Part, Organ, or Organ Component]
+   712 E C0392895:Bloods [Population Group]
+   712 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   712 E C1511228:VESSEL, BLOOD [Tissue]
+Processing 00000000.tx.84: The publication costs of this article were defrayed in part by page charge payment. 
+
+Phrase: "The publication"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0034036:Publication [Intellectual Product,Manufactured Object]
+  1000   C0034037:Publication [Occupational Activity]
+  1000   C1704324:Publication [Intellectual Product]
+
+Phrase: "costs of this article"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0010186:Cost [Quantitative Concept]
+   770   C0220812:Costs [Quantitative Concept]
+   770   C1706852:Article [Intellectual Product]
+
+Phrase: "were"
+
+Phrase: "defrayed in part"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0449719:Part [Spatial Concept]
+   790   C1709471:Part [Quantitative Concept]
+
+Phrase: "by page charge payment."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0220808:payment [Quantitative Concept]
+   827   C0680264:payment [Quantitative Concept]
+Processing 00000000.tx.85: Therefore, and solely to indicate this fact, this article is hereby marked "advertisement" in accordance with 18U.S.C. section 1734. 
+
+Phrase: "Therefore,"
+
+Phrase: "and"
+
+Phrase: "solely to"
+
+Phrase: "indicate"
+
+Phrase: "this fact,"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "hereby"
+
+Phrase: "marked"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0522501:Marked [Qualitative Concept]
+  1000   C1706089:Marked [Qualitative Concept]
+
+Phrase: """advertisement"""
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0949214:advertisement [Intellectual Product]
+
+Phrase: "in accordance with 18U.S.C. section 1734."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   804   C0205155:Section [Spatial Concept]
+   804   C1293097:Section, NOS [Therapeutic or Preventive Procedure]
+   804   C1522472:Section [Substance]
+   804   C1552923:Section [Quantitative Concept]
+   804   C1705191:Section [Physical Object]
+Processing 00000000.tx.86: Reprints: Richard K.Burt, Division of Immunotherapy, Northwestern University Medical School, 320East Superior, Searle Bldg, Rm 3-489,Chicago, IL 60611; 
+
+Phrase: "Reprints"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C3273171:Reprint [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "Richard K.Burt,"
+
+Phrase: "Division of Immunotherapy,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C1293097:Division [Therapeutic or Preventive Procedure]
+   790   C2919030:Division [Organization]
+   790   C2919031:Division [Activity]
+
+Phrase: "Northwestern University Medical School,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0036378:School, Medical [Health Care Related Organization,Manufactured Object]
+   812   C0036375:School [Manufactured Object,Organization]
+
+Phrase: "320East Superior, Searle Bldg,"
+
+Phrase: "Rm 3-489,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C2951520:RM [Body Location or Region]
+
+Phrase: "Chicago,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008044:Chicago [Geographic Area]
+
+Phrase: "IL 60611"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0020898:IL [Geographic Area]
+   861   C0021764:IL [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0022271:IL [Geographic Area]
+
+Phrase: ";"
+Processing 00000000.tx.87: e-mail: rburt{at}nwu.edu .  References Top Abstract Introduction Study design Results and discussion References 1. 
+
+Phrase: "e-mail"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+   861   C0024492:Mail [Manufactured Object]
+   861   C1538057:MAIL [Gene or Genome]
+   861   C1547565:Mail [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "rburt{at}nwu.edu ."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0059804:EDU [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Top Abstract Introduction Study design Results"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   839   C0683954:study results [Finding]
+   766   C1274040:Result [Functional Concept]
+   766   C1546471:Result [Idea or Concept]
+   766   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "discussion"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557061:Discussion [Therapeutic or Preventive Procedure]
+  1000   C2584313:Discussion [Social Behavior]
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "1."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+Processing 00000000.tx.88: Farmer RG, Whelan G, Fazio VW. 
+
+Phrase: "Farmer RG,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1412999:RG [Gene or Genome]
+
+Phrase: "Whelan G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Fazio VW."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2737230:Vw [Immunologic Factor]
+Processing 00000000.tx.89: Long-term follow-up of patients with Crohn's disease. 
+
+Phrase: "Long-term follow-up of patients"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   882   C1517942:Long-term Follow-up [Health Care Activity]
+   790   C0589120:Follow-up [Finding]
+   790   C1522577:follow-up [Health Care Activity]
+   790   C1704685:FOLLOW-UP [Intellectual Product]
+   790   C3274571:FOLLOW-UP [Health Care Activity]
+   753   C0332283:follow [Temporal Concept]
+   753   C1719822:Follow [Intellectual Product]
+
+Phrase: "with Crohn's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.90: Relationship of the clinical pattern and prognosis. 
+
+Phrase: "Relationship of the clinical pattern"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0439849:Relationship [Qualitative Concept]
+   760   C1705630:Relationship [Idea or Concept]
+   760   C1706279:Relationship [Idea or Concept]
+   760   C3540605:Relationship [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "prognosis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033325:Prognosis [Health Care Activity]
+Processing 00000000.tx.91: Gastroenterology. 
+
+Phrase: "Gastroenterology."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017163:Gastroenterology [Biomedical Occupation or Discipline]
+Processing 00000000.tx.92: 1985;88:1818-1827[Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "1985"
+
+Phrase: ";88"
+
+Phrase: ":"
+
+Phrase: "1818-1827"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.93: 2. 
+
+Phrase: "2."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+Processing 00000000.tx.94: Burt RK, Slavin S, Burns WH, Marmont A. 
+
+Phrase: "Burt RK,"
+
+Phrase: "Slavin S,"
+
+Phrase: "Burns"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0006434:Burn [Injury or Poisoning]
+  1000   C1550619:Burn [Substance]
+
+Phrase: "WH,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2349143:Wh [Quantitative Concept]
+
+Phrase: "Marmont A."
+Processing 00000000.tx.95: Induction of tolerance in autoimmune disease by hematopoietic stem cell transplantation: getting closer to a cure? 
+
+Phrase: "Induction of tolerance"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   858   C1817959:tolerance induction [Biologic Function]
+   790   C0205263:Induction [Functional Concept]
+   790   C0857127:induction [Therapeutic or Preventive Procedure]
+
+Phrase: "in autoimmune disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0004364:Autoimmune Disease [Disease or Syndrome]
+   861   C0012634:Disease [Disease or Syndrome]
+   861   C0443146:Autoimmune [Pathologic Function]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "by hematopoietic stem cell transplantation"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: ":"
+
+Phrase: "getting"
+
+Phrase: "closer to a cure?"
+Processing 00000000.tx.96: Blood. 
+
+Phrase: "Blood."
+Meta Candidates (Total=10; Excluded=7; Pruned=0; Remaining=3)
+  1000   C0005767:Blood [Tissue]
+  1000   C0005768:blood [Body Substance]
+  1000   C0229664:Blood [Body Substance]
+   928 E C0333275:Bloody [Qualitative Concept]
+   916 E C0005847:Blood Vessel [Body Part, Organ, or Organ Component]
+   916 E C0392895:Bloods [Population Group]
+   916 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   916 E C1511228:VESSEL, BLOOD [Tissue]
+   900 E C1558950:VASCULAR [Finding]
+   900 E C1801960:Vascular [Qualitative Concept]
+Processing 00000000.tx.97: 2002;99:870-887. 
+
+Phrase: "2002"
+
+Phrase: ";99"
+
+Phrase: ":"
+
+Phrase: "870-887."
+Processing 00000000.tx.98: 3. 
+
+Phrase: "3."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+Processing 00000000.tx.99: Traynor A, Schroeder J, Rosa R, et al. 
+
+Phrase: "Traynor"
+
+Phrase: "A,"
+
+Phrase: "Schroeder J,"
+
+Phrase: "Rosa R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "et al."
+Processing 00000000.tx.100: Treatment of severe lupus erythematosus with high-dose intense chemotherapy and hematopoietic stem cell transplantation: a phase I study. 
+
+Phrase: "Treatment of severe lupus erythematosus"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0039798:treatment [Functional Concept]
+   760   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   760   C1522326:Treatment [Functional Concept]
+   760   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   760   C1705169:Treatment [Conceptual Entity]
+   760   C3538994:TREATMENT [Research Activity]
+
+Phrase: "with high-dose intense chemotherapy"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   923   C1328050:high-dose chemotherapy [Therapeutic or Preventive Procedure]
+   812   C0013216:Chemotherapy [Therapeutic or Preventive Procedure]
+   812   C0013217:chemotherapy [Functional Concept]
+   812   C0392920:Chemotherapy [Therapeutic or Preventive Procedure]
+
+Phrase: "and"
+
+Phrase: "hematopoietic stem cell transplantation"
+Meta Candidates (Total=19; Excluded=1; Pruned=0; Remaining=18)
+  1000   C0472699:Hematopoietic Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+           Hematopoietic Cell Transplantation
+   923   C0018956:Haematopoietic stem cell [Cell]
+   923   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   875   C2323499:Hematopoietic cell [Cell]
+   861   C0038250:Stem cell [Cell]
+   861   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   812   C0007634:Cell [Cell]
+   812   C0018957:Haematopoietic [Body System]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0229601:Hematopoietic [Functional Concept]
+   812   C0242767:Stem [Plant]
+   812   C1186763:Stem [Body Part, Organ, or Organ Component]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   741 E C0018951:Haematopoiesis [Organ or Tissue Function]
+
+Phrase: ":"
+
+Phrase: "a phase I study."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0920321:Phase I Study [Research Activity]
+   827   C0557651:Study [Manufactured Object]
+   827   C2603343:Study [Research Activity]
+Processing 00000000.tx.101: Lancet. 
+
+Phrase: "Lancet."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0777169:Lancet [Medical Device]
+Processing 00000000.tx.102: 2000;356:701-707[CrossRef][Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "2000"
+
+Phrase: ";356"
+
+Phrase: ":"
+
+Phrase: "701-707"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.103: 4. 
+
+Phrase: "4."
+Processing 00000000.tx.104: van Bekkum DW. 
+
+Phrase: "van Bekkum DW."
+Processing 00000000.tx.105: Stem cell transplantation in experimental models of autoimmune disease. 
+
+Phrase: "Stem cell transplantation in experimental models of autoimmune disease."
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   790   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   764   C0038250:Stem cell [Cell]
+   764   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   742   C0007634:Cell [Cell]
+   742   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   742   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   742   C0040733:transplantation [Functional Concept]
+   742   C0242767:Stem [Plant]
+   742   C1186763:Stem [Body Part, Organ, or Organ Component]
+   742   C1269647:Cell [Cell]
+   742   C1704653:Cell [Medical Device]
+   742   C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.106: J Clin Immunol. 
+
+Phrase: "J Clin Immunol."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1517844:Immunol [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.107: 2000;20:10-16[CrossRef][Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "2000"
+
+Phrase: ";20"
+
+Phrase: ":"
+
+Phrase: "10-16"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.108: 5. 
+
+Phrase: "5."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+Processing 00000000.tx.109: Marmont AM. 
+
+Phrase: "Marmont"
+
+Phrase: "AM."
+Processing 00000000.tx.110: New horizons in the treatment of autoimmune diseases: immunoablation and stem cell transplantation. 
+
+Phrase: "New horizons in the treatment of autoimmune diseases"
+
+Phrase: ":"
+
+Phrase: "immunoablation"
+
+Phrase: "and"
+
+Phrase: "stem cell transplantation."
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+  1000   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   901   C0038250:Stem cell [Cell]
+   901   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   827   C0007634:Cell [Cell]
+   827   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   827   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   827   C0040733:transplantation [Functional Concept]
+   827   C0242767:Stem [Plant]
+   827   C1186763:Stem [Body Part, Organ, or Organ Component]
+   827   C1269647:Cell [Cell]
+   827   C1704653:Cell [Medical Device]
+   827   C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.111: Annu Rev Med. 
+
+Phrase: "Annu Rev Med."
+Processing 00000000.tx.112: 2000;51:115-134[CrossRef][Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "2000"
+
+Phrase: ";51"
+
+Phrase: ":"
+
+Phrase: "115-134"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.113: 6. 
+
+Phrase: "6."
+Processing 00000000.tx.114: Kuhn R, Lohler J, Rennick D, Rajewsky K, Muller W. 
+
+Phrase: "Kuhn R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Lohler J,"
+
+Phrase: "Rennick D,"
+
+Phrase: "Rajewsky K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Muller W."
+Processing 00000000.tx.115: Interleukin-10-deficient mice develop chronic enterocolitis. 
+
+Phrase: "Interleukin-10-deficient mice"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0025914:Mice [Mammal]
+   812   C0025929:mice [Mammal]
+   812   C0026809:Mice [Mammal]
+
+Phrase: "develop"
+
+Phrase: "chronic enterocolitis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0014356:Enterocolitis [Disease or Syndrome]
+Processing 00000000.tx.116: Cell. 
+
+Phrase: "Cell."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0007634:Cell [Cell]
+  1000   C1269647:Cell [Cell]
+  1000   C1704653:Cell [Medical Device]
+  1000   C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.117: 1993;75:263-274[Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "1993"
+
+Phrase: ";75"
+
+Phrase: ":"
+
+Phrase: "263-274"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.118: 7. 
+
+Phrase: "7."
+Processing 00000000.tx.119: Ehrhardt RO, Ludviksson B. 
+
+Phrase: "Ehrhardt RO,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0035826:RO [Geographic Area]
+   861   C1413096:RO [Gene or Genome]
+   861   C2987048:RO [Gene or Genome]
+
+Phrase: "Ludviksson B."
+Processing 00000000.tx.120: Induction of colitis in IL2-deficient-mice: the role of thymic and peripheral dysregulation in the generation of autoreactive T cells. 
+
+Phrase: "Induction of colitis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0205263:Induction [Functional Concept]
+   790   C0857127:induction [Therapeutic or Preventive Procedure]
+
+Phrase: "in IL2-deficient-mice"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0025914:Mice [Mammal]
+   827   C0025929:mice [Mammal]
+   827   C0026809:Mice [Mammal]
+
+Phrase: ":"
+
+Phrase: "the role of thymic"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0035820:Role [Social Behavior]
+   770   C1705810:Role [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "peripheral dysregulation in the generation of autoreactive T cells."
+Processing 00000000.tx.121: Res Immunol. 
+
+Phrase: "Res Immunol."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1517844:Immunol [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.122: 1997;148:582-588[CrossRef][Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "1997"
+
+Phrase: ";148"
+
+Phrase: ":"
+
+Phrase: "582-588"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.123: 8. 
+
+Phrase: "8."
+Processing 00000000.tx.124: Kulkarni AB, Ward JM, Yaswen L. 
+
+Phrase: "Kulkarni AB,"
+
+Phrase: "Ward JM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0022337:JM [Geographic Area]
+
+Phrase: "Yaswen L."
+Processing 00000000.tx.125: Transforming growth factor-beta 1null mice. 
+
+Phrase: "Transforming growth factor-beta 1null mice."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   799   C0025914:Mice [Mammal]
+   799   C0025929:mice [Mammal]
+   799   C0026809:Mice [Mammal]
+   734   C0040690:Transforming Growth Factor beta [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Processing 00000000.tx.126: An animal model for inflammatory disorders. 
+
+Phrase: "An animal model for inflammatory disorders."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0599779:Animal Model [Animal]
+   767   C0684309:disorder model [Experimental Model of Disease]
+   753   C0003062:Animal [Animal]
+   753   C3161035:Model [Intellectual Product]
+Processing 00000000.tx.127: Am J Pathol. 
+
+Phrase: "Am"
+
+Phrase: "J Pathol."
+Processing 00000000.tx.128: 1995;146:264-275[Abstract]. 
+
+Phrase: "1995"
+
+Phrase: ";146"
+
+Phrase: ":"
+
+Phrase: "264-275"
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]."
+Processing 00000000.tx.129: 9. 
+
+Phrase: "9."
+Processing 00000000.tx.130: Ramzan NN, Leighton JA, Heigh RI, Shapiro MS. 
+
+Phrase: "Ramzan NN,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1850406:NN [Disease or Syndrome]
+
+Phrase: "Leighton JA,"
+
+Phrase: "Heigh RI,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0035487:RI [Geographic Area]
+
+Phrase: "Shapiro MS."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039676:MS [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C2349943:Ms. [Conceptual Entity]
+   861   C3539704:MS [Gene or Genome]
+Processing 00000000.tx.131: Clinical significance of granuloma in Crohn's disease. 
+
+Phrase: "Clinical significance of granuloma"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C2826293:Clinical Significance [Finding]
+   770   C0237881:Significance [Quantitative Concept]
+   770   C0750502:Significance [Idea or Concept]
+
+Phrase: "in Crohn's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.132: Inflammatory Bowel Dis. 
+
+Phrase: "Inflammatory Bowel Dis."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0451119:DIS [Intellectual Product]
+   827   C1444662:DIS [Finding]
+Processing 00000000.tx.133: 2002;8:168-173. 
+
+Phrase: "2002"
+
+Phrase: ";8"
+
+Phrase: ":"
+
+Phrase: "168-173."
+Processing 00000000.tx.134: 10. 
+
+Phrase: "10."
+Processing 00000000.tx.135: Lopez-Cubera SO, Sullivan KM, McDonald GB. 
+
+Phrase: "Lopez-Cubera SO,"
+
+Phrase: "Sullivan KM,"
+
+Phrase: "McDonald GB."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0041700:GB [Geographic Area]
+   861   C1551090:Gb [Quantitative Concept]
+Processing 00000000.tx.136: Course of Crohn's disease after allogeneic bone marrow transplantation. 
+
+Phrase: "Course of Crohn's disease"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   819   C0242656:disease course [Pathologic Function]
+   770   C0750729:Course [Temporal Concept]
+
+Phrase: "after allogeneic bone marrow transplantation."
+Meta Candidates (Total=22; Excluded=5; Pruned=0; Remaining=17)
+  1000   C0149615:Allogeneic bone marrow transplantation [Therapeutic or Preventive Procedure]
+   923   C0005961:Bone Marrow Transplantation [Therapeutic or Preventive Procedure]
+           Marrow Transplantation
+   902   C0040739:Transplantation, Allogeneic [Therapeutic or Preventive Procedure]
+   875   C0005976:Bone Transplantation [Therapeutic or Preventive Procedure]
+   861   C0005953:Bone Marrow [Tissue]
+   812   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   812   C0040733:transplantation [Functional Concept]
+   812   C0086590:Marrow [Food]
+   812   C0262950:Bone, NOS [Body Part, Organ, or Organ Component]
+   812   C0376152:Marrow [Body Part, Organ, or Organ Component]
+   812   C0391978:Bone [Tissue]
+   812   C1266908:Bone [Body Part, Organ, or Organ Component]
+   812   C1266909:Bone [Body System]
+   812   C1515895:Allogeneic [Qualitative Concept]
+   812   C1546708:Marrow [Intellectual Product]
+   756 E C0001629:Medullary [Body Part, Organ, or Organ Component]
+   756 E C0025148:Medullary [Body Part, Organ, or Organ Component]
+   756 E C1550278:Medullary [Body Part, Organ, or Organ Component]
+   741 E C0443157:Bony [Functional Concept]
+   729 E C0330477:Marrows [Plant]
+Processing 00000000.tx.137: Gastroenterology. 
+
+Phrase: "Gastroenterology."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017163:Gastroenterology [Biomedical Occupation or Discipline]
+Processing 00000000.tx.138: 1998;114:433-440[Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "1998"
+
+Phrase: ";114"
+
+Phrase: ":"
+
+Phrase: "433-440"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.139: 11. 
+
+Phrase: "11."
+Processing 00000000.tx.140: Drakos PE, Nagler A, Or R. 
+
+Phrase: "Drakos PE,"
+
+Phrase: "Nagler A,"
+
+Phrase: "Or"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.141: Case of Crohn's disease in bone marrow transplantation. 
+
+Phrase: "Case of Crohn's disease"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0868928:Case [Functional Concept]
+   770   C1706255:CASE [Medical Device]
+   770   C1706256:Case [Conceptual Entity]
+
+Phrase: "in bone marrow transplantation."
+Meta Candidates (Total=19; Excluded=5; Pruned=0; Remaining=14)
+  1000   C0005961:Bone Marrow Transplantation [Therapeutic or Preventive Procedure]
+           Marrow Transplantation
+   913   C0005976:Bone Transplantation [Therapeutic or Preventive Procedure]
+   901   C0005953:Bone Marrow [Tissue]
+   827   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   827   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   827   C0040733:transplantation [Functional Concept]
+   827   C0086590:Marrow [Food]
+   827   C0262950:Bone, NOS [Body Part, Organ, or Organ Component]
+   827   C0376152:Marrow [Body Part, Organ, or Organ Component]
+   827   C0391978:Bone [Tissue]
+   827   C1266908:Bone [Body Part, Organ, or Organ Component]
+   827   C1266909:Bone [Body System]
+   827   C1546708:Marrow [Intellectual Product]
+   771 E C0001629:Medullary [Body Part, Organ, or Organ Component]
+   771 E C0025148:Medullary [Body Part, Organ, or Organ Component]
+   771 E C1550278:Medullary [Body Part, Organ, or Organ Component]
+   755 E C0443157:Bony [Functional Concept]
+   743 E C0330477:Marrows [Plant]
+Processing 00000000.tx.142: Am J Hematol. 
+
+Phrase: "Am"
+
+Phrase: "J Hematol."
+Processing 00000000.tx.143: 1993;43:157-158[Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "1993"
+
+Phrase: ";43"
+
+Phrase: ":"
+
+Phrase: "157-158"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.144: 12. 
+
+Phrase: "12."
+Processing 00000000.tx.145: Kashyap A, Foreman SJ. 
+
+Phrase: "Kashyap"
+
+Phrase: "A,"
+
+Phrase: "Foreman SJ."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1515101:SJ [Geographic Area]
+   861   C2986905:SJ [Idea or Concept]
+Processing 00000000.tx.146: Autologous bone marrow transplantation for non-Hodgkin's lymphoma resulting in long term remission of coincidental Crohn's disease. 
+
+Phrase: "Autologous bone marrow transplantation for non-Hodgkin's lymphoma"
+Meta Candidates (Total=21; Excluded=1; Pruned=0; Remaining=20)
+   833   C0194037:autologous bone marrow transplantation [Therapeutic or Preventive Procedure]
+           Autologous Marrow Transplantation
+   800   C0005961:Bone Marrow Transplantation [Therapeutic or Preventive Procedure]
+           Marrow Transplantation
+   800   C2986504:Autologous Bone Marrow [Body Substance]
+   770   C0005953:Bone Marrow [Tissue]
+   767   C0005976:Bone Transplantation [Therapeutic or Preventive Procedure]
+   767   C0040736:Transplantation, Autologous [Therapeutic or Preventive Procedure]
+   767   C1332582:Bone Lymphoma [Neoplastic Process]
+   744   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   744   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   744   C0040733:transplantation [Functional Concept]
+   744   C0086590:Marrow [Food]
+   744   C0262950:Bone, NOS [Body Part, Organ, or Organ Component]
+   744   C0376152:Marrow [Body Part, Organ, or Organ Component]
+   744   C0391978:Bone [Tissue]
+   744   C0439859:Autologous [Qualitative Concept]
+   744   C1266908:Bone [Body Part, Organ, or Organ Component]
+   744   C1266909:Bone [Body System]
+   744   C1546708:Marrow [Intellectual Product]
+   739 E C1708973:Medullary Bone [Tissue]
+
+Phrase: "resulting in long term remission of coincidental Crohn's disease."
+Meta Candidates (Total=19; Excluded=3; Pruned=0; Remaining=16)
+   804   C1960764:Crohn's disease in remission [Disease or Syndrome]
+   781   C0544452:Disease in remission [Finding]
+           Disease remission
+           Remission
+   764   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   764   C0332294:Resulting in [Functional Concept]
+   764   C0443252:Long-term [Temporal Concept]
+   742   C0012634:Disease [Disease or Syndrome]
+   742   C0205166:Long [Qualitative Concept]
+   742   C0678226:resulting [Functional Concept]
+   742   C0687702:remission [Neoplastic Process]
+   742   C1515273:Term [Temporal Concept]
+   742   C1705313:Term [Idea or Concept]
+   742   C1706317:Long [Qualitative Concept]
+   742   C2826302:TERM [Intellectual Product]
+   708 E C1274040:Result [Functional Concept]
+   708 E C1546471:Result [Idea or Concept]
+   708 E C2825142:Result [Finding]
+Processing 00000000.tx.147: Br J Haematol. 
+
+Phrase: "Br J Haematol."
+Processing 00000000.tx.148: 1998;103:651-652[CrossRef][Medline] [OrderarticleviaInfotrieve]. 
+
+Phrase: "1998"
+
+Phrase: ";103"
+
+Phrase: ":"
+
+Phrase: "651-652"
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "[OrderarticleviaInfotrieve"
+
+Phrase: "]."
+Processing 00000000.tx.149: 13. 
+
+Phrase: "13."
+Processing 00000000.tx.150: Castro J, Benich HI, Smith HL. 
+
+Phrase: "Castro J,"
+
+Phrase: "Benich HI,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0018619:HI [Geographic Area]
+   861   C0239849:HI [Congenital Abnormality,Disease or Syndrome]
+   861   C1412082:HI [Gene or Genome]
+   861   C1412316:HI [Gene or Genome]
+
+Phrase: "Smith HL."
+Processing 00000000.tx.151: Prolonged clinical remission in patients with inflammatory bowel disease after high dose chemotherapy and autologous bone marrow stem cell transplantation [abstract]. 
+
+Phrase: "Prolonged clinical remission in patients"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   824   C1277626:Patient in remission [Finding]
+           patients remission
+   760   C0205210:Clinical [Qualitative Concept]
+   760   C0544452:Remission [Finding]
+   760   C0687702:remission [Neoplastic Process]
+
+Phrase: "with inflammatory bowel disease"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C0021390:Inflammatory bowel disease [Disease or Syndrome]
+   913   C1290884:Inflammatory disease [Disease or Syndrome]
+   901   C0021831:bowel disease [Disease or Syndrome]
+   827   C0012634:Disease [Disease or Syndrome]
+   827   C0021853:Bowel [Body Part, Organ, or Organ Component]
+   827   C0333348:Inflammatory [Functional Concept]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "after high dose chemotherapy"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+  1000   C1328050:high-dose chemotherapy [Therapeutic or Preventive Procedure]
+   901   C0444956:High dose [Quantitative Concept]
+   827   C0013216:Chemotherapy [Therapeutic or Preventive Procedure]
+   827   C0013217:chemotherapy [Functional Concept]
+   827   C0178602:Dose [Quantitative Concept]
+   827   C0205250:High [Qualitative Concept]
+   827   C0392920:Chemotherapy [Therapeutic or Preventive Procedure]
+   827   C0869039:Dose [Quantitative Concept]
+   827   C1114758:Dose # [Clinical Attribute]
+   827   C1299351:High [Qualitative Concept]
+   827   C2700149:HIGH [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "autologous bone marrow stem cell transplantation"
+Meta Candidates (Total=25; Excluded=0; Pruned=0; Remaining=25)
+   947   C0842093:Bone Marrow Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   919   C0194037:autologous bone marrow transplantation [Therapeutic or Preventive Procedure]
+           Autologous Marrow Transplantation
+   919   C1831743:Autologous Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   901   C1511246:Bone marrow stem cell [Cell]
+   895   C0040736:Transplantation, Autologous [Therapeutic or Preventive Procedure]
+   895   C1258861:Bone Marrow Cell Transplantation [Therapeutic or Preventive Procedure]
+   885   C0005961:Bone Marrow Transplantation [Therapeutic or Preventive Procedure]
+           Marrow Transplantation
+   876   C0005976:Bone Transplantation [Therapeutic or Preventive Procedure]
+   867   C0005955:Bone marrow cell [Cell]
+   861   C1504389:Stem Cell Transplantation [Therapeutic or Preventive Procedure]
+   858   C0029432:Bone cell [Cell]
+   858   C0222677:Bone Cell [Cell]
+   827   C0038250:Stem cell [Cell]
+   827   C0206153:Cell Transplantation [Therapeutic or Preventive Procedure]
+   799   C0007634:Cell [Cell]
+   799   C0029216:Transplantation [Therapeutic or Preventive Procedure]
+   799   C0040732:Transplantation [Therapeutic or Preventive Procedure]
+   799   C0040733:transplantation [Functional Concept]
+   799   C0242767:Stem [Plant]
+   799   C1186763:Stem [Body Part, Organ, or Organ Component]
+   799   C1269647:Cell [Cell]
+   799   C1704653:Cell [Medical Device]
+   799   C1948049:Cell [Spatial Concept]
+
+Phrase: "[abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]."
+Processing 00000000.tx.152: Blood. 
+
+Phrase: "Blood."
+Meta Candidates (Total=10; Excluded=7; Pruned=0; Remaining=3)
+  1000   C0005767:Blood [Tissue]
+  1000   C0005768:blood [Body Substance]
+  1000   C0229664:Blood [Body Substance]
+   928 E C0333275:Bloody [Qualitative Concept]
+   916 E C0005847:Blood Vessel [Body Part, Organ, or Organ Component]
+   916 E C0392895:Bloods [Population Group]
+   916 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   916 E C1511228:VESSEL, BLOOD [Tissue]
+   900 E C1558950:VASCULAR [Finding]
+   900 E C1801960:Vascular [Qualitative Concept]
+Processing 00000000.tx.153: 1996;88:133a.  
+
+Phrase: "1996"
+
+Phrase: ";88"
+
+Phrase: ":"
+
+Phrase: "133a."
+Processing 00000000.tx.154: 2003 by The American Society of Hematology.
+
+Phrase: "2003 by The American Society of Hematology."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   853   C1515949:American Society of Hematology [Professional Society]
+   748   C0018943:Haematology NOS [Biomedical Occupation or Discipline]
+   748   C0037455:society [Organization]
+   748   C0200627:HEMATOLOGY [Laboratory Procedure]
+   748   C0596070:American [Population Group]
+

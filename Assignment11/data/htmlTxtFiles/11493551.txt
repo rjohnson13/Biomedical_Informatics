@@ -1,0 +1,983 @@
+
+
+Fruit development is actively restricted in the absence of fertilization in Arabidopsis
+
+
+
+Adam Vivian-Smith1,2, 
+Ming Luo3, 
+Abdul Chaudhury3 and 
+Anna Koltunow2,*
+
+
+
+
+1 Department of Plant Science, Waite Campus, University of Adelaide, P.M.B., 1 Glen Osmond, South Australia 5064, Australia
+
+2 Commonwealth Scientific Industrial Research Organization, Plant Industry, Horticultural Research Unit, P.O. Box 350, Glen Osmond, South Australia 5064, Australia
+
+3 Commonwealth Scientific Industrial Research Organization, Plant Industry, GPO Box 1600, Canberra, Australian Capital Territory 2601, Australia
+
+
+
+
+*Author for correspondence (e-mail: anna.koltunow{at}pi.csiro.au)
+
+
+
+
+
+Accepted April  4, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+Flowering plants usually require fertilization to form fruit and seed and to initiate floral organ abscission in structures that do not contribute to the fruit. An Arabidopsis mutant that initiates seedless fruit without fertilization (fwf) or parthenocarpy was isolated and characterized to understand the factors regulating the transition between the mature flower and the initiation of seed and fruit development. The fwf mutant is fertile and has normal plant growth and stature. It sets fertile seed following self-pollination and fertilization needs to be prevented to observe parthenocarpy. The initiation of parthenocarpic siliques (fruit) was found to be dependent upon carpel valve identity conferred by FRUITFULL but was independent of the perception of gibberellic acid, shown to stimulate parthenocarpy in Arabidopsis following exogenous application. The recessive nature of fwf is consistent with the involvement of FWF in processes that inhibit fruit growth and differentiation in the absence of fertilization. The enhanced cell division and expansion in the silique mesocarp layer, and increased lateral vascular bundle development imply FWF has roles also in modulating silique growth post-fertilization. Parthenocarpy was inhibited by the presence of other floral organs suggesting that both functional FWF activity and inter-organ communication act in concert to prevent fruit initiation in the absence of fertilization. 
+
+
+
+
+
+
+
+Key words: Parthenocarpic fruit development, Ovule, Carpel, Fertilization, Asymmetric cell division, GRAS gene, Auxin, Gibberellin, Arabidopsis thaliana
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Reproduction in flowering plants begins with the formation of the flower and ends with the formation of fruit and seeds (Fig. 1). In the majority of flowering plants fertilization is required to initiate the transition between flower and fruit development. Fertilization occurs in the ovule, a female gamete forming structure, located within the carpel of the flower. Following fertilization the ovule develops into a seed while the surrounding carpel and, in some species, other floral organs differentiate into a fruit (Coombe, 1975). Fruit development also depends on the selective abscission of floral organs and if fertilization does not occur, the entire flower senesces. Fruit and seed development is therefore dependent upon a balance between positive and negative growth processes. Positive cues for inducing seed growth are thought to be produced in the ovule after fertilization, and cues for inducing fruit development might originate from pollen (ONeill, 1997; ONeill and Nadeau, 1997), ovules (Gillaspy et al., 1993), or the vegetative parts of the plant (Nitsch, 1952). 
+
+
+
+
+
+
+
+
+
+
+View larger version (59K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. Silique development in Arabidopsis. (A) Morphological features of the Arabidopsis pistil at anthesis. (B) An unpollinated senescing pistil. (C) Maturing seeded silique before dehiscence. Cells in the carpel that will compose the exocarp layer in the silique are coloured green, mesocarp is yellow, supportive sclerenchyma red and endocarp blue.
+
+
+
+
+
+&nbsp;
+
+
+
+Fruit and seed development is naturally uncoupled from fertilization in plants that undergo the genetically controlled processes of parthenocarpy and apomixis. Apomictic species can produce both fruit and viable seed in the absence of fertilization (Koltunow, 1993). In parthenocarpic species, fruit forms in the absence of fertilization, the unfertilized ovules senesce and the fruit is seedless (Gillaspy et al., 1993). 
+
+
+
+While little is known about the induction of apomixis, parthenocarpy can be induced in some species by the exogenous application of phytohormones to flowers (Schwabe and Mills, 1981). This and the observation that developing seeds produce phytohormones led to the proposal that parthenocarpy results from the production of growth substances in the ovary (Gustafson, 1939; Nitsch, 1970). It was recently demonstrated that the direct elevation of phytohormones in the ovule and placenta by transgenic approaches can lead to parthenocarpic eggplants and tomatoes (Rotino et al., 1997; Ficcadenti et al., 1999). 
+
+
+
+An understanding of the molecular events underlying parthenocarpy and apomixis would provide information on factors regulating the early events of fruit and seed initiation and thus enable the agronomic manipulation of fruit and seed yield. Arabidopsis thaliana has proved useful for examining the molecular events governing fruit and seed development. Silique development in Arabidopsis is fertilization dependent (Chaudhury et al., 1997; Meinke and Sussex, 1979; Ohad et al., 1996) and if fertilization does not occur the carpel expands slightly in length prior to progressing into a terminal senescence phase without further tissue differentiation (Fig. 1A,B). 
+
+
+
+After fertilization, the ovule forms a seed, and cells in defined layers of the carpel divide, expand and differentiate to form the exocarp, mesocarp, structural sclerenchyma and endocarp of the silique (Vivian-Smith and Koltunow, 1999; Fig. 1C). Longitudinal growth of the silique occurs by cell expansion in all layers, however, mesocarp formation is also characterized by cell division. Silique girth is established by cell expansion in all layers (Vivian-Smith and Koltunow, 1999). At seed maturity, the silique dehisces along the replum carpel-valve boundary to release seed (Liljegren et al., 1998; Meinke and Sussex, 1979). 
+
+
+
+Arabidopsis mutants have been identified in which seed and fruit development is uncoupled from fertilization. Members of the FIS mutant class (Spillane et al., 2000) exhibit phenotypes resembling reproductive events observed in apomicts. Seed development is initiated in the absence of fertilization, but the seeds are non-viable because they form endosperm and differentiate a seed coat (testa) but lack a functional embryo (Grossniklaus et al., 1998; Ohad et al., 1999; Chaudhury et al., 1997). Processes related to the development of the seed-like structures appear sufficient to trigger silique development (Ohad et al., 1996; Chaudhury et al., 1997). Members of the FIS gene class encode different proteins with homology to Drosophila Polycomb proteins (Grossniklaus et al., 1998; Luo et al., 1999; Luo et al., 2000) that form complexes which affect chromatin structure and modulate the expression of specific genes. This implicates chromatin-remodeling proteins in restricting seed development in the absence of fertilization. 
+
+
+
+An activation tagged Arabidopsis line, 28-5 which has been characterized showed a parthenocarpic phenotype (Ito and Meyerowitz, 2000). It exhibited alterations in floral phenotype and vegetative structure, and had reduced male and female fertility requiring vegetative propagation in vitro, which limited the genetic analysis. It produced siliques that were significantly increased in girth, despite the absence of mature ovules and fertilization. The enhancer insertion activated CYP78A9, a cytochrome P450 gene whose function is unknown. CYP78A9 was postulated to be involved in the production of a novel plant growth substance because cytochrome P450 proteins are involved in the synthesis or degradation of plant secondary products and increased concentrations of phytohormones induce parthenocarpy (Ito and Meyerowitz, 2000). 
+
+
+
+We describe the isolation and characterization of a parthenocarpic Arabidopsis mutant called fruit without fertilization (fwf). We examine the genetic interaction between fwf and mutants disrupted in phytohormone synthesis and perception, carpel identity and ovule integument formation, to define the processes facilitating silique development. The data suggest that both functional FWF activity and inter-organ communication restrict fruit development in the absence of fertilization. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Isolation of the fwf mutant, scoring parthenocarpy and histological sectioning
+
+
+A single fwf mutant allele was isolated during a genetic screen for fertilization independent seed (fis) development (Chaudhury et al., 1997). Landsberg erecta (Ler) seeds heterozygous for the male sterile pistillata (pi) mutation were mutagenized with ethylmethane sulfonate (EMS) and M2 plants were specifically screened for mutants that formed siliques. In contrast to the characterized fis mutants (Chaudhury et al., 1997), the fwf mutant failed to initiate seed development. The fwf lesion was separated from pi by crossing with Ler pollen and recovering male fertile F2 plants that segregated for the fwf phenotype. Parthenocarpic fwf plants were clearly identified by the removal of all floral organs surrounding the pistil prior to anthesis. A minimum number of five pistils were examined on the main apical meristem after the formation of at least 15 flowers (see Results). Plants producing siliques that consistently elongated greater than 5.5-6 mm in length were scored as parthenocarpic. fwf was then backcrossed to Ler seven times. A near isogenic line (NIL) was also created in Columbia by backcrossing fwf three times to Ler followed by five backcrosses to Col-1. 
+
+
+
+Plant growth conditions, methods to assess parthenocarpy and pistil receptivity, silique growth measurements, application of plant growth regulators and histology are as described previously (Vivian-Smith and Koltunow, 1999). fwf siliques above flower position 30 were observed, photographed and collected for sectioning during subsequent genetic analysis unless stated otherwise. Histological sections and mature siliques at 7 days post-anthesis were photographed using a SPOT2 camera (Diagnostic instruments Inc., Sterling Heights, Michigan) fitted to either an Axioplan or Stemi-2000C microscope (Carl Zeiss, Jena, Germany). Mean cell length and cell counts in tissues collected at anthesis and at 7 days post-anthesis were determined from the observations of 3-10 sections per treatment, where 8-51 cells were measured each in section. 
+
+
+
+Genetic analysis of fwf with multiple mutant lines
+
+
+The Ler ecotype was used in all double and triple mutant analyses. The ats, ga1-3, gai-1 mutants were obtained from the Arabidopsis Biological Resource Center. The EMS mutant, frt1-3 mutant (a gift from Prof. Robert Fischer, University of California, Berkeley, CA) displayed a phenotype similar to the previously described ful-1 mutant (Gu et al., 1998), which is defective in carpel and fruit morphogenesis. We showed that frt1-3 was allelic to ful-1, and frt1-3 was designated as ful-7. 
+
+
+
+Multiple mutant lines were obtained by crossing homozygous lines together and identifying homozygous fwf F2 individuals that segregated in the F3 for the alternative mutation. Multiple mutants were identified as F3 homozygous plants for the desired genotype. Plants were progeny checked or testcrossed when necessary. Plants containing the conditional pollen fertility mutant pop1 (allelic to cer6) set fertile seed when transferred to 95% relative humidity (Hlskamp et al., 1995a; Koornneef et al., 1989). To create ga1-3 fwf double mutants, ga1-3 mutant seed was germinated on MS medium, pH 5.7 (Murashige and Skoog, 1962; Sigma Co.), containing 2% sucrose, 1% agarose supplemented with 0.1 mM gibberellic acid (GA3). Seedlings were transferred to soil and treated with GA3 to produce fertile flowers for crosses with fwf pollen. Homozygous fwf F2 lines segregating for ga1-3 at F3 were analyzed by initially germinating seed on GA3 supplemented MS medium but without further GA3 treatment to allow homozygous ga1-3 individuals to show a GA-deficient phenotype. 
+
+
+
+Map positions of fwf and aberrant testa shape (ats) loci
+
+
+Col-1 plants were crossed, as pollen donors, to fwf homozygote plants for preliminary analysis. In the segregating F2 population 26 fwf plants were identified and cleaved amplified polymorphic sequences (CAPS; Konieczny and Ausubel, 1993) and simple sequence length polymorphism (SSLP; Bell and Ecker, 1994) markers were used to assign fwf to a linkage group. The fwf lesion was located on chromosome 5 linked to the SSLP and CAPS markers nga106, nga139, AthSO191 and DFR. Analysis of 52 chromatids revealed that the recombination frequencies between fwf and nga106, and fwf and nga139 were 19.25.2 (24.2 cM) and 11.54.4 (13.1 cM) respectively. Recombination frequencies between fwf and AthSO191, and fwf and DFR were 13.54.7 (15.7 cM) and 256 (34.7 cM) respectively. This positioned fwf between markers nga139 and AthSO191 on the recombinant inbred map using the Haldane function (Rhee et al., 1998). 
+
+
+
+The visible markers, ats and bel1-1 were also used to confirm the map position for fwf. ats was crossed with fwf and 5 homozygous ats fwf plants were identified from 341 F2 plants. A single ats fwf plant was then crossed to Col-4 to obtain coupling phase recombination data for assessment using the Haldane function (Koornneef and Stam, 1992). SSLPs were used to verify the position of fwf relative to ats. When ats fwf double mutants were crossed in coupling phase as pollen donors to Col-4 female parents the recombination frequency was 7.391.98 (n=181) indicating that the map distance between ats and fwf was 82.32 cM using the Haldane function. Additional data indicated that ats maps to a distinct locus between bel1-1 and DFR (A.V.-S. and A. K., unpublished data) which disagrees with the currently reported genetic map position of ats at 64 cM on chromosome 5. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+fwf exhibits facultative parthenocarpy and normal plant stature
+
+
+The parthenocarpic fruit without fertilization (fwf) mutant was identified in a screen carried out in a male sterile (pistillata; pi) background because it displayed seedless siliques in the absence of pollination (Table 1). When the recessive pi mutation was outcrossed, to restore male fertility, all of the segregating plants set fertile seed indicating that parthenocarpy in fwf is facultative. Prevention of self-pollination was therefore required to identify fwf plants and a procedure was used that involved the removal of all of the floral organs surrounding the carpel. The resulting siliques were always seedless (Fig. 2A) and dehiscent indicating that silique development proceeded to completion in the absence of seed initiation. 
+
+
+
+
+
+
+
+View this table:
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Table 1. 
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (95K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. Features of the fwf mutant. (A) Comparisons of a pistil dissected from a anthesis stage Ler flower (a), Ler silique 7 days post-pollination (p), an emasculated unpollinated Ler pistil 7 day post-anthesis (up), compared with a parthenocarpic fwf silique in the Ler background (fwf up) and fwf in the near isogenic line (Col-1) following emasculation (NIL up). A valve has been removed from (a), (p) and (up fwf) to display the presence or absence of seeds. (B) Cleared siliques showing decreased seed set (arrowheads) in proximal region of the fwf silique following cross-pollination with Ler pollen. (C) Section of Ler ovule at anthesis. (D) Section from an unfertilized fwf ovule at anthesis. (E) Ler flower. (F) fwf flower. (G) ctr1-1 flower. (H) ein6 flower. (I-L) Lateral sections of carpel valves examined 7 days post-anthesis. (I) Unpollinated Ler. (J) Pollinated Ler. (K) Unpollinated fwf. (L) Pollinated fwf. (M-P) Transverse sections of carpel valves 7 days post anthesis. (M) Pollinated Ler. (N) Pollinated fwf. (O) Unpollinated fwf from flower below position 30, arrowhead indicates enlarged mesocarp cells. (P) Unpollinated fwf from flower above position 30. Abbreviations: endocarp (e) exocarp (x), mesocarp (m), sclerenchyma (s) and ovule (o). Scale bars: A, 3 mm; C,D, 30 m; I-P, 50 m.
+
+
+
+
+
+&nbsp;
+
+
+
+Parthenocarpic fwf siliques were 40% shorter than siliques formed after self-pollination in fwf and Ler (Fig. 2A; Table 1) suggesting that pollination, fertilization or processes associated with seed formation may contribute to final silique size. Parthenocarpy in fwf also displayed a degree of ecotype specificity because even shorter parthenocarpic siliques formed in the NIL Col-1 background compared to those in the Ler background (Fig. 2A; Table 1). 
+
+
+
+Seed set in self-pollinated fwf plants was reduced in proximal regions of the silique. This appeared to be a pre-fertilization defect because empty positions were observed in self-pollinated fwf siliques rather than small brown shriveled seeds that indicate post-fertilization seed abortion. Attempts were made to examine the cause of this defect. Reciprocal crosses were carried out between fwf and Ler. Reduced seed initiation, indicated by the empty seed positions, was only observed following pollination of fwf with Ler (Fig. 2B) and not in the reciprocal cross. Examination of floral receptivity in fwf confirmed that fwf pollen was capable of germination on the stigma and growth within fwf carpels over the same 4-day period as observed in Ler (Fig. 3A). Ovule numbers in fwf and Ler pistils were comparable (53.46.5 and 54.05.2; respectively) and sections of anthesis stage ovules from proximal pistil positions showed that embryo sac structure was similar in both unfertilized fwf and in Ler pistils (Fig. 2C and 2D). However, 19% of fwf ovules (n=37) displayed extended outer integuments when compared with wild-type Ler (Fig. 2D and C, respectively). Collectively these data suggest that the decreased seed initiation in proximal positions of the fwf silique is associated with an unknown maternal defect. 
+
+
+
+
+
+
+
+
+
+
+View larger version (21K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. Pistil receptivity and silique growth. (A) Receptivity period for Ler and fwf pistils examined by the removal of floral organs, except the pistil, at anthesis and controlled self-pollination on specific days after anthesis. (B) The relationship of floral position on the primary inflorescence meristem and final parthenocarpic silique length in male sterile pop1 (circles) and pop1 fwf (squares), emasculated fwf (diamonds) and male sterile pop1 ats fwf triple mutant (triangles). (C) Silique growth of pollinated Ler (Ler p), emasculated fwf and male sterile pop1 ats fwf compared to emasculated and unfertilized Ler (Ler up).
+
+
+
+
+
+&nbsp;
+
+
+
+Vegetative plant growth and stature of fwf plants was indistinguishable from wild type. Subtle alterations in floral morphology were observed in fwf flowers. These included missing stamens, increased vasculature on enlarged petals with occasional crinkled edges, incomplete petal recurvature and shorter stigmatic papillae compared with Ler (Fig. 2E,F). Precocious silique growth was also observed and this feature has also been reported in the ethylene perception mutant ctr1-1 (Fig. 2G; Alonso et al., 1999). A constitutively recurved petal phenotype is also displayed by the ethylene insensitive mutant ein6 (Fig. 2H). However, fwf is genetically distinct from both of these mutants (A. V.-S. and A. K., unpublished data). 
+
+
+
+Crosses between fwf and wild type (Col-1) showed that fwf segregated as a recessive mutation (46 fwf in 184 F2 plants). The map location of fwf on chromosome 5 (Fig. 4) together with the phenotypic data, clearly distinguish fwf from the activation tagged mutant, 28-5 and the fis class of mutants that initiate seed and fruit development in the absence of fertilization. 
+
+
+
+
+
+
+
+
+
+
+View larger version (9K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. Map positions for fwf, bel1-1 and ats on chromosome 5.
+
+
+
+
+
+&nbsp;
+
+
+
+Parthenocarpy is influenced by flower position and inter-organ communication in fwf
+
+
+The final size of parthenocarpic fruit in fwf was influenced by the position of the flower on the inflorescence. Fig. 3B shows that the maximum seedless silique length of 7-8 mm was observed when all of the floral organs surrounding the pistil were removed from flowers above flower position 30 during the assessment of parthenocarpy. By contrast, the first few self-pollinated Ler and fwf flowers on the inflorescence immediately attained the maximum seeded silique length of 11-12 mm (not shown). 
+
+
+
+We examined whether floral organ removal influenced parthenocarpic silique development in fwf. As a comparable alternative to manually removing floral organs, a conditional pollen fertility mutant, pop1 was used to specifically control pollen viability. Under low humidity conditions pollen in pop1 mutants develops to maturity but is unable to germinate and fertilize the female gametophyte, and under these conditions fruit and seed development do not occur. 
+
+
+
+Surprisingly, pop1 fwf double mutants, grown under low humidity conditions, produced parthenocarpic siliques that were significantly reduced in length compared to those in fwf plants grown under the same conditions where floral organs around the pistil were manually removed (Fig. 3B; Table 1). The pop1 mutation did not reduce silique development because self-pollinated pop1 fwf mutants produced seeded siliques comparable in length to self-pollinated fwf plants under permissive pollen germination conditions. Furthermore, removal of floral organs around the pistil in pop1 fwf mutants produced parthenocarpic siliques of lengths similar to those observed in fwf plants (Table 1) indicating that pop1 does not specifically inhibit parthenocarpic silique growth. 
+
+
+
+Silique growth is not stimulated in pop1 and Ler flowers when all floral organs around the pistil are removed, therefore, wounding induced by floral organ removal is not a stimulus for parthenocarpy in Arabidopsis (Fig. 3B,C; Table 1). Wounding is also not required for parthenocarpy in fwf because pi fwf double mutants, which naturally lack petals and stamens, form parthenocarpic siliques that are longer than those observed in pop1 fwf even though the pi mutation reduces pistil growth and pollination-induced silique length when compared to wild type (Table 1). Collectively these data suggested that the floral whorls surrounding the pistil might have an inhibitory effect on parthenocarpic silique development in fwf. 
+
+
+
+Further evidence in support of this hypothesis was obtained when fwf was combined with the ats mutant during the mapping of fwf. The ats mutant has a lesion in ovule integument formation. A single three-cell layer integument forms in place of both the inner and outer integument that consist of a total of 5 cell-layers in wild-type Arabidopsis ovules (Schneitz et al., 1995) resulting in modified ovule and seed shape (Lon-Kloosterziel et al., 1994). Removal of all floral organs except the pistil in ats fwf plants resulted in parthenocarpic siliques that were longer than those in fwf plants and just slightly shorter than seeded siliques in self-pollinated fwf and ats plants (Table 1). The ats lesion clearly enhanced parthenocarpy in the fwf background. 
+
+
+
+A pop1 ats fwf triple mutant was made to examine parthenocarpic silique development without manual removal of floral organs surrounding the pistil. When the triple mutant was grown under conditions inhibiting pollen germination, the parthenocarpic siliques that formed were equal in length to those observed following floral organ removal in the ats fwf double mutant (Table 1). Parthenocarpic silique growth in pop1 ats fwf was greater than in fwf at all floral positions (Fig. 3B). The rate of parthenocarpic silique elongation in the triple mutant was comparable to that in fwf and pollinated Ler (Fig. 3C). These observations further confirmed that wounding is not required to stimulate parthenocarpy in fwf. We conclude that ats enhances parthenocarpic silique development in fwf negating inhibitory signals from surrounding floral whorls to enable formation of siliques comparable in length and growth rate to those obtained after pollination. 
+
+
+
+Parthenocarpy in fwf requires FRUITFULL activity
+
+
+The MADS-box gene FRUITFULL (FUL) is essential for carpel valve identity to enable silique growth after fertilization (Liljegren et al., 1998). Mutations in FUL therefore abolish silique elongation and dehiscence post-fertilization (Gu et al., 1998). ful mutants set seed normally but because the siliques remain short the developing seeds rupture the fruit during maturation (Fig. 5A,B). A ful-7 fwf double mutant was created to determine the effects of ful-7 on parthenocarpic silique development. 
+
+
+
+
+
+
+
+
+
+
+View larger version (71K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Comparison of silique length and morphology in various mutant backgrounds, 7 days post-anthesis. (A) Unpollinated Ler pistil (up), pollination-induced Ler silique (p) and fwf parthenocarpic silique. (B) ful-7 and ful-7 fwf double mutants following pollination (p) or emasculation (up) in ful-7 fwf. The inset labeled p shows continued replum development and replum cell expansion (arrow) in pollinated ful-7. The inset marked up shows the absence of continued replum growth in emasculated and unpollinated ful-7 fwf pistils. (C) Silique development in the gai-1 background. (D) Silique development when fwf is combined with gai-1 and ats. (E-I) Sections of silique tissues 7 days post-anthesis. (E) Unpollinated gai-1. (F) Parthenocarpic gai-1 fwf. (G) Pollinated gai-1 fwf. (H) Parthenocarpic pop1 ats fwf with increased mesocarp cell division. (I) Parthenocarpic gai-1 ats fwf where ats restores anticlinal mesocarp cell division. Mesocarp cells adjacent to vascular bundles remain enlarged (arrowhead). Abbreviations as for figure 2. Scale bars: A-D, 3 mm; E-I, 50 m.
+
+
+
+
+
+&nbsp;
+
+
+
+Neither parthenocarpic nor significant pollination-induced silique elongation was observed in ful-7 fwf plants (Fig. 5B). Therefore normal FUL activity is required for parthenocarpic silique development in the fwf background. However, replum growth and expansion continued in the absence of silique elongation in both pollinated ful-7 and ful-7 fwf double mutants resulting in a zigzag arrangement of the replum tissue (Fig. 5B, inset). Emasculated ful-7 fwf and ful-7 plants did not initiate silique development or further replum growth and lacked the distinctive zigzag replum patterning observed post-pollination (Fig. 5B, inset). Therefore, pollination and fertilization can trigger further replum growth in a manner that is independent of normal FUL and FWF activity. However, functional FUL activity is required for continued replum growth during parthenocarpic development in the fwf background. Thus either FWF is not responsible for replum development or FUL is completely epistatic to FWF. 
+
+
+
+Parthenocarpic siliques show alteration in lateral vascular bundle development and mesocarp cell division and expansion
+
+
+Mutations that allow fertilization-independent silique development might individually or collectively affect cell expansion, cell division and cell differentiation in developing tissue layers (Fig. 1). Therefore, silique formation in fwf mutants was examined by determining the mean cell length (Table 2) and calculating relative cell numbers in longitudinal sections of the different tissue layers during development (Table 3). Comparisons were made between anthesis pistils, unpollinated pistils and mature parthenocarpic siliques at 7 days post-anthesis (Fig. 2I-L). 
+
+
+
+
+
+
+
+View this table:
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Table 2. 
+
+&nbsp;
+
+
+
+
+
+
+
+View this table:
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Table 3. 
+
+&nbsp;
+
+
+
+Mesocarp cell division occurred normal to the plane of silique elongation in emasculated fwf pistils and in pop1 ats fwf siliques (Table 3). The number of mesocarp and endocarp cells in anthesis fwf pistils was elevated compared to that of anthesis stage wild-type Ler (Table 3) because these cells were already undergoing precocious anticlinal cell division. Endocarp cells divided anticlinally, but their expansion into the locule was not as great as in pollination-induced siliques (Fig. 2J,K; Table 3). Exocarp and supportive sclerenchyma cells expanded longitudinally during parthenocarpic development, with the latter developing less secondary wall thickening than in pollinated Ler (Fig. 2J). The development of parthenocarpic siliques in fwf was similar to siliques formed post-fertilization in wild-type plants but parthenocarpic siliques were 40% shorter because cell division was reduced in the mesocarp layer relative to that in wild-type siliques forming post-pollination (Table 3). 
+
+
+
+Cell expansion determines the width of siliques induced post-fertilization in Ler (Vivian-Smith and Koltunow, 1999). Cell numbers in transverse valve sections of developing parthenocarpic siliques in fwf remained constant in all tissues from anthesis to maturity (not shown) indicating that girth was established solely by cell expansion. Pollination-induced fwf siliques exhibited greater mesocarp cell expansion compared to Ler (Fig. 2M,N). Pollination and fertilization therefore stimulate mesocarp cell expansion in an additive manner to that induced by the fwf lesion. 
+
+
+
+Lateral vascular bundles in parthenocarpic siliques were larger and contained more vascular elements than pollination-induced siliques (Fig. 2O,P). Parthenocarpic siliques forming before floral position 30 in fwf, fwf (NIL), and ats fwf, contained a group of mesocarp cells adjacent to the lateral vascular bundle that expanded, forming a crescent of enlarged cells (Fig. 2O). In parthenocarpic fwf siliques above flower position 30, cell expansion was observed in a greater number of mesocarp cells (Fig. 2P). This correlated with the stronger parthenocarpic fwf phenotype observed at later floral positions. 
+
+
+
+Parthenocarpy in gai-1 fwf mutants occurs by cell expansion as anticlinal mesocarp cell division is abolished
+
+
+GA biosynthesis is essential for silique development in Arabidopsis (Barendse et al., 1986). The application of GA3 (10 nmol per pistil) to Arabidopsis pistils at anthesis induces parthenocarpic siliques that are on average 18% shorter than, but morphologically most similar to pollination-induced siliques (Vivian-Smith and Koltunow, 1999). Application of GA3 together with either 1 nmol per pistil BA (benzyl adenine) or NAA (-naphthalene acetic acid) is required to attain pollination-induced silique lengths (data not shown). 
+
+
+
+GA3 application at 10 nmol per pistil to fwf plants resulted in parthenocarpic siliques most comparable in length (11.90.8 mm) and morphology to pollination-induced fwf siliques. This showed that unpollinated fwf pistils respond to exogenously applied GA at anthesis and implied that GA hormone biosynthesis or perception might be altered and possibly become limiting during the growth of parthenocarpic siliques in fwf. 
+
+
+
+fwf was combined with mutants in GA hormone biosynthesis and perception to further examine the role of GA in parthenocarpy. Plants that are severely deficient in GA biosynthesis such as the ga1-3 mutant fail to form siliques following pollination (Barendse et al., 1986). Plants homozygous for ga1-3 fwf were identical to ga1-3 single mutants and did not form siliques post-emasculation or pollination (not shown). This demonstrated that fwf cannot rescue silique development in ga1-3 and is therefore distinct from the spindly (spy) and repressor of ga1-3 (rga) mutants that partially restore a wild-type phenotype to plants containing the ga1-3 mutation (Jacobsen et al., 1996; Silverstone et al., 1997).  
+
+
+
+GAI is a GRAS family member that regulates GA signaling in a derepressable manner (Sun, 2000). The gai-1 mutation is a gain-of-function allele that constitutively blocks responses to GA (Peng et al., 1997). Homozygous gai-1 plants are also blocked in GA3-induced parthenocarpic silique development (Vivian-Smith and Koltunow, 1999). Pollination-induced siliques in gai-1 plants (Fig. 5C) grow in length primarily by cell expansion because anticlinal mesocarp cell division is restricted and they are shorter than pollination-induced wild-type siliques. The constitutive block in GA responses in gai-1 mutants therefore reduces mesocarp cell proliferation in siliques after pollination. 
+
+
+
+Phenotypic analysis of the gai-1 fwf double mutant showed that parthenocarpic siliques formed. These elongated and expanded further than unpollinated gai-1 pistils (Fig. 5C and D; Table 1), but were shorter than those observed in the fwf single mutant (Fig. 5A). Comparison of sections of unpollinated gai-1 pistils (Fig. 5E) and parthenocarpic gai-1 fwf siliques (Fig. 5F) showed that cell expansion was the primary cause of parthenocarpic silique development in the gai-1 fwf double mutant. Anticlinal mesocarp cell division was not observed because both anthesis fwf pistils and parthenocarpic gai-1 fwf siliques contained similar numbers of cells (Table 3). Pollinated gai-1 fwf pistils also developed siliques by expansion (Fig. 5G), but the degree of mesocarp cell expansion was greater than that in parthenocarpic gai-1 fwf siliques (Fig. 5F). 
+
+
+
+These data indicate that the fwf mutation primarily enables the initiation of parthenocarpic silique development by enhancing mesocarp cell expansion. This initiation is independent of cellular responses to GA that appear to be required at a later stage for modulating mesocarp cell division during fruit growth. 
+
+
+
+ats promotes anticlinal mesocarp cell division in siliques in fwf and gai-1 fwf backgrounds
+
+
+Histological analysis of siliques taken from parthenocarpic pop1 ats fwf triple mutants was carried out to understand how the ats lesion enhanced parthenocarpic silique growth in the fwf background. Longitudinal silique sections of pop1 ats fwf siliques (Fig. 5H) showed that in this genetic background the ats lesion results in smaller mesocarp cells than that observed in parthenocarpic fwf siliques (Table 2). The final cell numbers in all tissue layers of parthenocarpic pop1 ats fwf siliques were comparable to Ler following pollination (Table 3). Therefore anticlinal mesocarp cell division is stimulated in the ats mutant and this together with the coordinate expansion of cells in the surrounding silique layers results in parthenocarpic siliques that are longer than those of fwf plants. 
+
+
+
+The ats mutant was combined with gai-1 fwf to examine if it would have any effect on the block in anticlinal mesocarp cell division conferred by gai-1. The gai-1 ats fwf triple mutant developed parthenocarpic siliques that were longer than those of unpollinated gai-1 fwf (Fig. 5D) but of a similar mean length to emasculated fwf single mutants (Fig. 5A and Table 1). Sections showed that unpollinated gai-1 ats fwf siliques (Fig. 5I) had much smaller mesocarp cells than emasculated gai-1 fwf (Fig. 5G; Table 2) or pollinated gai-1 (Vivian-Smith and Koltunow, 1999). Mesocarp cell numbers in gai-1 ats fwf were greater than those observed in unpollinated gai1-1 fwf (Table 3). This indicates that the blockage in anticlinal cell division conferred by gai-1 is restored in an ats background. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+FWF functions at floral maturity and during fruit growth
+
+
+The fwf mutation uncouples the initiation of fruit development from both fertilization and seed formation and results in seedless or parthenocarpic fruit. The development of vascular bundles and mesocarp cells is also affected later during the formation of parthenocarpic siliques. Therefore FWF might be involved in the regulation of developmental events between the end of flower development and the initiation and progression of fruit development in Arabidopsis. This does not preclude a role for FWF in other developmental processes as only one allele has been studied. 
+
+
+
+Parthenocarpy is facultative in fwf and seeded siliques are set unless pollination and fertilization is prevented. Facultative parthenocarpy is also evident in nature and while parthenocarpy itself offers no obvious selective advantage to the species, the ability to set seed ensures that reproduction of the species will continue. Facultative parthenocarpy is exploited in breeding programs aimed at producing seedless fruit and as such has been described and genetically characterized in citrus (Sykes and Lewis, 1996) and tomato (George et al., 1984). 
+
+
+
+A mature, differentiated Arabidopsis carpel is necessary for parthenocarpy in the fwf background as functional FRUITFULL activity is required. Prior to anthesis, ful mutants exhibit decreased mesocarp cell division and expansion normal to the plane of elongation and vascular differentiation within the carpel is also impaired. These effects persist post-pollination (Gu et al., 1998; Bowman et al., 1999) and directly contrast with the enhanced mesocarp cell division and expansion, and the enhanced vascular bundle development observed in the fwf mutant. This implies that FUL might be required for cell identity and growth within the mesocarp cells and lateral vascular bundles, while FWF may have a repressive function acting to limit growth in these tissues. As FUL and FWF appear antagonistic in function they might interact to modulate silique development and this can be tested once FWF is cloned. 
+
+
+
+Parthenocarpy is recessive in fwf plants suggesting that fwf represents a sporophytic loss-of-function allele. This is consistent with the hypothesis that FWF is involved in processes that repress the development of silique tissues in the absence of fertilization and that once silique development initiates, FWF also suppresses or modulates growth in mesocarp cells and in vascular bundles. FWF activity might be modulated relative to changes in floral meristem age or a basipetal-acropetal gradient along the inflorescence to account for the increased parthenocarpic silique growth in fwf in the later floral positions. 
+
+
+
+Inter-floral organ signaling modulates the initiation of silique development in Arabidopsis
+
+
+Pollination and subsequent fertilization events in the ovule initiate a sequence of events that lead to the senescence of unnecessary floral organs and the initiation of fruit and seed development. Aspects of this process have been shown to involve inter-organ communication, however, the nature of the primary pollen-borne signal(s) and the mode of signal transduction has not been determined in the majority of species. The known inter-organ communication events that occur post-pollination to induce perianth senescence, and pollination-induced female reproductive development have been described in orchid (ONeill and Nadeau, 1997). The phytohormone auxin is essential for pollination-induced ovary growth in orchid. Signaling between the male and female gametophyte is critical in orchid because the male gametophyte must wait in the ovary for several weeks before the female gametophyte is receptive to fertilization (Zhang and ONeill, 1993). Ethylene is a secondary signal that coordinates post-pollination responses in the orchid flower and is the direct causal agent involved in perianth senescence. 
+
+
+
+Nothing is known about the nature of the primary pollen signal in Arabidopsis. However, genetic and histological analysis of silique growth in pollinated and plant growth regulator-induced siliques suggests that an auxin-like signal might be produced post-pollination (Vivian-Smith and Koltunow, 1999). The observation that significant parthenocarpic silique development was maintained by the removal of the sepal, petal and stamen organs in fwf suggests that FWF activity in carpels and siliques may be modified by long range signaling events from all or some of the surrounding floral whorls. Evidence has been provided for another long-range signal emitted by the female gametophyte that directs pollen tube growth in Arabidopsis (Hlskamp et al., 1995b) 
+
+
+
+The combination of fwf with the ovule mutation ats, relieved the requirement for surrounding floral removal and enhanced parthenocarpy. If ATS function is indeed confined to the ovule and not evident elsewhere in the carpel, then signaling between each ovule and the carpel wall might also serve to restrict silique growth, in the absence of fertilization. The potential role of the ovule in modulating silique growth, however, requires further genetic analysis between fwf and other ovule mutants where the genetic lesions are known. 
+
+
+
+A number of factors appear to play a role in the mature Arabidopsis flower to actively prevent the development of the carpel into a silique. FWF and signals from the surrounding floral whorls appears to be involved in these events. This implies that cues from pollination and fertilization might also be required to disable these restrictions so that fruit development can proceed. Post-pollination senescence of those floral organs not contributing to fruit structures might provide a means of eliminating signals restricting fruit growth in addition to increasing the allocation of nutritive resources to the developing fruit. 
+
+
+
+GRAS gene family members are involved in silique growth and the expression of parthenocarpy in tomato
+
+
+Members of the GRAS gene family in plants contain a series of conserved and variable domains (Pysh et al., 1999) and additionally contain a C-terminal SH2-like domain similar to the STAT gene family involved in signal transduction during animal and metazoan development (Peng et al., 1999). Two members of the GRAS family, SCARECROW (SCR) and SHORTROOT (SHR), have been demonstrated to play roles in the specification of asymmetric cell division, establishment of cellular patterning and in the control of transmissible growth signals in root tissues (Di Laurenzio et al., 1996; Helariutta et al., 2000).  
+
+
+
+We have shown that alterations in the function of GAI, a GRAS family member involved in GA perception, results in a block in anticlinal cell division in developing mesocarp cells in both parthenocarpic and pollination-induced siliques. The mutant gai-1 allele used in these experiments is a gain-of-function allele that acts as a constitutive repressor of GA perception. Clearly the perception of active GAs is required for anticlinal mesocarp cell division. However, it is not possible to conclude that GAI activity is directly required for division in this tissue layer because another GRAS family member, RGA could possibly substitute for GAI function in Arabidopsis (Sun, 2000). Nevertheless, the observation that mesocarp cell division is restricted in the gai-1 background is sufficient to suggest that at least one of these GRAS family members is involved in controlling asymmetric cell division during mesocarp development in Arabidopsis siliques. 
+
+
+
+GAI and RGA in Arabidopsis negatively regulate the abundance of GA 20-oxidase, which catalyzes multiple steps in GA biosynthesis (Peng et al., 1997; Silverstone et al., 1998) and has specific expression domains within flowers and siliques (Phillips et al., 1995; Sponsel et al., 1997). GA biosynthesis is essential for both pollination-induced and parthenocarpic silique growth because mutations in the GA1 gene, the product of which catalyzes the first step in GA biosynthesis, abolish silique growth (Barendse et al., 1986; Vivian-Smith and Koltunow, 1999; this study). GA1, is expressed in the vascular tissues of the carpel and also the funiculus of the ovule (Sun and Kamiya, 1994). Therefore the involvement of either of the GRAS family members GAI or RGA in silique development provides a direct feedback connection between GA signal transduction and biosynthesis to enable silique growth and differentiation. 
+
+
+
+The ats ovule mutation restored anticlinal mesocarp cell division in gai-1 ats fwf triple mutants and enhanced mesocarp cell division in the siliques of pop1 ats fwf plants. One interpretation is that ATS is a component of the GA signal transduction cascade and directly regulates GA biosynthesis and perception. Alternatively, ATS may play a role in coordinating or communicating cell division and cell specification processes in ovules and carpels similar to the GRAS members, SCR and SHR. 
+
+
+
+Another GRAS gene has been demonstrated to play a role in parthenocarpic fruit development in tomato where the pat-2 allele is known to confer parthenocarpy. Mutations in the GRAS gene, LATERAL SUPRESSOR (LS; Schumacher et al., 1999) suppress secondary meristem initiation in tomato, and ls mutants form flowers that do not initiate petal formation (Szymkowiak and Sussex, 1993). ls blocks parthenocarpic fruit development in tomato lines containing pat-2 (Philouze, 1983), implying that functional LS activity is required for the expression of parthenocarpy in this tomato genetic background. Functional partnership of alleles conferring parthenocarpy with GRAS gene family members might be required to transmit relevant growth signals and establish cell and tissue growth patterns essential for fruit development. 
+
+
+
+Is FWF involved in auxin-mediated processes?
+
+
+Several lines of evidence suggest that the fwf mutant may represent a lesion in auxin-dependent processes. Auxin is involved in a range of developmental processes in plants including vascular development, apical dominance and cell expansion (Sachs, 1991) and in long range signaling (Berleth and Sachs, 2001). A signal transduction pathway involving a range of auxin responsive genes, which are regulated at transcriptional and post-transcriptional levels, mediates cellular responses to auxin (Guilfoyle et al., 1998; Gray and Estelle, 2000). The fwf mutant exhibits increased vascular bundle development in siliques and petals, greater parthenocarpic silique growth at later floral positions and increased cell expansion in the mesocarp layer. Parthenocarpy in gai-1 fwf double mutants proceeded entirely by mesocarp cell expansion, and this form of gross mesocarp cell expansion is also observed in wild-type Arabidopsis siliques following exogenous auxin application to emasculated pistils (Vivian-Smith and Koltunow, 1999). Genetic analysis of silique growth suggests that an auxin-like signal may be produced in the Arabidopsis carpel after pollination and fertilization (Vivian-Smith and Koltunow, 1999). If this is the case, then the enhanced expansion of mesocarp cells and increased vascular bundle development observed in both fwf and gai-1 fwf siliques after pollination, compared to that during parthenocarpic development is consistent with the potential involvement of FWF in auxin-mediated events. 
+
+
+
+A model for FWF in Arabidopsis fruit development
+
+
+A model to explain the role of FWF during the transition between carpel and fruit development is shown in Fig. 6. The model also incorporates elements of GA biosynthesis and GA perception known to be essential for silique development in Arabidopsis. Prior to anthesis and fertilization, FWF primarily acts in pistil tissues to repress mesocarp expansion and vascular differentiation required for further silique development. Signals from surrounding floral whorls influence FWF activity as part of an inter-organ communication mechanism that aids in the coordination of fruit and seed set and floral abscission. Pollination and fertilization induce a range of signals including a primary auxin-like signal to stimulate vascular development and cell expansion in the mesocarp. FWF activity could be altered to enable modulation of these events. These events are independent of and are likely to precede GA biosynthesis and perception processes. In this model GA perception might act in a manner ancillary to the primary auxin-like silique differentiation signal to regulate asymmetric cell division required for silique growth and development. 
+
+
+
+
+
+
+
+
+
+
+View larger version (22K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 6. A model for the regulation of silique development in Arabidopsis by auxin- and GA-mediated signal transduction, FWF and fertilization-dependent processes. FWF* indicates areas where normal FWF activity acts to modulate these developmental processes in a repressive manner.
+
+
+
+
+
+&nbsp;
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+The Horticultural Research and Development Corporation, and an Australian Postgraduate Award to A.V.-S. supported this research. We thank Carol Horsman for illustration and laboratory assistance, Jason Walker and Prof. John Larkin for markers, Prof. Robert Fischer for ful-7 and the Arabidopsis Biological Resource Center for seed. 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Alonso, J. M., Hirayama, T., Roman, G., Nourizadeh, S. and Ecker, J. R. (1999). EIN2, a bifunctional transducer of ethylene and stress responses in Arabidopsis. Science 284, 2148-2152.[Abstract/Free Full&nbsp;Text]
+
+
+
+Barendse, G. W. M., Kepczynski, J., Karssen, C. M. and Koornneef, M. (1986). The role of endogenous gibberellins during fruit and seed development: Studies on gibberellin-deficient genotypes of Arabidopsis thaliana. Physiol. Plant. 67, 315-319.
+
+
+
+Bell, C. J. and Ecker, J. R. (1994). Assignment of 30 microsatellite loci to the linkage map of Arabidopsis. Genomics 19, 137-144.[Medline]
+
+
+
+Berleth, T. and Sachs, T. (2001). Plant morphogenesis: Long-distance coordination and local patterning. Curr. Opin. Plant. Biol. 4, 57-62.[Medline]
+
+
+
+Bowman, J. L., Baum, S. F., Eshed, Y., Putterill, J. and Alvarez, J. (1999). Molecular genetics of gynoecium development in Arabidopsis. Curr. Top. Dev. Biol. 45, 155-205.[Medline]
+
+
+
+Chaudhury, A. M., Ming, L., Miller, C., Craig, S., Dennis, E. S. and Peacock, W. J. (1997). Fertilization-independent seed development in Arabidopsis thaliana. Proc. Natl. Acad. Sci. USA 94, 4223-4228.[Abstract/Free Full&nbsp;Text]
+
+
+
+Coombe, B. G. (1975). The development of fleshy fruits. Ann. Rev. Plant Physiol. 27, 507-528.
+
+
+
+Di Laurenzio, L., Wysocka-Diller, J., Malamy, J. E., Pysh, L., Helariutta, Y., Freshour, G., Hahn, M. G., Feldmann, K. A. and Benfey, P. N. (1996). The SCARECROW gene regulates an asymmetric cell division that is essential for generating the radial organization of the Arabidopsis root. Cell 86, 423-433.[Medline]
+
+
+
+George, W. L., Scott, J. W. and Splittstoesser, W. E. (1984). Parthenocarpy in tomato. Hortic. Rev. 6, 65-84.
+
+
+
+Gillaspy, G., Ben-David, H. and Gruissem, W. (1993). Fruits: A developmental perspective. Plant Cell 5, 1439-1451.[Free Full&nbsp;Text]
+
+
+
+Gray, W. M. and Estelle, I. (2000). Function of the ubiquitin-proteasome pathway in auxin response. Trends Biochem. Sci. 25, 133-138.[Medline]
+
+
+
+Grossniklaus, U., Vielle-Calzada, J. P., Hoeppner, M. A. and Gagliano, W. B. (1998). Maternal control of embryogenesis by MEDEA, a polycomb group gene in Arabidopsis. Science 280, 446-450.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gu, Q., Ferrndiz, C., Yanofsky, M. and Martienssen, R. (1998). The FRUITFULL MADS-box gene mediates cell differentiation during Arabidopsis fruit development. Development 125, 1509-1517.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gustafson, F. G. (1939). The natural cause of parthenocarpy. Am. J. Bot. 26, 135-138.
+
+
+
+Guilfoyle, T. J., Ulmasov, T. and Hagen, G. (1998). The ARF family of transcription factors and their role in plant hormone-responsive transcription. Cell Mol. Life Sci. 54, 619-627.[Medline]
+
+
+
+Harberd, N. P., King, K. E., Carol, P., Cowling, R. J., Peng, J. and Richards, D. E. (1998). Gibberellin: inhibitor of an inhibitor of...? BioEssays 20, 1001-1008.[Medline]
+
+
+
+Helariutta, Y., Fukaki, H., Wysocka-Diller, J., Nakajima, K., Jung, J., Sena, G., Hauser, M. T. and Benfey, P. N. (2000). The SHORT-ROOT gene controls radial patterning of the Arabidopsis root through radial signaling. Cell 101, 555-567.[Medline]
+
+
+
+Hlskamp, M., Kopczak, S. D., Horejsi, T. F., Kihl, B. K. and Pruitt, R. E. (1995a). Identification of genes required for pollen-stigma recognition in Arabidopsis thaliana. Plant J. 8, 703-714.[Medline]
+
+
+
+Hlskamp, M., Schneitz, K. and Pruitt, R. E. (1995b). Genetic evidence for a long-range activity that directs pollen tube guidance in Arabidopsis. Plant Cell 7, 57-64.[Abstract/Free Full&nbsp;Text]
+
+
+
+Ito, T. and Meyerowitz, E. M. (2000). Overexpression of a gene encoding a cytochrome P450, CYP78A9, induces large and seedless fruit in Arabidopsis. Plant Cell 12, 1541-1550.[Abstract/Free Full&nbsp;Text]
+
+
+
+Jacobsen, S. E., Binkowski, K. A. and Olszewski, N. E. (1996). SPINDLY, a tetratricopeptide repeat protein involved in gibberellin signal transduction in Arabidopsis. Proc. Natl. Acad. Sci. USA 93, 9292-9296.[Abstract/Free Full&nbsp;Text]
+
+
+
+Koltunow, A. M. (1993). Apomixis: Embryo sacs and embryos formed without meiosis or fertilization in ovules. Plant Cell 5, 1425-1437.[Free Full&nbsp;Text]
+
+
+
+Konieczny, A. and Ausubel, F. M. (1993). A procedure for mapping Arabidopsis mutations using co-dominant ecotype-specific PCR-based markers. Plant J. 4, 403-410.[Medline]
+
+
+
+Koornneef, M. and Stam, P. (1992). Genetic analysis. In Methods in Arabidopsis research (ed. C. Koncz, N.-H. Chua and J. Schell), pp. 83-99. Singapore: World Scientific Publishing Co. Pte. Ltd.
+
+
+
+Koornneef, M., Hanhart, C. J. and Thiel, F. (1989). A genetic and phenotypic description of eceriferum (cer) mutants in Arabidopsis thaliana. J. Hered. 80, 118-122.
+
+
+
+Lon-Kloosterziel, K. M., Keijzer, C. J. and Koornneef, M. (1994). A seed shape mutant of Arabidopsis that is affected in integument development. Plant Cell 6, 385-392.[Abstract/Free Full&nbsp;Text]
+
+
+
+Liljegren, S. J., Ferrndiz, C., Alavarez-Buylla, E. R., Pelaz, S. and Yanofsky, M. F. (1998). Arabidopsis MADS-box genes involved in fruit dehiscence. Flowering News Letter 25, 9-19.
+
+
+
+Luo, M., Bilodeau, P., Koltunow, A., Dennis, E. S., Peacock, W. J. and Chaudhury, A. M. (1999). Genes controlling fertilization-independent seed development in Arabidopsis thaliana. Proc. Natl. Acad. Sci. USA 96, 296-301.[Abstract/Free Full&nbsp;Text]
+
+
+
+Luo, M., Bilodeau, P., Dennis, E. S., Peacock, W. J. and Chaudhury, A. (2000). Expression and parent-of-origin effects for FIS2, MEA, and FIE in the endosperm and embryo of developing Arabidopsis seeds. Proc. Natl. Acad. Sci. USA 97, 10637-10642.[Abstract/Free Full&nbsp;Text]
+
+
+
+Meinke, D. W. and Sussex, I. M. (1979). Embryo lethal mutants of Arabidopsis thaliana. A model system for genetic analysis of plant embryo development. Dev. Biol. 12, 50-61.
+
+
+
+Murashige, T. and Skoog, F. (1962). Medium for growth and bioassays with tobacco tissue cultures. Plant Physiol. 15, 473-497.
+
+
+
+Nitsch, J. P. (1952). Plant hormones in the development of fruit. Quart. Rev. Biol. 27, 33-57.
+
+
+
+Nitsch, J. P. (1970). Hormonal factors in growth and development. In The Biochemistry of Fruits and Their Products, vol. 1 (ed. A. C. Hulme), pp. 427-472. London: Academic Press.
+
+
+
+Ohad, N., Margossian, L., Hsu, Y.-C., Williams, C., Repetti, P. and Fischer, R. L. (1996). A mutation that allows endosperm development without fertilization. Proc. Natl. Acad. Sci. USA 93, 5319-5324.[Abstract/Free Full&nbsp;Text]
+
+
+
+Ohad, N., Yadegari, R., Margossian, L., Hannon, M., Michaeli, D., Harada, J. J., Goldberg, R. B. and Fischer, R. L. (1999). Mutations in FIE, a WD polycomb group gene, allow endosperm development without fertilization. Plant Cell 11, 407-416.[Abstract/Free Full&nbsp;Text]
+
+
+
+ONeill, S. D. (1997). Pollination regulation of flower development. Annu. Rev. Plant Physiol. Plant Mol. Biol. 48, 547-574.
+
+
+
+ONeill, S. D. and Nadeau, J. A. (1997). Post-pollination flower development. Hortic. Rev. 19, 1-58.
+
+
+
+Peng, J., Carol, P., Richards, D. E., King, K. E., Cowling, R. J., Murphy, G. P. and Harberd, N. P. (1997). The Arabidopsis GAI gene defines a signaling pathway that negatively regulates gibberellin responses. Genes Dev. 11, 3194-3205.[Abstract/Free Full&nbsp;Text]
+
+
+
+Peng, J., Richards, D. E., Hartley, N. M., Murphy, G. P., Devos, K. M., Flintham, J. E., Beales, J., Fish, L. J., Worland, A. J., Pelica, F. et al. (1999). Green revolution genes encode mutant gibberellin response modulators. Nature 400, 256-261.[Medline]
+
+
+
+Phillips, A. L., Ward, D. A., Uknes, S., Appleford, N. E., Lange, T., Huttly, A. K., Gaskin, P., Graebe, J. E. and Hedden, P. (1995). Isolation and expression of three gibberellin 20-oxidase cDNA clones from Arabidopsis. Plant Physiol. 108, 1049-1057.[Abstract/Free Full&nbsp;Text]
+
+
+
+Philouze, J. (1983). Epistatic relations between ls and pat-2. Tomato Genetics Cooperative Report 33, 9-12.
+
+
+
+Pysh, L. D., Wysocka-Diller, J. W., Camilleri, C., Bouchez, D. and Benfey, P. N. (1999). The GRAS gene family in Arabidopsis: Sequence characterization and basic expression analysis of the SCARECROW-LIKE genes. Plant J. 18, 111-119.[Medline]
+
+
+
+Rhee, S. Y., Weng, S., Flanders, D., Cherry, J. M., Dean, C., Lister, C., Anderson, M., Koornneef, M., Meinke, D. W., Nickle, T., Smith, K. and Rounsley, S. D. (1998). Genome maps 9. Arabidopsis thaliana. Wall chart. Science 282, 663-667.[Free Full&nbsp;Text]
+
+
+
+Rotino, G. L., Perri, E., Zottini, M., Sommer, H. and Spena, A. (1997). Genetic engineering of parthenocarpic plants. Nat. Biotechnol. 15, 1398-1401.[Medline]
+
+
+
+Sachs, T. (1991). Pattern formation in plant tissues: developmental and cell biology. Development Supplement 1, 833-893.
+
+
+
+Schneitz, K., Hlskamp, M. and Pruitt, R. E. (1995). Wild-type ovule development in Arabidopsis thaliana: A light microscope study of cleared whole-mount tissue. Plant J. 7, 731-749.
+
+
+
+Schumacher, K., Schmitt, T., Rossberg, M., Schmitz, G. and Theres, K. (1999). The LATERAL SUPPRESSOR (LS) gene of tomato encodes a new member of the VHIID protein family. Proc. Natl. Acad. Sci. USA 96, 290-295.[Abstract/Free Full&nbsp;Text]
+
+
+
+Schwabe, W. W. and Mills, J. J. (1981). Hormones and parthenocarpic fruit set: A literature survey. Hortic. Abst. 51, 661-699.
+
+
+
+Silverstone, A. L., Ciampaglio, C. N. and Sun, T.-P. (1998). The Arabidopsis RGA gene encodes a transcriptional regulator repressing the gibberellin signal transduction pathway. Plant Cell 10, 155-169.[Abstract/Free Full&nbsp;Text]
+
+
+
+Silverstone, A. L., Mak, P. Y. A., Martnez, E. C. and Sun, T.-P. (1997). The new RGA locus encodes a negative regulator of gibberellin response in Arabidopsis thaliana. Genetics 146, 1087-1099.[Abstract/Free Full&nbsp;Text]
+
+
+
+Spillane, C., MacDougall, C., Stock, C., Kohler, C., Vielle-Calzada, J., Nunes, S. M., Grossniklaus, U. and Goodrich, J. (2000). Interaction of the Arabidopsis polycomb group proteins FIE and MEA mediates their common phenotypes. Curr. Biol. 10, 1535-1538.[Medline]
+
+
+
+Sponsel, V. M., Schmidt, F. W., Porter, S. G., Nakayama, M., Kohlstruk, S. and Estelle, M. (1997). Characterization of new gibberellin-responsive semidwarf mutants of Arabidopsis. Plant Physiol. 115, 1009-1020.[Abstract/Free Full&nbsp;Text]
+
+
+
+Sun, T.-P. (2000). Gibberellin signal transduction. Curr. Opin. Plant. Biol. 3, 374-380.[Medline]
+
+
+
+Sun, T.-P. and Kamiya, Y. (1994). The Arabidopsis GA1 locus encodes the cyclase ent-kaurene synthetase A of gibberellin biosynthesis. Plant Cell 6, 1509-1518.[Abstract/Free Full&nbsp;Text]
+
+
+
+Sykes, S. R. and Lewis, S. (1996). Comparing Imperial mandarin and Silverhill satsuma mandarin as seed parents in a breeding program aimed at developing new seedless citrus cultivars for Australia. Aust. J. Exp. Agric. 36, 731-738.
+
+
+
+Szymkowiak, E. J. and Sussex, I. M. (1993). Effect of lateral suppressor on petal initiation in tomato. Plant J. 4, 1-7.[Medline]
+
+
+
+Vivian-Smith, A. and Koltunow, A. M. (1999). Genetic analysis of growth-regulator-induced parthenocarpy in Arabidopsis. Plant Physiol. 121, 437-452.[Abstract/Free Full&nbsp;Text]
+
+
+
+Zhang, X. S. and ONeill, S. D. (1993). Ovary and gametophyte development are coordinately regulated by auxin and ethylene following pollination. Plant Cell 5, 403-418.[Abstract/Free Full&nbsp;Text]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

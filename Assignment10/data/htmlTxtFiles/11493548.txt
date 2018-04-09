@@ -1,0 +1,855 @@
+
+
+Hierarchical coupling of phytochromes and cryptochromes reconciles stability and light modulation of Arabidopsis development
+
+
+
+Mara Agustina Mazzella1, 
+Pablo D. Cerdn2,, 
+Roberto J. Staneloni2 and 
+Jorge J. Casal1,*
+
+
+
+
+1 IFEVA, Facultad de Agronoma, Universidad de Buenos Aires, Avenida San Martn 4453, 1417-Buenos Aires, Argentina
+
+2 Instituto de Investigaciones Bioqumicas Fundacin Campomar, Avenida Patricias Argentinas 435, 1405-Buenos Aires, Argentina
+
+ Present address: The Salk Institute for Biological Studies, La Jolla, California, 92037, USA
+
+
+
+
+*Author for correspondence (e-mail: casal{at}ifeva.edu.ar)
+
+
+
+
+
+Accepted March 27, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+In plants, development is a continuing process that takes place under strong fluctuations of the light environment. Here we show that in Arabidopsis thaliana plants grown under intense white light, coupling of the photoreceptor cryptochrome 2 to developmental processes is broader than previously appreciated. Compared to the wild type, the cry2 mutant showed reduced activity of a Lhcb1*2 promoter fused to a reporter, and delayed flowering. The cry2 mutation also reduced the inhibition of hypocotyl growth, the unfolding of the cotyledons, the rate of leaf production during the vegetative phase, and the pace of development after transition to the reproductive stage; but these effects were obvious only in the absence of cryptochrome 1 and in some cases phytochrome A and/or phytochrome B. Complementary, the cry2 mutation uncovered novel roles for cryptochrome 1 and phytochrome A. The activity of the Lhcb1*2 promoter was higher in the cry1 cry2 mutant than in the cry2 mutant, suggesting that cry1 could be involved in blue-light repression of photosynthetic genes. Surprisingly, the phyA cry1 cry2 triple mutant flowered earlier and showed better response to photoperiod than the cry1 cry2 double mutant, indicating that phyA is involved in light repression of flowering. Growth and development were severely impaired in the quadruple phyA phyB cry1 cry2 mutant. We propose that stability and light modulation of development are achieved by simultaneous coupling of phytochrome A, phytochrome B, cryptochrome 1 and cryptochrome 2 to developmental processes, in combination with context-dependent hierarchy of their relative activities. 
+
+
+
+
+
+
+
+Key words: Arabidopsis thaliana, Canalisation, Cryptochromes, Flowering, Lhc, Phytochromes
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+In animals and bacteria, light has strong effects on behaviour and movement and relatively modest effects on development (e.g. Rozenboim et al., 1999). In plants, organogenesis continues after embryogenesis and development is exposed to the important fluctuations of the light environment that as sessile organisms they have to face. Some of these fluctuations (e.g. spectral composition, photoperiod) perceived by phytochromes and cryptochromes are used by plants to adjust their growth and development to the prevailing conditions. How plants reconcile developmental stability with light-mediated adjustment to the environment is currently unknown. 
+
+
+
+Arabidopsis thaliana has five phytochromes (phyA through phyE; Quail et al., 1995). Phytochromes are red light/far-red light photoreceptors that are present in the cytoplasm in the inactive form and migrate to the nucleus upon activation by light (Gil et al., 2000; Sakamoto and Nagatani, 1996). In the nucleus, phytochrome interacts with DNA-binding proteins (Ni et al., 1999). Active phytochrome present in the cytoplasm phosphorylates protein substrates (Fankhauser et al., 1999). Both in the cytoplasm and in the nucleus, phytochromes may interact with nucleoside diphosphate kinase 2 (Choi et al., 1999). 
+
+
+
+Two cryptochromes (cry1 and cry2) are present as blue-UV-A photoreceptors in Arabidopsis thaliana (Cashmore et al., 1999). cry2, and at least in darkness cry1, localise to the nucleus (Cashmore et al., 1999; Guo et al., 1999; Kleiner et al., 1999). Cryptochromes are not exclusive to plants. They are also involved as photoreceptors in the input to circadian clocks in Drosophila (Emery et al., 2000), and as components of both the central clock and the photoperception mechanisms in mammals (Selby et al., 2000). Cryptochromes show considerable homology to photolyases but possess a unique C-terminal extension and lack photolyase activity. The mechanisms of action are only beginning to be understood (Yang et al., 2000). 
+
+
+
+The CRY2 gene was isolated by cross-hybridisation with CRY1 cDNA as the probe (Lin et al., 1996). CRY1 had been cloned from a T-DNA mutant with impaired hypocotyl growth inhibition by blue light (Ahmad and Cashmore, 1993), and is allelic to the previously known hy4 mutant (Koornneef et al., 1980). Transgenic plants overexpressing the CRY2 gene were found to be hypersensitive to very low fluence rates of blue light and this observation was used to design a screening for plants lacking the cry2 photoreceptor (Lin et al., 1998). The cry2 mutants showed reduced hypocotyl growth and cotyledon unfolding only at low fluence rates of continuous blue light (Lin et al., 1998) and flowered later than the wild type (Guo et al., 1998). Arabidopsis plants flower earlier under long photoperiods than they do under short photoperiods (Martinez-Zapater and Somervile, 1990) but the cry2 mutant shows a severe loss of response to photoperiod (Guo et al., 1998). cry2 is allelic to fha (Guo et al., 1998) a late-flowering mutant previously isolated by Koornneef et al. (Koornneef et al., 1991). 
+
+
+
+Genetic experiments have demonstrated that the effects mediated by a given photoreceptor can be strongly affected by the activity of the others (reviewed by Casal, 2000). These interactions depended on light, temperature and developmental stage (Casal and Mazzella, 1998; Cerdn et al., 1999; Mazzella et al., 2000). cry2 has been shown to interact with phyB in the regulation of the transition between vegetative and reproductive stages (Mockler et al., 1999). Using fluorescent resonance energy transfer microscopy, phyB and cry2 have recently been shown to interact in specific nuclear speckles that are formed in a light-dependent manner (Ms et al., 2000). However, cry2 interactions with other photoreceptors and at other developmental stages have not been documented. We have recently observed that the phyA phyB cry1 cry2 quadruple mutant is severely impaired during de-etiolation but retains a robust circadian rhythm of leaf movement that can be synchronised by light (Yanovsky et al., 2000). The aim of the present work was to investigate how severely growth and development could be affected by the absence of the four most important photoreceptors, and to elucidate the role of cry2 and its interaction with phyA, phyB and cry1. For this propose, growth and development were investigated in phyA, phyB, cry1 and cry2 single mutants and all double, triple and quadruple mutant combinations. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Plant strains
+
+
+The wild-type Arabidopsis thaliana and all photoreceptor mutants were in the Landsberg erecta background. The single null mutants were phyA (phyA-201; Nagatani et al., 1993), phyB (phyB-5; Reed et al., 1993), cry1 (hy4-1; Ahmad and Cashmore, 1993; Koornneef et al., 1980) and cry2 (fha-1; Guo et al., 1998; Koornneef et al., 1991). Double and triple mutants between phyA, phyB and cry1 were, phyA-201 phyB-1, phyA-201 cry1-1; phyB-5 cry1-1 and phyA-201 phyB-1 cry1-1 (Casal and Mazzella, 1998; Mazzella et al., 1997). All the alleles used here are predicted to be null. The double, triple and quadruple (Yanovsky et al., 2000) mutant combinations with cry2 were obtained by crossing the phyA-201 phyB-5 cry1-1 triple mutant with the monogenic cry2 (fha-1) mutant. Seedlings from the F2 generation carrying the cry2 mutation were isolated using a PCR-based test. The genotype for phyA, phyB and cry1 mutations was tested in the successive generations based on their photomorphogenic behaviour under far-red, red or blue light, respectively (Casal and Mazzella, 1998). Putative multiple mutants were then tested both by PCR reactions and phenotype under restricted light fields. The phyA-201, phyB-5 and cry1-1 mutations were identified according to the descriptions of Neff and Chory (Neff and Chory, 1998). The cry2 (fha-1) mutation creates a dCAPS marker. PCR products using the primers 5' GACTATAGTTTGGTTTAGAAGAGACCTAA 3' and 5' GATTGAGATAAGTGAGCAAGTGATTGTTTCATGCA 3' were resolved on a 2.5% agarose gel after digestion with restriction endonuclease Nsi1. 
+
+
+
+Transgenic plants of Arabidopsis thaliana ecotype Landsberg erecta carrying the promoter of the light harvesting complex gene Lhcb1*2 from Nicotiana plumbaginifolia (from 752 to +67) fused to the gusA gene have been described previously (Cerdn et al., 1999). This line was used to introgress the transgene in the cry1, cry2, cry1 cry2, phyA phyB, phyA phyB cry1 and phyA phyB cry2 backgrounds described above by crosses followed by screenings under restricted light fields, PCR tests and kanamycin resistance. 
+
+
+
+Hypocotyl growth and cotyledon unfolding
+
+
+Seeds of each genotype were sown on 0.8% (w/v) agar in clear plastic boxes (40 mm x 33 mm x 15 mm height), incubated at 6C for 3 days and transferred to white light provided by high pressure sodium lamps (Philips SON; 300 mol/m2/second between 400 and 700 nm) for 7 days before measurements. Photoperiod was 16 hours and temperature 20C. A group of chilled seeds was given only a pulse of red light and transferred to darkness for 7 days. These seedlings were used as dark controls to ensure that differences among genotypes were due to differential responses to light. Hypocotyl length was measured to the nearest 0.5 mm with a ruler. The angle between the cotyledons was recorded with a protractor. 
+
+
+
+Lhcb1*2 gene expression and chlorophyll levels in de-etiolating seedlings
+
+
+Approximately 100 seeds were sown in the clear plastic boxes and incubated in darkness at 6C as described above. Chilled seeds were given a pulse of red light, incubated 24 hours in darkness and transferred to continuous white light (400 mol/m2/second 20C) or darkness for 24, 48 or 72 hours before harvest. In some experiments, the blue light component (100 mol/m2/second) of the light field was eliminated by placing a combination of one yellow and one orange acetate filter (for spectra see Casal and Boccalandro, 1995).  
+
+
+
+For the measurements of -glucuronidase (GUS) activity, the seedlings were harvested under dim green light, homogenized in 50 l ice-cooled extraction buffer, and microcentrifuged at 4C. The supernatant was stored at -80C (usually for less than a week). GUS activity was measured according to the method of Jefferson et al. (Jefferson et al., 1987) using 4-methylumbelliferyl--D-glucuronide (from Sigma, St Louis) as substrate. The standard curves were prepared with 4-methylumbelliferone (4-MU from Sigma, St Louis). Protein content was measured as described previously (Lowry et al., 1951). 
+
+
+
+For comparative purposes chlorophyll levels were measured in separate sets of seedlings grown under the same conditions. The seedlings were harvested in 1 ml of N,N'-dimethylformamide and incubated in darkness at 20C for at least 3 days. Absorbance was measured at 647 and 664 nm, and chlorophyll levels were calculated according to the method of Moran (Moran, 1982).  
+
+
+
+Leaf production and flowering
+
+
+To investigate later developmental stages, the seedlings were left for 3 days on agar under white light, and were subsequently transplanted to plastic pots (7 cm height x 4 cm diameter) filled with a mixture of soil and perlite (3/1). Plants were exposed to long days (photoperiod=16 hours). In some experiments, plants were exposed either to short days (photoperiod=7 hours) or to short days, between day 0 and 21, followed by 5 long days and returned to short days. All experiments were conducted at 20C. 
+
+
+
+The number of visible leaves (i.e. leaves larger than 2 mm) was recorded every other day (in most experiments) and the final number of leaves (rosette plus stem leaves) was used as a measurement of flowering time on a biological scale (Koornneef et al., 1991). The time when the first flower bud became externally visible to the naked eye and the time of anthesis of the first flower were recorded for each plant. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Hypocotyl growth and cotyledon unfolding
+
+
+Wild-type seedlings grown under white light displayed photomorphogenic development, including reduced hypocotyl growth and unfolded cotyledons (Fig. 1). Compared to the wild type, final hypocotyl length was not significantly affected in the phyA single mutant (P&gt;0.1; Whitelam et al., 1993) and was enhanced in the phyB and cry1 single mutants (P&lt;0.05; Koornneef et al., 1980; Reed et al., 1993; Ahmad and Cashmore, 1993). The cry2 mutant was similar to the wild type (P&gt;0.1) and this is consistent with previous results showing that cry2 has long hypocotyls only under very low fluences of blue light (Lin et al., 1998). Although the cry2 mutant was not taller than the wild type, the cry1 cry2 double mutant was significantly taller than the cry1 monogenic mutant (hypocotyl length, mm,s.e.m., wild type=1.000.10, cry2=0.870.06, P&gt;0.1; cry1=1.70.07, cry1 cry2=2.30.07, P&lt;0.0001) This effect of cry2, however, was no longer detectable in the phyA and/or phyB backgrounds (P &gt;0.1, Fig. 1). Thus, for hypocotyl growth inhibition under photoperiods of high-irradiance white light, cry2 was redundant with cry1 but dependent on phyA and phyB. In contrast, hypocotyl growth inhibition by cry1 depends exclusively on phyB and this dependency is observed only under suboptimal light inputs (Casal and Boccalandro, 1995; Casal and Mazzella, 1998).  
+
+
+
+
+
+
+
+
+
+
+View larger version (14K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. cry2 affects de-etiolation under high fluence rates of white light. Seedlings of the wild type and of the phyA, phyB, cry1 and cry2 single, double, triple and quadruple mutant combinations were grown in darkness (D) or under white light photoperiods (WL) for 7 days. No significant differences in morphology among genotypes were observed for dark controls (for this reason only the wild type is shown). The figure is based on the analysis of 10 replicate boxes (100 seedlings) per genotype. The only statistically significant effect of the cry2 mutation on hypocotyl growth was in the PHYA PHYB cry1 background. The insets show (from left to right) the cotyledons in the wild type, phyA phyB cry1 and phyA phyB cry1 cry2 seedlings.
+
+
+
+
+
+&nbsp;
+
+
+
+Seven days after sowing, the wild type, all single and double mutants and the phyA phyB cry2, phyA cry1 cry2 and phyB cry1 cry2 triple mutants displayed fully unfolded cotyledons (angle between cotyledons 1800) and the phyA phyB cry1 triple mutant displayed almost completely unfolded cotyledons (15029). The cotyledons of the phyA phyB cry1 cry2 quadruple mutant remained almost completely closed (62). The cotyledons of all dark controls remained closed (00). In other words, in the absence of phyA, phyB and cry1 (comparison between the phyA phyB cry1 cry2 quadruple mutant and the phyA phyB cry1 triple mutant), cry2 was able to mediate cotyledon unfolding (P&lt;0.05; Fig, 1). Thus, for cotyledon unfolding cry2 was redundant with phyA, phyB and cry1. 
+
+
+
+Lhcb1*2-gusA expression during de-etiolation
+
+
+In the wild type, continuous white light caused a dramatic promotion of GUS activity driven by the promoter of the tobacco Lhcb1*2 gene (Fig. 2A). Over the same time frame used for light-grown seedlings, in dark controls, relative GUS activity was at most 0.01 (data not shown). In the presence of phyA and phyB, the cry1 mutation caused only a transient reduction of GUS activity (P&lt;0.01, for 1 and 2 days of treatment; Fig. 2A) that was no longer detectable after 3 days under continuous white light. The cry2 mutation caused a more severe reduction of GUS activity (P&lt;0.0001) (Fig. 2A). The effects of these mutations were not additive as the double mutant behaved initially like the cry2 single mutant and, after prolonged exposure to white light (day 3), showed stronger GUS activity than the cry2 single mutant (P&lt;0.05; Fig. 2A). 
+
+
+
+
+
+
+
+
+
+
+View larger version (19K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. cry1 and cry2 control GUS activity driven by a Lhcb1*2 gene promoter. One-day-old seedlings of the wild type and of the cry1, cry2, cry1 cry2, phyA phyB, phyA phyB cry1 and phyA phyB cry2 mutants, were exposed to continuous white light for 1, 2 or 3 days before harvest (A), or to orange light or white light for 3 days (B). GUS activity is expressed relative to the wild type, day 3 under white light. In dark controls GUS activities were below 0.01. Data are mean and s.e.m. of 6 (A) or 9 (B) replicates.
+
+
+
+
+
+&nbsp;
+
+
+
+The phyA phyB double mutant retained only partial response to white light. This residual effect was fully abolished in the phyA phyB cry1 triple mutant (P&lt;0.0001) and reduced in the phyA phyB cry2 triple mutant (P&lt;0.01; Fig. 2A). Chlorophyll content was in average 0.090.0009 g per seedling in all the genotypes used in Fig. 2 with the exeption of the phyA phyB cry1 triple mutant that showed only 0.010.004 g per seedling. In other words reduced GUS activities correlated with reduced chlorophyll levels only in phyA phyB cry1. 
+
+
+
+Since dark controls show very low levels of GUS driven by the Lhcb1*2 promoter, the seedlings were grown under white light minus blue light to investigate whether the effects of cry1 and cry2 were either constitutive or dependent on blue light. The cry1, cry2 and cry1 cry2 mutants showed normal levels of GUS activity (P&gt;0.1) and all the mutants in the phyA phyB background showed negligible GUS activity under orange light (i.e. white light minus blue light; Fig. 2B). It is noteworthy that in the presence of phyA and phyB, blue light did not increase GUS activity in the wild type, rather, it decreased GUS activity in the cry2 background (P&lt;0.0001). In the absence of phyA and phyB, blue light perceived primarily by cry1 increased GUS activity (P&lt;0.0001). 
+
+
+
+The rate of leaf appearance
+
+
+The number of leaves observed at a given time depends on the rate at which the leaves are produced in the apex during the vegetative phase, the transition of the apex between the vegetative and reproductive stages (that results in the cessation of leaf production), and the early growth of the leaf primordium. The only single mutation that reduced the rate of leaf appearance in vegetative plants was phyB (wild type=0.570.03 leaves/day, phyB=0.310.09 leaves/day; Fig. 3). In the quadruple mutant the first true leaves (i.e. the leaves after the cotyledons) were detected 10 days later than in the wild type. Following this initial delay, which is consistent with the impaired de-etiolation in the quadruple mutant (see Fig. 1), the rate of leaf appearance remained lower in the phyA phyB cry1 cry2 quadruple mutant than in the wild type or even than in the phyB mutant (Fig. 3). These observations indicate that the consequences of deficient light perception on vegetative development are not restricted to de-etiolation but continue beyond this stage (see also Fig. 4A). 
+
+
+
+
+
+
+
+
+
+
+View larger version (16K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. Time course of leaf production in the wild type, and the phyB and phyA phyB cry1 cry2 mutants. Data are means and s.e.m. of 6 plants.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (93K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. Defective development of the quadruple phyA phyB cry1 cry2 mutant of Arabidopsis thaliana. (A) The wild type and the quadruple mutant 3 weeks after sowing. (B) The quadruple mutant 10 weeks after sowing. A 4-week-old wild type is displayed to illustrate the divergent morphology because 10 weeks after sowing the wild type had completed the cycle and fully senesced. (C) Defective development of early siliques (arrow) in the quadruple mutant. A normal wild type silique is shown for comparison.
+
+
+
+
+
+&nbsp;
+
+
+
+The wild type and the phyA, cry1, cry2, single mutants and their double and triple mutant combinations had 8.90.2 leaves after 22 days of vegetative development. The phyB, phyB cry1 and phyB cry2 mutants had 5.80.2 leaves. The phyA phyB and phyA phyB cry2 mutants had 3.80.3 leaves. The phyB cry1 cry2 mutant 2.30.3; the phyA phyB cry1 mutant 10.5, and the quadruple mutant 00, leaves. Thus, the phyA mutation was detrimental in the phyB background (P&lt;0.0001), the cry1 mutation reduced leaf production in the phyA phyB (P&lt;0.001) or phyB cry2 (P&lt;0.0001) backgrounds, and the cry2 mutation was effective in the phyB cry1 (P&lt;0.01) background. 
+
+
+
+The final number of leaves
+
+
+Compared to the wild type, the cry2 mutation increased the final number of leaves per plant (P&lt;0.0001) (Fig. 5A), indicating delayed transition between the vegetative and the reproductive phase under long days (Guo et al., 1998). Interestingly, under our conditions the cry1 mutation also increased leaf number (P&lt;0.05) and the cry1 cry2 double mutant showed the additive effects of both mutations. Delayed flowering for cry1 had been observed in the Columbia but not in the Landsberg erecta background (Bagnall et al., 1996; Mockler et al., 1999). The phyB mutation reduced the final number of leaves, indicating an earlier transition between the vegetative and reproductive phase expressed in a biological scale (P&lt;0.0001) (Fig. 5A) (see also Goto et al., 1991). The phyB mutation was epistatic to cry2 (Mockler et al., 1999) and to cry1. All the mutant combinations carrying the phyB allele, including the quadruple mutant, produced 7-8 leaves (P&gt;0.1; Fig. 5A). This indicates that large differences in leaf appearance rate did not result in differences in the final number of leaves. All the mutant combinations carrying the phyB allele produced 110.3 leaves under long as well as short days in glasshouse conditions. The phyA mutation had been shown to delay flowering in Arabidopsis plants grown under short days extended with low intensities of incandescent light, which is comparatively rich in far-red light (Johnson et al., 1994). In the conditions of present experiments, however, the phyA mutant produced the same number of leaves than the wild type and the phyA mutation caused a small but statistically significant (P&lt;0.0001) reduction in final leaf number in the background of cry1 (comparison between the phyA cry1 and cry1 mutants), cry2 (comparison between the phyA cry2 and cry2 mutants), and cry1 cry2 (comparison between the phyA cry1 cry2 and cry1 cry2 mutants) (Fig. 5A,C). This effect of the phyA mutation was observed in independently segregating lines of phyA cry2 and phyA cry1 cry2 (data not shown). Thus, the delay in flowering observed in the cry1 and cry2 mutants was reduced not only by the phyB but also by the phyA mutation. 
+
+
+
+
+
+
+
+
+
+
+View larger version (28K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Transition between vegetative and reproductive phases in the wild type and in the phyA, phyB, cry1 and cry2 single, double, triple and quadruple mutant combinations. (A) The total number of leaves (rosette plus stem) indicates the point of transition in a developmental scale. (B) The time to first visible flower bud provides an indication of the transition in a chronological scale. (C) The phyA mutation accelerates flowering in the cry2 background. Data are means and s.e.m. of 10-17 plants.
+
+
+
+
+
+&nbsp;
+
+
+
+The unexpected impact of the phyA mutation was more obvious in seedlings grown under short (non inductive) photoperiods for 21 days, transferred to long (inductive) photoperiods for 5 consecutive days, and returned to short days for the rest of the cycle. Compared to the controls that remained under short days, 5 long days reduced the number of leaves (accelerated flowering) in the wild type and phyA mutant (P&lt;0.0001) (Fig. 6). The effects of 5 long days were reduced or null in the cry1, cry2 and cry1 cry2 mutants (P&lt;0.0001). Interestingly, the phyA mutation partially restored the response to long days in the cry1, cry2 and cry1 cry2 backgrounds (P&lt;0.001; Fig. 6). 
+
+
+
+
+
+
+
+
+
+
+View larger version (22K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 6. Response to long (inductive) photoperiods in wild-type seedlings and phyA, cry1 and cry2 single, double and triple mutant combinations. The seedlings were grown under short photoperiods for 21 days, transferred to long photoperiods for 5 days and returned to short days for the rest of the cycle. Control seedlings remained under short days. Data are means and s.e.m. of 7 plants.
+
+
+
+
+
+&nbsp;
+
+
+
+Time to first visible bud
+
+
+The time to first visible flower buds only partially followed the patterns of the final leaf number. Although both variables depend on the transition between the vegetative and the reproductive phase, the chronological scale is affected by general delays in development. The cry2 mutation delayed the appearance of first visible flower buds (P&lt;0.0001) but no significant differences were observed between wild type and cry1 mutant seedlings (P&gt;0.1; Fig. 5B). Flower buds were not detected earlier in the phyB mutant than in the wild type (P&gt;0.1; Fig. 5B) and this could reflect a balance between the transition to the reproductive stage at an earlier biological scale (Fig. 5A), but a delayed development (indicated by the reduced rate of leaf appearance, Fig. 3). As observed for the final leaf number, the phyB mutation was epistatic to cry2, and the phyA mutation was partially epistatic to cry2. In other words, the delay observed in the cry2 mutant required phyB and to a lesser extent phyA. However, the delay caused by the cry2 mutation re-appeared in the double mutant backgrounds and was very strong in the phyA phyB cry1 triple mutant background (note that flower buds were visible in the quadruple mutant 20 days later than in any other genotype) (P&lt;0.0001). This mixed pattern of dependence and redundancy could be accounted for by the fact that time to first visible bud is a complex trait that derives from the time of transition between vegetative and reproductive stages (where cry2 activity depends on phyB and phyA, Fig. 5A) and overall developmental rate (where cry2 is redundant with the other photoreceptors). 
+
+
+
+Time between first visible bud and anthesis
+
+
+The time between the appearance of first visible bud and anthesis was analysed as a measure of the pace of development after the transition to the reproductive stage. This period was extended in the triple mutants bearing the phyB allele (i.e. phyA phyB cry1, phyA phyB cry2, phyB cry1 cry2) and in the phyA phyB cry1 cry2 quadruple mutant (P&lt;0.0001) (Fig. 7). Compared to the wild type, the cry2 mutant showed delayed flowering (Fig. 5A,B), but was not affected in the time between first visible bud and anthesis (P&gt;0.1). However, the effects of the cry2 mutation became evident in the comparison between phyA phyB and phyA phyB cry2 (P&lt;0.0001) (Fig. 7) as well as between phyB cry1 and phyB cry1 cry2 (P&lt;0.0001) (Fig. 7), indicating redundancy of cry2 with phyA, phyB and cry1. 
+
+
+
+
+
+
+
+
+
+
+View larger version (37K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 7. Time between the first visible flower bud and anthesis in the wild type and the phyA, phyB, cry1 and cry2 single, double, triple and quadruple mutant combinations. Data are means and s.e.m. of 10-17 plants.
+
+
+
+
+
+&nbsp;
+
+
+
+The adult phenotype of the phyA phyB cry1 cry2 quadruple mutant
+
+
+The phyB mutation increased the final length of the stem but the quadruple phyA phyB cry1 cry2 mutant was not taller than the wild type and approx. 30% shorter than the phyA phyB cry1 triple mutant (P&lt;0.05). The stem had reduced self-supporting capacity and the shoot failed to exhibit the erect position typical of Landsberg erecta background (Fig. 4B). The quadruple mutant did not produce basal ramifications but branched at high leaf positions. Very often the main shoot partially senesced while the ramification continued to grow (Fig. 4B). In the quadruple mutant the first siliques of the plant aborted (Fig. 4C) but subsequent fruits developed to almost normal appearance. The reduced number of ramifications and the failure of early fruits to develop caused reduced seed production. Senescence of the quadruple mutant plants was severely delayed compared to the wild type. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Arabidopsis development without phyA, phyB, cry1 and cry2
+
+
+The quadruple phyA phyB cry1 cry2 mutant has no obvious long-term defects in circadian rhythmicity (Yanovsky et al., 2000) but it is severely impaired in growth and development: the hypocotyls show virtually no difference with dark controls (Fig. 1); the cotyledons unfold late and only partially (Fig. 1); the plants do not form normal rosettes (Fig. 4A); the production of leaves is delayed and continues at a low rate (Fig. 3); normal branching at the base of the plant is not observed but instead a reduced number of ramifications appears at higher positions (Fig. 4B); the transition between vegetative and reproductive development takes place early on a developmental scale (Fig. 5A) but very late on a chronological scale (Fig. 5B); the stem is thin and bends on the soil surface (Fig. 4B); early fruits fail to develop (Fig. 4C) and the whole life cycle is significantly extended. Plants grown in darkness in a medium providing sugars develop profound morphological alterations (Roldan et al., 1999) that are caused by the lack of activity of photosynthetic and photomorphogenic pigments. These results underscore the contribution of phyA, phyB, cry1 and cry2. 
+
+
+
+Hierarchy of cry1 and cry2
+
+
+Both cry1 and cry2 play recurring roles during Arabidopsis development. Of particular significance are the effects on the activity of the Lhcb1*2 promoter as the expression of Lhc genes was thought to be under the control of phytochromes but not cryptochromes (Anderson et al., 1999; Gao and Kaufman, 1994). Our results, however, are in keeping with recent observations that the C terminus of CRY1 is able to confer Lhc expression in darkness (Yang et al., 2000). Although the tobacco Lhcb1*2 promoter used here and the Arabidopsis Lhcb1*2 promoter conserve regions critical for light regulation (including CAAT and GATA boxes, the binding site for CCA1, etc) at similar positions, differential regulation of the tobacco and endogenous Lhcb1*2 promoters cannot be ruled out with available information. The hierarchy of the relative impact of cry1 and cry2 mutations was strongly dependent on developmental context. Whereas cry1 dominated over cry2 in hypocotyl growth and cotyledon unfolding, the complementary pattern was observed for the transition to the reproductive stage (Figs 5, 6; see also Mockler et al., 1999). For the expression of Lhcb1*2-gusA the effect of the cry2 mutation was stronger than that of the cry1 mutation in the PHYA PHYB background but the opposite was true in the phyA phyB background (Fig. 2A). Actually, the comparison between cry2 and cry1 cry2 mutants (Fig. 2) suggests that cry1 could be involved in the inhibition of expression of photosynthetic genes by strong light. Context specificity of homologous receptors is not uncommon and has been observed in other systems. For instance, frizzled receptors in Drosophila are redundant in the control of the pattering of the embryonic nervous system, with a higher effect of frizzled 2 than frizzled 1. However, only frizzled 1 is required for normal epithelial planar polarity (Boutros et al., 2000). cry1 and cry2 show differences in intracellular localisation, protein stability and apparent signalling capacity of their C terminus (Cashmore et al., 1999; Guo et al., 1998; Guo et al., 1999; Kleiner et al., 1999; Yang et al., 2000). The interplay between these differences and the developmental contexts could bring about the observed variation in cry1/cry2 hierarchy. 
+
+
+
+phyA can delay flowering
+
+
+Under long days cry2 has been proposed to counteract the delay in flowering caused by phyB because the cry2 mutation delays flowering in the presence of active phyB (Guo et al., 1998; Mockler et al., 1999). The analysis of novel mutant combinations presented here indicates that the effects of cry2 on the final number of leaves (a measure of the transition between vegetative and reproductive development on a biological scale) were reduced not only by the phyB mutation but also by the phyA mutation (Fig. 5A). In other words, although the phyA mutation has previously been shown to delay flowering in plants grown under short days extended with low fluences of light rich in far-red (Johnson et al., 1994) (and we have observed the same phenomenon in unreported experiments), the phyA mutation caused acceleration of flowering in the cry2, cry1 and cry1 cry2 backgrounds (Figs 5A, 6). In addition, although the cry1 cry2 double mutant virtually failed to show a flowering response when exposed to 5 long days (a treatment that accelerates flowering in the wild type), the phyA mutation restored the effects of long days (Fig. 6). Using the same phyA and cry2 alleles involved in the experiments shown here but with a different light protocol, M. Blzquez and D. Weigel (personal communication) have observed delayed flowering in the double compared to the single mutants. Clearly, phyA can accelerate or delay flowering in Arabidopsis depending on the genetic background and light conditions. 
+
+
+
+Flowering is under the control of environmental and endogenous signals and we are only beginning to understand at a molecular level how these signals are integrated (Blzquez and Weigel, 2000). Light itself has a dual effect on flowering of long-day plants. (1) A positive, photoperiod-dependent effect, that involves the action of light in combination with a circadian rhythm of sensitivity whose phase is in turn light regulated. (2) A negative effect that saturates with short photoperiods (De Lint, 1960) and dominates under red light (Guo et al., 1998). The current view is that cry2 (Guo et al., 1998), phyA (Johnson et al., 1994), and cry1 (Bagnall et al., 1996), mediate the positive effect whereas phyB (Reed et al., 1993), phyD (Devlin et al., 1999), and phyE (Devlin et al., 1998) mediate the negative effect. The observations that phyA can both advance and delay flowering, and that flowering can be accelerated by the phyB mutation (Reed et al., 1993) as well as by the overexpression of phyB (Bagnall et al., 1995), suggest that the various photoreceptors could operate in a more integrated way and become involved both in negative and positive effects albeit with a different hierarchy (Fig. 8). 
+
+
+
+
+
+
+
+
+
+
+View larger version (14K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 8 Proposed model of integration of the actions of phy and cry in the regulation of the transition from the vegetative to the reproductive phase in Arabidopsis thaliana. 1Reed et al., 1993, 2Devlin et al., 1999, 3Devlin et al., 1998, 4this work, 5Johnson et al., 1994, Blzquez M. and Weigel. D. (personal communication), 6Guo et al., 1998, 7Bagnall et al., 1996, 8based on the results of Bagnall et al., 1995.
+
+
+
+
+
+&nbsp;
+
+
+
+Stability and light modulation of Arabidopsis development
+
+
+The results presented here provide insights into the way plant development not only copes with fluctuations in the light environment but also takes advantage of such fluctuations. First, the potential role of cry2 is broader than previously appreciated, and in fact phyA, phyB, cry1 and cry2 affected each of the processes investigated here. Some of these effects, however, were not observed in the wild type background and became obvious only in multiple mutants, indicating that coupling multiple photoreceptors to the control of developmental processes results in redundancy (following the definition of) (Pickett and Meeks-Wagner, 1995). Redundancy of gene function is a source of developmental stability or canalisation (Freeman, 2000). Second, light was known to have dual effects on some developmental processes. Present results show that the same photoreceptor (cry1, phyA) can be used for both purposes. In animal systems, negative regulations allow self-adjustment of developmental signalling systems when they are perturbed (Golembo et al., 1996). Third, the photoreceptors are coupled to growth and developmental processes with a context-dependent hierarchy. This hierarchy is evident from the observation that for a given developmental process, phyA, phyB, cry1 and cry2 are each able to at least partially compensate for the other photoreceptors, but only specific single mutations have effects compared to the wild type. The cry2 mutation was the most effective in terms of flowering time but exhibited the lowest rank for the control of hypocotyl growth and vegetative plant morphology that were dominated by phyB. Context-dependence of the hierarchy could be the result of tissue and time dependent patterns of photoreceptor abundance and signal transduction efficiency. A high hierarchy of cry2 activity would confer photoperiodic regulation on a given process while a high hierarchy of phyB would result in modulation by the red to far-red ratio. In conclusion, while redundancy and negative regulation would prevent aberrant patterns of development (like that observed in the quadruple mutant) under extreme environments, context-dependent photoreceptor hierarchy would render specific growth and development processes under the modulation of particular light signals. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We thank Miguel Blzquez (CSIC, Universidad Politctina de Valencia, Spain) for helpful comments on the manuscript. This work was financially supported by FONCyT (BID 1201/OC-AR  PICT 06739), UBA (TG59) and CONICET (PIP 0888/98). 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Ahmad, M. and Cashmore, A. R. (1993). HY4 gene of Arabidopsis thaliana encodes a protein with characteristics of a blue-light photoreceptor. Nature 366, 162-166.[Medline]
+
+
+
+Anderson, M. B., Foltaa, K., Warpehaa, K. M., Gibbonsa, J., Gaoa, J., Lon S. and Kaufman, L. S. (1999). Blue light-directed destabilization of the Pea Lhcb1*4 transcript depends on sequences within the 5' untranslated region. Plant Cell 11, 1579-1590.[Abstract/Free Full&nbsp;Text]
+
+
+
+Bagnall, D. J., King, R. W., Whitelam, G. C., Boylan, M. T., Wagner, D. and Quail, P. H. (1995). Flowering responses to altered expression of phytochrome in mutants and transgenic lines of Arabidopsis thaliana (L.) Heynh. Plant Physiol. 108, 1495-1503.[Abstract/Free Full&nbsp;Text]
+
+
+
+Bagnall, D. J., King, R. W. and Hangarter, R. P. (1996). Blue-light promotion of flowering is absent in hy4 mutants of Arabidopsis. Planta 200, 278-280.[Medline]
+
+
+
+Blzquez, M. and Weigel, D. (2000). Integration of floral inductive signals in Arabidopsis. Nature 404, 889-892.[Medline]
+
+
+
+Boutros, M., Mihaly, J., Boumeester, T. and Mlodzik, M. (2000). Signaling specificity by Frizzled receptors in Drosophila. Science 288, 1825-1828.[Abstract/Free Full&nbsp;Text]
+
+
+
+Casal, J. J. and Boccalandro, H. (1995). Co-action between phytochrome B and HY4 in Arabidopsis thaliana. Planta 197, 213-218.[Medline]
+
+
+
+Casal, J. J. and Mazzella, M. A. (1998). Conditional synergism between cryptochrome 1 and phytochrome B is shown by the analysis of phyA, phyB and hy4 simple, double and triple mutants in Arabidopsis. Plant Physiol. 118, 19-25.[Abstract/Free Full&nbsp;Text]
+
+
+
+Casal, J. J. (2000). Phytochromes, cryptochromes, phototropin: photoreceptor interactions in plants. Photochem. Photobiol. 71, 1-11.[Medline]
+
+
+
+Cashmore, A. R., Jarillo, J. A., Wu, Y.-J. and Liu, D. (1999). Cryptochromes: blue light receptors for plants and animals. Science 284, 760-765.[Abstract/Free Full&nbsp;Text]
+
+
+
+Cerdn, P. D., Yanovsky, M. J., Reymundo, F. C., Nagatani, A., Staneloni, R. J., Whitelam, G. C. and Casal, J. J. (1999). Regulation of phytochrome B signaling by phytochrome A and FHY1 in Arabidopsis thaliana. Plant J. 18, 499-507.[Medline]
+
+
+
+Choi, G., Yi, H., Lee, J., Kwon, Y. K., Soh, M. S., Shin, B., Luka, Z., Hahn T. R. and Song, P. S. (1999). Phytochrome signalling is mediated through nucleoside diphosphate kinase 2. Nature 401, 610-613.[Medline]
+
+
+
+De Lint, P. J. A. L. (1960). An attempt to analysis of the effect of light on stem elongation and flowering in Hyoscyamus Niger L. Meded. Landbouwhogeschool, Wageningen, Nederland 60, 1-59.
+
+
+
+Devlin, P., Patel, S. R. and Whitelam, G. C. (1998). Phytochrome E influences internode elongation and flowering time in Arabidopsis. Plant Cell 10, 1479-1488.[Abstract/Free Full&nbsp;Text]
+
+
+
+Devlin, P. F., Robson, P. R. H., Patel, S. R., Goosey, L., Sharrock, R. A. and Whitelam, G. C. (1999). Phytochrome D acts in the shade-avoidance syndrome in Arabidopsis by controlling elongation growth and flowering time. Plant Physiol. 119, 909-915.[Abstract/Free Full&nbsp;Text]
+
+
+
+Emery, P., Staneswsky, R., Hall, J. and Rosbash, M. (2000). Drosophila cryptochromes: A unique circadian-rhythm photoreceptor. Nature 404, 456-457.[Medline]
+
+
+
+Fankhauser, C., Yeh, K. C., Lagarias, J. C., Zhang, H., Elich, T. D. and Chory, J. (1999). PKS1, a substrate phosphorylated by phytochrome that modulates light signaling in Arabidopsis. Science 284, 1539-1541.[Abstract/Free Full&nbsp;Text]
+
+
+
+Freeman, M. (2000) Feedback control of intercellular signalling in development. Nature 408, 313-319.[Medline]
+
+
+
+Gao, J. and Kaufman, L. S. (1994) Blue-light regulation of the Arabidopsis thaliana Cab1 gene. Plant Physiol. 104, 1251-1257.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gil, P., Kirrcher, S., Adam, E., Bury, E., Kozma-Boggnar, L., Schfer, E. and Nagy, F. (2000). Photocontrol of subcellular partitioning of phytochrome-B: GFP fusion protein in tobacco seedlings. Plant J. 22, 135-145.[Medline]
+
+
+
+Golembo, M., Raz, E. and Shilo, B. (1996). The Drosophila embryonic midline is the site of Spitz processing, and induces activation of the EGF receptor in the ventral ectoderm. Development 122, 3363-3370.[Abstract/Free Full&nbsp;Text]
+
+
+
+Goto, N., Kumagai, T. and Koornneef, M. (1991). Flowering responses to light-breaks in photomorphogenic mutants of Arabidopsis thaliana, a long-day plant. Physiol. Plant. 83, 209-215.
+
+
+
+Guo, H., Yang, H., Mockler, T. C. and Lin, C. (1998). Regulation of flowering time by Arabidopsis photoreceptors. Science 279, 1360-1363.[Abstract/Free Full&nbsp;Text]
+
+
+
+Guo, H., Duong, H., Ma, N. and Lin, C. (1999). The Arabidopsis blue-light receptor cryptochrome 2 is a nuclear protein regulated by a blue-light dependent post-transcriptional mechanism. Plant J. 19, 279-289.[Medline]
+
+
+
+Jefferson, R. A., Kavanagh, T. A. and Bevan, M. (1987). GUS fusions: glucuronidase as a sensitive and versatile gene fusion marker in higher plants. EMBO J 6, 3901-3907.[Abstract]
+
+
+
+Johnson, E., Bradley, M., Harberd, P. and Whitelam, G. C. (1994). Photoresponses of light-grown phyA mutants of Arabidopsis. Phytochrome A is required for the perception of daylength extensions. Plant Physiol. 105, 141-149.[Abstract/Free Full&nbsp;Text]
+
+
+
+Kleiner, O., Kircher, S., Harter, K. and Batschauer, A. (1999). Nuclear localization of the Arabidopsis blue-light receptor cryptochrome 2. Plant J. 19, 289-296.[Medline]
+
+
+
+Koornneef, M., Rolf, E. and Spruit, C. J. P. (1980). Genetic control of light-inhibited hypocotyl elongation in Arabidopsis thaliana (L.) Heynh. Pflanzenphysiol. 100, 147-160.
+
+
+
+Koornneef, M., Hanhart, C. J. and van der Veen, J. H. (1991). A genetic and physiological analysis of late flowering mutants in Arabidopsis thaliana. Mol. Gen. Genet. 229, 57-66.[Medline]
+
+
+
+Lin, C., Ahmad, M., Chan, J. and Cashmore, A. R. (1996). CRY2: A second member of the Arabidopsis cryptochrome gene family. Plant Physiol. 110, 1047.[Free Full&nbsp;Text]
+
+
+
+Lin, C., Yang, H., Guo, H., Mockler, T., Chen, J. and Cashmore, A. (1998). Enhancement of blue-light sensitivity of Arabidopsis seedlings by blue light receptor cryptochrome 2. Proc. Natl. Acad. Sci. USA 95, 2686-2690.[Abstract/Free Full&nbsp;Text]
+
+
+
+Lowry, O. H., Rosenbrough, N. J., Farr, A. L. and Randall, R. J. (1951). Protein measurement with the Folin phenol reagent. J. Biol. Chem. 193, 265-275.[Free Full&nbsp;Text]
+
+
+
+Martinez-Zapater, J. M. and Somervile, C. R. (1990). Effect of light quality and vernalization on late-flowering mutants of Arabidopsis thaliana. Plant Physiol. 92, 770-776.
+
+
+
+Ms, P., Devlin, P. F., Panda, S. and Kay, S. A. (2000). Functional interaction of phytochrome B and cryptochrome 2. Nature, 408, 207-211.[Medline]
+
+
+
+Mazzella, M. A., Alconada Magliano, T. M. and Casal, J. J. (1997). Dual effect of phytochrome A on hypocotyl growth under continuous red light. Plant Cell Environ. 20, 261-267.
+
+
+
+Mazzella, M. A., Bertero, D. and Casal, J. J. (2000). Temperature-dependent internode elongation in vegetative plants of Arabidopsis thaliana lacking phytochrome B and cryptochrome 1. Planta 210, 497-501.[Medline]
+
+
+
+Mockler, T., Guo, H., Yang, H., Duong, H. and Lin, C. (1999). Antagonistic actions of Arabidopsis cryptochromes and phytochrome B in the regulation of floral induction. Development 126, 2073-2082.[Abstract/Free Full&nbsp;Text]
+
+
+
+Moran, R. (1982). Formulae for determination of chlorophyllous pigments extracted with N,N- dimethylformamide. Plant Physiol. 69, 1376-1381.
+
+
+
+Nagatani, A., Reed, J. W. and Chory, J. (1993). Isolation and initial characterization of Arabidopsis mutants that are deficient in phytochrome A. Plant Physiol. 102, 269-277.[Abstract/Free Full&nbsp;Text]
+
+
+
+Neff, M. M. and Chory, J. (1998). Genetic interactions between phytochrome A, phytochrome B and cryptochrome 1 during Arabidopsis development. Plant Physiol. 118, 27-35.[Abstract/Free Full&nbsp;Text]
+
+
+
+Ni, M., Tepperman, J. M. and Quail, P. H. (1999). Binding of phytochrome B to its nuclear signalling partner PIF3 is reversibly induced by light. Nature 400, 781-784.[Medline]
+
+
+
+Pickett, F.B and Meeks-Wagner, D.R.(1995). Seeing double: appreciating genetic redundancy. Plant Cell 7, 1347-1356./[Free Full&nbsp;Text]
+
+
+
+Quail, P.H., Boylan, M.T., Parks, B.M., Short, T.M., Xu, Y. And Wagner, D. (1995). Phytochromes: photosensory perception and signal transduction. Science 268, 675-680.[Medline]
+
+
+
+Reed, J. W., Nagpal, P., Poole, D. S., Furuya, M. and Chory, J. (1993). Mutations in the gene for the red/far-red light receptor phytochrome B alter cell elongation and physiological responses throughout Arabidopsis development. Plant Cell 5, 147-157.[Abstract/Free Full&nbsp;Text]
+
+
+
+Roldan, M., Gomez Mena, C., Ruiz Garca, L., Salinas, J. and Martnez-Zapater, J. (1999). Sucrose availability on the aerial part of the plant promotes morphogenesis and flowering in Arabidopsis in dark. Plant J. 20, 581-90.[Medline]
+
+
+
+Rozenboim, I., Biran, I., Uni, Z., Robinzon, B. and Halevey,O. (1999). The effect of monochromatic light on Broiler growth. Poult. Sci. 78, 135-138.[Medline]
+
+
+
+Sakamoto, K. and Nagatani, A. (1996). Nuclear localization activity of phytochrome B. Plant J. 10, 859-868.[Medline]
+
+
+
+Selby, C. P., Thompson C., Schmitz T. M, Van Gelder, R. N., Sancar, A. (2000). Functional redundancy of cryptochromes and classical photoreceptors for nonvisual ocular photoreception in mice. Proc. Natl. Acad. Sci. USA 97, 14697-14702.[Abstract/Free Full&nbsp;Text]
+
+
+
+Whitelam, G. C., Johnson, E., Peng, J., Carol, P., Anderson, M. L., Cowl, J. S. and Harberd, N. P. (1993). Phytochrome A null mutants of Arabidopsis display a wild-type phenotype in white light. Plant Cell 5, 757-768.[Abstract/Free Full&nbsp;Text]
+
+
+
+Yang, H., Wu, Y., Tang, R., Liu, D., Liu, Y. and Cashmore, A. R. (2000). The C termini of Arabidopsis cryptochromes mediate a constitutive light response. Cell 103, 815-827.[Medline]
+
+
+
+Yanovsky, M. J., Mazzella, M. A. and Casal, J. J. (2000). A quadruple photoreceptor mutant still keeps track of time. Curr. Biol. 10, 1013-1015.[Medline]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

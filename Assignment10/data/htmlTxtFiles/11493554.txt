@@ -1,0 +1,903 @@
+
+
+N-terminal fatty-acylation of sonic hedgehog enhances the induction of rodent ventral forebrain neurons
+
+
+
+Jhumku D. Kohtz1,*, 
+Hae Young Lee1, 
+Nicholas Gaiano2, 
+Joshua Segal1, 
+Evan Ng1, 
+Theresa Larson1, 
+Darren P. Baker3, 
+Ellen A. Garber3, 
+Kevin P. Williams3 and 
+Gord Fishell2
+
+
+
+
+1 Program in Neurobiology and Department of Pediatrics, Box 209, Childrens Memorial Institute for Research and Education, Northwestern University Medical School, 2430 N. Halsted, Chicago, IL 60614, USA
+
+2 Developmental Genetics and the Department of Cell Biology, Skirball Institute, New York University School of Medicine, New York, NY 10016, USA
+
+3 Biogen, 14 Cambridge Center, Cambridge, MA 02142, USA
+
+
+
+
+*Author for correspondence (e-mail: j-kohtz{at}northwestern.edu)
+
+
+
+
+
+Accepted April  8, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+The adult basal ganglia arise from the medial and lateral ganglionic eminences, morphologically distinct structures found in the embryonic telencephalon. We have previously shown that temporal changes in sonic hedgehog (Shh) responsiveness determine the sequential induction of embryonic neurons that populate the medial and lateral ganglionic eminences. In this report, we show that Shh-mediated differentiation of neurons that populate the lateral ganglionic eminence express different combinations of the homeobox-containing transcription factors Dlx, Mash1 and Islet 1/2. Furthermore, we show that N-terminal fatty-acylation of Shh significantly enhances its ability to induce the differentiation of rat E11 telencephalic neurons expressing Dlx, Islet 1/2 or Mash1. Recent evidence indicates that in utero injection of the E9.5 mouse forebrain with retroviruses encoding wild-type Shh induces the ectopic expression of Dlx2 and severe deformities in the brain. In this report, we show that Shh containing a mutation at the site of acylation prevents either of these phenotypes. These results suggest that N-terminal fatty-acylation of Shh may play an important role in Shh-dependent signaling during rodent ventral forebrain formation. 
+
+
+
+
+
+
+
+Key words: Sonic hedgehog, Forebrain, Telencephalon, Fatty-acylation, Rat
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Significant advances in our understanding of the mechanisms involved in the formation of the basal ganglia have been made, based on the identification of genes that are spatially and temporally restricted in this region. Characterization of the loss-of-function phenotypes resulting from the deletion of Dlx1, Dlx2, Mash1 (Ascl1), Nkx2.1, Gsh2 or Shh genes in mice reveals the essential role of each of these genes in the formation of ventral telencephalic structures or neurons (Anderson et. al., 1997; Guillemot et al., 1993; Casarosa et al., 1999; Sussel et al., 1999; Marin et al., 2000; Szucsik et al., 1997; Hseih-Li et al., 1995; Corbin et al., 2000; Chiang et al., 1996; Yun et al., 2000; Torreson et al., 2000). Specific populations of striatal projection neurons and late-born interneurons are depleted in mice that lack both Dlx1 and Dlx2 (Anderson et al., 1997; Marin et al., 2000). In addition, the loss of the Nkx2.1 gene results in the loss of the medial ganglionic eminence (MGE), an embryonic structure that will form the globus pallidus, as well as the depletion of early born striatal interneurons and oligodendrocytes (Sussel et al., 1999; Marin et al., 2000; Nery et al., 2001). The lateral ganglionic eminence (LGE), an embryonic structure that will eventually form the mature striatum, is severely impaired in Gsh2 knockout mice (Szucsik et al., 1997), resulting in a significant decline in striatal subpopulations (Corbin et al., 2000; Yun et al., 2000; Torreson et al., 2000). In Shh-/- mice, an expansion of dorsal genes at the expense of ventral genes and structures has been demonstrated (Chiang et al., 1996; Corbin et al., 2000). Thus, the formation of the MGE, LGE and specific neurons that populate these regions depends on the presence of a combination of homeobox-containing regulatory genes and the Shh signaling protein. 
+
+
+
+Shh is the most intensely studied member of the vertebrate hedgehog family (reviewed by McMahon, 2000 and Ingham, 1998). It is secreted from the notocord, specialized mesodermal tissue that underlies the neural tube and has been shown to induce ventral neurons in the spinal cord (van Straaten et al., 1988; Placzek et al., 1990; Yamada et al., 1991; Placzek et al., 1993). In the anteriormost regions of the neural tube, where the notochord is absent, Shh is expressed in the prechordal plate, as well as the ventral midline of the CNS (Marti et al., 1995b; Shimamura et al., 1995). In patterning the ventral neural tube, Shh has been shown to ventralize neurons along the anterior-posterior (A-P) extent of the neuraxis in accordance with their position (Marti et al., 1995; Ericson et al., 1995; Roelink et al., 1995; Chiang et al., 1996; Shimamura and Rubenstein, 1997; Kohtz et al., 1998). What then determines the A-P specificity of Shh inductions? In the posterior neuraxis, ventral neuronal subtypes are produced in a concentration-dependent manner (Roelink et al., 1995; Ericson et al., 1997). High-level exposure to Shh results in the formation of floorplate cells, whereas lower levels result in motoneuron formation. In more anterior regions of the neuraxis, Shh has been shown to cooperate with Bmp7 or Fgf8 to produce ventral forebrain and midbrain neurons, respectively (Dale et al., 1997; Hynes et al., 1995; Ye et al., 1998; Shimamura and Rubenstein, 1997). Thus, concentration and cooperativity are two mechanisms used by Shh to induce diverse ventral neurons. 
+
+
+
+We have recently begun to study how Shh influences the formation of the rodent ventral forebrain. These studies suggest that developmentally regulated changes in competence determine the specific response of ventral telencephalic neurons to Shh (Kohtz et al., 1998). In the course of these studies, we consistently observed that only Shh purified from baculovirus-infected insect cells and not Escherichia coli was capable of inducing ventral telencephalic neurons (J. D. K. and G. F., unpublished). 
+
+
+
+Pepinsky et al. (Pepinsky et al., 1998) have shown that N-terminal fatty-acid modification of the human Shh protein results in a 30-fold enhancement in its ability to convert C3H10T1/2 cells to an osteoblast lineage (Kinto et al., 1997). In these studies, it was found that palmitoylated human Shh, and additional lipid-modified forms such as myristoylated, stearoylated and arachidoylated rat Shh, could be purified from insect cells infected with Shh-containing baculoviruses. The increased activity of these lipid-modified forms suggests that they might be responsible for the difference between insect cell- and E. coli-derived Shh in our assays of telencephalic ventral neural induction. 
+
+
+
+This study compares the abilities of N-terminal fatty-acylated and non-acylated forms of Shh to ventralize neurons in the rodent forebrain, using both in vivo and in vitro techniques. We provide evidence that N-terminal fatty-acylation significantly enhances the ability of Shh to ventralize early striatal neurons expressing Dlx-containing homeobox genes, Mash1, and/or Islet 1/2. These neurons are similar to those found in both the proliferating and differentiating zones of the E14 rat LGE. We also provide evidence that the N-terminal fatty-acylation of Shh is important in vivo. Recent work has shown that injection of a retrovirus encoding wild-type Shh into the E9.5 mouse forebrain results in the ectopic expression of Dlx2 and severe brain deformities (Gaiano et al., 1999). We now show that Shh containing a point mutation at the site of acylation is unable to induce the ectopic expression of Dlx2 or severe brain deformities. These findings suggest that N-terminal acylation plays an important role in Shh-mediated telencephalic patterning and differentiation. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Explant culture and immunohistochemistry
+
+
+Rat E11 (sperm plug date=0) telencephalic explants were dissected from the region shown in the schematic in Fig. 3; rat E9 headfold stage explants were dissected from the region shown in the schematic in Fig. 5. Explants were incubated with the indicated amounts of Shh proteins for 3 days in serum-free medium (DMEM/F12 + N2 (Life Technologies) + B27 (Life Technologies) + mito+ (Collaborative Research)). The unmodified N-terminal fragment of human Shh (uShhN) and the C24S mutant form of the N-terminal fragment of Shh (C24S-ShhN) were purified from E. coli (described by Pepinsky et al., 1998). E11 rat telencephalic explants were cultured on filters (Nunc 0.02 m), whereas rat headfold stage explants (0-4 somites) were cultured in a collagen matrix (Vitrogen). The following antibodies were used: rabbit anti-Dll antibody (1 g/ml, affinity purified against a recombinant Dll homeodomain) (Panganiban et al., 1995), mouse monoclonal anti-Islet 1/2 (1:1000, 40.2D6, Developmental Studies Hybridoma Bank) (Thor et al., 1991), mouse monoclonal anti-Mash1 (supernatant, 1:5, a gift from Jane Johnson), mouse monoclonal anti-Nkx2.1 (TTF-1 Ab, 1 g/ml, Neomarkers), rabbit anti-Islet (a gift from Tom Jessell). Antibodies were visualized with fluorescein-conjugated goat anti-rabbit (1:40, Boehringer Mannheim) and Cy3-conjugated goat anti-mouse (1:200, Jackson) antibodies. Confocal imaging was performed with an Olympus Fluoview laser-scanning microscope. Rat headfold stage explants were stained with anti-Nkx2.1 (anti-TTF-1) (Lazzaro et al., 1991) antibodies and visualized with Cy3-conjugated anti-rabbit antibodies (Jackson). Immunohistochemistry on coronal sections of rat E14 forebrain was performed as follows: brains were fixed in 4% paraformaldehyde for 2 hours at 4C, incubated in 30% sucrose, embedded in OCT and sectioned at 12 m. Adjacent sections were stained with combinations of antibodies as described for the explants above. 
+
+
+
+
+
+
+
+
+
+
+View larger version (43K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. mShhN is significantly more potent at inducing Dlx and Islet 1/2 in rat E11 telencephalic explants than uShhN. The schematic in the top left-hand corner shows a dorsal view of the E11 rat telencephalon. The blue region delineates the region used in the explant assay for ventral neural induction. The level of induction is indicated by the number of cells expressing Dlx (green), Islet 1/2 (red) or both (yellow). uShhN: A, 3070 nM; B, 384 nM; D, 48 nM; F, 24 nM; H, 12 nM; J, 3 nM. mShhN: C, 48 nM; E, 24 nM; G, 12 nM; I, 3 nM. n=4 for all concentrations except D,E, for which n25. Note that none of the controls treated with buffer alone contained Dlx- or Islet 1/2-positive cells. D, diencephalon; M, mesencephalon; T, telencephalon.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (30K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. mShhN is significantly more potent at inducing Nkx2.1 expression in rat head fold stage (0-4 somites) neural explants than uShhN. The blue region of the schematic shows the region of the headfold used in the explant assay. uShhN: A, 3070 nM; B, 384 nM; D, 48 nM; F, 24 nM; H, 12 nM. mShhN: C, 48 nM; E, 24 nM; G, 12 nM (n=4). Note that none of the controls treated with buffer alone contained Nkx2.1-positive cells (n=6).
+
+
+
+
+
+&nbsp;
+
+
+
+Preparation of myristoylated ShhN (mShhN)
+
+
+uShhN was expressed in E. coli as described (Pepinsky et al., 1998). mShhN was prepared from uShhN by reaction with a 10-fold molar excess of myristoyl-coenzyme A (Sigma) for 24 hours at 28C in 40 mM Na2HPO4 (pH 7.0), 25 mM DTT. Reaction of the N-terminal cysteine (C24) of uShhN with the fatty acyl thioester results in the transfer of the fatty acyl group to the sulfhydryl by a spontaneous transesterification reaction, which is followed by a S-to-N shift to the -amino group to form a stable amide linkage. The free sulfhydryl then undergoes a second transesterification reaction, yielding a protein with a fatty acyl group attached via a thioester linkage to the sulfhydryl. The thioester-linked fatty acyl group was removed by incubation with 0.1 M hydroxylamine for 18 hours at 28C. The singly N-myristoylated protein was then purified in the presence of 1% n-octyl--D-glucopyranoside using SP-Sepharose (Pharmacia) and Bio-Scale S (BioRad) cationic ion exchange chromatographies. The purified mShhN was dialyzed extensively against 5 mM Na2HPO4 (pH 5.5), 150 mM NaCl, 0.5 mM DTT to remove detergent, and the soluble fraction stored at -70C. Electrospray ionization-mass spectroscopy confirmed the integrity of the purified protein: mShhN, measured mass 19,770, calculated mass 19,770.33. 
+
+
+
+Ectopic expression of wild-type Shh and C24S in mouse embryos
+
+
+A point mutation in the human Shh cDNA was constructed, converting Cys-24 to Ser (E. A. G., unpublished) (Pepinsky et al., 1998). The full-length wild-type and C24S mutant Shh cDNAs were then subcloned into the retroviral vector pCLE (described in detail by Gaiano et. al. 1999), and co-transfected into 293 cells with a plasmid encoding VSV-G protein. The resulting pseudotyped retroviruses were isolated by high-speed centrifugation and titrated on 3T3 cells. Virus (1 l) at a titer of 5x108 pfu/ml was injected into the forebrain vesicles of E9.5 mice using ultrasound-guided backscatter microscopy (Olsson et al., 1997). Embryos were harvested at E12.5, cut below the forelimbs for photography or processed for in situ hybridization (Schaeren-Wiemers and Gerfin-Moser, 1993) using digoxigenin-labeled antisense Dlx2 RNAs and alkaline phosphatase staining, as described by Gaiano et al. (Gaiano et al., 1999). 
+
+
+
+Detection of Shh proteins produced by viral constructs
+
+
+Full-length wild-type Shh or C24S-Shh virus (5 l) at a titer of 5x108 pfu/ml was incubated with 3T3 cells grown on 10 mm dishes at 80% confluence. Cells were infected for 1 hour, grown for 48 hours, and lysed in ice-cold 10 mM Tris (pH 7.5), 1% NP40. The cellular debris was centrifuged at 10,000 g, and the supernatant was divided in half. Half the sample was acetone precipitated, resuspended in Laemmli sample buffer, loaded on SDS-PAGE and immunoblotted with anti-Shh antibodies (5E1, DHSB) (Ericson et al., 1996). The other half of the sample was diluted 1:10 in PBS, incubated with rabbit anti-Shh antibodies that had previously been conjugated to protein G Sepharose 4B, washed three times with PBS + 0.1% Triton X-100, resuspended in Laemmli sample buffer, loaded on SDS-PAGE, and immunoblotted with mouse anti-Shh antibodies (5E1) (Ericson et al., 1996). We detected virally produced C24S-Shh protein in immunoprecipitated extracts and wild-type Shh protein in acetone-precipitated extracts. This may be due to solubility differences resulting from the presence of the lipid moieties. 
+
+
+
+Immunoprecipitation of radiolabeled Shh
+
+
+C17 cells (Snyder et al., 1992) stably transfected with a Shh-containing plasmid (Liu et al., 1998) and a control cell line were labeled for 4 hours in medium containing either 300 mCi/ml of [9,10-3H]myristate (Dupont NEN, specific activity 16 Ci/mmol) or 300 mCi/ml of [9,10-3H]palmitate (Dupont NEN, specific activity 60 Ci/mmol), or both, as indicated in Fig. 9. Cells were fractionated to yield a soluble fraction and a 125,000 g pellet fraction (Degtyarev et al., 1994). Each fraction was made up to a 1x dilution in the following solubilization/immunoprecipitation buffer: 50 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.8% Triton X-100, 0.2% SDS and 1 mM EDTA. Purified monoclonal antibody against Shh (5E1, Ericson et al., 1996) was preincubated with protein G Sepharose (Pharmacia), washed, and then incubated overnight at 4C with the culture supernatant, the soluble cytoplasmic fraction or the solubilized pellet fractions. The immunoprecipitates were washed, solubilized and separated by SDS-PAGE. Gels were then treated with Amplify (Amersham/Pharmacia Biotech), dried and exposed to KODAK MR film using a Biomax low-energy intensifying screen for 6 weeks at -80C for lanes 1-4, 1 week for lanes 5-8, and overnight for lanes 9-14 in Fig. 9. Biorad broad range prestained markers were run alongside for size estimation. 
+
+
+
+
+
+
+
+
+
+
+View larger version (17K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 9. Immunoprecipitation of radiolabeled Shh (arrow) from the mouse neural cell line C17. 3H-palmitate + 3H-myristate incorporation (lanes 1-4). Lane 1: cytoplasmic fraction from control C17 cell line. Lane 2: cytoplasmic fraction from Shh transfected C17 cell line (Shh-C17). Lane 3: 125,000 g pellet, membrane fraction from control C17 cell line. Lane 4: 125,000 g pellet fraction from Shh-C17. 3H-myristate incorporation (lanes 5,6). Lane 5: 125,000 g pellet fraction from Shh-C17. Lane 6: culture supernatant from Shh-C17. 3H-palmitate incorporation (lanes 7,8). Lane 7: 125,000 g pellet fraction from Shh-C17. Lane 8: culture supernatant from Shh-C17. 35S-methionine+cysteine incorporation (lanes 9-14). Lane 9: cytoplasmic fraction from control C17 cell line. Lane 10: cytoplasmic fraction from Shh transfected C17 cell line (Shh-C17). Lane 11: 125,000 g pellet, membrane fraction from control C17 cell line. Lane 12: 125,000 g pellet fraction from Shh-C17. Lane 13: culture supernatant from control C17 cell line. Lane 14: culture supernatant from Shh-C17 (secreted form).
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Early striatal neurons found in the LGE are similar to those induced by Shh in E11 rat telencephalic explants
+
+
+In a previous report, we described the ventralization of E11 rat telencephalic neural explants by recombinant Shh (Kohtz et al., 1998). At this time in development, Shh induces telencephalic ventral neurons characteristic of the LGE; these express members of the Dlx homeobox gene family and Islet 1/2, but not Nkx2.1 (Kohtz et al., 1998). In order to further characterize early striatal neurons in vivo and those induced by Shh in our explant assay, we used confocal microscopy and double-labeling with antibodies to Dlx, Mash1, Nkx2.1 and Islet 1/2. These antibodies were used to stain neurons in coronal sections of E14 rat LGE and MGE in the following combinations: Fig. 1I, Dlx and Mash1; Fig. 1II, Dlx and Islet 1/2; Fig. 1III, Islet 1/2 and Mash1; and Fig. 1IV Dlx and Nkx2.1. A low-magnifications view is shown in Fig. 1I-IVA-C so that neurons populating both the LGE and MGE can be seen. A high-magnification view is shown in D-F of Fig. 1I,II,IV, so that individual neuronal populations can be distinguished in the proliferative zones of the LGE (D), MGE (E) or the differentiated zone located at the boundary of the two regions (F). In agreement with our previous report, LGE neurons do not express Nkx2.1 (Fig. 1IVD, lack of red (Nkx2.1) or yellow (Dlx + Nkx2.1) cells in the LGE). Dlx-expressing neurons are found in both the LGE and MGE (green cells in Fig. 1I,II,IV), in both proliferating and differentiating zones. However, the numbers of Dlx-expressing progenitors were consistently greater in the LGE than the MGE (see Fig. 1IA,IIA,IVA showing higher concentrations of Dlx-expressing progenitors closer to the ventricular surface in the LGE compared to the MGE). In addition, Fig. 1IC shows that there are more neurons co-expressing Dlx and Mash1 in the ventricular zone of LGE than the MGE. Fig. 1IIF shows that Dlx and Islet 1/2 are co-expressed in more differentiated neurons in both the LGE and MGE. Fig. 1III shows that Mash1 (red, B) marks progenitors, whereas Islet 1/2 (green, A) marks more differentiated neurons. These genes are present in distinct neurons in both the LGE and MGE, as indicated by the scarcity of yellow cells (Fig. 1IIIC). Individual Mash1- and Dlx2-expressing neurons have previously been shown to incorporate BrdU (Porteus et al., 1994). The location of neurons that co-express Mash1 and Dlx with respect to the ventricular/subventricular zones is in agreement with those previously shown. Fig. 1V shows a schematic summarizing gene expression in the rat E14 ventral telencephalon relative to that of Shh (red) at this time, as reported previously (Kohtz et al., 1998). 
+
+
+
+
+
+
+
+
+
+
+View larger version (102K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. Ventral telencephalic neurons express Dlx, Mash1, Islet 1/2 and/or Nkx2.1 in distinct and overlapping populations of cells. Coronal sections of rat E14. I (A) Dlx (green), (B) Mash1 (red), and (C-F) Dlx and Mash1 co-expressing cells (yellow). (D-F) Enlargements of the boxed regions in A-C. (D) Proliferative zone of the LGE, double labeled; (E) proliferative zone of the MGE, double labeled; (F) post-mitotic region bordering the LGE and MGE, double labeled. II (A) Dlx (green), (B) Islet 1/2 (red) and (C-F) Dlx and Islet 1/2 co-expressing cells (yellow). (D-F) Enlargements of the boxed regions in A-C. (D) Proliferative zone of the LGE, double labeled; (E) proliferative region of the MGE, double labeled; (F) post-mitotic region of the region bordering the LGE and MGE, double labeled. III (A) Islet 1/2 (green), (B) Mash1 (red) and (C) Islet 1/2 and Mash1 co-expressing cells (yellow, not detected). IV (A) Dlx (green), (B) Nkx2.1 (red) and (C) Dlx and Nkx2.1 co-expressing cells (yellow)  only found in the MGE. (D-F) Enlargements of the boxed regions in A-C. (D) Proliferative zone of the LGE, double labeled; (E) proliferative region of the MGE, double labeled; (F) post-mitotic region of the region bordering the LGE and MGE, double labeled. V Schematic summarizing the protein expression pattern of Shh, Dlx (1,2,5,6), Nkx2.1, Islet 1/2, Dlx 2 and Mash1, based on I-IV, and those previously reported (Kohtz et. al., 1998). L, LGE; M, MGE, white arrow points to the border between the LGE and MGE.
+
+
+
+
+
+&nbsp;
+
+
+
+Having characterized the expression of Dlx, Mash1, Islet 1/2 and Nkx2.1 in neurons populating the LGE and MGE, we wanted to determine if Shh induces expression of a similar combination of genes in our in vitro E11 telencephalic induction assay. Explants dissected from E11 rat telencephalon (see schematic in Fig. 3) were treated with mShhN (see Fig. 7B and below), and stained with combinations of antibodies against Dlx, Mash1, Islet 1/2, or Nkx2.1. Fig. 2A,B shows that Shh-induced ventral striatal neurons express Dlx and Mash1 in distinct cells (green and red, respectively) and co-express Dlx and Mash1 (yellow) within the same cell, thus resembling neurons detected in the undifferentiated zones of the LGE and MGE (see Fig. 1ID,E). Shh induces Dlx (green), but not Nkx2.1 (red) in E11 telencephalic explants (Fig. 2E,F, note the lack of red and yellow cells), similar to those found in the LGE (green cells in Fig. 1IVD), but not in the MGE (red and yellow cells in Fig. 1IVE). Fig. 2I,J shows that Shh-induced striatal ventral neurons express Dlx and Islet 1/2 in distinct cells (green and red, respectively) and co-express Dlx and Islet 1/2 in a large population of neurons (yellow), resembling those found in the differentiated zone of the LGE (Fig. 1IIF). Fig. 2M,N shows that Shh induces striatal ventral neurons that express Islet 1/2 (green) and Mash1 (red) in distinct populations with very few yellow cells. This is in agreement with the expression of Islet 1/2 and Mash1 in distinct populations in the LGE and MGE (see Fig. 1IIIC, scarcity of yellow cells). Shh did not induce the expression of DARP-32, a marker of more mature striatal neurons (Anderson and Reiner, 1991), or of parvalbumin (data not shown), supporting the hypothesis that early striatal neurons are being induced. 
+
+
+
+
+
+
+
+
+
+
+View larger version (27K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 7. (A) Western analysis of recombinant and virally produced Shh proteins. Recombinant proteins or lysates were loaded onto a 12.5% SDS-PAGE gel, western blotted using 5E1 (anti-Shh antibody) and visualized using a chemiluminescence substrate (NEN). Recombinant proteins (1 g): 1, C24S-ShhN; 2, mShhN; 3, uShhN; 4 and 5, lysates from virally infected cells (4, C24S-Shh virally infected cell lysate; 5, wild-type Shh virally infected cell lysate. Extract in 4 was immunoprecipitated first and then immunoblotted; extract in 5 was acetone-precipitated first and then immunoblotted. Prestained markers are shown on the left. (B) Schematic of recombinant and virally produced Shh proteins, and their activities.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (111K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. mShhN specifies neurons in E11 rat telencephalic explants expressing Dlx, Mash1 and/or Islet 1/2, similar to those found in vivo. mShhN (1 g/ml) -treated explants (A,B,E,F,I,J,M,N), uShhN (1 g/ml) -treated explants (C,G,K,O), untreated control (-; D,H,L,P). (A-D) Dlx (green), Mash1 (red), and Dlx and Mash1 co-expressing cells (yellow). (E-H) Dlx (green), Nkx2.1 (red). (I-L) Dlx (green), Islet 1/2 (red), and Dlx and Islet 1/2 (yellow), (M-P) Islet 1/2 (green), Mash1 (red), and Islet 1/2 and Mash1 (yellow).
+
+
+
+
+
+&nbsp;
+
+
+
+N-terminal fatty acylated Shh enhances the induction of rat ventral telencephalic neurons in vitro
+
+
+While we were studying Shh-mediated ventralization of early striatal neurons, we consistently observed that insect cell-derived Shh was active, whereas E. coli-derived Shh was not (J. D. K. and G. F., unpublished). This suggested that a post-translational modification of Shh may be necessary for its signaling within the forebrain. The report that N-terminal fatty-acylated Shh derived from insect cells is 30 times more potent than the unmodified form in converting C3H10T1/2 cells to an osteoblast lineage (Pepinsky et al., 1998) suggests that N-terminal acylation of Shh may be the required post-translational modification. 
+
+
+
+In order to test whether N-terminal fatty-acylation of Shh affects the induction of rat ventral forebrain neurons, we compared the activities of Shh proteins that were acylated in vitro. N-myristoylated Shh (mShhN) and unmodified Shh (uShhN) were compared for their ability to ventralize telencephalic explants at two specific times during development: E9 and E11. All recombinant proteins (mShhN, uShhN and C24S-ShhN) were made in E. coli from the N-terminal signaling fragment of Shh (spanning amino acids 24-197). The N-terminal fatty-acylated protein mShhN was acylated in vitro (see Materials and Methods). The schematic in Fig. 3 shows the region (in blue) of the E11 telencephalic explant used in the assay for ventral neural induction by these forms of Shh. Fig. 2 shows that at 48 nM (1 g/ml), mShhN induces neurons expressing Dlx, Mash1 and/or Islet 1/2 (Fig. 2A,B,E,F,I,J,M,N). At the same concentration, uShhN induces very few neurons expressing these genes (Fig. 2C,G,K,O). In order to determine if uShhN can induce striatal neurons at higher concentrations, we incubated E11 explants with different concentrations of mShhN and uShhN. Fig. 3 shows that mShhN is significantly more potent at inducing Dlx (green) and/or Islet 1/2 (red) than uShhN. Induction of Dlx and Islet 1/2 is first seen at 3 nM for mShhN (Fig. 3I), but at 48 nM for uShhN (Fig. 3D). At 48 nM, mShhN (Fig. 3C) exhibits a maximal response in which there is widespread induction of Dlx and/or Islet 1/2. However, even at 3070 nM, the maximal response of explants to uShhN remains restricted to a subregion of the explant (compare Fig. 3A, 3070 nM uShhN with Fig. 3C, 48 nM mShhN). Quantitation and graphic representation of Shh-mediated induction of Dlx and Islet 1/2 in E11 telencephalic explants is shown in Fig. 4. The numbers of Dlx- and Islet 1/2- expressing neurons induced by 3070 nM uShhN are only slightly greater than the numbers obtained with 12 nM mShhN. Thus, N-terminal fatty-acylation can enhance Shh activity up to 200-fold, in good agreement with the 160-fold increase in potency of mShh when assayed on C3H10T1/2 cells (Taylor et al., 2001). 
+
+
+
+
+
+
+
+
+
+
+View larger version (25K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. Quantitative representation comparing the numbers of Dlx- or Islet 1/2-expressing neurons appearing after mShhN or uShhN treatment of E11 rat telencephalic explants. The numbers of cells per 200 m2 was determined for each concentration of Shh. Four representative fields were counted for each explant; standard deviations were determined using Students t-test. Larger deviations at certain concentrations resulted from heterogeneity of the response within the explant (intensely labeled cells adjacent to regions of unresponsive cells).
+
+
+
+
+
+&nbsp;
+
+
+
+In order to determine the effects of fatty-acylation of Shh earlier in telencephalic development, the effects of mShhN and uShhN on presumptive telencephalic tissue from rat (0-4 somites, headfold stage, schematic in Fig. 5) were compared. Ventral induction was assayed by comparing the ability of mShhN and uShhN to induce the homeobox gene Nkx2.1, an early marker of ventral forebrain neurons. Fig. 5 shows a comparison of the titration of the Nkx2.1- inducing activity of mShhN and uShhN in presumptive telencephalic explants. Nkx2.1 induction follows a titration similar to that found for Dlx and Islet 1/2 in the E11 telencephalic induction assay (Fig. 3). At 12 nM, mShhN induces Nkx2.1 in patches of cells, whereas at 48 nM, expression is seen throughout the explant (compare Fig. 5C with 5G). In contrast, uShhN fails to induce Nkx2.1 at 48 nM (Fig. 5D), and only when concentrations of uShhN at 384 nM (Fig. 5B) and 3070 nM (Fig. 5A) were used could Nkx2.1 be detected. The relative potencies of mShhN and uShhN in this assay are similar to those found at E11. In both assays, 48 nM mShhN exhibits maximal activity, whereas uShhN activity is not appreciable until 384 nM and 3070 nM. These data suggest that N-terminal fatty-acylation enhances Shh signaling during both early (E9, 0-4 somites) and late (E11) ventral telencephalic development. 
+
+
+
+Shh containing a point mutation at the site of fatty-acylation is unable induce ectopic Dlx2 expression and severe brain deformities in the mouse telencephalon in vivo
+
+
+Recent studies show that a point mutation converting the N-terminal cysteine of Shh to a serine (C24S) inhibits palmitoylation of Shh in vitro (Pepinsky et al., 1998). In order to determine whether Shh-mediated induction of Dlx2-expressing ventral telencephalic neurons is also affected by this point mutation, retroviruses producing full-length wild-type Shh and the C24S mutant form (C24S-Shh) were injected into mouse E9.5 telencephalic vesicles. Injections at this early stage in development were guided by ultrasound as described (Olsson et al., 1997; Gaiano et al., 1999). Alkaline phosphatase is dicistronic with Shh in the viral constructs and serves as a marker for virally-infected clusters (Fig. 6B,D,G,I,J). Fig. 6A,C,E shows that retroviruses containing wild-type Shh induce Dlx2 ectopically in regions adjacent to the LGE of the ventral telencephalon, a region where Dlx2 is normally expressed. Ectopic expression of Dlx2 occurred in cells overlapping with Shh-infected cells (Fig. 6A) and in regions adjacent to, or several cell diameters from, Shh-infected cells (Fig. 6C,E). This suggests that Dlx2 can be induced by long-range signaling. In addition, ectopic Dlx2 clusters were found more dorsally in regions of the cortex where severe malformations were detected (Gaiano et al., 1999; and data not shown). 37/42 brains injected with wild-type Shh virus contained severe malformations and distensions in dorsal regions of the forebrain (Fig. 6K,L; Gaiano et al., 1999). In contrast, ectopic Dlx2 clusters were not detected when viruses containing the C24S mutant form of Shh were injected (Fig. 6F,H), despite the fact that large virally infected clusters could be detected by alkaline phosphatase staining (Fig. 6G,I). None of the brains (n=38) injected with C24S virus exhibited dorsal malformations similar to the wild-type phenotype (compare Fig. 6K,L (wild-type Shh) versus Fig. 6M,N (C24S-Shh)). In contrast to its lack of activity in the mouse forebrain, Lee et al. have recently shown that the identical C24S-Shh virus causes deformities in the mouse limb (Lee et al., 2001).  
+
+
+
+
+
+
+
+
+
+
+View larger version (62K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 6. Shh containing a point mutation at the site of N-terminal fatty-acylation does not induce ectopic expression of Dlx2 or severe brain deformities in the mouse telencephalon in vivo. E9.5 mice were injected with retroviruses containing alkaline phosphatase, dicistronic with either full-length wild-type Shh or Shh containing a mutation of the N-terminal fatty acylated residue (Cys-24). Embryos were then harvested at E12.5, coronally sectioned through the telencephalon and processed for in situ hybridization with antisense Dlx2 RNA (A,C,E,F,H) or alkaline phosphatase activity (B,D,G,I,J). Arrows with dotted line indicate ectopic Dlx2 induction (A,C,E); arrows in B,G,I,J indicate virally infected clusters. Sections infected with wild-type Shh virus; (F-I) sections infected with C24S virus. Adjacent sections are as follows: A and B, C and D, E and J, F and G, and H and I. (K,L) An enlarged brain phenotype results in embryos infected with wild-type Shh virus (Shh, n=37/42). Arrows indicate the enlarged region of the forebrain. (M,N) Embryos injected with C24S Shh virus appear normal (C24S, n=38). LGE indicates the location of the lateral ganglionic eminence, where Dlx2 is normally expressed.
+
+
+
+
+
+&nbsp;
+
+
+
+We verified that wild-type Shh and C24S-Shh proteins were produced by both viruses by infecting 3T3 cells with each of the viruses, and immunoblotting the lysates with anti-Shh antibodies (Fig. 7A). Lane 5 contains an extract made from wild-type Shh virally infected cells, whereas lane 4 contain an extract made from C24S-Shh virally infected cells. Thus, both C24S-Shh and wild-type Shh proteins are produced by the viruses, indicating that the inactivity of virally produced C24S-Shh is not due to the absence of the protein or its instability. The recombinant Shh proteins used in the in vitro assays described above are also shown in Fig. 7A, lanes 1-3. Although 1 g of each protein was loaded, it appears as if less mShhN was loaded (compare lane 2 with lanes 1 and 3). The reason for this is not known, but may result from the reduced solubility of mShhN compared with uShhN and C24S-ShhN. 
+
+
+
+C24S-ShhN is equivalent to the unmodified N-terminal fragment of Shh in vitro
+
+
+In order to rule out the possibility that conversion of the N-terminal cysteine to a serine inactivates Shh activity, we compared the in vitro activities of the unmodified N-terminal fragment of Shh (uShhN) and the C24S mutant form of the N-terminal fragment of Shh (C24S-ShhN). Fig. 7B depicts both proteins: uShhN (4) and C24S-ShhN (5). In the E11 telencephalic explant assay described above (see Fig. 3; Kohtz et al., 1998) uShhN is equivalent to C24S-ShhN at inducing Dlx/Islet 1/2-expressing ventral telencephalic neurons (Fig. 8). Both proteins induce Dlx (green) or Islet 1/2 (red) only at the two highest concentrations tested (Fig. 8, 960 nM and 386 nM). Therefore, the conversion of Cys-24 to Ser results in a protein with activity similar to that expected for a non-acylated form of Shh. It has previously been reported that although C24S-ShhN can act as a dominant negative in converting C3H10T1/2 cells to an osteoblast lineage, uShhN and C24S-ShhN have equivalent activities in the induction of spinal cord motoneurons (Williams et al., 1999). Thus, in two different neuronal assays, conversion of the N-terminal cysteine to a serine does not affect Shh activity. 
+
+
+
+
+
+
+
+
+
+
+View larger version (78K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 8 The C24S-ShhN protein is equivalent to uShhN in its ability to induce ventral telencephalic neurons expressing Dlx and Islet1/2 in forebrain explants. Rat E11 telencephalic explants were treated with different concentrations of uShhN or C24S-ShhN and stained with anti-Dlx and anti-Islet 1/2 antibodies. The same region of E11 rat telencephalic explant was used for ventral neural induction as in Fig. 3. The level of induction is indicated by the number of cells expressing Dlx (green), Islet 1/2 (red) or both (yellow). Explants were treated with uShhN at the following concentrations: A, 960 nM; C, 386 nM; E, 48 nM. Or with C24S-ShhN: B, 960 nM; D, 386 nM; F, 48 nM (n=4).
+
+
+
+
+
+&nbsp;
+
+
+
+These data suggest that Cys-24 is required for Shh-mediated ventral forebrain induction in vivo. The requirement of this residue for in vitro palmitoylation (Pepinsky et al., 1998), along with the experiments presented above suggest that the inactivity of the C24S-Shh mutant form of Shh in vivo is most likely due to the absence of the fatty-acid moiety. Fig. 8 shows that C24S-ShhN is as potent in activating Shh downstream targets as uShhN. In addition, it has been shown by 1H-NMR and CD spectroscopies that C24S-ShhN is both processed similarly to wild-type ShhN and folds properly (D. P. B. and Dingyi Wen, unpublished). Further support that the C24S-Shh protein is present and active in vivo stems from work showing that overexpression of C24S-Shh RNA in zebrafish can induce the expansion of ventral forebrain genes (H. Y. L. and J. D. K., unpublished). In addition, Lee et al. (Lee et al., 2001) have shown that the C24S-Shh virus induces limb deformities in the mouse supporting the idea that the C24S mutation does not inactivate Shh signaling. Although our data suggest that C24S-Shh is present and can be active, we cannot rule out the possibility that mutation of Cys-24 inactivates Shh signaling by an alternate mechanism. 
+
+
+
+Palmitoylated and myristoylated Shh are membrane bound
+
+
+In order to verify that neural cells are able to produce an N-terminal fatty-acid-modified form of Shh, immunoprecipitation of Shh from the C17 mouse neural cell line was performed. Fig. 9 shows that wild-type Shh immunoprecipitated from C17 cells (Snyder et al., 1992) that have been stably transfected with a plasmid encoding full-length wild-type Shh (Liu et al., 1998), incorporates radiolabel from either 3H-myristate (lane 5) or 3H-palmitate (lane 7), or a mixture of both (lane 4). In addition, lipid-containing wild-type Shh is membrane tethered, as it was detected in the 125,000 g pellet (lanes 4, 5, 7), but not in the cytoplasmic fraction (lane 2) or in the culture supernatant (lanes 6 and 8). When Shh is labeled with 35S-methionine and 35S-cysteine, the majority of the protein is found in the membrane fraction (lane 12), and not in the cytoplasmic fraction (lane 10). However, low levels of a secreted form can be detected in the medium (lane 14). Shh could not be detected in the C17 control cell line lacking the Shh plasmid (lanes 1, 3, 9, 11, 13). These data, along with experiments by Pepinsky et al. (Pepinsky et al., 1998), indicate that lipid-modified Shh can be detected as membrane-tethered forms. While radiolabel can be incorporated into Shh from either 3H-myristate (lane 5) or 3H-palmitate (lane 7), we cannot determine from these data alone whether the myristate is attached directly or is converted to palmitate prior to attachment. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+In this paper we show that the presence of an N-terminal fatty-acid moiety on Shh significantly enhances its ability to induce the differentiation of rodent ventral forebrain neurons. The resulting activities of the different lipid forms of Shh are summarized in Fig. 7B. The activity of fatty-acylated Shh (mShhN) is significantly greater at ventralizing forebrain neurons from two different ages in the rat (E9 and E11) when compared with unacylated Shh (uShhN). Ventral neuronal induction is marked by the expression of Nkx2.1 (at E9) or Dlx, Islet 1/2 and/or Mash1 (at E11). Conversion of the site of fatty-acylation (Cys-24, Pepinsky et. al., 1998) to serine inactivates the ability of Shh to induce Dlx2 ectopically in mouse embryos at E9.5 (Fig. 7B, comparison of proteins 1 and 2). In addition, an enlarged brain phenotype, resulting from the introduction of full-length wild-type Shh, does not occur when an unacylatable form of Shh (C24S-Shh) is introduced. Taken together, these results suggest that N-terminal fatty-acylation of Shh plays an important role in the differentiation of rodent ventral forebrain neurons. 
+
+
+
+mShhN induces LGE neurons expressing Dlx, Mash1 and Islet 1/2 in E11 rat telencephalic explants, similar to those found in vivo
+
+
+Characterization of LGE neurons found in the proliferative and post-mitotic zones of the E14 rat LGE show that they co-express combinations of Dlx, Mash1, and Islet 1/2, but not Nkx2.1. BrdU incorporation studies have previously shown that Dlx2- and Mash1-expressing neurons are proliferating and reside in the VZ/SVZ border (Porteus et al., 1994). Using double labeling, we find that Mash1 and Dlx are expressed in both distinct and overlapping populations of neurons in the VZ and SVZ of the LGE. Islet 1/2 is a LIM homeobox protein that has been found in motoneurons after their last division in the spinal cord VZ (Ericson et al., 1996), and in more differentiated neurons derived from presumptive telencephalic chick explants (Gunhaga et al., 2000). We find that, like Dlx- and Mash1- expressing neurons, Islet 1/2 and Dlx are also expressed in both distinct and overlapping populations of neurons. However, Islet 1/2-expressing neurons are found only in the more differentiated region of the LGE. Double labeling with Mash1 and Islet 1/2 show that these genes are expressed in distinct populations of neurons, consistent with their previously published expression patterns in the forebrain (Guillemot and Joyner 1993; Porteus et. al. 1994; Kohtz et al., 1998). In E11 telencephalic explants, mShhN-induced neurons express Dlx, Mash1 or Islet 1/2, co-express Dlx and Mash1 or Dlx and Islet 1/2, but do not co-express Mash1 and Islet 1/2. These data suggest that mShhN-induced neurons express Dlx, Mash1 and Islet 1/2 in similar combinations to proliferating and differentiated populations found in vivo. 
+
+
+
+Although we find that mShhN-induced striatal neurons express genes characteristic of early striatal neurons, markers characteristic of mature striatal neurons, such as DARP-32 or parvalbumin are not detected (data not shown). Therefore, we do not know whether these neurons are fated to become striatal projection neurons or interneurons, or both. It will be interesting to determine whether cooperative factors can in fact induce the expression of more mature striatal phenotypes in the telencephalon, or whether these are determined by tissue intrinsic factors. 
+
+
+
+The role of N-terminal fatty acylated Shh in the developing rodent forebrain
+
+
+Evidence is presented that N-terminal fatty-acylation of Shh enhances potency 200-fold in the mShhN optimal range in the rat forebrain. This enhancement affects neurons that will populate the two major subdivisions of the basal ganglia, the striatum and globus pallidus. One question raised by these results is whether acylation-dependent enhancement occurs in all Shh-dependent signaling contexts. Williams et al. report that acylated and unacylated Shh have equivalent activities at inducing the differentiation of motoneurons in the chick spinal cord (Williams et al., 1999). Thus, acylation does not simply result in super sonic hedgehog activity in all signaling contexts. If acylation enhances Shh activity in the forebrain, is it possible that it diminishes Shh activity in a different context? Is the forebrain the only region that is influenced by acylated Shh? The equivalent activities of acylated and unacylated Shh in the chick spinal cord raise the question of whether the enhanced activity of Shh is species dependent or position dependent. Lee et al. (2001) recently reported that N-terminal fatty-acylated Shh is differentially required during Drosophila and mouse limb development. Thus, it will be important to further characterize the role of N-terminal fatty-acylation of Shh in different regions of the embryo and in different species. 
+
+
+
+One important difference between Shh-mediated ventral patterning of the telencephalon and more caudal regions of the neural tube is the absence of the underlying notocord and prechordal plate, which are known sources of Shh caudally. In addition, ventral telencephalic neurons are detected before telencephalic Shh expression (Ericson et al., 1995; Fishell, 1997; Shimamura and Rubenstein, 1997; Kohtz et al., 1998). Support for the idea that MGE neurons are specified from early expression of Shh secreted along the anterior primitive streak/Hensens node during gastrulation has recently been reported (Gunhaga et al., 2000). These experiments suggest that there is a gap in timing of exposure to Shh signal and transduction of its signal pathway in the specification of telencephalic neurons. One possibility is that N-terminal fatty-acylation of Shh plays a role in this delay in signal transduction. Experiments to address this possibility are presently being performed. 
+
+
+
+Fatty-acylation as a mechanism for enhancing the Shh signal
+
+
+What are the possible effects of fatty-acylation on a signaling molecule such as Shh? Lipid modifications such as myristoylation and palmitoylation have been shown to result in the restriction of proteins to the cell membrane (Goldstein and Brown, 1990; reviewed by Johnson et al., 1994; Casey, 1995). Whereas it is thought that myristoylation is a stable co-translational modification, palmitoylation is dynamic and occurs post-translationally. It has recently been shown that post-translational myristoylation of the pro-apoptotic protein BID targets this protein to mitochondria, thereby enhancing BID-induced release of cytochrome C and cell death (Zha et al., 2000). These authors argue that myristoylation in itself does not target BID to mitochondria, but in fact induces a conformational change in the BID complex. As further support for this hypothesis, the authors cite results from experiments showing that myristoylation of NADH cytochrome b5 reductase is not required for its mitochondrial localization (Borgese et al., 1996). Similar to BID N-terminal myristoylation, N-terminal fatty-acylation of Shh may induce a conformational change in Shh, resulting in a difference in its activity. In addition to membrane localization, acylation is known to affect the activities of proteins in signaling at the cytoplasmic side of the plasma membrane. The presence of lipid moieties on trimeric GTP-binding proteins affects their association and the activities of G-protein coupled receptors (reviewed in Casey, 1995). It has also been found that many of the known acylated proteins contain two lipid moieties. Lipid modifications on Shh are unique in two regards. Experiments by Pepinsky et al. indicate that the N-terminal palmitate on Shh is not thioester-linked, as it is with all other known palmitoylated proteins (Pepinsky et al., 1998). Instead, the palmitate attaches via a stable amide linkage, similar to the attachment of myristoylated proteins. Thus, it remains to be determined whether Shh palmitoylation is dynamic, as it is with other palmitoylated proteins. If Shh palmitoylation is dynamic, it will be important to determine whether specific enzymes modulate the attachment and removal of the palmitate, as have been reported for palmitoylated H-ras (Camp and Hoffman, 1993; Camp et al., 1994). In addition to the N-terminal palmitate, a C-terminal cholesterol modification has been identified on Shh. The C-terminal cholesterol functions in tethering Shh to the cell surface (Porter et al., 1996). It is believed that tethering limits Shh signaling to nearby cells, rendering a short-range signal. Recent evidence indicates that a novel gene, dispatched, may mediate the removal of Shh from the surface of the signaling cell (Burke et al., 1999), thereby allowing Shh to signal in a long-range manner. Evidence provided in this paper suggests that N-terminal acylation may have a role distinct from such tethering. 
+
+
+
+In our experiments, the use of soluble Shh and explants to assay for Shh activity makes short-range and long-range distance effects indistinguishable. However, if N-terminal fatty-acylation tethers Shh to the receiving cell, increasing its local concentration, then mShhN would exhibit enhanced activities in all the in vitro assays tested compared with uShhN. Given that cells within the explant are exposed to the same concentration of Shh, the ability to detect a difference in the activity of mShhN versus uShhN in rodent ventral forebrain explant assays, but not in chick spinal cord explant assays (Williams et al., 1999; J. D. K. and G. F., unpublished), suggests that N-terminal lipid modification may alter the mechanism of Shh signaling. A number of possibilities may be invoked to explain the enhanced activity of mShhN in rodents. mShhN may bind with higher affinity to its known receptor patched (Marigo et al., 1996; Stone et al., 1996), which has been shown to interact with Shh both biochemically and genetically, or to a different receptor altogether. Another possibility is that the fatty acyl chain may result in rapid internalization of the Shh protein. Outside the cell, N-terminal acylation may prevent the action of inhibitory molecules or overcome a dependence on cooperative factors. The cooperative activities of Shh and Fgf8, Fgf4 and Bmp7 have been described in different Shh signaling contexts (Dale et al., 1997; Hynes et al., 1995; Ye et al., 1998; Shimamura and Rubenstein, 1997). It will be important to determine which of these mechanisms is responsible for the enhancement of N-terminal fatty-acylation in rodent ventral forebrain induction. It should be noted that N-terminal Shh containing two lipid moieties, palmitate at the N terminus and cholesterol at the C terminus, has been isolated (Pepinsky et al., 1998). Thus, the effects of including both lipids on Shh signaling remain to be determined. Further investigation of the effects of fatty-acid modifications on the mechanism of Shh signaling will be essential to our understanding of how ventral telencephalic induction occurs. Moreover, of particular interest will be how these modifications influence Shh activity in a variety of signaling contexts and species. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We thank Aimin Liu and Alex Joyner for the Shh-containing stably transfected cell line, Shh-C17, Jane Johnson for mouse anti-Mash1 antibody, Grace Panganiban for anti-Dll, antibody, Roberto DiLauro for anti-Nkx2.1 (TTF-1) antibody, Tom Jessell for rabbit anti-Shh antibody and rabbit anti-islet antibody, and the Developmental Studies Hybridoma Bank for the purified anti-Shh antibody (5E1) and mouse anti-Islet 1/2 antibody. We thank Johan Ericson and Tom Jessell for helpful discussions, Marysia Placzek for advice and many helpful discussions, and Dan Turnbull for advice on ultrasound injections into E 8.5 and E9.5 mouse embryos. We thank the following people at Biogen for advice (Blake Pepinsky, Fred Taylor, Leona Ling and Alphonse Galdes) and mass spectrometry (Chenhui Zeng and Xiaoping Hronowski), and David Bumcrot from Ontogeny for supplying the cDNA encoding the N-terminal fragment of human Shh. In addition, we thank Riva Marcus, Maria McCarthy, Alex Schier, Rolf Karlstrom and Bryan White for critically reading this manuscript and helpful discussions throughout the course of this work. J. D. K. is a Howard Hughes Young Investigator. N. G. is supported by a postdoctoral fellowship from the American Cancer Society (PF4473). This work was supported by NIH grants NS32993 (G. F.) and March of Dimes Grant 6-FY99-634 (G. F.). 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Anderson S. A., Qui, M., Bulfone, A., Eisenstat, D., Meneses, J., Pedersen, R. and Rubenstein, J. L. (1997). Mutations of the homeobox genes Dlx-1 and Dlx-2 disrupt the striatal subventricular zone and differentiation of late born striatal neurons. Neuron 19, 27-37.[Medline]
+
+
+
+Anderson K. D. and Reiner A. (1991). Immunohistochemical localization of DARPP-32 in striatal projection neurons and striatal interneurons: implications for the localization of D1-like dopamine receptors on different types of striatal neurons. Brain Res. 568, 235-243.[Medline]
+
+
+
+Borgese, N., Aggujaro, D., Carrera, G., Pietrini, G. and Bassetti, M. (1996). A role for N-myristoylation in protein targeting: NADH-cytochrome b5 reductase requires myristic acid for association with outer mitochondrial but not ER membranes. J. Cell Biol. 135, 1501-1513.[Abstract]
+
+
+
+Burke, R., Nellen, D., Bellotto, M., Hafen, E., Senti, K-A, Dickson, B. J. and Basler, K. (1999). Dispatched, a novel sterol-sensing domain protein dedicated to the release of cholesterol-modified hedgehog from signaling cells. Cell 99, 803-815.[Medline]
+
+
+
+Camp, L. A. and Hofmann, S. L. (1993). Purification and properties of a palmitoyl-protein thioesterase that cleaves palmitate from H-ras. J. Biol. Chem. 268, 22 566-22574.[Abstract/Free Full&nbsp;Text]
+
+
+
+Camp, L. A., Verkruyse, L. A., Afendis, S. J., Slaughter, C. A. and Hofmann, S. L. (1994). Molecular cloning and expression of palmitoly-protein thioesterase. J. Biol. Chem. 269, 23212- 23219.[Abstract/Free Full&nbsp;Text]
+
+
+
+Casey, P. J. (1995). Protein lipidation in cell signaling. Science 268, 221-225.[Medline]
+
+
+
+Casarosa, S., Fode, C. and Guiellemot, F. (1999). MASH-1 regulates neurogenesis in the ventral telencephalon. Development 126, 525-534.[Abstract/Free Full&nbsp;Text]
+
+
+
+Chiang, C., Litingtung, Y., Lee, E., Young, K. E., Corden, J. L., Westphal, H. and Beachy, P. A. (1996). Cyclopia and defective axial patterning in mice lacking Sonic Hedgehog gene function. Nature 383, 407-413.[Medline]
+
+
+
+Corbin, J., Gaiano, N., Machold, R. P., Langston, A. and Fishell, G. (2000). The Gsh-2 homeodomain gene controls multiple aspects of telencephalic development. Development 127, 5007-5020.[Abstract/Free Full&nbsp;Text]
+
+
+
+Dale, K. J., Vesque, C., Lints, T. J., Sampath, K. T., Furley, A., Dodd, J. and Placzek, M. (1997). Cooperation of BMP-7 and SHH in the induction of forebrain ventral midline cells by prechordal mesoderm. Cell 90, 257-269.[Medline]
+
+
+
+Degtyarev, M. Y., Spiegel, A. M. and Jones, T. L. Z. (1994). Palmitoylation of a G protein a1 subunit requires membrane localization not myristoylation. J. Biol. Chem. 269, 30898-30903.[Abstract/Free Full&nbsp;Text]
+
+
+
+Ericson, J., Muhr, J., Placzek, M., Lints, T., Jessell, T. M. and Edlund, T. (1995). Sonic Hedgehog induces the differentiation of ventral forebrain neurons: a common signal for ventral patterning within the neural tube. Cell 81, 747-756.[Medline]
+
+
+
+Ericson, J, Morton, S., Kawakami, A., Roelink, H. and Jessell, T. M. (1996). Two critical periods of long-range Sonic Hedgehog signaling required for the specification of motor neuron identity. Cell 87, 661-674.[Medline]
+
+
+
+Ericson, J., Briscoe, J., Rashbass, P., van Heyningen, V. and Jessell, T. M. (1997). Graded sonic hedgehog signaling and the specification of cell fate in the ventral neural tube. Cold Spring Harbor Symp. Quant. Biol. LXII, 451-466.
+
+
+
+Fishell, G. (1997). Regionalization in the mammalian telencephalon. Curr. Opin. Neurobiol. 7, 62-69.[Medline]
+
+
+
+Gaiano, N., Kohtz, J. D., Turnbull, D. H. and Fishell, G. (1999). A method for rapid gain-of-function studies in the mouse embryonic nervous system. Nat. Neurosci. 2, 812-819.[Medline]
+
+
+
+Goldstein, J. L. and Brown, M. S. (1990). Regulation of the mevalonate pathway. Nature 343, 425-430.[Medline]
+
+
+
+Guillemot, F. and Joyner, A. (1993). Dynamic expression of the murine Achaete-Scute homologue Mash-1 in the developing nervous system. Mech. Dev. 42, 171-185.[Medline]
+
+
+
+Gunhaga, L., Jessell, T. M. and Edlund, T. (2000). Sonic hedgehog signaling at gastrula stages specifies ventral telencephalic cells in the chick embryo. Development 127, 3283-3293.[Abstract/Free Full&nbsp;Text]
+
+
+
+Hseih-Li, H. M., Witte, D. P., Szucsik, J. C., Weinstein, M., Li, H. and Potter, S. S. (1995). Gsh-2, a murine homeobox gene expressed in the developing brain. Mech. Dev. 50, 177-186.[Medline]
+
+
+
+Hynes, M., Poulsen, K., Tessier-Lavigne, M. and Rosenthal, A. (1995). Induction of midbrain dopaminergic neurons by Sonic Hedgehog. Cell 80, 95-101.[Medline]
+
+
+
+Ingham, P. W. (1998). Transducing Hedgehog: the story so far. EMBO J. 17, 3505-3511.[Abstract/Free Full&nbsp;Text]
+
+
+
+Johnson, D. R., Bhatnagar, R. S., Knoll, L. J. and Gordon, J. I. (1994). Genetic and biochemical studies of protein N-myristoylation. Ann. Rev. Biochem. 63, 869-914.[Medline]
+
+
+
+Kinto, N., Iwamoto, M., Enomoto-Iwamoto, M., Noji, S., Ohuchi, H., Yoshioka, H., Kataoka, H., Wada, Y., Yuhao, G., Takahashi, H. E., Yoshiki, S. and Yamaguchi, A. (1997). Fibroblasts expressing Sonic hedgehog induce osteoblast differentiation and ectopic bone formation. FEBS Lett. 404, 319-323.[Medline]
+
+
+
+Kohtz, J. D., Baker, D. P. Cortes, G. and Fishell, G. (1998). Regionalization within the mammalian telencephalon is mediated by changes in responsiveness to Shh. Development 125, 5079-5089.[Abstract/Free Full&nbsp;Text]
+
+
+
+Lazzaro, D., Price, M., De Felice, M. and Di Lauro, R. (1991). The transcription factor TTF-1 is expressed at the onset of thyroid and lung morphogenesis and in restricted regions of the foetal brain. Development 113, 1093-1104.[Abstract]
+
+
+
+Lee, J. D., Kraus, P., Gaiano, N., Nery, S., Kohtz, J. D., Fishell, G., Loomis, C. A. and Treisman, J. A. (2001). An acylatable residue of Hedgehog is differentially required in Drosophila and mouse limb development. Dev. Biol. (in press).
+
+
+
+Liu, A., Joyner, A. and Turnbull, D. H. (1998). Alteration of limb and brain patterning in early mouse embryos by ultrasound-guided injection of Shh-expressing cells. Mech. Dev. 75, 107-115.[Medline]
+
+
+
+Marigo, V., Davey, R. A., Zuo, Y., Cunningham, J. M. and Tabin, C. J. (1996). Biochemical evidence that patched is the Hedgehog receptor. Nature 384, 176-179.[Medline]
+
+
+
+Marin, O., Anderson, S. A. and Rubenstein, J. L. (2000). Origin and specification of striatal interneurons. J. Neurosci. 20, 6063-6076.[Abstract/Free Full&nbsp;Text]
+
+
+
+Marti, E., Takada, R., Bumcrot, D. A., Sasaki, H. and McMahon, A. P. (1995a). Distribution of Sonic Hedgehog peptides in the developing chick and mouse embryo. Development 121, 2537-2547.[Abstract/Free Full&nbsp;Text]
+
+
+
+Marti, E., Bumcrot, D. A., Takada, R. and McMahon, A. P. (1995b). Requirement of 19K form of Sonic hedgehog for induction of distinct ventral cell types in CNS explants. Nature 375, 322-325.[Medline]
+
+
+
+McMahon, A. P. (2000). More surprises in the Hedgehog signaling pathway. Cell 100, 185-188.[Medline]
+
+
+
+Nery, S., Nichterle, H. and Fishell, G. (2001). Sonic hedgehog contributes to oligodendrocyte specification in the mammalian forebrain. Development 128, 1527-1540.
+
+
+
+Olsson, M., Campbell, K. and Turbull, D. H. (1997). Specification of mouse telecephalic and mid-hindbrain progenitors following heterotopic ultrasound-guided embryonic transplantation. Neuron 19, 761-772.[Medline]
+
+
+
+Panganiban, G., Sebring, A., Nagy, L. and Carroll, S. (1995). The development of crustacean limbs and the evolution of arthropods. Science 270, 1363-1366.[Abstract]
+
+
+
+Pepinsky, R. B., Zeng, C., Wen, D., Rayhorn, P., Baker, D. P., Williams, K. P., Bixler, S. A., Ambrose, C. M., Garber, E. A., Miatkowski, K. et al. (1998). Identification of a palmitic acid-modified form of human sonic hedgehog. J. Biol. Chem. 273, 14037-14045.[Abstract/Free Full&nbsp;Text]
+
+
+
+Placzek, M., Tessier-Lavigne, M., Yamada, T., Jessell, T. M. and Dodd, J. (1990). Mesodermal control of neural cell identity: floor plate induction by the notochord. Science 250, 985-988.[Medline]
+
+
+
+Placzek, M., Jessell, T. M. and Dodd, J. (1993). Induction of floor plate differentiation by contact-dependent, homogenetic signals. Development 117, 205-218.[Abstract/Free Full&nbsp;Text]
+
+
+
+Porter, J. A., Young, K. E. and Beachy, P. A. (1996). Cholesterol modification of hedgehog signaling proteins in animal development. Science 274, 255-259.[Abstract/Free Full&nbsp;Text]
+
+
+
+Porteus, M. H., Bulfone, A., Liu, J. K., Puelles, L., Lo, L., C., Rubenstein, J., L. (1994). DLX-2, MASH-1, MAP-2 expression and bromodeoxyuridine incorporation define molecularly distinct cell populations in the embryonic mouse forebrain. J. Neurosci. 14, 6370-6383.[Abstract]
+
+
+
+Roelink, H., Porter, J. A., Chiang, C.,Tanabe, Y., Chang, D. T., Beachy, P. A. and Jessell, T. M. (1995). Floor plate and motor neuron induction by different concentrations of the amino-terminal cleavage product of Sonic Hedgehog autoproteolysis. Cell 81, 445-455.[Medline]
+
+
+
+Schaeren-Wiemers, N. and Gerfin-Moser, A. (1993). A single protocol to detect transcripts of various types and expression levels in neural tissue and cultured cells; in situ hybridization using digoxigenin-labeled cRNA probes. Histochemistry 100, 431-440[Medline]
+
+
+
+Shimamura, Hartigan, D. J., Martinez, S., Puelles, L. and Rubenstein, J. L. (1995). Longitudinal organization of the anterior neural plate and neural tube. Development 121, 3923-3933.[Abstract/Free Full&nbsp;Text]
+
+
+
+Shimamura, K and Rubenstein, J. L. (1997). Inductive interactions direct early regionalization of the mouse forebrain. Development 124, 2709-2718.[Abstract/Free Full&nbsp;Text]
+
+
+
+Snyder E. Y., Deitcher, D. L., Walsh, C., Arnold-Aldea, S., Hartwieg, E. A. and Cepko, C. L. (1992). Mutipotential neural cell lines can engraft and participate in development of mouse cerebellum. Cell 68, 33-51.[Medline]
+
+
+
+Stone, D. M., Hynes, M., Armanini, M., Swanson, T. A., Gu, Q., Johnson, R. L., Scott, M. P., Pennica, D., Goddard, A., Phillips, H., Noll, M., Hooper, J. E., de Sauvage, F. and Rosenthal, A. (1996). The tumor suppressor gene patched encodes a candidate receptor for Sonic Hedgehog. Nature 384, 119-120.[Medline]
+
+
+
+Sussel, L., Marin, O., Kimura, S., Rubenstein, J. L. (1999). Loss of Nkx2.1 homeobox gene function results in a ventral to dorsal molecular respecification within the basal telencephalon: evidence for a transformation of the pallidum into the striatum. Development 126, 3359-3370.[Abstract/Free Full&nbsp;Text]
+
+
+
+Szucsik, J. C., Witte, D. P., Li, H., Pixley, S. K., Small, K. M. and Potter, S. S. (1997). Altered forebrain and hindbrain development in mice mutant for the Gsh-2 homeobox gene. Dev. Biol. 191, 230-242.[Medline]
+
+
+
+Taylor, F., Wen, D., Garber, E., Carmillo, A. N., Baker, D., Arduini, R. M., Williams, K. P., Weinreb, P. H., Rayhorn, P., Hronowski, X. et al. (2001). Enhanced potency of human Sonic Hedgehog by hydrophobic modification. Biochemistry (in press).
+
+
+
+Thor, S., Ericson, J., Brannstrom, T. and Edlund, T. (1991). The homeodomain LIM protein Isl-1 is expressed in subsets of neurons and endocrine cells in the adult rat. Neuron 7, 881-889.[Medline]
+
+
+
+Torreson, H., Potter, S. S. and Campbell, K. (2000). Genetic control of dorsal-ventral identity in the telencephalon: opposing roles of Gsh2 and Pax6. Development 127, 4361-4371.[Abstract/Free Full&nbsp;Text]
+
+
+
+van Straaten, H. M. W., Hekking, J. M. W., Wiertz-Hoessels, E. I., Thors, F. and Drukker, J. (1988). Effect of the notochord on the differentiation of a floor plate area in the neural tube of the chick embryo. Anat. Embryol. 177, 317-324.[Medline]
+
+
+
+Williams, K. P., Rayhorn, P., Chi-Rosso, G., Garber, E., Strauch, K. L., Horan, G. S., Reilly, J. O., Baker, D. P., Taylor, F. R., Koteliansky, V. and Pepinsky, R. B. (1999). Functional antagonists of sonic hedgehog reveal the importance of the N terminus for activity. J. Cell Sci. 112, 4405-4414.[Abstract/Free Full&nbsp;Text]
+
+
+
+Yamada, T., Placzek, M., Tanaka, H., Dodd, J. and Jessell, T. M. (1991). Control of cell pattern in the developing nervous system: polarizing activity of the floor plate-notocord. Cell 64, 635-647.[Medline]
+
+
+
+Ye, Weilan, Shimamura, K., Rubenstein, J. L. R., Hynes, M. A. and Rosenthal, A. (1998). FGF and Shh signals control dopaminergic and serotonergic cell fate in the anterior neural plate. Cell 93, 755-766.[Medline]
+
+
+
+Yun, K., Potter, S. and Rubenstein, J. L. (2001). Gsh2 and Pax6 play complementary roles in dorsal ventral patterning of the mammalian telencephalon. Development 128, 193-205.[Abstract/Free Full&nbsp;Text]
+
+
+
+Zha, J., Weiler, S., Oh, K. J., Wei, M. C., Korsmeyer, S. J. (2000). Post-translational N-myristoylation of BID as a molecular switch for targeting mitochondria and apoptosis. Science 290, 1761-1765.[Abstract/Free Full&nbsp;Text]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

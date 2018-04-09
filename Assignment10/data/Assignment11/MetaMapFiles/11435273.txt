@@ -1,0 +1,2681 @@
+Processing 00000000.tx.1: Advising relatives of risk of Alzheimer's disease B. 
+
+Phrase: "Advising relatives of risk of Alzheimer's disease B."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   750   C0242492:Relative Risk [Quantitative Concept]
+   744   C0080103:Relatives [Family Group]
+   711 E C0205345:Relative [Qualitative Concept]
+   711 E C1547039:*Relative [Quantitative Concept]
+Processing 00000000.tx.2: A. 
+
+Phrase: "A."
+Processing 00000000.tx.3: Blansjaar and H. 
+
+Phrase: "Blansjaar"
+
+Phrase: "and"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.4: W. van Schaick GGZ Delfland, Sint Jorisweg 2, 2612 GA Delft, The Netherlands Liddell et al (2001) reviewed what knowledge we have on the genetic epidemiology of Alzheimer's disease for the purpose of informing relatives of patients about their own risks. 
+
+Phrase: "W. van Schaick GGZ Delfland,"
+
+Phrase: "Sint Jorisweg 2,"
+
+Phrase: "2612 GA Delft,"
+
+Phrase: "The Netherlands Liddell et al (2001"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0027778:The Netherlands [Geographic Area]
+           Netherlands
+
+Phrase: ")"
+
+Phrase: "reviewed"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0282443:reviewed [Intellectual Product]
+  1000   C1709940:Reviewed [Qualitative Concept]
+   966 E C1552617:Review [Idea or Concept]
+
+Phrase: "what knowledge"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0376554:Knowledge [Intellectual Product]
+
+Phrase: "we"
+
+Phrase: "have on the genetic epidemiology of Alzheimer's disease"
+Meta Candidates (Total=14; Excluded=2; Pruned=0; Remaining=12)
+   770   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   770   C0872180:Genetic Epidemiology [Occupation or Discipline]
+   770   C1521724:Alzheimer's Disease [Pathologic Function]
+   767   C0019247:Genetic disease [Disease or Syndrome]
+   744   C0012634:Disease [Disease or Syndrome]
+   744   C0014507:Epidemiology [Biomedical Occupation or Discipline]
+   744   C0014508:epidemiology [Functional Concept]
+   744   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   744   C0314603:Genetic [Functional Concept]
+   744   C0699910:epidemiology [Health Care Activity]
+   744   C3154893:Have [Idea or Concept]
+   744   C3539897:Have [Qualitative Concept]
+   725 E C2316203:Genetic diseases [Finding]
+   725 E C2924406:Genetic diseases [Laboratory Procedure]
+
+Phrase: "for the purpose"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1285529:Purpose [Functional Concept]
+
+Phrase: "of informing relatives"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   983   C0582447:Informing relative [Health Care Activity]
+   861   C0080103:Relatives [Family Group]
+   827 E C0205345:Relative [Qualitative Concept]
+   827 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "about their own risks."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0035647:Risks [Qualitative Concept]
+Processing 00000000.tx.5: We read their review with interest; 
+
+Phrase: "We"
+
+Phrase: "read"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0034754:Read [Daily or Recreational Activity]
+  1000   C1705179:read [Finding]
+
+Phrase: "their review with interest"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0282443:Review [Intellectual Product]
+   770   C1552617:Review [Idea or Concept]
+
+Phrase: ";"
+Processing 00000000.tx.6: however, we disagree on several points. 
+
+Phrase: "however,"
+
+Phrase: "we"
+
+Phrase: "disagree on several points."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C3641828:Disagree [Intellectual Product]
+   737   C1552961:Point [Quantitative Concept]
+   737   C2347617:point [Quantitative Concept]
+Processing 00000000.tx.7: First, in many cases of late-onset dementia, differentiating between the common causes of Alzheimer's disease and vascular dementia is difficult. 
+
+Phrase: "First,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205435:First [Quantitative Concept]
+  1000   C1279901:First [Qualitative Concept]
+
+Phrase: "in many cases"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0868928:Cases [Functional Concept]
+  1000   C1533148:Cases [Quantitative Concept]
+   966 E C1706255:CASE [Medical Device]
+   966 E C1706256:Case [Conceptual Entity]
+
+Phrase: "of late-onset dementia,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1848565:Dementia, late-onset [Finding]
+   827   C0011265:dementia [Mental or Behavioral Dysfunction]
+   827   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   727 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "differentiating between the common causes of Alzheimer's disease"
+Meta Candidates (Total=11; Excluded=1; Pruned=0; Remaining=10)
+   770   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   770   C1521724:Alzheimer's Disease [Pathologic Function]
+   750   C1314792:disease cause [Functional Concept]
+           Causes
+   744   C0012634:Disease [Disease or Syndrome]
+   744   C0015127:causes [Functional Concept]
+   744   C0205214:Common [Quantitative Concept]
+   744   C0205615:differentiating [Qualitative Concept]
+   744   C1522138:Common [Functional Concept]
+   744   C3245511:common [Intellectual Product]
+   711 E C1524003:Cause [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "vascular dementia"
+Meta Candidates (Total=14; Excluded=8; Pruned=0; Remaining=6)
+  1000   C0011269:Dementia, Vascular [Disease or Syndrome]
+   861   C0005847:vascular [Body Part, Organ, or Organ Component]
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   861   C1558950:VASCULAR [Finding]
+   861   C1801960:Vascular [Qualitative Concept]
+   805 E C1283786:Blood vessel [Body Part, Organ, or Organ Component]
+   805 E C1511228:VESSEL, BLOOD [Tissue]
+   761 E C0005767:Blood [Tissue]
+   761 E C0005768:blood [Body Substance]
+   761 E C0229664:Blood [Body Substance]
+   761 E C0392895:Bloods [Population Group]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+   745 E C0333275:Bloody [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "difficult."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0332218:Difficult [Qualitative Concept]
+   928 E C1299586:Difficulty [Finding]
+Processing 00000000.tx.8: In everyday clinical practice even differentiating Alzheimer's disease from Lewy-body disease and frontaltemporal dementia is not always feasible. 
+
+Phrase: "In everyday clinical practice even"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0237607:practice [Mental Process]
+   812   C3245512:practice [Intellectual Product]
+
+Phrase: "differentiating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205615:differentiating [Qualitative Concept]
+
+Phrase: "Alzheimer's disease from Lewy-body disease"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   814   C0752347:body disease lewy [Disease or Syndrome]
+   790   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   790   C1521724:Alzheimer's Disease [Pathologic Function]
+   753   C0012634:Disease [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "frontaltemporal dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "is"
+
+Phrase: "not always feasible."
+Processing 00000000.tx.9: To what extent these distinctions are relevant to genetic counselling with respect to late-onset dementia is not clear. 
+
+Phrase: "To what extent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439792:Extent [Spatial Concept]
+
+Phrase: "these distinctions"
+
+Phrase: "are"
+
+Phrase: "relevant to genetic counselling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C2347946:Relevant [Qualitative Concept]
+
+Phrase: "with respect to late-onset dementia"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1848565:Dementia, late-onset [Finding]
+   827   C0011265:dementia [Mental or Behavioral Dysfunction]
+   827   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   727 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "clear."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+Processing 00000000.tx.10: Second, the very high prevalence of dementia found in centenarians (Asada et al, 1996; Blansjaar et al, 2000) is not the only argument against a slowing down of the rate of increase in dementia over 85, 90 or 95 years of age. 
+
+Phrase: "Second,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0205436:Second [Quantitative Concept]
+  1000   C0457385:Second [Temporal Concept]
+  1000   C0565930:/second [Quantitative Concept]
+  1000   C1561503:second [Idea or Concept]
+  1000   C1705190:Second [Qualitative Concept]
+   928 E C0027627:secondary [Neoplastic Process]
+   928 E C0175668:Secondary [Temporal Concept]
+
+Phrase: "the very high prevalence of dementia"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C1512456:High Prevalence [Quantitative Concept]
+   753   C0033105:Prevalence [Quantitative Concept]
+   753   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "found in centenarians"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C0007667:Centenarians [Age Group]
+   790   C0150312:Found [Quantitative Concept]
+   756 E C0243095:Find [Finding]
+
+Phrase: "(Asada et al,"
+
+Phrase: "1996"
+
+Phrase: "; Blansjaar et al,"
+
+Phrase: "2000"
+
+Phrase: ")"
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "the only argument against a slowing"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0680226:argument [Social Behavior]
+   753   C1704769:Argument [Conceptual Entity]
+
+Phrase: "down"
+
+Phrase: "of the rate"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0871208:Rate [Activity]
+  1000   C1521828:Rate [Quantitative Concept]
+
+Phrase: "of increase"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+
+Phrase: "in dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "over 85,"
+
+Phrase: "90"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439083:>90 [Quantitative Concept]
+  1000   C0439087:<90 [Quantitative Concept]
+
+Phrase: "or"
+
+Phrase: "95 years of age."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   819   C1510829:Age-Years [Temporal Concept]
+   770   C0439234:years [Temporal Concept]
+   737 E C0439508:/year [Temporal Concept]
+Processing 00000000.tx.11: Meta-analyses, not included in the review, did not find evidence for such a slowing down (Gao et al, 1998; Jorm & Jolley, 1998). 
+
+Phrase: "Meta-analyses,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0920317:meta-analyses [Research Activity]
+   966 E C0282458:Meta-Analysis [Intellectual Product]
+   861   C1042496:Meta [Eukaryote]
+   827   C0002778:Analysis [Laboratory Procedure]
+   827   C0936012:Analysis [Research Activity]
+   827   C1524024:analysis [Functional Concept]
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "included in the review,"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   770   C0282443:Review [Intellectual Product]
+   770   C0332257:included [Functional Concept]
+   770   C1552617:Review [Idea or Concept]
+   770   C3538986:INCLUDED [Gene or Genome]
+   737 E C1552866:include [Idea or Concept]
+   737 E C2700399:Include [Activity]
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "find"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0243095:Find [Finding]
+
+Phrase: "evidence for such"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0332120:Evidence [Functional Concept]
+
+Phrase: "a slowing down"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0439834:slowing [Qualitative Concept]
+
+Phrase: "(Gao et al,"
+
+Phrase: "1998"
+
+Phrase: "; Jorm & Jolley,"
+
+Phrase: "1998"
+
+Phrase: ")."
+Processing 00000000.tx.12: Therefore, the prevalence of dementia almost certainly increases substantially, exceeding 15% from the age of 85. 
+
+Phrase: "Therefore,"
+
+Phrase: "the prevalence of dementia almost certainly"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0033105:Prevalence [Quantitative Concept]
+   753   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "increases"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "substantially,"
+
+Phrase: "exceeding"
+
+Phrase: "15% from the age of 85."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0001779:Age [Organism Attribute]
+Processing 00000000.tx.13: Most investigations attributed some three-quarters of late-onset dementia to Alzheimer's disease. 
+
+Phrase: "Most investigations"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1261322:Investigations [Health Care Activity]
+   966 E C1552578:investigation [Idea or Concept]
+   916 E C1517586:Investigational [Qualitative Concept]
+   916 E C3245491:investigational [Intellectual Product]
+
+Phrase: "attributed"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C0449234:Attribute [Idea or Concept]
+   966   C1704772:Attribute [Conceptual Entity]
+   966   C1882133:Attribute [Qualitative Concept]
+
+Phrase: "some three-quarters of late-onset dementia"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C0205449:Three [Quantitative Concept]
+   714   C2825406:Quarter [Quantitative Concept]
+   714   C2986716:QUARTER [Body Part, Organ, or Organ Component]
+
+Phrase: "to Alzheimer's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.14: We agree that the literature indicates a three- to fourfold risk in first-degree relatives of patients with late-onset dementia (seven- to eightfold with two affected first-degree relatives). 
+
+Phrase: "We"
+
+Phrase: "agree"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3641827:Agree [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "the literature"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0023866:Literature [Intellectual Product]
+  1000   C0034036:LITERATURE [Intellectual Product,Manufactured Object]
+
+Phrase: "indicates"
+
+Phrase: "a three-"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205449:Three [Quantitative Concept]
+
+Phrase: "to fourfold risk"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0035647:Risk [Qualitative Concept]
+
+Phrase: "in first-degree relatives"
+Meta Candidates (Total=13; Excluded=3; Pruned=0; Remaining=10)
+  1000   C1518469:First Degree Relatives [Quantitative Concept]
+   966 E C1517194:First Degree Relative [Family Group]
+   901   C0444502:First degree [Qualitative Concept]
+   827   C0080103:Relatives [Family Group]
+   827   C0205435:First [Quantitative Concept]
+   827   C0441889:Degree [Qualitative Concept]
+   827   C0449286:Degree [Quantitative Concept]
+   827   C0542560:Degree [Intellectual Product]
+   827   C1279901:First [Qualitative Concept]
+   827   C1561545:degree [Quantitative Concept]
+   827   C2348088:Degree [Quantitative Concept]
+   793 E C0205345:Relative [Qualitative Concept]
+   793 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with late-onset dementia"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1848565:Dementia, late-onset [Finding]
+   827   C0011265:dementia [Mental or Behavioral Dysfunction]
+   827   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   727 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "(seven-"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205453:Seven [Quantitative Concept]
+
+Phrase: "to eightfold"
+
+Phrase: "with two affected first-degree relatives"
+Meta Candidates (Total=13; Excluded=3; Pruned=0; Remaining=10)
+   884   C1518469:First Degree Relatives [Quantitative Concept]
+   851 E C1517194:First Degree Relative [Family Group]
+   840   C0444502:First degree [Qualitative Concept]
+   804   C0080103:Relatives [Family Group]
+   804   C0205435:First [Quantitative Concept]
+   804   C0441889:Degree [Qualitative Concept]
+   804   C0449286:Degree [Quantitative Concept]
+   804   C0542560:Degree [Intellectual Product]
+   804   C1279901:First [Qualitative Concept]
+   804   C1561545:degree [Quantitative Concept]
+   804   C2348088:Degree [Quantitative Concept]
+   771 E C0205345:Relative [Qualitative Concept]
+   771 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: ")."
+Processing 00000000.tx.15: We can only conclude that this leads to a risk of one in three, if not higher, for those first-degree relatives who reach the age of 85 years. 
+
+Phrase: "We"
+
+Phrase: "can"
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "conclude"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0917903:conclude [Biomedical or Dental Material,Organic Chemical]
+
+Phrase: "that"
+
+Phrase: "this"
+
+Phrase: "leads to a risk of one"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   753   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   753   C0035647:Risk [Qualitative Concept]
+   753   C0181586:leads [Medical Device]
+   753   C0205447:One [Quantitative Concept]
+   753   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   753   C1522538:Lead [Functional Concept]
+   753   C2348269:Lead [Element, Ion, or Isotope]
+   753   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "in three,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205449:Three [Quantitative Concept]
+
+Phrase: "if"
+
+Phrase: "not higher,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0205250:High [Qualitative Concept]
+   827   C1299351:High [Qualitative Concept]
+   827   C2700149:HIGH [Intellectual Product]
+   777 E C0489786:Height [Organism Attribute]
+
+Phrase: "for those first-degree relatives"
+Meta Candidates (Total=13; Excluded=3; Pruned=0; Remaining=10)
+  1000   C1518469:First Degree Relatives [Quantitative Concept]
+   966 E C1517194:First Degree Relative [Family Group]
+   901   C0444502:First degree [Qualitative Concept]
+   827   C0080103:Relatives [Family Group]
+   827   C0205435:First [Quantitative Concept]
+   827   C0441889:Degree [Qualitative Concept]
+   827   C0449286:Degree [Quantitative Concept]
+   827   C0542560:Degree [Intellectual Product]
+   827   C1279901:First [Qualitative Concept]
+   827   C1561545:degree [Quantitative Concept]
+   827   C2348088:Degree [Quantitative Concept]
+   793 E C0205345:Relative [Qualitative Concept]
+   793 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "who"
+
+Phrase: "reach"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2584321:Reach [Organism Function]
+
+Phrase: "the age of 85 years."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   797   C1510829:Age-Years [Temporal Concept]
+   760   C0001779:Age [Organism Attribute]
+Processing 00000000.tx.16: Obfuscating this information by showing graphs to anxious relatives is, in our opinion, not an appropriate reassurance. 
+
+Phrase: "Obfuscating"
+
+Phrase: "this information by showing graphs"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1533716:Information [Idea or Concept]
+
+Phrase: "to anxious relatives"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0080103:Relatives [Family Group]
+   827 E C0205345:Relative [Qualitative Concept]
+   827 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "is"
+
+Phrase: ","
+
+Phrase: "in our opinion,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0871010:opinion [Mental Process]
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "an appropriate reassurance."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0204558:Reassurance [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.17: We feel that better consolation can be effected by proffering the view that most people do not reach the age of 85, and by explaining the slowly progressive course of most cases of late-onset dementia. 
+
+Phrase: "We"
+
+Phrase: "feel"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0013987:feel [Mental Process]
+   916 E C1527305:Feeling, NOS [Mental Process]
+
+Phrase: "that better consolation"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "effected by proffering"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   756   C1280500:Effect [Qualitative Concept]
+   756   C2348382:Effect [Qualitative Concept]
+
+Phrase: "the view"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "that"
+
+Phrase: "most people"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027361:People [Population Group]
+
+Phrase: "do"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "reach"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2584321:Reach [Organism Function]
+
+Phrase: "the age of 85,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0001779:Age [Organism Attribute]
+
+Phrase: "and by explaining"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1515981:And [Idea or Concept]
+
+Phrase: "the slowly progressive course of most cases of late-onset dementia."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   738   C0750729:Course [Temporal Concept]
+Processing 00000000.tx.18: EDITED BY MATTHEW HOTOPF REFERENCES Asada, T., Yamagata, Z., Kilnoshita, T., et al (1996) Prevalence of dementia and distribution of ApoE alleles in Japanese centenarians: an almost-complete survey in Yamanashi Prefecture, Japan. 
+
+Phrase: "EDITED BY MATTHEW HOTOPF"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C0868955:Edit [Occupational Activity]
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Asada,"
+
+Phrase: "T.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603360:T' [Clinical Attribute]
+
+Phrase: "Yamagata,"
+
+Phrase: "Z.,"
+
+Phrase: "Kilnoshita,"
+
+Phrase: "T.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603360:T' [Clinical Attribute]
+
+Phrase: "et al (1996"
+
+Phrase: ")"
+
+Phrase: "Prevalence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0033105:Prevalence [Quantitative Concept]
+   790   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "distribution of ApoE alleles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0520511:distribution [Idea or Concept]
+   770   C1704711:Distribution [Functional Concept]
+
+Phrase: "in Japanese centenarians"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0007667:Centenarians [Age Group]
+
+Phrase: ":"
+
+Phrase: "an almost-complete survey in Yamanashi Prefecture,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0038951:Survey [Intellectual Product]
+
+Phrase: "Japan."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0022341:Japan [Geographic Area]
+Processing 00000000.tx.19: Journal of the American Geriatrics Society, 44, 151-155.[Medline] Blansjaar, B. 
+
+Phrase: "Journal of the American Geriatrics Society,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "44,"
+
+Phrase: "151-155."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Blansjaar,"
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.20: A., Thomassen, R. 
+
+Phrase: "A.,"
+
+Phrase: "Thomassen,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.21: & van Schaick, H. 
+
+Phrase: "& van Schaick,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.22: W. 
+
+Phrase: "W."
+Processing 00000000.tx.23: (2000) Prevalence of dementia in centenarians. 
+
+Phrase: "(2000"
+
+Phrase: ")"
+
+Phrase: "Prevalence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0033105:Prevalence [Quantitative Concept]
+   790   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "in centenarians."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0007667:Centenarians [Age Group]
+Processing 00000000.tx.24: International Journal of Geriatric Psychiatry, 15, 219-225.[CrossRef][Medline] Gao, S., Hendrie, H. 
+
+Phrase: "International Journal of Geriatric Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "15,"
+
+Phrase: "219-225."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Gao,"
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Hendrie,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.25: C., Hall, K. 
+
+Phrase: "C., Hall,"
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.26: S., et al (1998) The relationships between age, sex, and the incidence of dementia and Alzheimer's disease: a meta-analysis. 
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "et al (1998"
+
+Phrase: ")"
+
+Phrase: "The relationships between age,"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0439849:Relationships [Qualitative Concept]
+   737 E C1705630:Relationship [Idea or Concept]
+   737 E C1706279:Relationship [Idea or Concept]
+   737 E C3540605:Relationship [Intellectual Product]
+
+Phrase: "sex,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0009253:Sex [Organism Function]
+  1000   C0036864:Sex [Behavior]
+  1000   C0079399:sex [Organism Attribute]
+  1000   C1314687:Sex [Finding]
+  1000   C1522384:sex [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "the incidence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0021149:Incidence [Quantitative Concept]
+   770   C0220856:incidence [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "a meta-analysis."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0282458:Meta-Analysis [Intellectual Product]
+  1000   C0920317:Meta-Analysis [Research Activity]
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0936012:Analysis [Research Activity]
+   861   C1042496:Meta [Eukaryote]
+   861   C1524024:analysis [Functional Concept]
+Processing 00000000.tx.27: Archives of General Psychiatry, 55, 809-815.[Abstract/Free FullText] Jorm, A. 
+
+Phrase: "Archives of General Psychiatry,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0003738:Archives [Manufactured Object]
+   770   C0033872:Psychiatry [Professional or Occupational Group]
+   770   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   770   C0205246:General [Spatial Concept]
+   770   C1553889:General [Idea or Concept]
+   770   C1554162:Archive [Idea or Concept]
+
+Phrase: "55,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450382:55 [Intellectual Product]
+
+Phrase: "809-815."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Jorm,"
+
+Phrase: "A."
+Processing 00000000.tx.28: F. 
+
+Phrase: "F."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+  1000   C0439133:(f) [Intellectual Product]
+  1000   C1553038:[f] [Quantitative Concept]
+Processing 00000000.tx.29: & Jolley, D. 
+
+Phrase: "& Jolley,"
+
+Phrase: "D."
+Processing 00000000.tx.30: (1998) The incidence of dementia: a meta-analysis. 
+
+Phrase: "(1998"
+
+Phrase: ")"
+
+Phrase: "The incidence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0021149:Incidence [Quantitative Concept]
+   770   C0220856:incidence [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "a meta-analysis."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0282458:Meta-Analysis [Intellectual Product]
+  1000   C0920317:Meta-Analysis [Research Activity]
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0936012:Analysis [Research Activity]
+   861   C1042496:Meta [Eukaryote]
+   861   C1524024:analysis [Functional Concept]
+Processing 00000000.tx.31: Neurology, 51, 728-733.[Abstract] Liddell, M. 
+
+Phrase: "Neurology,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0027855:Neurology [Biomedical Occupation or Discipline]
+   928 E C0205494:Neurologic [Qualitative Concept]
+   928 E C2707261:Neurological [Clinical Attribute]
+   907 E C0027763:Nervous System [Body System]
+   907 E C0422837:NERVOUS SYSTEM [Finding]
+   907 E C1269560:Nervous system [Body System]
+
+Phrase: "51,"
+
+Phrase: "728-733."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Liddell,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.32: B., Lovestone, S. 
+
+Phrase: "B.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+
+Phrase: "Lovestone,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.33: & Owen, M. 
+
+Phrase: "& Owen,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.34: J. 
+
+Phrase: "J."
+Processing 00000000.tx.35: (2001) Genetic risk of Alzheimer's disease: advising relatives. 
+
+Phrase: "(2001"
+
+Phrase: ")"
+
+Phrase: "Genetic risk of Alzheimer's disease"
+Meta Candidates (Total=15; Excluded=9; Pruned=0; Remaining=6)
+   806   C1517512:Genetic Risk [Quantitative Concept]
+   797   C0019247:Genetic disease [Disease or Syndrome]
+   797   C1281905:disease risk [Finding]
+   760   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   760   C0035647:Risk [Qualitative Concept]
+   760   C0314603:Genetic [Functional Concept]
+   756 E C2316203:Genetic diseases [Finding]
+   756 E C2924406:Genetic diseases [Laboratory Procedure]
+   704 E C0005615:Birth [Organism Function]
+   704 E C0035150:Reproduction [Organism Function]
+   704 E C0079946:origin [Classification]
+   704 E C0439659:Origin [Temporal Concept]
+   704 E C1550512:origin [Intellectual Product]
+   704 E C1550722:birth [Idea or Concept]
+   704 E C3245487:birth [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "advising relatives."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0080103:Relatives [Family Group]
+   827 E C0205345:Relative [Qualitative Concept]
+   827 E C1547039:*Relative [Quantitative Concept]
+Processing 00000000.tx.36: British Journal of Psychiatry, 178, 7-11.[Abstract/Free FullText]  Authors' reply M. 
+
+Phrase: "British Journal of Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "178,"
+
+Phrase: "7-11."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "]  Authors' reply M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.37: Liddell University of Wales College of Medicine, Division of Psychological Medicine, Academic Unit, Monmouth House, Heath Park, Cardiff CF14 4XN, UK S. 
+
+Phrase: "Liddell University of Wales College of Medicine,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0557806:College [Manufactured Object]
+
+Phrase: "Division of Psychological Medicine,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C1293097:Division [Therapeutic or Preventive Procedure]
+   770   C2919030:Division [Organization]
+   770   C2919031:Division [Activity]
+
+Phrase: "Academic Unit,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0439148:Unit [Quantitative Concept]
+   861   C1519795:Unit [Quantitative Concept]
+   861   C1704753:Unit [Manufactured Object]
+   861   C1880519:Unit [Quantitative Concept]
+
+Phrase: "Monmouth House,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0442519:house [Conceptual Entity]
+   861   C2003847:House [Manufactured Object]
+
+Phrase: "Heath Park,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0562547:Park [Manufactured Object]
+   861   C3160718:PARK [Disease or Syndrome]
+
+Phrase: "Cardiff CF14 4XN,"
+
+Phrase: "UK S."
+Processing 00000000.tx.38: Lovestone Institute of Psychiatry, London, UK M. 
+
+Phrase: "Lovestone Institute of Psychiatry,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0021622:institute [Organization]
+   770   C1272753:Institute [Idea or Concept]
+
+Phrase: "London,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: "UK M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.39: Owen University of Wales College of Medicine, Cardiff, UK EDITED BY MATTHEW HOTOPF For the most part, the points of disagreement that Drs Blansjaar and van Schaick raise are differences more of emphasis than of substance. 
+
+Phrase: "Owen University of Wales College of Medicine,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0557806:College [Manufactured Object]
+
+Phrase: "Cardiff,"
+
+Phrase: "UK EDITED BY MATTHEW HOTOPF"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   726   C0868955:Edit [Occupational Activity]
+
+Phrase: "For the most part,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0449719:Part [Spatial Concept]
+   861   C1709471:Part [Quantitative Concept]
+
+Phrase: "the points of disagreement"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   737   C1552961:Point [Quantitative Concept]
+   737   C2347617:point [Quantitative Concept]
+
+Phrase: "that Drs Blansjaar"
+
+Phrase: "and"
+
+Phrase: "van Schaick"
+
+Phrase: "raise"
+
+Phrase: "are"
+
+Phrase: "differences more of emphasis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   737   C1705241:*Difference [Quantitative Concept]
+   737   C1705242:Difference [Qualitative Concept]
+
+Phrase: "than"
+
+Phrase: "of substance."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439861:Substance [Substance]
+Processing 00000000.tx.40: True, the diagnosis of the type of dementia, particularly in late old age, is not always easy. 
+
+Phrase: "True,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205238:True [Qualitative Concept]
+
+Phrase: "the diagnosis of the type of dementia,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   774   C1550351:Diagnosis Type [Classification]
+   748   C0011900:Diagnosis [Finding]
+   748   C1704338:diagnosis [Qualitative Concept]
+   748   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "particularly in late old age,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   806   C0231337:Old age [Finding]
+   806   C1999167:Old age [Population Group]
+   760   C0001779:Age [Organism Attribute]
+   760   C0205087:Late [Temporal Concept]
+   760   C0580836:Old [Temporal Concept]
+   751 E C0392079:Senile [Finding]
+
+Phrase: "is"
+
+Phrase: "not always easy."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0332219:Easy [Qualitative Concept]
+   755 E C1331418:Ease [Mental Process]
+Processing 00000000.tx.41: Dementia in later life is probably best described as a syndrome, the emergence of clinical dementia being dependent upon the interplay of two or more pathologies. 
+
+Phrase: "Dementia in later life"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0011265:dementia [Mental or Behavioral Dysfunction]
+   770   C0497327:Dementia [Mental or Behavioral Dysfunction]
+
+Phrase: "is"
+
+Phrase: "probably best"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C0750492:Probably [Idea or Concept]
+   861   C1522427:Best [Qualitative Concept]
+   827 E C0205170:Well [Qualitative Concept]
+   827 E C3146287:Well [Manufactured Object]
+
+Phrase: "described as a syndrome,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0039082:Syndrome [Disease or Syndrome]
+   770   C1552738:described [Idea or Concept]
+
+Phrase: "the emergence of clinical dementia"
+
+Phrase: "being"
+
+Phrase: "dependent upon the interplay of two"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0851827:Dependent [Qualitative Concept]
+   753   C1701901:Dependent [Qualitative Concept]
+   753   C3244310:dependent [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "more pathologies."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0030664:Pathologies [Biomedical Occupation or Discipline]
+   827 E C0205469:pathology [Functional Concept]
+   827 E C0677042:pathology [Pathologic Function]
+   777 E C1521733:Pathologic [Functional Concept]
+Processing 00000000.tx.42: The Nun Study by Snowdon et al (1997) is probably one of the best demonstrations of this. 
+
+Phrase: "The Nun Study by Snowdon et al (1997"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0557651:Study [Manufactured Object]
+   744   C2603343:Study [Research Activity]
+
+Phrase: ")"
+
+Phrase: "is"
+
+Phrase: "probably one of the best demonstrations of this."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0205447:One [Quantitative Concept]
+Processing 00000000.tx.43: Yet, it is believed that Alzheimer's disease is a major cause of dementia in later life. 
+
+Phrase: "Yet,"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "believed"
+
+Phrase: "that Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "a major cause of dementia"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0015127:cause [Functional Concept]
+   760   C0205164:Major [Qualitative Concept]
+   760   C1524003:Cause [Conceptual Entity]
+
+Phrase: "in later life."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0376558:Life [Idea or Concept]
+   777 E C0595998:lives [Finding]
+Processing 00000000.tx.44: Even without having seen the patient, one is going to be correct in a diagnosis of Alzheimer's disease, or Alzheimer's disease and cerebrovascular disease, 75% of the time. 
+
+Phrase: "Even without"
+
+Phrase: "having"
+
+Phrase: "seen"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0205397:Seen [Qualitative Concept]
+   966 E C0042789:see [Organism Function]
+   966 E C1947903:See [Activity]
+
+Phrase: "the patient,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "one"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "is"
+
+Phrase: "going"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "correct in a diagnosis of Alzheimer's disease,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C2349182:Correct [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "cerebrovascular disease,"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0007820:Cerebrovascular disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   861   C1880018:Cerebrovascular [Qualitative Concept]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "75% of the time."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   770   C0040223:Time [Temporal Concept]
+   770   C3541383:Time [Temporal Concept]
+   715 E C0442043:Temporal [Spatial Concept]
+   715 E C2362314:Temporal [Temporal Concept]
+Processing 00000000.tx.45: Rarer diagnoses, such as frontaltemporal dementia and Lewy-body disease, should suggest themselves if they are kept in mind, a careful history taken and the patient followed-up so that departures from the normal symptom progression for Alzheimer's disease are noted. 
+
+Phrase: "Rarer diagnoses,"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0011900:Diagnoses [Finding]
+   827 E C1704338:diagnosis [Qualitative Concept]
+   827 E C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "such as frontaltemporal dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0011265:dementia [Mental or Behavioral Dysfunction]
+   861   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   761 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "and"
+
+Phrase: "Lewy-body disease,"
+Meta Candidates (Total=10; Excluded=4; Pruned=0; Remaining=6)
+  1000   C0752347:Lewy Body Disease [Disease or Syndrome]
+   901   C0085200:Lewy Body [Cell Component]
+   827   C0012634:Disease [Disease or Syndrome]
+   827   C0242821:body [Human]
+   827   C0460148:Body [Anatomical Structure]
+   827   C1268086:Body [Anatomical Structure]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+   743 E C1995017:Bodies [Cell Component]
+
+Phrase: "should"
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "themselves"
+
+Phrase: "if"
+
+Phrase: "they"
+
+Phrase: "are"
+
+Phrase: "kept in mind,"
+Meta Candidates (Total=7; Excluded=5; Pruned=0; Remaining=2)
+   790   C0229992:Mind, NOS [Mental Process]
+   756   C0333118:Keep [Functional Concept]
+   734 E C0229993:Psychic [Functional Concept]
+   706 E C0011980:Diaphragm [Body Part, Organ, or Organ Component]
+   706 E C0042241:DIAPHRAGM [Medical Device]
+   706 E C1279038:Diaphragm [Body Part, Organ, or Organ Component]
+   706 E C1705367:Diaphragm [Medical Device]
+
+Phrase: "a careful history"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   861   C0019664:History [Occupation or Discipline]
+   861   C0019665:history [Intellectual Product]
+   861   C0262512:History, NOS [Organism Attribute]
+   861   C0262926:History [Finding]
+   861   C1705255:History [Conceptual Entity]
+   861   C2004062:History [Finding]
+   789 E C1552658:Historical [Idea or Concept]
+   789 E C1552723:Historical [Idea or Concept]
+
+Phrase: "taken"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883727:Taken [Conceptual Entity]
+   966 E C1515187:Take [Health Care Activity]
+
+Phrase: "and"
+
+Phrase: "the patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "followed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0332283:followed [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "-"
+
+Phrase: "up so"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0037640:SO [Geographic Area]
+
+Phrase: "that departures from the normal symptom progression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   714   C1555578:departure [Idea or Concept]
+   714   C1706081:Departure [Activity]
+
+Phrase: "for Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "are"
+
+Phrase: "noted."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1316572:Note [Clinical Attribute]
+   966   C1317574:Note [Intellectual Product]
+   966   C1369612:Note [Clinical Attribute]
+Processing 00000000.tx.46: Of course, mistakes in diagnosis will occur, but we think that this will occur insufficiently frequently to compromise the very broad-brush approach to estimating the familial risk of dementia that we have advocated. 
+
+Phrase: "Of course,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750729:Course [Temporal Concept]
+
+Phrase: "mistakes in diagnosis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0743559:mistakes [Qualitative Concept]
+
+Phrase: "will"
+
+Phrase: "occur"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1709305:Occur [Activity]
+  1000   C2745955:OCCUR [Temporal Concept]
+
+Phrase: ","
+
+Phrase: "but"
+
+Phrase: "we"
+
+Phrase: "think"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039869:think [Mental Process]
+
+Phrase: "that"
+
+Phrase: "this"
+
+Phrase: "will"
+
+Phrase: "occur"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1709305:Occur [Activity]
+  1000   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "insufficiently frequently to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0332183:Frequently [Temporal Concept]
+
+Phrase: "compromise"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2945640:compromise [Finding]
+
+Phrase: "the very broad-brush approach to estimating"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0449445:Approach [Spatial Concept]
+
+Phrase: "the familial risk of dementia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0035647:Risk [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "we"
+
+Phrase: "have"
+
+Phrase: "advocated."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1510823:Advocate [Occupation or Discipline]
+Processing 00000000.tx.47: As to whether the rate of increase in the incidence and prevalence of dementia begins to slow or goes on increasing exponentially into extreme old age, this is a controversial area, which is, in fact, also highlighted in the two meta-analyses cited by Drs Blansjaar and van Schaick. 
+
+Phrase: "As to"
+
+Phrase: "whether"
+
+Phrase: "the rate of increase"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0871208:Rate [Activity]
+   770   C1521828:Rate [Quantitative Concept]
+
+Phrase: "in the incidence"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0021149:Incidence [Quantitative Concept]
+  1000   C0220856:incidence [Functional Concept]
+   928 E C1551358:incident [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "prevalence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0033105:Prevalence [Quantitative Concept]
+   790   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "begins to slow"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0439659:Begin [Temporal Concept]
+   790   C0439834:Slow [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "goes on increasing exponentially"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1947959:Goes [Eukaryote]
+
+Phrase: "into extreme old age,"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   901   C0231337:Old age [Finding]
+   901   C1999167:Old age [Population Group]
+   845 E C0392079:Senile [Finding]
+   827   C0001779:Age [Organism Attribute]
+   827   C0580836:Old [Temporal Concept]
+
+Phrase: "this"
+
+Phrase: "is"
+
+Phrase: "a controversial area,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017446:Area [Geographic Area]
+   861   C0205146:Area [Spatial Concept]
+
+Phrase: "which"
+
+Phrase: "is"
+
+Phrase: ","
+
+Phrase: "in fact,"
+
+Phrase: "also"
+
+Phrase: "highlighted in the two meta-analyses"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   790   C0920317:meta-analyses [Research Activity]
+   756 E C0282458:Meta-Analysis [Intellectual Product]
+   753   C0205448:Two [Quantitative Concept]
+   753   C1042496:Meta [Eukaryote]
+   719   C0002778:Analysis [Laboratory Procedure]
+   719   C0936012:Analysis [Research Activity]
+   719   C1524024:analysis [Functional Concept]
+
+Phrase: "cited by Drs Blansjaar"
+
+Phrase: "and"
+
+Phrase: "van Schaick."
+Processing 00000000.tx.48: Jorm & Jolley (1998) suggest that "the incidence rises exponentially up to the age of 90 years". 
+
+Phrase: "Jorm & Jolley"
+
+Phrase: "(1998"
+
+Phrase: ")"
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that """
+
+Phrase: "the incidence"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0021149:Incidence [Quantitative Concept]
+  1000   C0220856:incidence [Functional Concept]
+   928 E C1551358:incident [Idea or Concept]
+
+Phrase: "rises"
+
+Phrase: "exponentially up to the age of 90 years""."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   767   C1510829:Age-Years [Temporal Concept]
+   744   C0001779:Age [Organism Attribute]
+   744   C0439083:>90 [Quantitative Concept]
+   744   C0439087:<90 [Quantitative Concept]
+   744   C0439234:years [Temporal Concept]
+   711 E C0439508:/year [Temporal Concept]
+Processing 00000000.tx.49: Gao et al (1998) suggest that "the acceleration of incidence rates for AD and dementia slows down with the increase in age, although we find no evidence of a rate decline". 
+
+Phrase: "Gao et al (1998"
+
+Phrase: ")"
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that """
+
+Phrase: "the acceleration of incidence rates"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0000894:Acceleration [Phenomenon or Process]
+
+Phrase: "for AD"
+
+Phrase: "and"
+
+Phrase: "dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "slows down"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   833   C0439834:Slow [Qualitative Concept]
+
+Phrase: "with the increase"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+
+Phrase: "in age,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001779:Age [Organism Attribute]
+
+Phrase: "although"
+
+Phrase: "we"
+
+Phrase: "find"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0243095:Find [Finding]
+
+Phrase: "no evidence of a rate decline""."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0332120:Evidence of [Functional Concept]
+           Evidence
+Processing 00000000.tx.50: Faced with such difficulties of interpretation, we can only commend the clarity of Blansjaar et al's own study (2000), which suggests that the increase in dementia prevalence does not slow down in extreme old age. 
+
+Phrase: "Faced with such difficulties of interpretation,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0459471:Interpretation [Intellectual Product]
+   753   C1299586:difficulties [Finding]
+   753   C3173575:Interpretation [Clinical Attribute]
+   719   C0015450:Face [Body Location or Region]
+   719   C1281591:Face [Body Part, Organ, or Organ Component]
+
+Phrase: "we"
+
+Phrase: "can"
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "commend"
+
+Phrase: "the clarity of Blansjaar et al's own study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0486588:Clarity [Clinical Attribute]
+   744   C3272888:Clarity [Laboratory Procedure]
+
+Phrase: "(2000"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "which"
+
+Phrase: "suggests"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "the increase in dementia prevalence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0442805:Increase [Functional Concept]
+
+Phrase: "does"
+
+Phrase: "not slow down in extreme old age."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0439834:Slow [Qualitative Concept]
+Processing 00000000.tx.51: We agree that the risk of a first-degree relative of a proband with Alzheimer's disease developing the disorder once they reach the age of 85 may be one in three, if not higher. 
+
+Phrase: "We"
+
+Phrase: "agree"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3641827:Agree [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "the risk of a first-degree relative of a proband"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   757   C0242492:Relative Risk [Quantitative Concept]
+   739   C0035647:Risk [Qualitative Concept]
+
+Phrase: "with Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "developing"
+
+Phrase: "the disorder"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012634:Disorder [Disease or Syndrome]
+
+Phrase: "once"
+
+Phrase: "they"
+
+Phrase: "reach"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2584321:Reach [Organism Function]
+
+Phrase: "the age of 85"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0001779:Age [Organism Attribute]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "one in three,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0205447:One [Quantitative Concept]
+
+Phrase: "if"
+
+Phrase: "not higher."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0205250:High [Qualitative Concept]
+   827   C1299351:High [Qualitative Concept]
+   827   C2700149:HIGH [Intellectual Product]
+   777 E C0489786:Height [Organism Attribute]
+Processing 00000000.tx.52: Perhaps this point could have been made more clearly in our review. 
+
+Phrase: "Perhaps"
+
+Phrase: "this point"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552961:Point [Quantitative Concept]
+  1000   C2347617:point [Quantitative Concept]
+
+Phrase: "could"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "made"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1881534:Make [Functional Concept]
+
+Phrase: "more clearly in our review."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0205172:More [Functional Concept]
+   760   C0282443:Review [Intellectual Product]
+   760   C1552617:Review [Idea or Concept]
+Processing 00000000.tx.53: The main point we tried to make was that the actual likelihood of surviving to age 85 and developing Alzheimer's disease is lower. 
+
+Phrase: "The main point"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1552961:Point [Quantitative Concept]
+   861   C2347617:point [Quantitative Concept]
+
+Phrase: "we"
+
+Phrase: "tried"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "make"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "was"
+
+Phrase: "that"
+
+Phrase: "the actual likelihood of surviving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0033204:Likelihood [Quantitative Concept]
+
+Phrase: "to age 85"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0001779:Age [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "developing Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   901   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   901   C1521724:Alzheimer's Disease [Pathologic Function]
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "lower."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0441994:Lower [Spatial Concept]
+  1000   C1548802:Lower [Body Location or Region]
+  1000   C2003888:Lower [Activity]
+Processing 00000000.tx.54: We disagree that showing graphs to anxious relatives is "obfuscating this information", but we accept that Drs Blansjaar and van Schaick and, indeed, other clinicians may think differently. 
+
+Phrase: "We"
+
+Phrase: "disagree"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3641828:Disagree [Intellectual Product]
+
+Phrase: "that showing graphs to anxious relatives is """
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   748   C0681493:graphs [Intellectual Product]
+   714 E C2698021:Graph [Conceptual Entity]
+
+Phrase: "obfuscating"
+
+Phrase: "this information"","
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1533716:Information [Idea or Concept]
+   928 E C3242430:informational [Idea or Concept]
+
+Phrase: "but"
+
+Phrase: "we"
+
+Phrase: "accept"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1272684:accept [Qualitative Concept]
+  1000   C1548601:Accept [Idea or Concept]
+
+Phrase: "that Drs Blansjaar"
+
+Phrase: "and"
+
+Phrase: "van Schaick"
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "indeed,"
+
+Phrase: "other clinicians"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0871685:clinicians [Professional or Occupational Group]
+   966 E C1550470:clinician [Idea or Concept]
+
+Phrase: "may"
+
+Phrase: "think"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039869:think [Mental Process]
+
+Phrase: "differently."
+Processing 00000000.tx.55: In non-Mendelian Alzheimer's disease it is difficult to estimate how much the risk increases as the number of affected first-degree relatives goes up, principally because few studies have addressed this issue. 
+
+Phrase: "In non-Mendelian Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   861   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   861   C1521724:Alzheimer's Disease [Pathologic Function]
+   812   C0012634:Disease [Disease or Syndrome]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "difficult to"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0332218:Difficult [Qualitative Concept]
+   789 E C1299586:Difficulty [Finding]
+
+Phrase: "estimate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750572:Estimate [Quantitative Concept]
+
+Phrase: "how much"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1265611:How Much [Quantitative Concept]
+
+Phrase: "the risk"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0035647:Risk [Qualitative Concept]
+
+Phrase: "increases as the number of affected first-degree relatives"
+Meta Candidates (Total=20; Excluded=3; Pruned=0; Remaining=17)
+   852   C1518469:Number of First Degree Relatives (Affected) [Quantitative Concept]
+           First Degree Relatives
+   764   C0444502:First degree [Qualitative Concept]
+   762   C0205435:First (number) [Quantitative Concept]
+           First
+   756 E C1517194:First Degree Relative [Family Group]
+   742   C0080103:Relatives [Family Group]
+   742   C0237753:*Number [Quantitative Concept]
+   742   C0392760:Affected [Functional Concept]
+   742   C0441889:Degree [Qualitative Concept]
+   742   C0442805:Increase [Functional Concept]
+   742   C0449286:Degree [Quantitative Concept]
+   742   C0449788:Number [Quantitative Concept]
+   742   C0542560:Degree [Intellectual Product]
+   742   C1279901:First [Qualitative Concept]
+   742   C1314939:Affected [Functional Concept]
+   742   C1561545:degree [Quantitative Concept]
+   742   C2348088:Degree [Quantitative Concept]
+   708 E C0205345:Relative [Qualitative Concept]
+   708 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "goes up,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   833   C1947959:Goes [Eukaryote]
+
+Phrase: "principally"
+
+Phrase: "because"
+
+Phrase: "few studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "have"
+
+Phrase: "addressed"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0376649:Address [Intellectual Product]
+   966   C1442065:Address [Spatial Concept]
+
+Phrase: "this issue."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033213:Issue [Finding]
+  1000   C1706387:Issue [Intellectual Product]
+Processing 00000000.tx.56: However, the conjugal Alzheimer's disease study of Bird et al (1993), which we cited, and the transmission study of Farrer et al (1990), which we did not cite, indicate that the risk increases substantially. 
+
+Phrase: "However,"
+
+Phrase: "the conjugal Alzheimer's disease study of Bird et al (1993"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   739   C0557651:Study [Manufactured Object]
+   739   C2603343:Study [Research Activity]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "which"
+
+Phrase: "we"
+
+Phrase: "cited"
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "the transmission study of Farrer et al (1990"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0557651:Study [Manufactured Object]
+   744   C2603343:Study [Research Activity]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "which"
+
+Phrase: "we"
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "cite"
+
+Phrase: ","
+
+Phrase: "indicate"
+
+Phrase: "that"
+
+Phrase: "the risk"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0035647:Risk [Qualitative Concept]
+
+Phrase: "increases"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "substantially."
+Processing 00000000.tx.57: With such pedigrees showing apparently high genetic loading for Alzheimer's disease, we suggested that a psychiatrist seek the advice of a clinical geneticist. 
+
+Phrase: "With such pedigrees"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030761:pedigrees [Intellectual Product]
+
+Phrase: "showing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "apparently high genetic loading for Alzheimer's disease,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1708715:Loading [Activity]
+
+Phrase: "we"
+
+Phrase: "suggested"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "a psychiatrist"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033872:Psychiatrist [Professional or Occupational Group]
+
+Phrase: "seek"
+
+Phrase: "the advice of a clinical geneticist."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0150600:Advice [Health Care Activity]
+Processing 00000000.tx.58: Finally, we agree that it is often reassuring to point out that the course of dementia in late old age is usually more slowly progressive and more benign than dementia occurring in a younger person. 
+
+Phrase: "Finally,"
+
+Phrase: "we"
+
+Phrase: "agree"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3641827:Agree [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "reassuring"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0557055:Reassuring [Health Care Activity]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "point"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1552961:Point [Quantitative Concept]
+  1000   C2347617:point [Quantitative Concept]
+
+Phrase: "out"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439787:Out [Spatial Concept]
+  1000   C0849355:Out [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "the course of dementia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0750729:Course [Temporal Concept]
+
+Phrase: "in late old age"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   901   C0231337:Old age [Finding]
+   901   C1999167:Old age [Population Group]
+   845 E C0392079:Senile [Finding]
+   827   C0001779:Age [Organism Attribute]
+   827   C0580836:Old [Temporal Concept]
+
+Phrase: "is"
+
+Phrase: "usually more slowly progressive"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   902   C1863335:Usually progressive [Finding]
+   861   C1864719:Slowly progressive [Finding]
+   812   C0205329:Progressive [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "more benign than dementia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0205183:Benign [Qualitative Concept]
+
+Phrase: "occurring in a younger person."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0027361:Person [Population Group]
+   760   C2347489:Person [Group]
+   726   C0332239:Young [Temporal Concept]
+   726   C1709305:Occur [Activity]
+   726   C2745955:OCCUR [Temporal Concept]
+Processing 00000000.tx.59: REFERENCES Bird, T. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Bird,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0005595:Bird [Bird]
+
+Phrase: "T."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603360:T' [Clinical Attribute]
+Processing 00000000.tx.60: D., Nemens, E. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Nemens,"
+
+Phrase: "E."
+Processing 00000000.tx.61: J. 
+
+Phrase: "J."
+Processing 00000000.tx.62: & Kukull, W. 
+
+Phrase: "& Kukull,"
+
+Phrase: "W."
+Processing 00000000.tx.63: A. 
+
+Phrase: "A."
+Processing 00000000.tx.64: (1993) Conjugal Alzheimer's disease: is there an increased risk in offspring? 
+
+Phrase: "(1993"
+
+Phrase: ")"
+
+Phrase: "Conjugal Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   901   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   901   C1521724:Alzheimer's Disease [Pathologic Function]
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "is"
+
+Phrase: "there"
+
+Phrase: "an increased risk in offspring?"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0035647:Risk [Qualitative Concept]
+   760   C0205217:Increased [Quantitative Concept]
+   760   C0442805:Increased [Functional Concept]
+Processing 00000000.tx.65: Annals of Neurology, 34, 396-399.[Medline] Blansjaar, B. 
+
+Phrase: "Annals of Neurology,"
+
+Phrase: "34,"
+
+Phrase: "396-399."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Blansjaar,"
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.66: A., Thomassen, R. 
+
+Phrase: "A.,"
+
+Phrase: "Thomassen,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.67: & van Schaick, H. 
+
+Phrase: "& van Schaick,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.68: W. 
+
+Phrase: "W."
+Processing 00000000.tx.69: (2000) Prevalence of dementia in centenarians. 
+
+Phrase: "(2000"
+
+Phrase: ")"
+
+Phrase: "Prevalence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0033105:Prevalence [Quantitative Concept]
+   790   C0220900:prevalence [Quantitative Concept]
+
+Phrase: "in centenarians."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0007667:Centenarians [Age Group]
+Processing 00000000.tx.70: International Journal of Geriatric Psychiatry, 15, 219-225.[CrossRef][Medline] Farrer, L. 
+
+Phrase: "International Journal of Geriatric Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "15,"
+
+Phrase: "219-225."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Farrer,"
+
+Phrase: "L."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+Processing 00000000.tx.71: A., Myers, R. 
+
+Phrase: "A.,"
+
+Phrase: "Myers,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.72: H., Cupples, L. 
+
+Phrase: "H.,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+
+Phrase: "Cupples,"
+
+Phrase: "L."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+Processing 00000000.tx.73: A., et al (1990) Transmission and age-at-onset patterns in familial Alzheimer's disease: evidence for heterogeneity. 
+
+Phrase: "A.,"
+
+Phrase: "et al (1990"
+
+Phrase: ")"
+
+Phrase: "Transmission"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0040722:transmission [Idea or Concept]
+  1000   C0242781:Transmission [Pathologic Function]
+  1000   C1521797:Transmission [Natural Phenomenon or Process]
+
+Phrase: "and"
+
+Phrase: "age-at-onset patterns in familial Alzheimer's disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0449774:Patterns [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "evidence for heterogeneity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0332120:Evidence [Functional Concept]
+Processing 00000000.tx.74: Neurology, 40, 395-403.[Abstract] Gao, S., Hendrie, H. 
+
+Phrase: "Neurology,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0027855:Neurology [Biomedical Occupation or Discipline]
+   928 E C0205494:Neurologic [Qualitative Concept]
+   928 E C2707261:Neurological [Clinical Attribute]
+   907 E C0027763:Nervous System [Body System]
+   907 E C0422837:NERVOUS SYSTEM [Finding]
+   907 E C1269560:Nervous system [Body System]
+
+Phrase: "40,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: "395-403."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Gao,"
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Hendrie,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.75: C., Hall, K. 
+
+Phrase: "C., Hall,"
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.76: S., et al (1998) The relationships between age, sex, and the incidence of dementia and Alzheimer's disease: a meta-analysis. 
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "et al (1998"
+
+Phrase: ")"
+
+Phrase: "The relationships between age,"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0439849:Relationships [Qualitative Concept]
+   737 E C1705630:Relationship [Idea or Concept]
+   737 E C1706279:Relationship [Idea or Concept]
+   737 E C3540605:Relationship [Intellectual Product]
+
+Phrase: "sex,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0009253:Sex [Organism Function]
+  1000   C0036864:Sex [Behavior]
+  1000   C0079399:sex [Organism Attribute]
+  1000   C1314687:Sex [Finding]
+  1000   C1522384:sex [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "the incidence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0021149:Incidence [Quantitative Concept]
+   770   C0220856:incidence [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "a meta-analysis."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0282458:Meta-Analysis [Intellectual Product]
+  1000   C0920317:Meta-Analysis [Research Activity]
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0936012:Analysis [Research Activity]
+   861   C1042496:Meta [Eukaryote]
+   861   C1524024:analysis [Functional Concept]
+Processing 00000000.tx.77: Archives of General Psychiatry, 55, 809-815.[Abstract/Free FullText] Jorm, A. 
+
+Phrase: "Archives of General Psychiatry,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0003738:Archives [Manufactured Object]
+   770   C0033872:Psychiatry [Professional or Occupational Group]
+   770   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   770   C0205246:General [Spatial Concept]
+   770   C1553889:General [Idea or Concept]
+   770   C1554162:Archive [Idea or Concept]
+
+Phrase: "55,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450382:55 [Intellectual Product]
+
+Phrase: "809-815."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Jorm,"
+
+Phrase: "A."
+Processing 00000000.tx.78: F. 
+
+Phrase: "F."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+  1000   C0439133:(f) [Intellectual Product]
+  1000   C1553038:[f] [Quantitative Concept]
+Processing 00000000.tx.79: & Jolley, D. 
+
+Phrase: "& Jolley,"
+
+Phrase: "D."
+Processing 00000000.tx.80: (1998) The incidence of dementia: a meta-analysis. 
+
+Phrase: "(1998"
+
+Phrase: ")"
+
+Phrase: "The incidence of dementia"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0021149:Incidence [Quantitative Concept]
+   770   C0220856:incidence [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "a meta-analysis."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0282458:Meta-Analysis [Intellectual Product]
+  1000   C0920317:Meta-Analysis [Research Activity]
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0936012:Analysis [Research Activity]
+   861   C1042496:Meta [Eukaryote]
+   861   C1524024:analysis [Functional Concept]
+Processing 00000000.tx.81: Neurology, 51, 728-733.[Abstract] Snowdon, D. 
+
+Phrase: "Neurology,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0027855:Neurology [Biomedical Occupation or Discipline]
+   928 E C0205494:Neurologic [Qualitative Concept]
+   928 E C2707261:Neurological [Clinical Attribute]
+   907 E C0027763:Nervous System [Body System]
+   907 E C0422837:NERVOUS SYSTEM [Finding]
+   907 E C1269560:Nervous system [Body System]
+
+Phrase: "51,"
+
+Phrase: "728-733."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Snowdon,"
+
+Phrase: "D."
+Processing 00000000.tx.82: A., Greiner, L. 
+
+Phrase: "A.,"
+
+Phrase: "Greiner,"
+
+Phrase: "L."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+Processing 00000000.tx.83: H., Mortimer, J. 
+
+Phrase: "H.,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+
+Phrase: "Mortimer,"
+
+Phrase: "J."
+Processing 00000000.tx.84: A., et al (1997) Brain infarction and the clinical expression of Alzheimer's disease: the Nun Study. 
+
+Phrase: "A.,"
+
+Phrase: "et al (1997"
+
+Phrase: ")"
+
+Phrase: "Brain infarction"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0751955:Brain Infarction [Disease or Syndrome]
+   861   C0021308:Infarction [Pathologic Function]
+   789 E C0333541:Infarcted [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "the clinical expression of Alzheimer's disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0185117:Expression [Therapeutic or Preventive Procedure]
+
+Phrase: ":"
+
+Phrase: "the Nun Study."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+Processing 00000000.tx.85: Journal of the American Medical Association, 277, 813-817.[Abstract] This Article Full Text (PDF) Submit a response Alert me when this article is cited Alert me when eLetters are posted Alert me if a correction is posted Citation Map Services Email this article to a friend Similar articles in this journal Similar articles in PubMed Alert me to new issues of the journal Download to citation manager Google Scholar Articles by Blansjaar, B. 
+
+Phrase: "Journal of the American Medical Association,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "277,"
+
+Phrase: "813-817."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "This Article Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "Submit"
+
+Phrase: "a response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "eLetters"
+
+Phrase: "are"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Citation Map Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C0557854:Services [Occupational Activity]
+   793 E C2825316:Service [Manufactured Object]
+   793 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal Download"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0162443:Journal [Intellectual Product,Manufactured Object]
+   744   C0205314:New [Temporal Concept]
+   711   C0033213:Issue [Finding]
+   711   C1706387:Issue [Intellectual Product]
+
+Phrase: "to citation manager Google Scholar Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   771   C1706852:Article [Intellectual Product]
+
+Phrase: "by Blansjaar,"
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.86: A. 
+
+Phrase: "A."
+Processing 00000000.tx.87: Articles by Owen, M. 
+
+Phrase: "Articles by Owen,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.88: Articles citing this Article PubMed PubMed Citation Articles by Blansjaar, B. 
+
+Phrase: "Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1706852:Article [Intellectual Product]
+
+Phrase: "citing"
+
+Phrase: "this Article PubMed PubMed Citation Articles by Blansjaar,"
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.89: A. 
+
+Phrase: "A."
+Processing 00000000.tx.90: Articles by Owen, M. 
+
+Phrase: "Articles by Owen,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.91: HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin Advances in Psychiatric Treatment All RCPsych Journals
+
+Phrase: "HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   738   C0039224:Table [Manufactured Object]
+   738   C1706073:Table [Medical Device]
+   738   C1706074:Table [Intellectual Product]
+
+Phrase: "Advances in Psychiatric Treatment"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   833   C0204523:psychiatric treatment [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0205487:Psychiatric [Functional Concept]
+   770   C0725066:Advance [Medical Device]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "All RCPsych Journals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0162443:journals [Intellectual Product,Manufactured Object]
+

@@ -1,0 +1,914 @@
+
+
+Msx homeobox genes inhibit differentiation through upregulation of cyclin D1
+
+
+
+Gezhi Hu1,2, 
+Hansol Lee1,2, 
+Sandy M. Price1,3, 
+Michael M. Shen1,3 and 
+Cory Abate-Shen1,2,*
+
+
+
+
+1 Center for Advanced Biotechnology and Medicine, UMDNJ-Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA
+
+2 Department of Neuroscience and Cell Biology, UMDNJ-Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA
+
+3 Department of Pediatrics, UMDNJRobert Wood Johnson Medical School, Piscataway, NJ 08854, USA
+
+
+
+
+*Author for correspondence (e-mail: abate{at}cabm.rutgers.edu)
+
+
+
+
+
+Accepted May  4, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+During development, patterning and morphogenesis of tissues are intimately coordinated through control of cellular proliferation and differentiation. We describe a mechanism by which vertebrate Msx homeobox genes inhibit cellular differentiation by regulation of the cell cycle. We show that misexpression of Msx1 via retroviral gene transfer inhibits differentiation of multiple mesenchymal and epithelial progenitor cell types in culture. This activity of Msx1 is associated with its ability to upregulate cyclin D1 expression and Cdk4 activity, while Msx1 has minimal effects on cellular proliferation. Transgenic mice that express Msx1 under the control of the mouse mammary tumor virus long terminal repeat (MMTV LTR) display impaired differentiation of the mammary epithelium during pregnancy, which is accompanied by elevated levels of cyclin D1 expression. We propose that Msx1 gene expression maintains cyclin D1 expression and prevents exit from the cell cycle, thereby inhibiting terminal differentiation of progenitor cells. Our model provides a framework for reconciling the mutant phenotypes of Msx and other homeobox genes with their functions as regulators of cellular proliferation and differentiation during embryogenesis. 
+
+
+
+
+
+
+
+Key words: Cell cycle, Differentiation, Proliferation, Homeobox genes, Transgenic mice, Mammary gland
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Homeobox genes are a large family of developmental regulatory genes that have diverse activities during embryogenesis. The biological functions of many homeobox genes have been elucidated through loss- and gain-of-function analyses, which have demonstrated their essential roles in controlling cellular proliferation and differentiation during development. However, the molecular mechanisms by which homeoproteins mediate these activities have not been examined extensively. 
+
+
+
+The vertebrate Msx homeobox gene family contains three members, two of which (Msx1 and Msx2) have been well studied with respect to their expression patterns and biochemical properties (reviewed by Bendall and Abate-Shen, 2000; Davidson, 1995). These genes encode closely related homeoproteins that function as transcriptional repressors through interactions with components of the core transcription complex as well as other homeoproteins (Catron et al., 1996; Catron et al., 1995; Zhang et al., 1996; Zhang et al., 1997). Both Msx1 and Msx2 are expressed in overlapping spatial and temporal domains during development, in discrete regions of the facial primordia, limbs, neural tube and other embryonic regions (Bendall and Abate-Shen, 2000; Davidson, 1995). 
+
+
+
+Although they are expressed in relatively diverse tissues, a common feature of Msx gene expression is its association with multipotent progenitor cells. For example, expression of Msx1 is robust in the progress zone of the limb bud, which corresponds to a region of highly proliferative, multipotential cells that give rise to chondrogenic and osteogenic derivatives of the limb. In contrast, Msx1 is not expressed in the more proximal regions of the limb, where cells have ceased to proliferate and have begun to undergo differentiation (Bendall and Abate-Shen, 2000; Davidson, 1995). These, and other observations, have led to the hypothesis that Msx genes promote cellular proliferation, and that their expression is inversely correlated with differentiation (Bendall et al., 1999; Dodig et al., 1999; Mina et al., 1996; Pavlova et al., 1994; Song et al., 1992; Woloshin et al., 1995). 
+
+
+
+This model has garnered support from cell culture data, which have shown that forced expression of Msx1 in myogenic precursors blocks their differentiation and represses expression of lineage specific genes, such as MyoD (Myod1  Mouse Genome Informatics) (Song et al., 1992; Woloshin et al., 1995). Moreover, ectopic expression of Msx1 during chicken embryogenesis inhibits development of the limb musculature and represses MyoD expression in vivo (Bendall et al., 1999). Msx genes have also been implicated as inhibitors of chondrogenic and osteogenic differentiation in culture (Dodig et al., 1999; Mina et al., 1996), suggesting that these activities may not be limited to the myogenic lineage. Furthermore, the phenotypes of Msx loss- or gain-of-function mutations are also consistent with roles for Msx genes in regulating cellular proliferation and differentiation in vivo (Jabs et al., 1993; Liu et al., 1995; Satokata et al., 2000; Satokata and Maas, 1994; Wilkie et al., 2000; Winograd et al., 1997). 
+
+
+
+We have explored the mechanism(s) by which Msx genes, particularly Msx1, function as negative regulators of differentiation. Using both cell culture and in vivo model systems, we demonstrate that Msx1 inhibits the differentiation of multiple mesenchymal and epithelial cell types. This inhibition is associated with upregulation of cyclin D1 (Ccnd1  Mouse genome Informatics) expression as well as Cdk4 activity, while Msx1 has minimal effects on cellular proliferation. Transgenic mice that overexpress Msx1 in the mammary gland display significant defects in epithelial differentiation during pregnancy, which are correlated with increased cyclin D1 expression. We propose a model in which Msx1 prevents exit from the cell cycle by maintaining high levels of cyclin D1 expression, thereby blocking terminal differentiation of progenitor cell populations. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Retroviral and transgenic expression plasmids
+
+
+Mammalian retroviruses were made in a derivative of LZRSpBMN-Z (Kinsella and Nolan, 1996) in which the lacZ gene was excised to make pLZRS. Sequences corresponding to the coding region of Msx1, Msx2, a mutated Msx1 derivative (Msx1A; Zhang et al., 1996), Hoxa7, Hoxc8, Dlx2 and Dlx5 were subcloned as BamHI-HindIII fragments into pLZRS. Each contains an N-terminal Myc epitope, which allows for detection with an anti-Myc monoclonal antibody. Truncated Msx1 genes, designated Msx11, Msx12 and Msx13, correspond to amino acid sequences 2-270, 158-270 and 158-293, respectively. These were generated by PCR amplification and subcloned as BamHI-HindIII fragments into pLZRS. The Msx1-estrogen receptor fusion gene (Msx11-ER) was generated using PCR amplification to join sequences corresponding to Msx11(2-270) with the amino acids 281-599 of the estrogen receptor tamoxifen mutant (MOR G525R) (Littlewood et al., 1995) and cloned into the BamHI-HindIII sites of pLZRS. The cyclin D1 retrovirus was made by subcloning pFLEX-Flag-D1 (Diehl and Sherr, 1997) into pLZRS. Avian retroviruses, RCASBP(A)-Msx1 and RCASBP(A)-Msx1A, were described (Bendall et al., 1999; Hu et al., 1998). The transgenic plasmid, MMTV-Msx1, was made by cloning the full-length coding region of Msx1 with Kozak sequences preserved into the HindIII site of the MMTV-SV40-BSSK (Stewart et al., 1984). The complete sequences of all PCR-amplified constructs were confirmed. Expression of retrovirally expressed proteins was verified by western blot analysis using lysates from infected C2C12 cells (for mammalian retroviruses, Fig. 3B and data not shown) or chicken embryonic fibroblasts (for avian retroviruses, data not shown). 
+
+
+
+
+
+
+
+
+
+
+View larger version (82K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. Msx1 upregulates cyclin D1 expression and Cdk4 activity. (A) C2C12 cells were infected with a control retrovirus (Vector) or retroviruses expressing Msx1 or cyclin D1 and grown under normal culture conditions (a, undifferentiated) or conditions that promote differentiation (b-d, differentiated). Scale bar: 0.1 mm. (B,C) Western blot analysis was performed using extracts prepared from C2C12 cells infected with a control retrovirus (Vector) or with retroviruses expressing Msx1 or Msx1A, followed by cell growth under normal culture conditions (undifferentiated) or conditions that promote differentiation (differentiated). The panels show whole-cell extracts probed with the indicated antibodies, except for panels labeled -Cdk4 nuclear or -Cdk2 nuclear, in which nuclear extracts were used. RNA polymerase II (-RNA PolII) is a control for protein loading. (D) Cdk4 and Cdk2 kinase assays were performed using cell lysates from undifferentiated C2C12 cells or 293T cells infected with a control retrovirus (Vector) or those expressing Msx1 or Msx1A. The indicated kinases were immunoprecipitated using the corresponding antisera and kinase assays were performed using GST-Rb (amino acids 379-792) as substrate. Similar results were obtained using lysates prepared from differentiated C2C12 cells (data not shown).
+
+
+
+
+
+&nbsp;
+
+
+
+Retroviral gene transfer and differentiation assays
+
+
+Production of replication-competent avian retroviruses was described previously (Bendall et al., 1999; Hu et al., 1998). Replication-defective mammalian retroviruses were made in Phoenix ecotropic retroviral packaging cells (ATCC) by transfection of the relevant pLZRS plasmids using Lipofectamine Reagent (GIBCO-BRL). Viral supernatants were collected 24 hours after transfected cells reached confluence; 4 g/ml polybrene was added to enhance infectivity. Target cells were seeded 1 day before infection at low density (1 x 104/cm2) and infected with viral supernatants on two consecutive days at a multiplicity of infection of 20-50. 
+
+
+
+C2C12 cells were grown in Dubleccos Modified Eagle Medium (DMEM) supplemented with 20% fetal bovine serum (FBS). Myogenic differentiation was initiated by incubating confluent cells for 3 days in DMEM containing 2% horse serum and verified by visual detection of myotubes and by western blot analysis using an MHC antibody (see below). 10T1/2 cells (ATCC) were grown in Basal Medium Eagle (BME) supplemented with 15% FBS. Adipocyte differentiation was initiated by treatment with 3 M 5-azacytidine for 24 hours. After retroviral infection, confluent cells were treated with 1 M dexamethasone for 7 days. 
+
+
+
+Micromass assays were performed essentially as described (Ahrens et al., 1977). White Leghorn chicken eggs (SPAFAS) were incubated to stage 21-22 (Hamburger and Hamilton, 1951). Forelimb buds were collected and digested with 0.1% trypsin-0.1% collagenase. 10 l of digested cells (2x107 cells/ml) were infected with 1 l of concentrated avian retroviruses (109 cfu/ml) in growth media (F12/DMEM supplemented with 10% FBS) containing 8 g/ml polybrene. Infected cells were incubated for 4 days and differentiation was verified by staining with 0.5% Alcian Blue 8GX (pH 1). TMC23 cells (Xu et al., 1998) were grown in DMEM supplemented with 10% FBS. Differentiation was initiated by treating confluent cells were with 50 g/ml ascorbic acid and 4 mM -glycerol phosphate for 16 days. 
+
+
+
+Chicken calvarial osteoblasts were prepared essentially as described (Gerstenfeld et al., 1987). Eggs were incubated to stage 42 (Hamburger and Hamilton, 1951) after which the calvaria (skull bone) were digested with 0.25% trypsin-0.2% collagenase. Digested cells were plated at 5000 cells/cm2 in -Minimum Eagle media (-MEM) supplemented with 10% FBS. Differentiation was initiated by addition of 100 g/ml ascorbic acid and 5 mM -glycerol phosphate for 16 days and verified by staining with Von Kossas stain (silver staining). BMP2T3 calvarial cells (Ghosh-Choudhury et al., 1996) were grown in MEM supplemented with 7% FBS. Differentiation was initiated by treating confluent cells with 100 g/ml ascorbic acid and 5 mM -glycerol phosphate for 16 days. 
+
+
+
+HC11 mammary epithelial cells (Hynes et al., 1990) were grown in RPMI 1640 media supplemented with 10% FBS, 5 g/ml insulin and 10 ng/ml epidermal growth factor (EGF). Differentiation was initiated by removal of EGF for 3 days, followed by treatment with 10 M dexamethasone, 5 g/ml prolactin and 5 g/ml insulin. 
+
+
+
+Expression analysis and probes
+
+
+Northern blot analysis was performed using mRNA (2.5 g per lane) prepared by the Poly(A)Pure mRNA purification kit (Ambion). Probes used for northern Blot analysis were labeled by StripEZ DNA labeling kit (Ambion) and are described in the text. Ribonuclease protection assays were performed as described (Shen and Leder, 1992) using total RNA prepared with Trizol RNA Isolation Reagent (GIBCO-BRL). The Msx1 riboprobe corresponds to sequences encoding amino acids 1-57. The riboprobe for -casein corresponds to sequences encoding amino acids 126 to 134. The rpL32 riboprobe has been described (Shen and Leder, 1992). Northern blot and ribonuclease protection assays were quantitated using a phosphorimager (Molecular Dynamics). 
+
+
+
+Western blot analysis, antibodies and kinase assays
+
+
+Western blot analysis was performed with an ECL-Plus chemiluminescence kit (Amersham Pharmacia Biotech) using the following antibodies: monoclonal antibody against myosin heavy chain (MF20) from Developmental Studies Hybridoma Bank; monoclonal antibody against murine cyclin D1 from Oncogene Sciences; polyclonal antisera against Cdk4 and Cdk2 from Santa Cruz; and polyclonal antisera against RNA polymerase II small subunit band 7, a gift from Danny Reinberg. The monoclonal antibody directed against murine Msx1 was generated using the bacterially expressed full-length Msx1 protein as antigen. This antibody specifically recognizes an N-terminal epitope of the mouse Msx1 protein and does not crossreact with Msx2 (G. H. and C. A.-S., unpublished). Cdk4 and Cdk2 kinase assays were performed as described (Parry et al., 1999). Cell lysates (500 g) were immunoprecipitated with 10 l of anti-Cdk4 or anti-Cdk2 antibody plus 10 l of protein-A/G agarose beads (Santa Cruz). Kinase assays were performed using GST-RB (amino acids 379-792, 0.5 g) as substrate. 
+
+
+
+Generation and analysis of MMTV-Msx1 transgenes
+
+
+Transgenic mice were generated as described (Stewart et al., 1984) in FVB/N (Taconic Biotechnology) mice. Founders were identified by Southern blot analysis, using genomic DNA digested with BamHI and an Msx1 cDNA probe; progeny were genotyped by PCR. Three independent transgenic lines were established; two lines expressed the Msx1 transgene specifically in the mammary gland. Results shown are from one of these lines; the other line had a similar phenotype. No additional mammary epithelial abnormalities have been detected during 1 year of observation (data not shown). 
+
+
+
+For whole-mount and immunohistochemical analyses, mammary fat pads from virgin or pregnant transgenic female mice or littermate controls were dissected, spread onto glass slides, and fixed in 10% formalin; in each case the posterior fat pad (#4) was examined. For whole mounts, the mammary pads were stained with Hematoxylin. For immunohistochemistry, the formalin-fixed mammary pads were embedded in paraffin and adjacent sections were stained with either anti-Msx1 or anti-cyclin D1 antibodies (as above). Staining was performed using Vector M.O.M. Immunodection kit and Vector NovaRED substrate kit (Vector Laboratories). For ribonuclease protection analysis, total RNA was prepared (as above) from the anterior fat pad (#3). 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Msx1 inhibits differentiation of multiple mesenchymal progenitor cell types
+
+
+To investigate the regulatory function of Msx1 in cellular differentiation, we examined the consequences of its misexpression in progenitor cells that give rise to distinct mesenchymal lineages: muscle, fat, cartilage and bone (Fig. 1). Our strategy was to introduce exogenous Msx1 using retroviral gene transfer and then to assess differentiation, comparing the Msx1-infected cells with those infected with control retroviruses. To achieve high-level infectivity of mammalian cells, we used a derivative of the replication-defective pLZRS retrovirus (Kinsella and Nolan, 1996), while for avian cells we used a replication-competent RCAS retrovirus (Hughes et al., 1987). The percentage of Msx1-infected cells was monitored by immunofluorescence using an anti-Msx1 antibody (see Materials and Methods), and in each case was greater than 80% (data not shown). As a control, we compared the activity of Msx1 with a mutated derivative, Msx1A, which contains three amino acid substitutions in the N-terminal arm of the homeodomain (Zhang et al., 1996). The resulting Msx1A protein is stable and localizes to the nucleus (as does Msx1), but it is biochemically and biologically inert (Bendall et al., 1999; Hu et al., 1998; Zhang et al., 1996; Zhang et al., 1997). 
+
+
+
+
+
+
+
+
+
+
+View larger version (111K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. Msx1 inhibits differentiation of multiple mesenchymal progenitor cell types. (A) C2C12 cells (a-d) or 10T1/2 cells (e-h) were infected with a control mammalian retrovirus (Vector) or retroviruses expressing Msx1 or Msx1A. Infected cells were grown under normal culture conditions (undifferentiated; a,e) or conditions that promote differentiation (differentiated; b-d,f-h) to myoctyes (b-d) or adipocytes (f-h). (B) Primary cultures of chicken limb chondrogenic cells (a-c) or calvarial osteogenic cells (e-g) were infected with a control avian retrovirus (Vector) or those expressing Msx1 or Msx1A. Differentiation is visualized by Alcian Blue staining (a-c) or silver staining (e-g). TMC23 chondrocytes (d) or BMP2T3 osteoblasts (h) were infected with a control mammalian retrovirus (Vector) or those expressing Msx1 or Msx1A followed by growth in conditions that promote differentiation. Alkaline phosphatase activity was measured from cell lysates; error bars show standard deviations of assays carried out in triplicate. (A,B) Representative data from experiments repeated a minimum of three times. Scale bars: 0.1 mm in A; 1 mm in B.
+
+
+
+
+
+&nbsp;
+
+
+
+As a model for muscle differentiation, we used a murine myoblast cell line, C2C12 (Yaffe and Saxel, 1977). These cells appear fibroblast-like under normal culture conditions, whereas in reduced serum they undergo terminal differentiation to elongated multinuclear myotubes (Fig. 1A, compare a with b). Misexpression of Msx1 by retroviral gene transfer blocked myogenic differentiation of the C2C12 cells whereas misexpression of Msx1A had no such effect (Fig. 1A, compare c with d). Inhibition of myogenic differentiation by Msx1 was also evident from the absence of myosin heavy chain (MHC) expression, a marker of terminal differentiation, in Western blots of cell lysates (see Fig. 3B, top panel). 
+
+
+
+We observed a similar ability of Msx1 to inhibit differentiation of adipocytes, chondrocytes and osteoblasts. In particular, misexpression of Msx1 in 10T1/2 fibroblasts, which have the potential to undergo differentiation into multiple cell types, including adipocytes (Reznikoff et al., 1973), resulted in a failure of the 10T1/2 cells to undergo adipogenesis, whereas overexpression of Msx1A had no significant effect (Fig. 1A, e-h). In micromass explant assays, in which mesenchymal cells from chicken forelimb buds form chondrogenic nodules in culture (Ahrens et al., 1977), misexpression of Msx1, but not of Msx1A, significantly inhibited chondrogenesis as evident by reduced Alcian Blue staining (Fig. 1B, a-c). Similarly, misexpression of Msx1, but not of Msx1A, resulted in a sevenfold inhibition of chondrocyte differentiation in a murine chondrocyte cell line, TMC23 (Xu et al., 1998) (Fig. 1B, d). Finally, Msx1, but not Msx1A, inhibited osteogenesis in chicken calvarial osteoblasts (Fig. 1B, e-g) as well as in a murine calvarial cell line, BMP2T3 (Ghosh-Choudhury et al., 1996) (Fig. 1B, h). In summary, we have found that Msx1 expression is incompatible with differentiation of multiple mesenchymal lineages, including muscle, fat, cartilage and bone, which confirms and extend previous findings (Bendall et al., 1999; Dodig et al., 1999; Mina et al., 1996; Song et al., 1992; Woloshin et al., 1995). 
+
+
+
+In contrast to its potent effect on differentiation, misexpression of Msx1 had a minimal effect (10-20% activation) on cellular proliferation of embryonic fibroblasts or various other cell types (Fig. 2A; data not shown). This observation was unexpected as Msx genes have been thought to promote cellular proliferation, based on their expression in proliferating cells in vivo (reviewed in Bendall et al., 1999). Taken together, we conclude that Msx1 is a potent inhibitor of cellular differentiation for multiple mesenchymal lineages, but does not significantly promote cellular proliferation. 
+
+
+
+
+
+
+
+
+
+
+View larger version (44K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. Msx1 does not promote cellular proliferation, but alters the expression of cell cycle regulators. (A) Proliferation assays were performed using chicken embryonic fibroblasts infected with a control retrovirus (Vector) or one expressing Msx1. Cells were plated at low density in media containing the indicated percentage of fetal bovine serum. Cell number was estimated by measuring the optical density of Napthal blue-black stained cells and is expressed as percent of the control; error bars indicate standard deviation of assays performed in triplicate. Shown are representative data from assays repeated a minimum of five times. (B) Northern blot analyses were performed using mRNA prepared from undifferentiated C2C12 cells that had been infected with a control retrovirus (Vector) or retroviruses expressing Msx1 or Msx1A. Northern blots contained 2.5 g of mRNA per lane, and were probed with the indicated cDNAs and visualized by autoradiography. Northern blots were performed a minimum of two times using mRNA prepared from independent experiments; representative data are shown. RPL32 is a control for RNA loading.
+
+
+
+
+
+&nbsp;
+
+
+
+Msx1 upregulates cyclin D1 expression and Cdk4 activity
+
+
+Given its activity as a general inhibitor of mesenchymal cell differentiation, we anticipated that downstream effectors for Msx1 are likely to include widely expressed regulatory genes in addition to lineage-restricted genes such as MyoD (Bendall et al., 1999; Song et al., 1992; Woloshin et al., 1995). We further reasoned that these Msx1 effectors would probably include cell cycle regulatory genes, particularly those that control exit from the cell cycle (the G1-G0 transition), which generally precedes terminal differentiation (Sherr and Roberts, 1999; Walsh and Perlman, 1997). Therefore, we asked whether misexpressing Msx1 effected the steady-state expression levels of key cell cycle regulators, including G1 cyclins (cyclin D1, cyclin D2, cyclin D3 and cyclin E), G2 cyclins (cyclin A2 and cyclin B1), the retinoblastoma gene (Rb1), and the cyclin-dependent kinase inhibitors p21WAF1/CIP (Cdkn1a  Mouse Genome Informatics), p27kip1 (Cdkn1b  Mouse Genome Informatics), p57kip2 (Cdkn1c  Mouse Genome Informatics) and p16INK4a (Cdkn2a  Mouse Genome Informatics; Fig. 2B). We examined the expression of these genes in C2C12 cells infected with a control retrovirus (Vector) or in cells infected with the Msx1- or Msx1A-expressing retroviruses. 
+
+
+
+Of the cell cycle regulatory genes examined, we found that the most prominent effect of Msx1 misexpression was a robust increase in cyclin D1 expression (20- to 30-fold), whereas misexpression of the Msx1A mutant had no significant effect (Fig. 2B). In contrast, misexpression of Msx1 modestly repressed cyclin D3, cyclin E, cyclin B1, Rb1 and p21WAF1/CIP, while it had little or no effect on cyclin D2, cyclin A2, p27KIP1, p57KIP2 and p16INK4a. The finding that Msx1 upregulates cyclin D1 but not cyclin E or the G2 cyclins (cyclin A2 and cyclin B1), is consistent with our observation that Msx1 inhibits differentiation without promoting proliferation. Moreover, we have observed that a greater percentage of Msx1-expressing cells are found in the G1 phase by flow cytometry (G. H. and C. A.-S., unpublished). A similar upregulation of cyclin D1 after misexpression of Msx1 was observed in the adipocyte, chondrocyte and osteoblast lineages (data not shown). 
+
+
+
+cyclin D1 misexpression has been shown to inhibit differentiation of myogenic cells in culture (Skapek et al., 1995) and is therefore an excellent candidate for a primary downstream mediator of Msx1 activity. To assess whether the effect of misexpressing cyclin D1 is analogous to that of Msx1, we examined myogenic differentiation following misexpression of either gene in C2C12 cells (Fig. 3A). Similar to Msx1, misexpression of cyclin D1 resulted in marked inhibition of myogenic differentiation, apparent from the absence of myotube formation. Moreover, in addition to upregulating cyclin D1 mRNA, Msx1 upregulated cyclin D1 protein, which was inversely correlated with inhibition of MHC expression (Fig. 3B). This result underscores the relationship between inhibition of differentiation by Msx1 and upregulation of cyclin D1. 
+
+
+
+The cell cycle regulatory activities of cyclin D1 are mediated through its interaction with catalytic partners, particularly Cdk4 (Sherr and Roberts, 1999). Therefore, we asked whether Msx1 misexpression altered the protein level or activity of Cdk4. While Msx1 misexpression did not alter the overall levels of total cellular Cdk4, the accumulation of Cdk4 in the nucleus was significantly increased relative to controls (Fig. 3C). Co-immunoprecipitation analysis with anti-cyclin D1 antibody confirmed an increased association of Cdk4 with cyclin D1 in Msx1-expressing cells (data not shown). Moreover, Cdk4 kinase activity was also substantially elevated in Msx1-expressing cells, including C2C12 cells and a human kidney cell line, 293T (Fig. 3D). In contrast, misexpression of Msx1 had no significant effect on the nuclear accumulation (Fig. 3C) or kinase activity (Fig. 3D) of Cdk2, the major partner of cyclin E. These findings are consistent with the observation that Msx1 inhibits differentiation but does not promote cellular proliferation. Taken together, these data suggest that Msx1 inhibits cellular differentiation through upregulation of cyclin D1 and activation of Cdk4 activity. 
+
+
+
+Upregulation of cyclin D1 is a conserved activity specific for the Msx family
+
+
+The Msx2 homeobox gene has many similarities to Msx1 with respect to its structure, expression pattern, biochemical properties, and biological functions (Bendall and Abate-Shen, 2000; Catron et al., 1996; Davidson, 1995; Satokata et al., 2000). We have found that Msx2 also inhibits differentiation of multiple mesenchymal lineages (Fig. 4A and data not shown), and therefore we examined whether its misexpression also affected cyclin D1 expression. Indeed, we found that misexpression of Msx2 upregulated cyclin D1 to a similar extent as Msx1, and was inversely correlated with inhibition of MHC expression and myotube formation (Figs 4A,B, 5B). In contrast, two members of the Dlx homeobox gene family (Dlx2 and Dlx5), which are closely related to the Msx family (Bendall and Abate-Shen, 2000), inhibited differentiation but did not upregulate cyclin D1 (Fig. 4A,B). Furthermore, two members of the Hox gene family (Hoxa7 and Hoxc8), which are less closely related to the Msx family did not inhibit differentiation or upregulate cyclin D1 (Fig. 4A,B). Therefore, we conclude that inhibition of differentiation through upregulation of cyclin D1 is a conserved activity that is specific for the Msx family. 
+
+
+
+
+
+
+
+
+
+
+View larger version (84K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. Upregulation of cyclin D1 is a conserved activity of the Msx family. (A) C2C12 cells were infected with a control retrovirus (Vector) or retroviruses expressing the indicated homeoproteins and grown under conditions that promote differentiation. Scale bar: 0.1 mm. (B) Western blot analysis was performed using extracts prepared from C2C12 cells infected with a control retrovirus (Vector) or with retroviruses expressing the indicated homeoproteins, as in A. The panels show whole cell extracts probed with the indicated antibodies. Equivalent expression of the various homeoproteins is shown by -Myc, which detects the Myc epitope present at the N-terminal region of each homeoprotein. RNA polymerase II (-RNA PolII) is a control for protein loading.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (66K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Regions of Msx1 required for upregulation of cyclin D1 include its transcriptional domains. (A) Schematic diagrams showing the primary structures of Msx1 and Msx2; the percent identity in the N-terminal region, homeodomain and C-terminal regions are indicated. Also shown are the protein regions contained in the truncated Msx1 derivatives, Msx11, Msx12 and Msx13. (B) Western blot analyses were performed using extracts prepared from differentiated C2C12 cells following infection with a control retrovirus (Vector) or with retroviruses expressing the indicated Msx protein. Western blots were probed with -cyclin D1 or -MHC antibodies; -RNA PolII is a control for protein loading. (C) C2C12 cells were infected with a control retrovirus (Vector) or a retrovirus expressing an Msx1-estrogen receptor fusion protein (Msx11-ER). Infected cells were incubated in the presence (+) or absence (-) of tamoxifen (100 nM) and grown under conditions that promote differentiation. Scale bar: 0.1 mm. (D) Ribonuclease protection analyses were performed using total RNA prepared from C2C12 cells that had been infected with a control retrovirus (Vector) or with a retrovirus expressing Msx11-ER. Infected cells were treated with tamoxifen (100 nM) for the indicated times and ribonuclease protection assays were performed using a cyclin D1 riboprobe or an RPL32 riboprobe as a control for RNA loading.
+
+
+
+
+
+&nbsp;
+
+
+
+The transcriptional domains of Msx1 are required for upregulation of cyclin D1
+
+
+To gain further insights into the mechanism(s) by which Msx1 inhibits differentiation and upregulates cyclin D1, we used an inducible expression system that is regulated by the hormone binding domain of the estrogen receptor. First, we mapped the region(s) of Msx1 required for inhibition of differentiation and upregulation of cyclin D1 by generating a series of truncated derivatives that each contain the homeodomain, but lack varying portions of the N or C terminus (Msx11, Msx12 or Msx13) (Fig. 5A). We introduced these derivatives into C2C12 cells by retroviral gene transfer and examined their effects on myogenic differentiation. This analysis revealed that a truncated Msx1 protein containing the N-terminal domain plus the homeodomain (Msx11) upregulated cyclin D1, while it inhibited MHC expression and myotube formation (Fig. 5B, data not shown). In contrast, a truncated Msx1 protein containing the homeodomain but lacking N-terminal or C-terminal sequences (Msx12) or a protein containing the homeodomain plus C-terminal sequences (Msx13) had no such effect (Fig. 5B). 
+
+
+
+Next, we generated a chimeric fusion protein in which the essential regions of Msx1, namely the N-terminal region and the homeodomain, were fused with the hormone-binding domain of a tamoxifen-responsive mutant of the estrogen receptor (Littlewood et al., 1995). Infection of C2C12 cells with a retrovirus expressing this Msx11-ER chimeric gene resulted in tamoxifen-dependent inhibition of differentiation (Fig. 5C) that was comparable with that of native Msx1 (see Fig. 1A). We used this estrogen receptor-regulated expression system to evaluate the time course for activation of cyclin D1 by Msx1. In Msx11-ER-infected cells, cyclin D1 expression increased as early as 2 hours after addition of tamoxifen and peaked by 24 hours (Fig. 5D), suggesting that cyclin D1 represents an early response gene for Msx1. However, we were unable to address whether cyclin D1 is a direct target of Msx1 using cycloheximide treatment, as addition of cycloheximide by itself increased cyclin D1 mRNA levels (data not shown). 
+
+
+
+The ability for Msx1 to inhibit differentiation and upregulate cyclin D1 primarily requires the N-terminal domain (Fig. 5A,B); notably, this region contains the major regulatory domains defined in transcription assays (Catron et al., 1996; Catron et al., 1995). However, as Msx proteins are potent transcriptional repressors and have no reported activator potential (Catron et al., 1995), it is likely that Msx1 upregulates cyclin D1 indirectly rather than by direct activation through cyclin D1 promoter elements. Indeed, we have found that Msx1 does not activate the cyclin D1 promoter in transient transfection assays, irrespective of the cell type or the human or rat cyclin D1 promoter/enhancer regions examined (G. H. and C. A.-S., unpublished). 
+
+
+
+Msx1 inhibits mammary epithelial differentiation and upregulates cyclin D1 in transgenic mice
+
+
+To extend our findings, we developed a transgenic mouse system to examine the consequences of Msx1 misexpression for differentiation and cyclin D1 expression in vivo. We chose to investigate the mammary gland because of the known expression and functional significance of Msx and cyclin D1 genes in this tissue. In particular, both Msx1 and Msx2 are expressed in the mammary epithelium during embryogenesis and pregnancy, and loss of Msx gene function results in profound defects in mammary gland morphogenesis during development (Friedmann and Daniel, 1996; Phippard et al., 1996; Satokata et al., 2000). Moreover, cyclin D1 is essential for mammary gland differentiation and function during pregnancy (Fantl et al., 1999; Fantl et al., 1995; Sicinski et al., 1995). 
+
+
+
+Initially, we asked whether Msx1 also inhibited differentiation of mammary epithelial cells in culture, analogous to its effects on mesenchymal cell types (Fig. 6A). For this purpose, we used HC11 cells, which undergo terminal differentiation and produce milk proteins, including -casein, after treatment with lactogenic hormones (Hynes et al., 1990). We found that differentiation of HC11 cells was inhibited by misexpression of Msx1, but not by Msx1A, as determined by the nearly complete absence of -casein (Csnb  Mouse Genome Informatics) expression, and that this inhibition correlated with upregulation of cyclin D1 expression (Fig. 6A). 
+
+
+
+
+
+
+
+
+
+
+View larger version (43K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 6. Msx1 inhibits mammary epithelial differentiation and upregulates cyclin D1 in cell culture and in vivo. (A) Ribonuclease protection analyses were performed using total RNA obtained from HC11 mammary epithelial cells infected with a control retrovirus (Vector) or with those expressing Msx1 or Msx1A. Infected cells were grown under normal growth conditions (undifferentiated) or in conditions that promote differentiation (differentiated). (B) Ribonuclease protection analyses of total RNA prepared from the mammary fat pads of wild type (WT) and transgenic (TG) mice from virgin or pregnant females at the indicated stages. (A,B) Ribonuclease protection assays were performed using the indicated riboprobes; each lane contains 10 g of total RNA, except for -casein in which 1.5 g of RNA was used. RPL32 is a control for RNA loading.
+
+
+
+
+
+&nbsp;
+
+
+
+Next, we generated transgenic mice in which the MMTV LTR was used to direct Msx1 transgene expression to the mammary epithelium (Stewart et al., 1984). In virgin female mice, the mammary gland consists of a simple branched ductal epithelium that is embedded in a stromal fat pad. No significant phenotypic differences were observed in MMTV-Msx1 transgenic virgin females relative to wild type (n=6; Fig. 7A). In contrast, we observed significant differences during pregnancy, when the epithelial ducts normally undergo extensive branching and differentiation to form complex lobuloalveolar structures that produce milk during lactation. In two independent transgenic lines that express Msx1 at high levels (see below), we observed a significant inhibition of lobuloalveolar development with relatively normal side branching during pregnancy (n=18; Fig. 7A). This defect was most apparent during the proliferative phase of lobuloalveolar development from 9.5 to 14.5 days post coitum (dpc), corresponding to the stages when endogenous Msx expression is downregulated in wild-type mice (Friedmann and Daniel, 1996; Phippard et al., 1996). During lactation, the lobuloalveolar structures of MMTV-Msx1 transgenic mammary glands appeared less complex than those of their wild-type littermates (n=4; Fig. 7A). These phenotypic changes appear to correspond to delayed maturation of the mammary epithelium; however, the transgenic females were able to lactate and nurse their progeny, and after weaning would undergo normal mammary gland involution (data not shown). 
+
+
+
+
+
+
+
+
+
+
+View larger version (61K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 7. Impaired mammary epithelial differentiation and increased cyclin D1 expression in MMTV-Msx1 transgenic mice. (A) Whole-mount Hematoxylin staining of mammary fat pads from female virgin, pregnant (14.5 dpc), or lactating MMTV-Msx1 transgenic mice and wild-type littermate controls, shown in low-power and high-power views. Although terminal end bud formation appears normal in the virgin transgenic and wild-type mice (arrows), retarded lobuloalveolar formation is observed in pregnant transgenics at 14.5 dpc (arrows). At this stage, and in lactating mice, there is reduced complexity of lobuloalveolar structures (arrows). (B) Immunohistochemical detection of cyclin D1 and Msx1 protein in sections from mammary glands of wild type and MMTV-Msx1 transgenic pregnant mice at 14.5 dpc. Note the elevated expression of Msx1 and cyclin D1 in nuclei of lumenal epithelial cells (arrows) in the mammary glands of the transgenic mice compared with their wild-type littermate controls. Scale bars: 0.5 mm in A; 0.05 mm in B.
+
+
+
+
+
+&nbsp;
+
+
+
+Notably, the phenotypic defects in mammary gland differentiation in Msx1 transgenic mice were paralleled by increased levels of cyclin D1 and were inversely correlated with reduced -casein expression (Figs 6B, 7B). By immunohistochemical staining, cyclin D1 protein was detected at high levels in nuclei of the transgenic mammary epithelium, correlating with the elevated levels of nuclear Msx1 protein (n=5; Fig. 7B). Furthermore, increased expression of cyclin D1 mRNA was found in transgenic mammary glands during mid- to late-pregnancy (fivefold at 14.5 dpc; n=6), consistent with their observed morphological defects (compare Fig. 6B with 7A). Interestingly, this upregulation of cyclin D1 in the Msx1 transgenic mice occurred during stages in which cyclin D1 is normally expressed in wild-type mice, whereas cyclin D1 is downregulated during lactation and involution in both wild-type and transgenic mice, despite the persistence of Msx1 transgene expression during these stages. In summary, these findings support the biological significance of Msx1 as an inhibitor of differentiation through its ability to upregulate cyclin D1 in the mammary gland. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+We have investigated the molecular mechanisms by which Msx homeobox genes control cellular processes of differentiation and proliferation during development. We have found that Msx genes function as general inhibitors of differentiation of mesenchymal and epithelial progenitor cells in culture and in vivo, and that this inhibition is correlated with upregulation of cyclin D1 and Cdk4 activity. We propose that a primary function of Msx genes is to maintain cyclin D1 expression in progenitor populations during development, thereby preventing these cells from exiting the cell cycle and undergoing terminal differentiation (Fig. 8). Our findings establish a link between homeobox gene action and cell cycle control, and implicate Msx1 as a physiological mediator of cyclin D1 expression in vivo, which is of particular significance given the role of cyclin D1 in mammary differentiation and carcinogenesis. 
+
+
+
+
+
+
+
+
+
+
+View larger version (13K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 8 A model for Msx function in cell cycle regulation. Msx1 indirectly upregulates cyclin D1 expression (red arrows), resulting in block of cell cycle exit (red bar) and subsequent differentiation. Although cyclin D1 can promote cellular proliferation (green arrow), Msx1 does not, presumably through its effects on other cell cycle components (broken red arrow). Thus, overexpression of Msx1 would block cell cycle exit without promoting proliferation, while loss of Msx1 activity might lead to premature cell cycle exit.
+
+
+
+
+
+&nbsp;
+
+
+
+Homeobox genes as regulators of cell differentiation and proliferation
+
+
+The expression patterns of Msx genes are consistent with a role for members of this gene family to function as general inhibitors of differentiation. Thus, expression of Msx genes at all stages of embryogenesis and adulthood is associated with multipotent progenitor cells, while Msx expression has not been found in any terminally differentiated cell types (Bendall and Abate-Shen, 2000; Davidson, 1995). For example, during early embryogenesis, Msx genes are broadly expressed in mesoderm progenitors emerging from the primitive streak. Later in embryogenesis, Msx gene expression is associated with progenitors that are restricted to particular lineages, such as the proliferating cells in the limb bud that give rise to its skeletal elements. Furthermore, in adults Msx expression is limited to the stem cells of tissues capable of undergoing self renewal, such as the mammary epithelium, uterine epithelium and basal epithelium of the dermis (Friedmann and Daniel, 1996; Noveen et al., 1995; Pavlova et al., 1994; Phippard et al., 1996). Interestingly, Msx gene expression is also found in various carcinoma cell lines and tumors (Suzuki et al., 1993) (K. Catron and C. A.-S., unpublished), and forced expression of Msx1 promotes cellular transformation (Song et al., 1992), raising the possibility that Msx expression contributes to the reversion of differentiation that is characteristic of carcinoma cells. Notably, a recent study has shown that Msx1 overexpression can lead to de-differentiation of C2C12 cells into a mesenchymal progenitor that is capable of differentiating into multiple cell lineages (Odelberg et al., 2000). If this observation is confirmed in other cell types, this finding combined with the present study implies that trans-differentiation induced by Msx1 may be mediated by modulation of cell cycle regulators. 
+
+
+
+In addition to the Msx gene family, numerous other homeobox genes have been implicated in controlling aspects of cellular proliferation and differentiation during embryogenesis, while their aberrant expression is associated with cellular transformation. The most well studied in this regard are the Hox genes, which are the largest family of homeobox genes (Krumlauf, 1994). Although loss-of-function mutation of members of the Hox family produces distinct phenotypic outcomes, certain common themes also emerge. Notably, Hox mutants often display vertebral transformations that have been interpreted as changes in rates of cell proliferation and/or survival (Duboule, 1995). Hox genes, as well as their essential co-factors, the Pbx genes, are aberrantly expressed in leukemias and many solid tumors, and their forced expression is associated with cellular transformation (Cillo et al., 1999; Maulbecker and Gruss, 1993). Furthermore, the Gax homeobox gene negatively regulates cardiomyocyte proliferation through upregulation of the cell cycle regulatory gene, p21WAF1/CIP (Smith et al., 1997). Thus, the link between homeobox gene function and regulation of the cell cycle machinery is likely to emerge as a prevalent theme. 
+
+
+
+cyclin D1 is a downstream effector of Msx gene function
+
+
+cyclin D1 inhibits differentiation of multiple lineages through its ability to block exit from the cell cycle, and thus represents an excellent candidate downstream effector for Msx1 in culture (Sherr and Roberts, 1999; Walsh and Perlman, 1997). Indeed, cyclin D1 blocks MyoD activity in myogenic progenitors (Rao and Kohtz, 1995; Skapek et al., 1995), which is noteworthy as Msx1 inhibits MyoD expression in cell culture as well as in vivo (Bendall et al., 1999; Woloshin et al., 1995). However, the consequences of Msx1 misexpression are not entirely analogous to those of cyclin D1, as Msx1 does not significantly promote cellular proliferation, resulting in a greater percentage of Msx1-expressing cells in the G1 phase. This distinction probably reflects the fact that Msx1 upregulates cyclin D1 but not cyclin E or the G2 cyclins. 
+
+
+
+In addition, cyclin D1 is an excellent candidate downstream effector of Msx in vivo. Indeed, we have demonstrated that overexpression of Msx1 in the mammary gland results in upregulation of cyclin D1 expression. Furthermore, the expression patterns of Msx1 and Msx2 overlap with that of cyclin D1 at early stages of embryogenesis in the primitive streak and lateral mesoderm and later in the limb mesenchyme, neural tube, craniofacial mesenchyme, retina and mammary gland (Wianny et al., 1998; G. H. and C. A.-S., unpublished). Moreover, the phenotypes of Msx1, Msx2 and cyclin D1 loss-of-function mutations share similarities, but are not identical, as discussed below. Our current findings do not preclude negative regulation by Msx genes of lineage-specific genes such as MyoD or osteocalcin, which are involved in terminal differentiation (Bendall et al., 1999; Newberry et al., 1997; Woloshin et al., 1995), but instead expand the repertoire of their downstream effectors to include global cell cycle regulators. 
+
+
+
+Although we have found that cyclin D1 is activated as an early response gene of Msx1, the available evidence suggests that it is likely to be an indirect target. Indeed, Msx genes encode transcriptional repressors and have not been previously implicated as transcriptional activators (Catron et al., 1996; Catron et al., 1995). Given the known significance of protein-protein interactions for mediating Msx function (Bendall et al., 1999; Zhang et al., 1997), it seems plausible that Msx1 activates cyclin D1 through interaction with other transcriptional regulators, perhaps those directly upstream of cyclin D1. 
+
+
+
+A model for Msx gene function
+
+
+Based on our findings, we propose a model for the mechanism of Msx gene function in cellular proliferation and differentiation (Fig. 8). We find that Msx genes maintain cells in a proliferative state by blocking exit from the cell cycle, while not actively promoting proliferation. Moreover, this model explains the apparent activity of Msx genes in inhibiting cellular differentiation as a consequence of preventing cell cycle exit. Thus, the model distinguishes between a direct effect on the cell cycle and an indirect effect on differentiation. 
+
+
+
+Our model provides a basis for reconciling the observed similarities between the phenotypes of Msx loss-of-function and gain-of-function mutations (Jabs et al., 1993; Liu et al., 1995; Satokata et al., 2000; Satokata and Maas, 1994; Wilkie et al., 2000; Winograd et al., 1997). For example, mutant mice lacking either Msx2 or both Msx1 and Msx2 display profound defects in mammary gland development that have been interpreted as arrested differentiation (Satokata et al., 2000). In the context of our model, loss of Msx function is predicted to result in premature exit of progenitor cells from the cell cycle, resulting in decreased proliferation and consequently impaired morphogenesis. Conversely, in MMTV-Msx1 transgenic mice, which also display defects in mammary gland differentiation, overexpression of Msx genes is predicted to block progenitor cells from exiting the cell cycle; in the absence of increased proliferation, the outcome would also be impaired morphogenesis. Comparable arguments can be made for the similar phenotypes found in loss- and gain-of-function analyses of Msx function in cranial development (Jabs et al., 1993; Liu et al., 1995; Satokata et al., 2000; Satokata and Maas, 1994; Wilkie et al., 2000; Winograd et al., 1997). In addition, similar phenotypes following both loss- and gain-of-function mutations have been reported for other homeobox genes (e.g. Pollock et al., 1992). 
+
+
+
+cyclin D1 loss-of-function mutant mice display delayed maturation of the mammary gland that has been interpreted as partial blockage of differentiation (Fantl et al., 1999; Fantl et al., 1995; Sicinski et al., 1995). In particular, these mice undergo normal early proliferation and side-branching, but greatly reduced lobuloalveolar formation (Fantl et al., 1999), resembling the phenotype of MMTV-Msx1 transgenic mice. In cyclin D1 loss-of-function mutants, progenitor cells would be predicted to exit the cell cycle prematurely, resulting in less proliferation and hence impaired morphogenesis; counterintuitively, the outcome would thus be similar to that of MMTV-Msx1 transgenic mice. Conversely, MMTV-cyclin D1 transgenic mice display mammary epithelial hyperproliferation that ultimately leads to carcinoma (Wang et al., 1994), consistent with the well-known activity of cyclin D1 in promoting cellular proliferation, unlike Msx1. 
+
+
+
+The potential for Msx genes to upregulate cyclin D1 has important implications for mammary carcinogenesis. Upregulation of cyclin D1 protein expression is one of the most prevalent alterations in breast carcinoma, occurring in approximately 40% of cases (Hall and Peters, 1996). However, cyclin D1 gene amplification occurs in only a fraction of these cases, indicating that other factors are responsible for upregulating cyclin D1. Thus, our findings suggest that a potential role for Msx genes in breast carcinogenesis deserves further study. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We acknowledge the expert technical assistance of Nishita Desai for immunohistochemistry. We thank Dr Emma Lees for much valuable input and Drs Lee, Fang Liu and Isao Matsuura for advice on Cdk kinase assays. We acknowledge Dr Danny Reinberg for RNA PolII antisera, Dr Charles J. Sherr for the murine cyclin D1, cyclin D2, cyclin D3, cyclin E and p16/ink4a cDNAs, Dr Ed Harlow for the murine retinoblastoma cDNA, Dr Bert Vogelstein for the murine p21WAF1/CIP1 cDNA, Dr Joan Massague for the murine p27kip and p57kip2 cDNAs, and Dr Edward B Ziff for the cyclin D1 promoter plasmids. We thank Dr Andrew Bendall and members of the Abate-Shen laboratory for stimulating discussion and advice throughout the course of this work. We also thank Drs Tom Curran, Celine Gelinas, Emma Lees, Fang Liu, Arnold Rabson and Nancy Walworth for comments on the manuscript. This work is supported by NIH grants to C. A.-S. (HD29446) and to M. M. S. (HL60212 and HD38766), and a pre-doctoral fellowship from the American Heart Association (NJ97SA04) to G. H. 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Ahrens, P. B., Solursh, M. and Reiter, R. S. (1977). Stage-related capacity for limb chondrogenesis in cell culture. Dev. Biol. 60, 69-82.[Medline]
+
+
+
+Bendall, A. J. and Abate-Shen, C. (2000). Roles for Msx and Dlx homeoproteins in vertebrate development. Gene 247, 17-31.[Medline]
+
+
+
+Bendall, A. J., Ding, J., Hu, G., Shen, M. M. and Abate-Shen, C. (1999). Msx1 antagonizes the myogenic activity of Pax3 in migrating limb muscle precursors. Development 126, 4965-4976.[Abstract/Free Full&nbsp;Text]
+
+
+
+Catron, K. M., Zhang, H., Marshall, S. C., Inostroza, J. A., Wilson, J. M. and Abate, C. (1995). Transcriptional repression by Msx-1 does not require homeodomain DNA-binding sites. Mol. Cell. Biol. 15, 861-871.[Abstract]
+
+
+
+Catron, K. M., Wang, H., Hu, G., Shen, M. M. and Abate-Shen, C. (1996). Comparison of MSX-1 and MSX-2 suggests a molecular basis for functional redundancy. Mech. Dev. 55, 185-199.[Medline]
+
+
+
+Cillo, C., Faiella, A., Cantile, M. and Boncinelli, E. (1999). Homeobox genes and cancer. Exp. Cell Res. 248, 1-9.[Medline]
+
+
+
+Davidson, D. (1995). The function and evolution of Msx genes: pointers and paradoxes. Trends Genet. 11, 405-411.[Medline]
+
+
+
+Diehl, J. A. and Sherr, C. J. (1997). A dominant-negative cyclin D1 mutant prevents nuclear import of cyclin-dependent kinase 4 (CDK4) and its phosphorylation by CDK-activating kinase. Mol. Cell. Biol. 17, 7362-7374.[Abstract]
+
+
+
+Dodig, M., Tadic, T., Kronenberg, M. S., Dacic, S., Liu, Y. H., Maxson, R., Rowe, D. W. and Lichtler, A. C. (1999). Ectopic Msx2 overexpression inhibits and Msx2 antisense stimulates calvarial osteoblast differentiation. Dev. Biol. 209, 298-307.[Medline]
+
+
+
+Duboule, D. (1995). Vertebrate Hox genes and proliferation: an alternative pathway to homeosis? Curr. Biol. 5, 525-528.
+
+
+
+Fantl, V., Stamp, G., Andrews, A., Rosewell, I. and Dickson, C. (1995). Mice lacking cyclin D1 are small and show defects in eye and mammary gland development. Genes Dev. 9, 2364-2372.[Abstract]
+
+
+
+Fantl, V., Edwards, P. A. W., Steel, J. H., Vonderhaar, B. K. and Dickson, C. (1999). Impaired mammary gland development in Cyl-/- mice during pregnancy and lactation is epithelial cell autonomous. Dev. Biol. 212, 1-11.[Medline]
+
+
+
+Friedmann, Y. and Daniel, C. W. (1996). Regulated expression of homeobox genes Msx-1 and Msx-2 in mouse mammary gland development suggests a role in hormone action and epithelial- stromal interactions. Dev. Biol. 177, 347-355.[Medline]
+
+
+
+Gerstenfeld, L. C., Chipman, S. D., Glowacki, J. and Lian, J. B. (1987). Expression of differentiated function by mineralizing cultures of chicken osteoblasts. Dev. Biol. 122, 49-60.[Medline]
+
+
+
+Ghosh-Choudhury, N., Windle, J. J., Koop, B. A., Harris, M. A., Guerrero, D. L., Wozney, J. M., Mundy, G. R. and Harris, S. E. (1996). Immortalized murine osteoblasts derived from BMP 2-T-antigen expressing transgenic mice. Endocrinology 137, 331-339.[Abstract]
+
+
+
+Hall, M. and Peters, G. (1996). Genetic alterations of cyclins, cyclin-dependent kinases, and Cdk inhibitors in human cancer. Adv. Cancer Res. 68, 67-108.[Medline]
+
+
+
+Hamburger, V. and Hamilton, H. L. (1951). A series of normal stages in the development of the chick embryo. J. Morphol. 88, 49-92.
+
+
+
+Hu, G., Vastardis, H., Bendall, A. J., Wang, Z., Logan, M., Zhang, H., Nelson, C., Stein, S., Greenfield, N., Seidman, C. E. et al. (1998). Haploinsufficiency of MSX1: a mechanism for selective tooth agenesis. Mol. Cell. Biol. 18, 6044-6051.[Abstract/Free Full&nbsp;Text]
+
+
+
+Hughes, S. H., Greenhouse, J. J., Petropoulos, C. J. and Sutrave, P. (1987). Adaptor plasmids simplify the insertion of foreign DNA into helper-independent retroviral vectors. J. Virol. 61, 3004-3012.[Medline]
+
+
+
+Hynes, N. E., Taverna, D., Harwerth, I. M., Ciardiello, F., Salomon, D. S., Yamamoto, T. and Groner, B. (1990). Epidermal growth factor receptor, but not c-erb-2 activation prevents lactogenic hormone induction of the beta-casein gene in mouse mammary epithelial cells. Mol. Cell. Biol. 10, 4027-4034.[Medline]
+
+
+
+Jabs, E. W., Mller, U., Li, X., Ma, L., Luo, W., Haworth, I. S., Klisak, I., Sparkes, R., Warman, M. L., Mulliken, J. B. et al. (1993). A mutation in the homeodomain of the human MSX2 gene in a family affected with autosomal dominant craniosynostosis. Cell 75, 443-450.[Medline]
+
+
+
+Kinsella, T. M. and Nolan, G. P. (1996). Episomal vectors rapidly and stably produce high-titer recombinant retrovirus. Hum. Gene Ther. 7, 1405-1413.[Medline]
+
+
+
+Krumlauf, R. (1994). Hox genes in vertebrate development. Cell 78, 191-201.[Medline]
+
+
+
+Littlewood, T. D., Hancock, D. C., Danielian, P. S., Parker, M. G. and Evan, G. I. (1995). A modified oestrogen receptor ligand-binding domain as an improved switch for the regulation of heterologous proteins. Nucleic Acids Res. 23, 1686-1690.[Abstract]
+
+
+
+Liu, Y. H., Kundu, R., Wu, L., Luo, W., Ignelzi Jr, M. A., Snead, M. L. and Maxson Jr, R. E. (1995). Premature suture closure and ectopic cranial bone in mice expressing Msx2 transgenes in the developing skull. Proc. Natl. Acad. Sci. USA 92, 6137-6141.[Abstract/Free Full&nbsp;Text]
+
+
+
+Maulbecker, C. C. and Gruss, P. (1993). The oncogenic potential of deregulated homeobox genes. Cell Growth &amp; Diff. 4, 431-441.[Abstract]
+
+
+
+Mina, M., Gluhak, J. and Rodgers, B. (1996). Downregulation of Msx-2 expression results in chondrogenesis in the medial region of the avian mandible. Conn. Tissue Res. 35, 79-84.[Medline]
+
+
+
+Newberry, E. P., Boudreaux, J. M. and Towler, D. A. (1997). Stimulus-selective inhibition of rat osteocalcin promoter induction and protein-protein interactions by the homeodomain repressor Msx2. J. Biol. Chem. 272, 29607-29613.[Abstract/Free Full&nbsp;Text]
+
+
+
+Noveen, A., Jiang, T. X., Ting-Berreth, S. A. and Chuong, C. M. (1995). Homeobox genes Msx-1 and Msx-2 are associated with induction and growth of skin appendages. J. Invest. Dermatol. 104, 711-719.[Abstract]
+
+
+
+Odelberg, S. J., Kollhoff, A. and Keating, M. T. (2000). Dedifferentiation of mammalian myotubes induced by msx1. Cell 103, 1099-1109.[Medline]
+
+
+
+Parry, D., Mahony, D., Wills, K. and Lees, E. (1999). Cyclin D-CDK subunit arrangement is dependent on the availability of competing INK4 and p21 class inhibitors. Mol. Cell. Biol. 19, 1775-1783.[Abstract/Free Full&nbsp;Text]
+
+
+
+Pavlova, A., Boutin, E., Cunha, G. and Sassoon, D. (1994). Msx1 (Hox-7.1) in the adult mouse uterus: cellular interactions underlying regulation of expression. Development 120, 335-346.[Abstract/Free Full&nbsp;Text]
+
+
+
+Phippard, D. J., Weber-Hall, S. J., Sharpe, P. T., Naylor, M. S., Jayatalake, H., Maas, R., Woo, I., Roberts-Clark, D., Francis-West, P. H., Liu, Y.-H. et al. (1996). Regulation of Msx-1, Msx-2, Bmp-2 and Bmp-4 during foetal and postnatal mammary gland development. Development 122, 2729-2737.[Abstract/Free Full&nbsp;Text]
+
+
+
+Pollock, R. A., Jay, G. and Bieberich, C. J. (1992). Altering the boundaries of Hox3.1 expression: evidence for antipodal gene regulation. Cell 71, 911-923.[Medline]
+
+
+
+Rao, S. S. and Kohtz, D. S. (1995). Positive and negative regulation of D-type cyclin expression in skeletal myoblasts by basic fibroblast growth factor and transforming growth factor beta. A role for cyclin D1 in control of myoblast differentiation. J. Biol. Chem. 270, 4093-4100.[Abstract/Free Full&nbsp;Text]
+
+
+
+Reznikoff, C. A., Brankow, D. W. and Heidelberger, C. (1973). Establishment and characterization of a cloned line of C3H mouse embryo cells sensitive to postconfluence inhibition of division. Cancer Res. 33, 3231-3238.[Medline]
+
+
+
+Satokata, I., Ma, L., Ohshima, H., Bei, M., Woo, I., Nishizawa, K., Maeda, T., Takano, Y., Uchiyama, M., Heaney, S. et al. (2000). Msx2 deficiency in mice causes pleiotropic defects in bone growth and ectodermal organ formation. Nat. Genet. 24, 391-395.[Medline]
+
+
+
+Satokata, I. and Maas, R. (1994). Msx1 deficient mice exhibit cleft palate and abnormalities of craniofacial and tooth development. Nat. Genet. 6, 348-355.[Medline]
+
+
+
+Shen, M. M. and Leder, P. (1992). Leukemia inhibitory factor is expressed by the preimplantation uterus and selectively blocks primitive ectoderm formation in vitro. Proc. Natl. Acad. Sci. USA 89, 8240-8244.[Abstract]
+
+
+
+Sherr, C. J. and Roberts, J. M. (1999). CDK inhibitors: positive and negative regulators of G1-phase progression. Genes Dev. 13, 1501-1512.[Free Full&nbsp;Text]
+
+
+
+Sicinski, P., Donaher, J. L., Parker, S. B., Li, T., Fazeli, A., Gardner, H., Haslam, S. Z., Bronson, R. T., Elledge, S. J. and Weinberg, R. A. (1995). Cyclin D1 provides a link between development and oncogenesis in the retina and breast. Cell 82, 621-630.[Medline]
+
+
+
+Skapek, S. X., Rhee, J., Spicer, D. B. and Lassar, A. B. (1995). Inhibition of myogenic differentiation in proliferating myoblasts by cyclin D1-dependent kinase. Science 267, 1022-1024.[Medline]
+
+
+
+Smith, R. C., Branellec, D., Gorski, D. H., Guo, K., Perlman, H., Dedieu, J. F., Pastore, C., Mahfoudi, A., Denefle, P., Isner, J. M. et al. (1997). p21CIP1-mediated inhibition of cell proliferation by overexpression of the gax homeodomain gene. Genes Dev. 11, 1674-1689.[Abstract]
+
+
+
+Song, K., Wang, Y. and Sassoon, D. (1992). Expression of Hox-7.1 in myoblasts inhibits terminal differentiation and induces cell transformation. Nature 360, 477-481.[Medline]
+
+
+
+Stewart, T. A., Pattengale, P. K. and Leder, P. (1984). Spontaneous mammary adenocarcinomas in transgenic mice that carry and express MTV/myc fusion genes. Cell 38, 627-637.[Medline]
+
+
+
+Suzuki, M., Tanaka, M., Iwase, T., Naito, Y., Sugimura, H. and Kino, I. (1993). Over-expression of HOX-8, the human homolog of the mouse Hox-8 homeobox gene, in human tumors. Biochem. Biophys. Res. Commun. 194, 187-193.[Medline]
+
+
+
+Walsh, K. and Perlman, H. (1997). Cell cycle exit upon myogenic differentiation. Curr. Opin. Genet. Dev. 7, 597-602.[Medline]
+
+
+
+Wang, T. C., Cardiff, R. D., Zukerberg, L., Lees, E., Arnold, A. and Schmidt, E. V. (1994). Mammary hyperplasia and carcinoma in MMTV-cyclin D1 transgenic mice. Nature 369, 669-671.[Medline]
+
+
+
+Wianny, F., Real, F. X., Mummery, C. L., Rooijen, M. V., Lahti, J., Samarut, J. and Savatier, P. (1998). G1 phase regulators, Cyclin D1, Cyclin D2 and Cyclin D3: up-regulation at gastrulation and dynamic expression during neurulation. Dev. Dyn. 212, 49-62.[Medline]
+
+
+
+Wilkie, A. O. M., Tang, Z., Elanko, N., Walsh, S., Twigg, S. R. F., Hurst, J. A., Wall, S. A., Chrzanowska, K. H. and Maxson, R. E. (2000). Funtional haploinsufficiency of the human homeobox gene MSX2 causes defects in skull ossification. Nat. Genet. 24, 387-390.[Medline]
+
+
+
+Winograd, J., Reilly, M. P., Roe, R., Lutz, J., Laughner, E., Xu, X., Hu, L., Asakura, T., vander Kolk, C., Strandberg, J. D. et al. (1997). Perinatal lethality and multiple craniofacial malformations in MSX2 transgenic mice. Hum. Mol. Genet. 6, 369-379.[Abstract/Free Full&nbsp;Text]
+
+
+
+Woloshin, P., Song, K., Degnin, C., Killary, A. M., Goldhamer, D. J., Sassoon, D. and Thayer, M. J. (1995). MSX1 inhibits MyoD expression in fibroblast x 10T1/2 cell hybrids. Cell 82, 611-620.[Medline]
+
+
+
+Xu, C., Ji, X., Harris, M. A., Mundy, G. R. and Harris, S. E. (1998). A clonal chondrocytic cell line derived from BMP-2/T antigen-expressing transgenic mouse. In Vitro Cell Dev. Biol. Anim. 34, 359-363.[Medline]
+
+
+
+Yaffe, D. and Saxel, O. (1977). Serial passaging and differentiation of myogenic cells isolated from dystrophic mouse muscle. Nature 270, 725-727.[Medline]
+
+
+
+Zhang, H., Catron, K. M. and Abate-Shen, C. (1996). A role for the Msx-1 homeodomain in transcriptional regulation: residues in the N-terminal arm mediate TATA binding protein interaction and transcriptional repression. Proc. Natl. Acad. Sci. USA 93, 1764-1769.[Abstract/Free Full&nbsp;Text]
+
+
+
+Zhang, H., Hu, G., Wang, H., Sciavolino, P., Iler, N., Shen, M. M. and Abate-Shen, C. (1997). Heterodimerization of Msx and Dlx homeoproteins results in functional antagonism. Mol. Cell. Biol. 17, 2920-2932.[Abstract]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

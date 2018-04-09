@@ -1,0 +1,879 @@
+
+
+Hematopoietic regulatory domain of gata1 gene is positively regulated by GATA1 protein in zebrafish embryos
+
+
+
+Makoto Kobayashi, 
+Keizo Nishikawa and 
+Masayuki Yamamoto*
+
+
+
+
+Center for Tsukuba Advanced Research Alliance and Institute of Basic Medical Sciences, University of Tsukuba, Tsukuba 305-8577, Japan
+
+
+
+
+*Author for correspondence (e-mail: masi{at}tara.tsukuba.ac.jp)
+
+
+
+
+
+Accepted March 19, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+Expression of gata1 is regulated through multiple cis-acting GATA motifs. To elucidate regulatory mechanisms of the gata1 gene, we have used zebrafish. To this end, we isolated and analyzed zebrafish gata1 genomic DNA, which resulted in the discovery of a novel intron that was unknown in previous analyses. This intron corresponds to the first intron of other vertebrate Gata1 genes. GFP reporter analyses revealed that this intron and a distal double GATA motif in the regulatory region are important for the regulation of zebrafish gata1 gene expression. To examine whether GATA1 regulates its own gene expression, we microinjected into embryos a GFP reporter gene linked successively to the gata1 gene regulatory region and to GATA1 mRNA. Surprisingly, ectopic expression of the reporter gene was induced at the site of GATA1 overexpression and was dependent on the distal double GATA motif. Functional domain analyses using transgenic fish lines that harbor the gata1-GFP reporter construct revealed that both the N- and C-terminal zinc-finger domains of GATA1, hence intact GATA1 function, are required for the ectopic GFP expression. These results provide the first in vivo evidence that gata1 gene expression undergoes positive autoregulation. 
+
+
+
+
+
+
+
+Key words: Autoregulation, First intron, GATA1, GFP reporter gene, Hematopoiesis, Transactivation, Transgenic, Zebrafish, Zinc finger
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+GATA1 is an indispensable transcription factor that is present in various vertebrates, and regulates erythroid and megakaryocytic gene expression (Evans and Felsenfeld, 1989; Tsai et al., 1989; Tsai et al., 1991; Trainor et al., 1990; Hannon et al., 1991; Nicolis et al., 1991; Zon et al., 1991; Detrich et al., 1995; Long et al., 1997; Onodera et al., 1997b). With the exception of Sertoli cells in the testis, the expression of GATA1 is restricted to hematopoietic cells (Ito et al., 1993; Yomogida et al., 1994). In mouse hematopoietic cells, the Gata1 gene is transcribed from the IE promoter, one of two cell lineage-specific promoters (reviewed by Yamamoto et al., 1997). Transient transfection assays in culture cells have shown that a double GATA motif, located upstream of the first exon, is required for full activity of the mouse IE promoter (Nicolis et al., 1991; Tsai et al., 1991). In addition, it has been shown that mutations in the CACCC box between the double GATA motif and the first exon can reduce this promoter activity (Tsai et al., 1991). Both the double GATA motif and the CACCC box are present in the gata1 gene regulatory regions of human, chicken and zebrafish (Nicolis et al., 1991; Hannon et al., 1991; Meng et al., 1999). The double GATA motif in the gata1 gene regulatory regions of chicken and zebrafish has been demonstrated to be important for erythroid specific gene expression (Schwartzbauer et al., 1992; Meng et al., 1999). In addition to these two regulatory motifs, a reporter gene transgenic mouse system has shown that the Gata1 gene hematopoietic enhancer (G1HE), located approximately 3.9 kb upstream of the IE exon, is required for hematopoietic expression of Gata1 (McDevitt et al., 1997; Onodera et al., 1997a). 
+
+
+
+Detailed deletion analyses indicated that the core 149 bp in G1HE, which contains the double GATA-related motif (GATT + GATA), contributes to the activity of the regulatory domain to express the reporter gene in the erythroid lineage (Vyas et al., 1999; Nishimura et al., 2000). The conservation of GATA motifs within the gata1 gene regulatory regions of various experimental animals suggests the importance of cis-acting GATA motifs for the hematopoietic lineage-specific expression of the gata1 gene. 
+
+
+
+Gel retardation analyses have shown that mouse GATA1 can bind to the GATA sites both in the proximal double GATA motif and in the G1HE (Nicolis et al., 1991; Tsai et al., 1991; Schwartzbauer et al., 1992; Vyas et al., 1999; Nishimura et al., 2000), suggesting that gata1 gene expression is maintained by an autoregulatory mechanism during hematopoietic cell development. However, the transcriptional activation of the gata1 gene by GATA1 has been examined only in the fibroblast transfection systems: the magnitude of activation was small and it is likely that the choice of fibroblasts is a limiting factor (Hannon et al., 1991; Tsai et al., 1991). Systematic analysis of gata1 gene autoregulation has not been previously conducted in vivo in reporter transgenic systems. 
+
+
+
+The zebrafish is advantageous for analyzing in vivo mechanisms of transcriptional regulation. As zebrafish development is relatively quick and the transparent embryos develop outside the mother, three important transcription factor analyses can be conducted using the zebrafish system. First, spatial and temporal expression profiles of the transcription factor and its target genes during embryogenesis can be easily studied in live embryos using green fluorescence protein (GFP) as the reporter gene (Higashijima et al., 1997; Long et al., 1997). Second, the effects of either overexpression or ectopic expression of transcription factors can be examined with ease by injecting the necessary synthetic RNA into early stage embryos (Kobayashi et al., 1998; Kobayashi et al., 2001). Third, various developmental events, such as embryonic hematopoiesis, can be observed within a couple of days (Amatruda and Zon, 1999). 
+
+
+
+In this study, we have used zebrafish to clarify whether GATA1 can activate its own gene expression. We prepared transgenic fish containing the GFP reporter linked to the zebrafish gata1 gene hematopoietic regulatory domain (HRD). Importantly, the expression of GFP was induced ectopically by the overexpression of GATA1 in a GATA site-dependent manner from the gata1-HRD-GFP transgene. We also prepared stable transgenic fish lines with the same reporter transgene construct and performed functional domain analysis. The results clearly indicate that an intact GATA1 function is required for the ectopic reporter gene expression. These results, thus, provide the first in vivo evidence for the existence of an autoregulatory mechanism in hematopoietic gata1 gene expression. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Isolation of genomic DNA
+
+
+A zebrafish EMBL3 SP6/T7 genomic library (Clontech) was screened with a probe containing a coding region of zebrafish GATA1 cDNA (Detrich et al., 1995). Probes were labeled using the AlkPhos Direct DNA labeling kit, and the positive plaques on the membrane filters were detected with CDP-Star as substrate, according to the manufacturers instruction (Amersham Pharmacia Biotech). The DNA inserts of the positive clones were subcloned into pBluescript II SK. 
+
+
+
+Southern blot and PCR analyses
+
+
+Genomic zebrafish DNA was prepared from the whole adult bodies of AB strains by a standard method that was modified for zebrafish DNA as described previously (Westerfield, 1995). Isolated genomic DNA was digested with restriction enzymes and analyzed by agarose gel electrophoresis. DNA fragments were transferred to ZetaProbe membrane (BioRad) and hybridized at 55C to an AlkPhos Direct-labeled probe, which corresponds to the first intron of the zebrafish gata1 gene. Membranes were washed at 60C in buffer containing a blocking reagent according to the manufacturers instruction (Amersham Pharmacia Biotech). PCR was carried out using primers corresponding to the 3'-end of the first exon (5'-GATAAGCAAGCAAACAGGCG) and to the 5'-end of the second exon (5'-TATAGGACGACGAGGCTCGG). 
+
+
+
+5'-Rapid amplification of cDNA ends (5' RACE) assay
+
+
+Total zebrafish RNA was prepared using RNAzol B (TEL-TEST) from either whole embryos at 18 hours or from adult hematopoietic tissues (kidney, spleen plus liver). 5' RACE assay was carried out using the 5' RACE System (GIBCO BRL). Briefly, 4 g each of total RNA was reverse transcribed using the antisense primer 5'-GCAGTGTTCTGGTAGATGG, which is specific for the gata1 third exon. The product was amplified using the 5' RACE abridged anchor primer and a gata1 third exon-specific antisense primer 5'-TACTGGACCAGACCGTGG. The resulting cDNA was further amplified using the abridged universal amplification primer and another gata1 third exon-specific antisense primer 5'-TGACCTGCAGAGTTGTCTAGCC. 5' RACE products were subcloned into pBluescript II SK and their sequences were determined. 
+
+
+
+Fish embryos and larvae
+
+
+Zebrafish embryos and larvae were obtained by natural mating (Westerfield, 1995) and staged accordingly (Kimmel et al., 1995). Germline transgenic fish were identified under the fluorescent microscope by their expression of GFP. Whole-mount in situ hybridization was performed, as described previously (Kobayashi et al., 2001). 
+
+
+
+Microinjection of zebrafish embryos
+
+
+p8.1G1-eGFP and its derivatives described below were linearized by digesting the vector backbone with either KpnI or SacI. Digested DNA was resuspended in water and injected into the blastomere of early one-cell stage embryos (see Fig. 5A). For RNA injection, synthetic capped RNA was made with the SP6 mMESSAGE mMACHINE in vitro transcription kit (Ambion) using linearized DNA of the pCS2 derivatives described below. RNA was injected into the yolk at the one-cell stage for expression in whole bodies. For spatially localized gene overexpression, two- to eight-cell stage embryos were injected into a single blastomere, along with 200 g/ml mRNA for DsRed (Clontech) or 0.125% tetramethyl-rhodamine dextran as cell lineage markers (see Fig. 5A). 
+
+
+
+
+
+
+
+
+
+
+View larger version (51K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Induction of the GFP expression directed from gata1-HRD by GATA1 overexpression. (A) A successive-injection system for the gata1 mRNA and the GFP reporter constructs. Embryos that were injected with template DNA into a blastomere at early one-cell stage were again injected with the GATA1 mRNA together with tetramethyl-rhodamine dextran into a single blastomere at the two- to eight-cell stage. (B) Ectopic GFP expression in the GATA1 mRNA-injected embryo. Embryos were fixed at 15 hours and were flattened on the slides with dorsal side upwards after removing the yolk. Dorsal views of embryos with anterior towards the left that were injected with GATA1 mRNA plus tetramethyl-rhodamine dextran (top, thick arrows) or with only tetramethyl-rhodamine dextran (bottom, thin arrows). Pictures in the left, middle and right columns were taken using the GFP plus, green or both filters, respectively. Arrowheads indicate the GFP expression in the LPM. (C) Difference in GFP induction by GATA1 among various gata1 constructs. Values indicate the percentages of embryos that showed ectopic GFP expression after injecting both the GATA1 mRNA and GFP reporter constructs. The numbers of embryos observed for each construct are indicated in parentheses.
+
+
+
+
+
+&nbsp;
+
+
+
+Observation by fluorescent microscopy
+
+
+Embryos and larvae were either anesthetized with 168 g/ml 3-aminobenzoic acid ethyl ester (Sigma) or fixed overnight at 4C in PBS containing 4% paraformaldehyde. GFP expression was examined under GFP Plus (480 nm excitation, 505 nm emission) or green (546 nm excitation, 565 nm emission) filters on a MZFLIII microscope (Leica) equipped with a C5810 chilled CCD camera (Hamamatsu Photonics). 
+
+
+
+Plasmid construction
+
+
+A DNA fragment corresponding to the 8.1-kb upstream region of the translational initiation site of zebrafish gata1 and the eGFP fragment of pCS2-eGFP (kindly provided by Dr J. J. Breen) were ligated together into pBluescript IISK, and the resulting plasmid was named p8.1kG1-eGFP. For construction of p8.1kG1dl1-eGFP, a 0.2 kb DNA fragment containing the first exon and translational initiation site, but not the first intron, was prepared by PCR and ligated into p8.1kG1-eGFP. For construction of the 5'-deleted gata1 mutants, p8.1kG1-eGFP was linearized with KpnI and ClaI, and incubated with exonuclease III, followed by blunting with mung bean nuclease and the self-ligation. Selected constructs were sequenced and named p5.7kG1-eGFP, p5.1kG1-eGFP and p3.9kG1-eGFP, according to the positions of their 5' ends from the translational initiation site. For construction of p8.1G1m1-eGFP, mutations in a distal double GATA motif were introduced by PCR into p8.1G1-eGFP. 
+
+
+
+To construct pCS2zGATA1, pCS2zGATA1dN56, pCS2zGATA1dN80, pCS2zGATA1dCF and pCS2zGATA1dNF, cDNA fragments corresponding to 1Met-418Val, 56S-418Val, 80L-418Val, 1Met-282Leu plus 325Val-418Val, and 1Met-233Pro plus 283Ile-418Val, respectively, were prepared by PCR and subcloned into pCS2+ (Rupp et al., 1994). Constructs pCS2HAzGATA1, pCS2HAzGATA1dCF and pCS2HAzGATA1dNF were generated by inserting a cDNA fragment for the HA peptide (MEYPYDVPDYAA) just upstream of the first ATG site of GATA1 in pCS2zGATA1, pCS2zGATA1dCF and pCS2zGATA1dNF, respectively. All constructs were verified by a DNA sequencing. 
+
+
+
+Immunoblot analysis
+
+
+Embryos were homogenized with a pestle in buffer A (20 mM Hepes (pH 7.6), 1.5 mM MgCl2, 10 mM NaCl, 20% glycerol, 0.2 mM EDTA, 1 mM dithiothreitol, 1 mM p-amidinophenylmethanesulfonyl fluoride, 1xprotease inhibitor cocktail (Roche)) and incubated at 0C for 5 minutes in buffer B (buffer A plus 0.1% Triton X-100), and nuclei were collected from resulting homogenate by centrifugation at 600 g for 10 minutes. In vitro translated proteins were generated by TNT Coupled Wheat Germ Extract Systems (Promega) using pCS2 derivatives as DNA templates. Immunoblot analysis using anti-HA antibody (12CA5, Roche) was performed as described previously (Kobayashi et al., 2001). 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Identification of the first intron in the zebrafish gata1 gene
+
+
+To analyze the regulatory mechanism that controls zebrafish gata1 transcription, genomic DNA fragments containing the gata1 gene were cloned and characterized. Using cDNA corresponding to the open reading frame of zebrafish gata1, a zebrafish genomic library (2.1x106 plaques) was screened, and four positive clones were isolated. After characterizing these clones by restriction enzyme site mapping and Southern blot analysis, insert DNA of the most 5'-extended clone containing about 14-kb of the gata1 locus was subcloned into a cloning vector and further analyzed. 
+
+
+
+To our surprise, a 1.5-kb intron just upstream of the translational initiation site was identified in the isolated genomic clones (Fig. 1A). As this intron was not present in the clone reported by Long et al. (Long et al., 1997), we carried out several additional analyses for confirmation. First, Southern blot analysis with zebrafish genomic DNA was performed along with cloned phage DNA using a fragment corresponding to the first intron as a probe (Fig. 1B). The lengths of the positive fragments were identical in genomic DNA and cloned phage DNA in three independent digestions: XbaI (expected fragments are 3.8 kb + 1.6 kb), SpeI (2.9 kb) and XbaI/SpeI (1.4 kb). The result also correlated well with the restriction enzyme site map of the cloned DNA. 
+
+
+
+
+
+
+
+
+
+
+View larger version (39K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. Identification of the first intron in the 5'-UTR of the zebrafish gata1 gene. (A) Structure of the zebrafish gata1 gene. Gray and white boxes denote the coding and noncoding region of the GATA1 cDNA, respectively. E, X and S indicate enzyme sites for EcoRI, XbaI and SpeI, respectively. (B) Southern blot analysis. Zebrafish genomic DNA (lanes 1-3) or GATA1 phage clone DNA (lanes 4-6) was digested with XbaI (lanes 1 and 4), SpeI (lanes 2 and 5) or both enzymes (lanes 3 and 6). After Southern blotting, membrane was hybridized with a probe corresponding to the first intron (black bar in panel A). (C) PCR analysis. PCR was performed using zebrafish genomic DNA (lane 1), GATA1 phage clone DNA (lane 2) and GATA1 cDNA (lane 3) as templates. No template DNA was added in lane 4. Primers are indicated by arrows in A.
+
+
+
+
+
+&nbsp;
+
+
+
+Second, a set of specific primers based on the first and second exons were designed and PCR analysis was performed using genomic DNA, cloned phage DNA and GATA1 cDNA as templates (Fig. 1C). The PCR product derived from GATA1 cDNA was 0.28 bp (as expected), whereas those obtained from genomic DNA and cloned phage DNA were approximately 1.8 kb long, indicating the presence of the first intron. 
+
+
+
+Third, we isolated two gata1 BAC clones from a zebrafish genomic DNA BAC library (Genome Systems) and confirmed the existence of the first intron in both clones (data not shown). Taken together, these results unequivocally demonstrate that zebrafish gata1 gene contains an intron disrupting the 5'-untranslated region (UTR) of the gene. This intron corresponds to the first intron found in other vertebrate Gata1 genes cloned and characterized to date, such as human, mouse, rat and chicken (Hannon et al., 1991; Nicolis et al., 1991; Tsai et al., 1991; Onodera et al., 1997b), indicating that the structure and organization of the gata1 genes is well conserved among vertebrates. 
+
+
+
+Finally, we examined the mRNA sequences of gata1 in embryos or adult hematopoietic tissues by 5' RACE assay. For this purpose, we amplified cDNAs prepared from the total RNA of either 18-hour-old embryos or adult hematopoietic tissues, and determined the sequences of selected clones. Sequences corresponding to the first and second exons, but not to the first intron, were found in all of the cDNAs prepared from embryos (eight out of eight) or from hematopoietic tissues (16 out of 16). Additional first exons, such as the IT exon (Ito et al., 1993) or the exon 1b (Tsai et al., 1991) in the mouse Gata1 gene, were not found in the zebrafish gata1 gene analyzed in this study. These results thus indicate that the first intron of the zebrafish gata1 gene is spliced out in the gata1 transcripts in embryonic and adult hematopoietic tissues. 
+
+
+
+The first intron enhances gata1 gene regulatory activity in zebrafish larvae
+
+
+The first intron of the mouse Gata1 gene is required for its efficient expression in definitive erythroid cells (Onodera et al., 1997a). Similarly, expression of the CAT reporter gene driven by the chicken GATA1 gene regulatory region was four-fold greater in the presence of the first intron in 10-day-old chicken definitive erythroid cells (Hannon et al., 1991). Consistent with these results, the present identification of the first intron in the zebrafish gata1 gene suggests the importance of the first intron in the hematopoietic expression of the gata1 gene, especially at the late stage of development. 
+
+
+
+To further verify this contention, GFP reporter constructs fused to the zebrafish gata1 gene regulatory region, either with (8.1kG1-eGFP) or without (8.1kG1dI1-eGFP) the first intron, were prepared and their promoter activity was examined in zebrafish embryos (Fig. 2A). Each construct was microinjected into one-cell-stage embryos and expression of the GFP reporter gene was monitored using a fluorescence microscope at distinct stages of development. We first analyzed the embryos injected with 8.1kG1-eGFP. In these embryos, the GFP expression was observed in the lateral plate mesoderm (LPM) at 15 hours (data not shown) and in the intermediate cell mass (ICM) at 24 hours (day 1 in Fig. 2B), where prospective hematopoietic cells occur (Detrich et al., 1995). The expression of GFP was highly analogous to the gata1 gene expression profile determined by in situ hybridization (Fig. 2B; data not shown). These results thus demonstrate that the genomic region used for 8.1kG1-eGFP is sufficient to recapitulate the hematopoietic gata1 gene expression profile in zebrafish embryos. We, thus, named this genomic region the gata1 gene hematopoietic regulatory domain (gata1-HRD). 
+
+
+
+
+
+
+
+
+
+
+View larger version (41K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. Activity of the first intron in GFP reporter gene expression. (A) Construction of reporter genes. Zebrafish gata1 locus is shown at the top, where open and striped bars denote the upstream region and the first intron, respectively. (B) GFP expression of the 8.1kG1-eGFP and 8.1kG1dI1-eGFP constructs. Top panels indicate the endogenous gata1 expression analyzed by whole mount in situ hybridization. ICM, intermediate cell mass. (C) Region for counting GFP-expressing cells. (D) Ratios of GFP-expressing cell numbers between the 8.1kG1-eGFP- and 8.1kG1dI1-eGFP-injected embryos. Embryos that did express GFP in the ICM at 24 hours were selected and further analyzed at the embryonic days indicated. Concentration of the injected DNA was 10, 25 or 50 g/ml, as indicating by white circles, black circles and white squares, respectively. Five pictures of each embryo were taken at a 30 msecond video rate, and numbers of cells expressing GFP in the square shown in C were counted and averaged. Percentages were calculated from the mean of positive cell numbers in examined embryos (n=21 and n=37 for 8.1kG1-eGFP and 8.1kG1dI1-eGFP, respectively).
+
+
+
+
+
+&nbsp;
+
+
+
+We then compared the GFP expression profile of zebrafish embryos generated by 8.1kG1-eGFP with those harboring the 8.1kG1dI1-eGFP construct that lacked the first intron. No obvious difference in GFP expression was detected between embryos injected with either construct until 2 days after fertilization. The number of GFP-expressing cells, however, was greatly decreased after 4 days in embryos injected with 8.1kG1dI1-eGFP, whereas those injected with 8.1kG1-eGFP did not show such a rapid decline (day 5 in Fig. 2B). 
+
+
+
+Within the region containing parts of the aorta and vein (Fig. 2C), we counted the number of cells expressing GFP in the blood circulation at days 2, 4, 6 and 10. The ratios of GFP-positive cell number in 8.1kG1dI1-eGFP-injected embryos to that in 8.1kG1-eGFP injected embryos were calculated at each larval stage (Fig. 2D). The ratio was 61% on day 2 for the DNA injection at concentration of 50 g/ml (approximately 50 pg per embryo). This value was not significantly altered when the DNA concentration was decreased to 25 or 10 g/ml (51% and 75%, respectively). However, the ratios were reduced considerably according to the larval development for all DNA concentrations. These results indicate that the first intron only affects gata1 gene expression at the larval stage and may be required for the maintenance of late phase gata1 expression. 
+
+
+
+In order to compare the structure of the first intron of zebrafish gata1 with those of other vertebrate gata1 genes, we determined the entire nucleotide sequence of the 1.5 kb first intron. The sequence has been deposited in DDBJ/EMBL/GenBank Database under Accession Number AB052888. Neither the GATA repeat nor the AP-1 repeat were found in the zebrafish first intron, both of which exist in the first intron of mouse gata1 and were demonstrated to be critical for GFP reporter activity in erythroid SKT6 cells (Seshasayee et al., 2000). The hormone-responsive element in the first intron of chicken GATA1, which was recognized by the thyroid hormone receptor  and the chicken ovalbumin upstream promoter (COUP) transcription factor (Trainor et al., 1995), was not found. To date, entire sequence of the chicken first intron (161 bp; Hannon et al., 1991) and only 2.4 kb of the 4.4 kb sequence of the mouse first intron (DDBJ/EMBL/GenBank Database, X57530) have been reported. From the cross-species comparison, an AGxxAATGxxG sequence located at nucleotide position -319 was identical among the first introns of zebrafish, mouse and chicken. Although a double GATA motif surrounded by several E-boxes at nucleotide position -125 is interesting, it was not found in the known sequences of the gata1 first intron of other species. 
+
+
+
+A distal double GATA motif is necessary for GFP expression driven by gata1-HRD
+
+
+A distal double GATA motif is located in approximately 6.4 kb upstream from the translational initiation site of the zebrafish gata1 gene. This motif is necessary for the hematopoietic expression of the zebrafish gata1 gene, as demonstrated by reporter transgenic analyses using constructs lacking the first intron (Meng et al., 1999). In order to examine whether the first intron containing another double GATA motif can replace the activity of the distal motif, we prepared a set of deletion constructs based on 8.1kG1-eGFP and analyzed their activity in zebrafish embryos (Fig. 3). Strong GFP expression was observed in the ICM at 22 hours in 37% of injected embryos with full-length construct. Deletion of the upstream region, including the double GATA motif, reduced the number of cells expressing GFP, while removal of the first intron caused only a weak effect. As the number of GFP-positive cells reflects the gene regulatory activity of the template, the distal GATA motif seemed important for the activity of gata1-HRD during the early phase of hematopoiesis. 
+
+
+
+
+
+
+
+
+
+
+View larger version (20K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. Template activities of the various gata1 constructs. Values in the left column show the percentages of embryos that contained more than 21 GFP-positive cells in the ICM at 22 hours after injection of indicated reporter constructs. Values in the right column indicates that the percentages of embryos that contained more than six GFP-positive cells in the ICM. The numbers of embryos examined for each construct are indicated in the parentheses. dGATA and CACCC denote the double GATA motif and CACCC box, respectively.
+
+
+
+
+
+&nbsp;
+
+
+
+To define whether the distal double GATA motif is required for GFP expression, we generated a mutant construct of the GATA motif, 8.1kG1mG-eGFP, in which a point mutation was introduced into both GATA sites in the double GATA motif. To elaborate, the original sequence AGATAGCTTCTTATCA was mutated to AGCCAGCTTCTTCCCA, and its activity to promote GFP expression was examined. Only 6% of 8.1kG1mG-eGFP-injected embryos showed a strong GFP expression, indicating that the double GATA motif is indeed important for the activity of gata1-HRD. Drastic reduction of GFP expression by point mutations at the double GATA motif was also observed in day 5 larvae (data not shown). These results suggest that the distal double GATA motif in the -6.4 kb site is crucial for both embryonic and larval expression of the gata1 gene and that the first intron cannot substitute with it in both cases. 
+
+
+
+According to the criterion that positive embryos express GFP in more than six cells in the ICM (right column in Fig. 3), all constructs, including the shortest 3.9kG1-eGFP construct, were found to have some activity in promoting specific GFP expression. These results support the contention that the distal double GATA motif is important in enhancing the gata1 promoter activity, but not essential for specific gene expression in hematopoietic tissues. Using a similar criterion for identifying GFP-positive embryos, Meng et al. reported that less than 2% of embryos injected with the double GATA motif deletion construct 4623GM2 (corresponding to -6.2 kb in our constructs) showed specific GFP expression (Meng et al., 1999). At present, we do not have any plausible explanation for the discrepancy, except for the presence of the first intron in our reporter constructs. 
+
+
+
+Overexpression of GATA1 induces ectopic expression of GFP from gata1-HRD
+
+
+To examine whether GATA1 regulates its own gene expression, we produced stable zebrafish lines containing the 8.1kG1-eGFP transgene in the chromosome (8.1kG1-eGFP fish) and used their progeny for analyzing how GATA1 overexpression affects gata1-HRD activity. Second generation (F2) embryos or larvae of the 8.1kG1-eGFP fish showed potent GFP expression in the LPM and blood cells at 15 hours and at 7 days, respectively (Fig. 4A). 
+
+
+
+
+
+
+
+
+
+
+View larger version (52K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. GATA1 overexpression analyses using 8.1kG1-eGFP germline transgenic fish. (A) GFP expression in the F2 embryos. Embryos were fixed at 15 hours or 7 days. Dorsal views with anterior towards the top (left panel) or a lateral view with anterior towards the left (right panel). LPM, lateral plate mesoderm. (B) Ectopic GFP expression in the GATA1 overexpressed embryos. Dorsal views with anterior towards the bottom of the living 8.1kG1-eGFP embryo at 18 hours, in which GATA1 and DsRed RNAs were co-injected. Pictures were taken without filters (left), using the green filters (middle) and using GFP plus filters (right). Arrows indicate cells in which GATA1 was overexpressed. (C) GATA1 deletion mutants used in the analyses. (D) Percentages of ectopic GFP-expressing embryos at 15 hours among embryos that were injected with wild-type or mutated GATA1. Each mRNA was injected into more than 30 embryos. Results for wild-type GATA1 (white circles), GATA1dCF (black circles), GATA1dNF (white triangles), GATA1dN56 (black squares) and GATA1dN80 (white squares). (E) Immunoblot analysis of nuclear proteins of zebrafish embryos injected with mRNA for HA-tagged wild-type GATA1 (WT), NF-deleted GATA1 (dNF), or CF-deleted GATA1 (dCF). In vitro translated proteins of these GATA1 mutant constructs were also analyzed. Black and white arrowheads denote migration positions of the wild-type and zinc finger-deleted GATA1, respectively.
+
+
+
+
+
+&nbsp;
+
+
+
+GATA1 mRNA was then injected into the 8.1kG1-eGFP fish embryos to examine the effect of GATA1 overexpression. DsRed mRNA was co-injected as a cell lineage marker to allow the detection of cells expressing GATA1 in the 8.1kG1-eGFP embryos (Fig. 4B). To our surprise, expression of GATA1 at ectopic sites induces the expression of GFP driven by the gata1-HRD-GFP reporter gene in DsRed-positive cells (Fig. 4B). A dose study indicated that the injection of 4 pg of GATA1 mRNA was enough to induced the ectopic expression of GFP (data not shown). Similar results were observed using a different transgenic line (data not shown), indicating an independence of ectopic GFP expression on integration sites of the transgene in the chromosome. Though an indirect mechanism cannot be excluded, owing to the time scale of the experiments, our present data strongly suggest that GATA1 acts as a positive regulator of its own gene regulatory domain. 
+
+
+
+Both N- and C-terminal zinc-finger domains are required for the inducible expression of the GFP reporter
+
+
+Mutation studies of mouse and chicken GATA1 showed that proteins lacking the N-terminal zinc finger (NF) could bind to DNA and activate expression of the reporter gene, whereas proteins lacking the C-terminal zinc finger (CF) were inactive (Martin and Orkin, 1990; Yang and Evans, 1992). NF stabilizes GATA1 binding to clusters of GATA sites, such as the double GATA motif in gata1-HRD (Martin and Orkin, 1990; Trainor et al., 1996). To elucidate whether GATA1-mediated ectopic expression of GFP requires an intact GATA1 function or not, we designed GATA1 constructs without NF or CF, and examined their ability to induce ectopic GFP expression in the embryos of 8.1kG1-eGFP fish (Fig. 4C). Injection of CF-deleted GATA1 (GATA1dCF) mRNA resulted in negligible induction of ectopic GFP expression, even when the mRNA concentration was increased to 200 g/ml (Fig. 4D), indicating that CF is crucial for activity. Similarly, overexpression of NF-deleted GATA1 (GATA1dNF) showed negligible induction of ectopic GFP expression, suggesting that NF is also indispensable for activity. We did not analyze GATA1dNF mRNA injected embryos at a high dose (&gt;150 g/ml), as embryonic development ceased at the gastrula stage, probably because of the toxic effects of GATA1dNF (data not shown). To confirm that reduction in GFP-inducing activity of GATA1 by zinc-finger deletion was not due to instability of these mutant proteins, we overexpressed HA-tagged GATA1 constructs in embryos and analyzed their expression at protein level by immunoblot analysis. GFP-inducing activities of the HA-tagged and untagged constructs were comparable for each GATA1 proteins (data not shown). Expression level of overexpressed proteins was similar between NF- or CF-deleted GATA1 and wild-type GATA1 (Fig. 4E), indicating that both NF and CF were in fact required for gata1-HRD-directed GFP expression. 
+
+
+
+The N-terminal (NT) domain of 66 amino acid residues in the mouse GATA1 is necessary for transactivation in transfection assays using COS or NIH3T3 cells. NT also confers transactivational activity upon fusion to heterologous DNA-binding domains (Martin and Orkin, 1990). Strikingly, deletion of 71 amino acid residues of the chicken GATA1 NT region reduces the level of transactivation in QT6 fibroblasts (Yang and Evans, 1992). Owing to the analogy with mammalian and avian GATA1, we examined the function of the zebrafish GATA1 NT domain in ectopic GFP expression. GATA1 constructs deleted the NT domain of 56 or 80 residues (GATA1dN56 and GATA1dN80, respectively) were prepared and their activity to induce GFP was examined in 8.1kG1-eGFP embryos (Fig. 4C). The induction of ectopic GFP expression was observed with the NT deletion mutants. The magnitude of induction was weaker than that of wild-type GATA1 mRNA at a low mRNA concentration range, but stronger than both the NF or CF deletion mutants (Fig. 4D). The GATA1dN56 and GATA11dN80 constructs gave reproducible results. These results indicate that the NT domain also contributes to the GATA1 transactivational activity for gata1-HRD-directed ectopic expression of GFP. The results also suggest that the presence of excessive amounts of GATA1dNT protein can compensate the NT activity. 
+
+
+
+Distal double GATA motif is required for the induction of ectopic GFP expression
+
+
+In order to identify target sites for GATA1 in gata1-HRD, we set up a successive-injection system of GFP reporter DNA and synthetic capped RNA providing trans-acting factors (Fig. 5A). After injecting 8.1kG1-eGFP at the early one-cell stage, GATA1 mRNA was injected into a single blastomere at 2 to 8 cell stage, together with tetramethyl-rhodamine dextran as a cell lineage marker. In these embryos, GATA1 was randomly overexpressed in some parts of the body and identified as rhodamine positive cells. The results showed that 31% of the GATA1 mRNA-injected embryos showed a strong ectopic expression of GFP at 15 hours. The GFP-positive area was also positive for rhodamine (Fig. 5B, thick arrow). Such GFP induction was not observed in embryos injected with the cell lineage marker alone (Fig. 5B, thin arrow). 
+
+
+
+The important observation here is that induction of GFP expression was significantly reduced when 5.7kG1-eGFP or shorter constructs were used as template DNA (Fig. 5C). The double GATA motif was localized in this 2.4 kb sequence deleted from 8.1kG1-eGFP, which was identified as a requirement for gata1-HRD activity in blood cells (see Fig. 3). Therefore, to determine whether the double GATA motif is required for induction of ectopic GFP expression, we examined the response to the GATA1 overexpression using the point mutant construct 8.1kG1mG-eGFP as a reporter. When we injected the 8.1kG1mG-eGFP reporter and the GATA1 mRNA successively, only 11% of embryos showed ectopic GFP expression (Fig. 5C). This frequency was comparable with that of the 5.7kG1-eGFP construct. These results indicate that the distal double GATA motif in gata1-HRD actually mediates the response to the exogenous GATA1, implying that gata1-HRD may be a direct target for GATA1 transactivation. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Positive autoregulation of the gata1 gene
+
+
+The requirement of particular GATA sites for regulation of the gata1 gene has been demonstrated both in the reporter transfection system in culture cells and in the reporter transgenic system in mouse and zebrafish (Tsai et al., 1991; Schwartzbauer et al., 1992; Meng et al., 1999; Vyas et al., 1999; Nishimura et al., 2000). As GATA1 binds to these sites with comparable affinity to other GATA factors, it seems reasonable to assume that GATA1 functions as a transactivator of its own gene expression. Indeed, our present study provides the first in vivo evidence for the transactivation of the zebrafish gata1 gene hematopoietic regulatory domain by GATA1. This result supports the contention that a positive feedback loop constitutes an indispensable part of gata1 gene regulation. The positive feedback regulation of transcription factor genes has been revealed to represent an important biological mechanism that underlies the regulation of cell differentiation. For example, in the hematopoietic system, lineage committed cells must differentiate into functional cells both quickly and irreversibly, in order to avoid the appearance of leukemic cells. Thus, the positive feedback loop accommodates the regulation of this biological system very well. Current lines of evidence also suggest that direct positive autoregulation may be conserved among the vertebrate gata1 gene hematopoietic regulatory domains. Hence, we are now one step closer towards a comprehensive understanding of how regulators are modulated. 
+
+
+
+Recent progress in transgenic and gene targeting technologies has allowed the direct confirmation that transcription factor genes undergo a positive autoregulatory control loop. For example, the following genes may be governed by this regulatory mechanism: Pit1 in the anterior pituitary cells (DiMattia et al., 1997); Hoxa4, Hoxb4, Hoxd4 and their Drosophila homolog, deformed, in anteroposterior patterning (Bergson and McGinnis, 1990; Gould et al., 1997; Packer et al., 1998); and glial cells missing in the glial cells (Miller et al., 1998); and fushi tarazu in the segmentation (Schier and Gehring, 1992). Indeed, a pioneering study demonstrated that the nematode elt-2 gene, a gene encoding a single finger GATA factor, is positively autoregulated (Fukushige et al., 1998); ectopic expression of Elt-2 induced the expression of lacZ from a transgenic elt-2 promoter-lacZ reporter construct. In common with the zebrafish gata1 gene, autoregulation appears to work directly, since functional Elt-2-GFP fusion proteins co-localized exclusively with Elt-2 binding sites in cell nuclei (Fukushige et al., 1999). 
+
+
+
+First intron of the gata1 gene
+
+
+In this study, we have identified the first intron of the zebrafish gata1 gene. As this intron was not found during the previous zebrafish gata1 gene analysis (Long et al., 1997), it was necessary to confirm that the first intron is indeed present. The existence of this intron was established on the basis of three criteria. First, two independent  phage clones and two independent BAC clones contained the intron sequence. Second, Southern blotting and PCR analyses of zebrafish genomic DNA indicated the presence of a 1.5 kb intron between the first and second exons. Third, this 1.5 kb sequence does not exist in the GATA1 mRNA. Discovery of the zebrafish first intron proves that a strong cross species conservation occurs in the structure of the gata1 gene, as all currently characterized gata1 genes contain a first intron that disrupts the 5'-UTR. It is intriguing to note that not only the gata1 gene, but other family members of the hematopoietic GATA factor family, gata2 and gata3, contain the first intron, which disrupts the 5'-UTR at a similar site (George et al., 1994; Labastie et al., 1994; Nagai et al., 1994; Brewer et al., 1995; Minegishi et al., 1998; Nony et al., 1998). Furthermore, an intron disrupting the 5'-UTR also exists in the genes encoding the cardiac GATA factors, gata4, gata5 and gata6 (Soudais et al., 1995; MacNeill et al., 1997; Brewer et al., 1999). Thus, the first intron is a structure common to the vertebrate GATA factor genes. 
+
+
+
+The general conservation of the first intron among GATA factor genes suggests that it is functionally significant in the regulation of the these genes. One plausible possibility is that it may contribute to the control of temporal or spatial gene expression profile during development and/or cell differentiation, as is the case for gata1 (Hannon et al., 1991; Onodera et al., 1997a; Seshasayee et al., 2000). An alternative possibility is that the first intron may contribute to the selection of first exons/promoters used in the GATA genes. In the testis, mouse Gata1 mRNA is mainly transcribed from the IT exon, a first exon distinct from hematopoietic IE exon (Ito et al., 1993; Onodera et al., 1997b). Alternative first exons/ promoters have also been identified in the gata2, gata5 and gata6 genes (Minegishi et al., 1998; MacNeill et al., 1997; Brewer et al., 1999; Pan et al., 2000). In this regard, we were unable to find alternative first exon in the zebrafish gata1 gene through 5' RACE analysis using mRNA derived from hematopoietic tissues or testis (K. N., M. K. and M. Y., unpublished). However, although the possibility still remains that some zebrafish tissues retain an alternative form of GATA1 mRNA containing a first exon that is distinct from the one identified in this study. 
+
+
+
+Role of NF in the positive autoregulation
+
+
+GATA1 NF has been demonstrated to be essential for GATA1 function in hematopoietic tissue development. Although dispensable in the induction of megakaryocytic differentiation (Visvader et al., 1995), NF is strictly required for terminal erythroid differentiation (Weiss et al., 1997). In the present study, we have shown that NF is required for the GATA1 function in the inducible expression of GFP reporter, implying a role for NF in the maintenance of gata1 gene expression. NF contributes to the stability of DNA binding when GATA1 binds to a double rather than to a single GATA site (Martin and Orkin, 1990; Trainor et al., 1996). Likewise, our present results indicate that the distal double GATA motif in gata1-HRD is important for transactivation by GATA1. In addition to the DNA-binding activity, NF interacts with FOG1, an essential co-factor of GATA1 (Tsang et al., 1997). NF has also been implicated in the formation of a GATA1 dimer, through an NF-CF interaction (Mackay et al., 1998), which is noteworthy as overexpression of GATA1 alone induces ectopic GFP reporter gene expression in zebrafish embryos. 
+
+
+
+A double GATA-related motif in the G1HE of the mouse Gata1 gene was required for its expression in yolk-sac hematopoietic cells, and definitive erythroid and megakaryocytic cells (Vyas et al., 1999; Nishimura et al., 2000). Gel retardation analyses using nuclear extracts from mouse erythroleukemia cells have shown that a multi-protein complex including GATA1, SCL/Tal-1, E2A, Lmo2 and Ldb1 binds to this motif (Vyas et al., 1999; Nishimura et al., 2000). Lmo2 was demonstrated to interact directly with the fingers in GATA1 and is assumed to act as a bridging molecule for GATA1, SCL/Tal-1, and Ldb1 (Osada et al., 1995; Wadman et al., 1997). Homologs of SCL/Tal-1, Lmo2 and Ldb1 have been cloned from zebrafish and the expression of these genes in hematopoietic cells has been confirmed (Gering et al., 1998; Liao et al., 1998; Thompson et al., 1998; Toyama et al., 1998). It would be intriguing to test whether a multi-protein complex can also bind to the distal double GATA motif in the zebrafish gata1-HRD and play a role in the positive autoregulation of gata1 gene expression. 
+
+
+
+Zebrafish system for transcription studies
+
+
+Both the spatial and temporary activities of particular gene regulatory regions are easily detected in zebrafish embryos using GFP as a reporter gene. Therefore, various GATA1 deletion mutants were expressed in the embryos of 8.1G1-eGFP transgenic fish lines in order to examine their effects on the activity of gata1-HRD. Indeed, there has been an increase in the number of studies using stable transgenic zebrafish lines and GFP as a reporter gene (Amsterdam et al., 1995; Higashijima et al., 1997; Higashijima et al., 2000; Long et al., 1997; Jessen et al., 1999; Linney et al., 1999; Halloran et al., 2000). A convenient technique for analyzing the function of transcription factors in vivo is to overexpress the factor in embryos carrying the target sequence fused to a reporter gene. So far, this technique has been applied only to Drosophila, nematode and Xenopus embryonic models. Compared with the Xenopus system (Latinkic et al., 1997; Laurent et al., 1997; Mochizuki et al., 2000), however, zebrafish embryos have several advantages in gene regulation studies, such as rapid development, body transparency and existence of a large number of mutants that can change the genetic background of the GFP reporter fish. Thus, we consider that zebrafish to represent an excellent model system for studying the in vivo function of transcription factors. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We thank Ms Toshiko Arai and Ayako Hayashi for help in fish maintenance, and Mrs Hitoshi Osanai and Takafumi Suzuki for help and discussion. We also thank Dr Bruce Appel for cDNA libraries, Dr Joseph J. Breen for a plasmid DNA, Dr Shin-ichi Higashijima for technical advice, and Drs Igor B. Dawid, Martin Gering, Kazuhiko Igarashi, Naoko Minegishi, Tania OConnor and Satoru Takahashi for critical reading of the manuscript. This work was supported by Grants-in-Aid from the NOVARTIS Foundation (Japan) for the Promotion of Science, the Japanese Society for Promotion of Sciences, and by the Ministry of Education, Science, Sports and Culture of Japan. 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Amatruda, J. F. and Zon, L. I. (1999). Dissecting hematopoiesis and disease using the zebrafish. Dev. Biol. 216, 1-15.[Medline]
+
+
+
+Amsterdam, A., Lin, S. and Hopkins, N. (1995). The Aequorea victoria green fluorescent protein can be used as a reporter in live zebrafish embryos. Dev. Biol. 171, 123-129.[Medline]
+
+
+
+Bergson, C. and McGinnis, W. (1990). An autoregulatory enhancer element of the Drosophila homeotic gene Deformed. EMBO J. 9, 4287-4297.[Abstract]
+
+
+
+Brewer, A. C., Guille, M. J., Fear, D. J., Partington, G. A. and Patient, R. K. (1995). Nuclear translocation of a maternal CCAAT factor at the start of gastrulation activates Xenopus GATA-2 transcription. EMBO J. 14, 757-766.[Abstract]
+
+
+
+Brewer, A., Gove, C., Davies, A., McNulty, C., Barrow, D., Koutsourakis, M., Farzaneh, F., Pizzey, J., Bomford, A. and Patient, R. (1999). The human and mouse GATA-6 genes utilize two promoters and two initiation codons. J. Biol. Chem. 274, 38004-38016.[Abstract/Free Full&nbsp;Text]
+
+
+
+Detrich, H. W. III, Kieran, M. W., Chan, F. Y., Barone, L. M., Yee, K., Rundstadler, J. A., Pratt, S., Ransom, D. and Zon, L. I. (1995). Intraembryonic hematopoietic cell migration during vertebrate development. Proc. Natl. Acad. Sci. USA 92, 10713-10717.[Abstract]
+
+
+
+DiMattia, G. E., Rhodes, S. J., Krones, A., Carrire, C., OConnell, S., Kalla, K., Arias, C., Sawchenko, P. and Rosenfeld, M. G. (1997). The Pit-1 gene is regulated by distinct early and late pituitary-specific enhancers. Dev. Biol. 182, 180-190.[Medline]
+
+
+
+Evans, T. and Felsenfeld, G. (1989). The erythroid-specific transcription factor Eryf1: a new finger protein. Cell 58, 877-885.[Medline]
+
+
+
+Fukushige, T., Hawkins, M. G. and McGhee, J. D. (1998). The GATA-factor elt-2 is essential for formation of the Caenorhabditis elegans intestine. Dev. Biol. 198, 286-302.[Medline]
+
+
+
+Fukushige, T., Hendzel, M. J., Bazett-Jones, D. P. and McGhee, J. D. (1999). Direct visualization of the elt-2 gut-specific GATA factor binding to a target promoter inside the living Caenorhabditis elegans embryo. Proc. Natl. Acad. Sci. USA 96, 11883-11888.[Abstract/Free Full&nbsp;Text]
+
+
+
+George, K. M., Leonard, M. W., Roth, M. E., Lieuw, K. H., Kioussis, D., Grosveld, F. and Engel, J. D. (1994). Embryonic expression and cloning of the murine GATA-3 gene. Development 120, 2673-2686.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gering, M., Rodaway, A. R. F., Gttgens, B., Patient, R. K. and Green, A. R. (1998). The SCL gene specifies haemangioblast development from early mesoderm. EMBO J. 17, 4029-4045.[Abstract/Free Full&nbsp;Text]
+
+
+
+Gould, A., Morrison, A., Sproat, G., White, R. A. H. and Krumlauf, R. (1997). Positive cross-regulation and enhancer sharing: two mechanisms for specifying overlapping Hox expression patterns. Genes Dev. 11, 900-913.[Abstract]
+
+
+
+Halloran, M. C., Sato-Maeda, M., Warren, J. T., Su, F., Lele, Z., Krone, P. H., Kuwada, J. Y. and Shoji, W. (2000). Laser-induced gene expression in specific cells of transgenic zebrafish. Development 127, 1953-1960.[Abstract/Free Full&nbsp;Text]
+
+
+
+Hannon, R., Evans, T., Felsenfeld, G. and Gould, H. (1991). Structure and promoter activity of the gene for the erythroid transcription factor GATA-1. Proc. Natl. Acad. Sci. USA 88, 3004-3008.[Abstract]
+
+
+
+Higashijima, S., Okamoto, H., Ueno, N., Hotta, Y. and Eguchi, G. (1997). High-frequency generation of transgenic zebrafish which reliably express GFP in whole muscles or the whole body by using promoters of zebrafish origin. Dev. Biol. 192, 289-299.[Medline]
+
+
+
+Higashijima, S., Hotta, Y. and Okamoto, H. (2000). Visualization of cranial motor neurons in live transgenic zebrafish expressing green fluorescent protein under the control of the Islet-1 promoter/enhancer. J. Neurosci. 20, 206-218.[Abstract/Free Full&nbsp;Text]
+
+
+
+Ito, E., Toki, T., Ishihara, H., Ohtani, H., Gu, L., Yokoyama, M., Engel, J. D. and Yamamoto, M. (1993). Erythroid transcription factor GATA-1 is abundantly transcribed in mouse testis. Nature 362, 466-468.[Medline]
+
+
+
+Jessen, J. R., Willett, C. E. and Lin, S. (1999). Artificial chromosome transgenesis reveals long-distance negative regulation of rag1 in zebrafish. Nat. Genet. 23, 15-16.[Medline]
+
+
+
+Kimmel, C. B., Ballard, W. W., Kimmel, S. R., Ullmann, B. and Schilling, T. F. (1995). Stages of embryonic development of the zebrafish. Dev. Dyn. 203, 253-310.[Medline]
+
+
+
+Kobayashi, M., Toyama, R., Takeda, H., Dawid, I. B. and Kawakami, K. (1998). Overexpression of the forebrain-specific homeobox gene six3 induces rostral forebrain enlargement in zebrafish. Development 125, 2973-2982.[Abstract/Free Full&nbsp;Text]
+
+
+
+Kobayashi, M., Nishikawa, K., Suzuki, T. and Yamamoto, M. (2001). The homeobox protein Six3 interacts with the Groucho corepressor and acts as a transcriptional repressor in eye and forebrain formation. Dev. Biol. 232, 315-326.[Medline]
+
+
+
+Labastie, M.-C., Bories, D., Chabret, C., Grgoire, J.-M., Chrtien, S. and Romeo, P.-H. (1994). Structure and expression of the human GATA3 gene. Genomics 21, 1-6.[Medline]
+
+
+
+Latinkic, B. V., Umbhauer, M., Neal, K. A., Lerchner, W., Smith, J. C. and Cunliffe, V. (1997). The Xenopus Brachyury promoter is activated by FGF and low concentrations of activin and suppressed by high concentrations of activin and by paired-type homeodomain proteins. Genes Dev. 11, 3265-3276.[Abstract/Free Full&nbsp;Text]
+
+
+
+Laurent, M. N., Blitz, I. L., Hashimoto, C., Rothbcher, U. and Cho, K. W.-Y. (1997). The Xenopus homeobox gene Twin mediates Wnt induction of Goosecoid in establishment of Spemanns organizer. Development 124, 4905-4916.[Abstract/Free Full&nbsp;Text]
+
+
+
+Liao, E. C., Paw, B. H., Oates, A. C., Pratt, S. J., Postlethwait, J. H. and Zon, L. I. (1998). SCL/Tal-1 transcription factor acts downstream of cloche to specify hematopoietic and vascular progenitors in zebrafish. Genes Dev. 12, 621-626.[Abstract/Free Full&nbsp;Text]
+
+
+
+Linney, E., Hardison, N. L., Lonze, B. E., Lyons, S. and DiNapoli, L. (1999). Transgene expression in zebrafish: a comparison of retroviral-vector and DNA-injection approaches. Dev. Biol. 213, 207-216.[Medline]
+
+
+
+Long, Q., Meng, A., Wang, H., Jessen, J. R., Farrell, M. J. and Lin, S. (1997). GATA-1 expression pattern can be recapitulated in living transgenic zebrafish using GFP reporter gene. Development 124, 4105-4111.[Abstract/Free Full&nbsp;Text]
+
+
+
+Mackay, J. P., Kowalski, K., Fox, A. H., Czolij, R., King, G. F. and Crossley, M. (1998). Involvement of the N-finger in the self-association of GATA-1. J. Biol. Chem. 273, 30560-30567.[Abstract/Free Full&nbsp;Text]
+
+
+
+MacNeill, C., Ayres, B., Laverriere, A. C. and Burch, J. B. (1997). Transcripts for functionally distinct isoforms of chicken GATA-5 are differentially expressed from alternative first exons. J. Biol. Chem. 272, 8396-8401.[Abstract/Free Full&nbsp;Text]
+
+
+
+Martin, D. I. and Orkin, S. H. (1990). Transcriptional activation and DNA binding by the erythroid factor GF-1/NF-E1/Eryf 1. Genes Dev. 4, 1886-1898.[Abstract]
+
+
+
+McDevitt, M. A., Fujiwara, Y., Shivdasani, R. A. and Orkin, S. H. (1997). An upstream, DNase I hypersensitive region of the hematopoietic-expressed transcription factor GATA-1 gene confers developmental specificity in transgenic mice. Proc. Natl. Acad. Sci. USA 94, 7976-7981.[Abstract/Free Full&nbsp;Text]
+
+
+
+Meng, A., Tang, H., Yuan, B., Ong, B. A., Long, Q. and Lin, S. (1999). Positive and negative cis-acting elements are required for hematopoietic expression of zebrafish GATA-1. Blood 93, 500-508.[Abstract/Free Full&nbsp;Text]
+
+
+
+Miller, A. A., Bernardoni, R. and Giangrande, A. (1998). Positive autoregulation of the glial promoting factor glide/gcm. EMBO J. 17, 6316-6126.[Abstract/Free Full&nbsp;Text]
+
+
+
+Minegishi, N., Ohta, J., Suwabe, N., Nakauchi, H., Ishihara, H., Hayashi, N. and Yamamoto, M. (1998). Alternative promoters regulate transcription of the mouse GATA-2 gene. J. Biol. Chem. 273, 3625-3634.[Abstract/Free Full&nbsp;Text]
+
+
+
+Mochizuki, T., Karavanov, A. A., Curtiss, P. E., Ault, K. T., Sugimoto, N., Watabe, T., Shiokawa, K., Jamrich, M., Cho, K. W. Y., Dawid, I. B. and Taira, M. (2000). Xlim-1 and LIM domain binding protein 1 cooperate with various transcription factors in the regulation of the goosecoid promoter. Dev. Biol. 224, 470-485.[Medline]
+
+
+
+Nagai, T., Harigae, H., Ishihara, H., Motohashi, H., Minegishi, N., Tsuchiya, S., Hayashi, N., Gu, L., Andres, B., Engel, J. D. and Yamamoto, M. (1994). Transcription factor GATA-2 is expressed in erythroid, early myeloid, and CD34+ human leukemia-derived cell lines. Blood 84, 1074-1084.[Abstract/Free Full&nbsp;Text]
+
+
+
+Nicolis, S., Bertini, C., Ronchi, A., Crotta, S., Lanfranco, L., Moroni, E., Giglioni, B. and Ottolenghi, S. (1991). An erythroid specific enhancer upstream to the gene encoding the cell-type specific transcription factor GATA-1. Nucleic Acids Res. 19, 5285-5291.[Abstract]
+
+
+
+Nishimura, S., Takahashi, S., Kuroha, T., Suwabe, N., Nagasawa, T., Trainor, C. and Yamamoto, M. (2000). A GATA box in the GATA-1 gene hematopoietic enhancer is a critical element in the network of GATA factors and sites that regulate this gene. Mol. Cell. Biol. 20, 713-723.[Abstract/Free Full&nbsp;Text]
+
+
+
+Nony, P., Hannon, R., Gould, H. and Felsenfeld, G. (1998). Alternate promoters and developmental modulation of expression of the chicken GATA-2 gene in hematopoietic progenitor cells. J. Biol. Chem. 273, 32910-32919.[Abstract/Free Full&nbsp;Text]
+
+
+
+Onodera, K., Takahashi, S., Nishimura, S., Ohta, J., Motohashi, H., Yomogida, K., Hayashi, N., Engel, J. D. and Yamamoto, M. (1997a). GATA-1 transcription is controlled by distinct regulatory mechanisms during primitive and definitive erythropoiesis. Proc. Natl. Acad. Sci. USA 94, 4487-4492.[Abstract/Free Full&nbsp;Text]
+
+
+
+Onodera, K., Yomogida, K., Suwabe, N., Takahashi, S., Muraosa, Y., Hayashi, N., Ito, E., Gu, L., Rassoulzadegan, M., Engel, J. D. and Yamamoto, M. (1997b). Conserved structure, regulatory elements, and transcriptional regulation from the GATA-1 gene testis promoter. J. Biochem. 121, 251-263.[Abstract]
+
+
+
+Osada, H., Grutz, G., Axelson, H., Forster, A. and Rabbitts, T. H. (1995). Association of erythroid transcription factors: complexes involving the LIM protein RBTN2 and the zinc-finger protein GATA1. Proc. Natl. Acad. Sci. USA 92, 9585-9589.[Abstract]
+
+
+
+Packer, A. I., Crotty, D. A., Elwell, V. A. and Wolgemuth, D. J. (1998). Expression of the murine Hoxa4 gene requires both autoregulation and a conserved retinoic acid response element. Development 125, 1991-1998.[Abstract/Free Full&nbsp;Text]
+
+
+
+Pan, X., Minegishi, N., Harigae, H., Yamagiwa, H., Minegishi, M., Akine, Y. and Yamamoto, M. (2000). Identification of human GATA-2 gene distal IS exon and its expression in hematopoietic stem cell fractions. J. Biochem. 127, 105-112.[Abstract]
+
+
+
+Rupp, R. A. W., Snider, L. and Weintraub, H. (1994). Xenopus embryos regulate the nuclear localization of XMyoD. Genes Dev. 8, 1311-1323.[Abstract]
+
+
+
+Schier, A. F. and Gehring, W. J. (1992). Direct homeodomain-DNA interaction in the autoregulation of the fushi tarazu gene. Nature 356, 804-807.[Medline]
+
+
+
+Schwartzbauer, G., Schlesinger, K. and Evans, T. (1992). Interaction of the erythroid transcription factor cGATA-1 with a critical auto-regulatory element. Nucleic Acids Res. 20, 4429-4436.[Abstract]
+
+
+
+Seshasayee, D., Geiger, J. N., Gaines, P. and Wojchowski, D. M. (2000). Intron 1 elements promote erythroid-specific GATA-1 gene expression. J. Biol. Chem. 275, 22969-22977.[Abstract/Free Full&nbsp;Text]
+
+
+
+Soudais, C., Bielinska, M., Heikinheimo, M., MacArthur, C. A., Narita, N., Saffitz, J. E., Simon, M. C., Leiden, J. M. and Wilson, D. B. (1995). Targeted mutagenesis of the transcription factor GATA-4 gene in mouse embryonic stem cells disrupts visceral endoderm differentiation in vitro. Development 121, 3877-3888.[Abstract/Free Full&nbsp;Text]
+
+
+
+Thompson, M. A., Ransom, D. G., Pratt, S. J., MacLennan, H., Kieran, M. W., Detrich, H. W. I., Vail, B., Huber, T. L., Paw, B., Brownlie, A. J. et al. (1998). The cloche and spadetail genes differentially affect hematopoiesis and vasculogenesis. Dev. Biol. 197, 248-269.[Medline]
+
+
+
+Toyama, R., Kobayashi, M., Tomita, T. and Dawid, I. B. (1998). Expression of LIM-domain binding protein (ldb) genes during zebrafish embryogenesis. Mech. Dev. 71, 197-200.[Medline]
+
+
+
+Trainor, C. D., Evans, T., Felsenfeld, G. and Boguski, M. S. (1990). Structure and evolution of a human erythroid transcription factor. Nature 343, 92-96.[Medline]
+
+
+
+Trainor, C. D., Evans, T. and Felsenfeld, G. (1995). Negative regulation of chicken GATA-1 promoter activity mediated by a hormone response element. Mol. Endocrinol. 9, 1135-1146.[Abstract]
+
+
+
+Trainor, C. D., Omichinski, J. G., Vandergon, T. L., Gronenborn, A. M., Clore, G. M. and Felsenfeld, G. (1996). A palindromic regulatory site within vertebrate GATA-1 promoters requires both zinc fingers of the GATA-1 DNA-binding domain for high-affinity interaction. Mol. Cell. Biol. 16, 2238-2247.[Abstract]
+
+
+
+Tsai, S.-F., Martin, D. I., Zon, L. I., DAndrea, A. D., Wong, G. G. and Orkin, S. H. (1989). Cloning of cDNA for the major DNA-binding protein of the erythroid lineage through expression in mammalian cells. Nature 339, 446-451.[Medline]
+
+
+
+Tsai, S.-F., Strauss, E. and Orkin, S. H. (1991). Functional analysis and in vivo footprinting implicate the erythroid transcription factor GATA-1 as a positive regulator of its own promoter. Genes Dev. 5, 919-931.[Abstract]
+
+
+
+Tsang, A. P., Visvader, J. E., Turner, C. A., Fujiwara, Y., Yu, C., Weiss, M. J., Crossley, M. and Orkin, S. H. (1997). FOG, a multitype zinc finger protein, acts as a cofactor for transcription factor GATA-1 in erythroid and megakaryocytic differentiation. Cell 90, 109-119.[Medline]
+
+
+
+Visvader, J. E., Crossley, M., Hill, J., Orkin, S. H. and Adams, J. M. (1995). The C-terminal zinc finger of GATA-1 or GATA-2 is sufficient to induce megakaryocytic differentiation of an early myeloid cell line. Mol. Cell. Biol. 15, 634-641.[Abstract]
+
+
+
+Vyas, P., McDevitt, M. A., Cantor, A. B., Katz, S. G., Fujiwara, Y. and Orkin, S. H. (1999). Different sequence requirements for expression in erythroid and megakaryocytic cells within a regulatory element upstream of the GATA-1 gene. Development 126, 2799-2811.[Abstract/Free Full&nbsp;Text]
+
+
+
+Wadman, I. A., Osada, H., Grtz, G. G., Agulnick, A. D., Westphal, H., Forster, A. and Rabbitts, T. H. (1997). The LIM-only protein Lmo2 is a bridging molecule assembling an erythroid, DNA-binding complex which includes the TAL1, E47, GATA-1 and Ldb1/NLI proteins. EMBO J. 16, 3145-3157.[Abstract/Free Full&nbsp;Text]
+
+
+
+Weiss, M. J., Yu, C. and Orkin, S. H. (1997). Erythroid-cell-specific properties of transcription factor GATA-1 revealed by phenotypic rescue of a gene-targeted cell line. Mol. Cell. Biol. 17, 1642-1651.[Abstract]
+
+
+
+Westerfield, M. (1995). The Zebrafish Book. 3rd edn. Eugene, OR: University of Oregon Press.
+
+
+
+Yamamoto, M., Takahashi, S., Onodera, K., Muraosa, Y. and Engel, J. D. (1997). Upstream and downstream of erythroid transcription factor GATA-1. Genes Cells 2, 107-115.[Abstract/Free Full&nbsp;Text]
+
+
+
+Yang, H.-Y. and Evans, T. (1992). Distinct roles for the two cGATA-1 finger domains. Mol. Cell. Biol. 12, 4562-4570.[Abstract]
+
+
+
+Yomogida, K., Ohtani, H., Harigae, H., Ito, E., Nishimune, Y., Engel, J. D. and Yamamoto, M. (1994). Developmental stage- and spermatogenic cycle-specific expression of transcription factor GATA-1 in mouse Sertoli cells. Development 120, 1759-1766.[Abstract/Free Full&nbsp;Text]
+
+
+
+Zon, L. I., Mather, C., Burgess, S., Bolce, M. E., Harland, R. M. and Orkin, S. H. (1991). Expression of GATA-binding proteins during embryonic development in Xenopus laevis. Proc. Natl. Acad. Sci. USA 88, 10642-10646.[Abstract]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

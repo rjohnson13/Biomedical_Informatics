@@ -1,0 +1,4803 @@
+Processing 00000000.tx.1: Antinuclear antibodies and lupus: causes and consequences M. 
+
+Phrase: "Antinuclear antibodies"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0003243:Antibodies, Antinuclear [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "lupus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0024131:Lupus [Disease or Syndrome]
+  1000   C0024138:lupus [Disease or Syndrome]
+  1000   C0409974:Lupus [Disease or Syndrome]
+
+Phrase: ":"
+
+Phrase: "causes"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0015127:causes [Functional Concept]
+  1000   C1314792:Causes [Functional Concept]
+   966 E C1524003:Cause [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "consequences M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.2: R. 
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.3: Ehrenstein MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 2QH, UK Systemic lupus erythematosus (SLE) is a disease of multiples. 
+
+Phrase: "Ehrenstein MRC Laboratory of Molecular Biology,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0022877:Laboratory [Manufactured Object,Organization]
+   753   C3244292:laboratory [Functional Concept]
+
+Phrase: "Hills Road,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442650:Road [Manufactured Object]
+
+Phrase: "Cambridge CB2 2QH,"
+
+Phrase: "UK Systemic lupus erythematosus (SLE)"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   923   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+   923   C2984317:Systemic lupus erythematosus [Functional Concept]
+   861   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   812   C0024131:Lupus [Disease or Syndrome]
+   812   C0024138:lupus [Disease or Syndrome]
+   812   C0205373:Systemic [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "a disease of multiples."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0012634:Disease [Disease or Syndrome]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.4: This extends from the clinical subsets and the likely genetic predisposition to the animal models that appear to have striking similarity to components of the human disease. 
+
+Phrase: "This"
+
+Phrase: "extends from the clinical subsets"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0205210:Clinical [Qualitative Concept]
+   760   C0231448:Extend [Functional Concept]
+   760   C0439792:extend [Spatial Concept]
+   726   C1515021:Subset [Classification]
+
+Phrase: "and"
+
+Phrase: "the likely genetic predisposition to the animal models"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   770   C0314657:Genetic Predisposition [Organism Attribute]
+   767   C0026343:Models, Genetic [Intellectual Product]
+   744   C0012655:Predisposition [Clinical Attribute]
+   744   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   744   C0220898:Predisposition [Organism Attribute]
+   744   C0314603:Genetic [Functional Concept]
+   739   C3494749:Animal - origin [Finding]
+
+Phrase: "that"
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "striking similarity to components of the human disease."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C2348205:Similarity [Qualitative Concept]
+Processing 00000000.tx.5: Similarly, every year, the number of autoantibodies associated with lupus increases, although their provenance and role in disease pathogenesis remain unclear. 
+
+Phrase: "Similarly,"
+
+Phrase: "every year,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439234:year [Temporal Concept]
+  1000   C0439508:/year [Temporal Concept]
+
+Phrase: "the number of autoantibodies"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0237753:*Number [Quantitative Concept]
+   770   C0449788:Number [Quantitative Concept]
+
+Phrase: "associated with lupus increases,"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   833   C0332281:Associated with [Qualitative Concept]
+           Associated
+   770   C0024131:Lupus [Disease or Syndrome]
+   770   C0024138:lupus [Disease or Syndrome]
+   770   C0409974:Lupus [Disease or Syndrome]
+   770   C0442805:increases [Functional Concept]
+   737 E C0750490:Associate [Idea or Concept]
+   737 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "although"
+
+Phrase: "their provenance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1709753:Provenance [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "role in disease pathogenesis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0035820:Role [Social Behavior]
+   770   C1705810:Role [Conceptual Entity]
+
+Phrase: "remain"
+
+Phrase: "unclear."
+Processing 00000000.tx.6: Theoretically, autoantibodies could be `blamed' for many of the manifestations of disease; 
+
+Phrase: "Theoretically,"
+
+Phrase: "autoantibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "could"
+
+Phrase: "be `"
+
+Phrase: "blamed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0870209:blamed [Mental Process]
+
+Phrase: "'"
+
+Phrase: "for many"
+
+Phrase: "of the manifestations"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205319:manifestations [Functional Concept]
+  1000   C1280464:manifestations [Qualitative Concept]
+
+Phrase: "of disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: ";"
+Processing 00000000.tx.7: a recent report suggests that antibodies directed against erythropoietin might be responsible for the anaemia observed in some patients [1]. 
+
+Phrase: "a recent report"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0684224:Report [Intellectual Product]
+   861   C0700287:Report [Health Care Activity]
+   861   C3273238:Report [Intellectual Product]
+
+Phrase: "suggests"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that antibodies"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   966 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "directed against erythropoietin"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   790   C0014822:Erythropoietin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   790   C0357126:ERYTHROPOIETIN [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   790   C0376541:Erythropoietin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   790   C1755594:erythropoietin [Molecular Function]
+   756   C0439851:Direct [Qualitative Concept]
+   756   C1947931:Direct [Qualitative Concept]
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "responsible for the anaemia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1273518:Responsible [Finding]
+
+Phrase: "observed in some patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C1441672:Observed [Functional Concept]
+
+Phrase: "[1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.8: It is, however, antinuclear antibodies that have received most attention and research has focused on whether (and how) they directly cause disease (in particular nephritis), and their origins. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: ","
+
+Phrase: "however,"
+
+Phrase: "antinuclear antibodies"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0003243:Antibodies, Antinuclear [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "received"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514756:Received [Qualitative Concept]
+
+Phrase: "most attention"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004268:Attention [Mental Process]
+
+Phrase: "and"
+
+Phrase: "research"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0035168:research [Research Activity]
+  1000   C0242481:Research [Research Activity]
+
+Phrase: "has"
+
+Phrase: "focused on"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   833   C0205234:Focused [Spatial Concept]
+   833   C1285542:focused [Functional Concept]
+
+Phrase: "whether"
+
+Phrase: "("
+
+Phrase: "and"
+
+Phrase: "how"
+
+Phrase: ")"
+
+Phrase: "they directly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947931:Directly [Qualitative Concept]
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "("
+
+Phrase: "in particular nephritis"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+   861   C0027697:Nephritis [Disease or Syndrome]
+   768 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   768 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   768 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   768 E C1514845:KIDNEY [Tissue]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "their origins."
+Meta Candidates (Total=16; Excluded=14; Pruned=0; Remaining=2)
+  1000   C0079946:origins [Classification]
+  1000   C0439659:Origins [Temporal Concept]
+   966 E C1550512:origin [Intellectual Product]
+   928 E C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   928 E C0314603:Genetic [Functional Concept]
+   916 E C0205313:Original [Idea or Concept]
+   916 E C2347409:Original [Occupational Activity]
+   907 E C0005615:Birth [Organism Function]
+   907 E C0035150:Reproduction [Organism Function]
+   907 E C1550722:birth [Idea or Concept]
+   907 E C3245487:birth [Intellectual Product]
+   893 E C0454729:Natal [Geographic Area]
+   893 E C0559522:Genital [Body System]
+   893 E C0598240:originality [Mental Process]
+   893 E C1546649:Genital [Intellectual Product]
+   893 E C1550642:Genital [Body Substance]
+Processing 00000000.tx.9: Significant advances have been made in these areas in recent years. 
+
+Phrase: "Significant advances"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0725066:Advance [Medical Device]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "made in these areas"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0205146:areas [Spatial Concept]
+   737 E C0017446:Area [Geographic Area]
+   737   C1881534:Make [Functional Concept]
+
+Phrase: "in recent years."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0439234:years [Temporal Concept]
+   827 E C0439508:/year [Temporal Concept]
+Processing 00000000.tx.10: It was ~40 yr ago that the association between anti-DNA antibodies and lupus was first described. 
+
+Phrase: "It"
+
+Phrase: "was ~"
+
+Phrase: "40 yr ago"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0439234:yr [Temporal Concept]
+
+Phrase: "that"
+
+Phrase: "the association between anti-DNA antibodies"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0004083:Association [Mental Process]
+   753   C0439849:Association [Qualitative Concept]
+   753   C0596306:Association [Phenomenon or Process]
+   753   C0699792:association [Social Behavior]
+
+Phrase: "and"
+
+Phrase: "lupus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0024131:Lupus [Disease or Syndrome]
+  1000   C0024138:lupus [Disease or Syndrome]
+  1000   C0409974:Lupus [Disease or Syndrome]
+
+Phrase: "was"
+
+Phrase: "first"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205435:First [Quantitative Concept]
+  1000   C1279901:First [Qualitative Concept]
+
+Phrase: "described."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1552738:described [Idea or Concept]
+Processing 00000000.tx.11: Subsequently, it has become clear that this association reflects the fact that a subset of antinuclear antibodies can directly cause overt nephritis, one of the major causes of morbidity and mortality in SLE. 
+
+Phrase: "Subsequently,"
+
+Phrase: "it"
+
+Phrase: "has"
+
+Phrase: "become"
+
+Phrase: "clear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "this association"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0004083:Association [Mental Process]
+  1000   C0439849:Association [Qualitative Concept]
+  1000   C0596306:Association [Phenomenon or Process]
+  1000   C0699792:association [Social Behavior]
+
+Phrase: "reflects"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0558058:reflect [Mental Process]
+
+Phrase: "the fact"
+
+Phrase: "that"
+
+Phrase: "a subset of antinuclear antibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1515021:Subset [Classification]
+
+Phrase: "can"
+
+Phrase: "directly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947931:Directly [Qualitative Concept]
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "overt nephritis,"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+   861   C0027697:Nephritis [Disease or Syndrome]
+   768 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   768 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   768 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   768 E C1514845:KIDNEY [Tissue]
+
+Phrase: "one of the major causes of morbidity"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0205447:One [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "mortality in SLE."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0026565:Mortality [Quantitative Concept]
+   760   C0026566:mortality [Quantitative Concept]
+Processing 00000000.tx.12: The evidence for this contention has come from many sources. 
+
+Phrase: "The evidence for this contention"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0332120:Evidence [Functional Concept]
+
+Phrase: "has"
+
+Phrase: "come from many sources."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   770   C0449416:sources [Finding]
+   737 E C1705919:Source [Idea or Concept]
+Processing 00000000.tx.13: Thus, a variety of antinuclear antibodies can be eluted from diseased glomeruli [2, 3] and in many patients high titres of anti-DNA antibodies correlate with (and predict exacerbations of) nephritis [4]. 
+
+Phrase: "Thus,"
+
+Phrase: "a variety of antinuclear antibodies"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1883525:Variety [Conceptual Entity]
+   760   C2346866:Variety [Conceptual Entity]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "eluted from diseased glomeruli"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C0022663:Glomerulus [Body Part, Organ, or Organ Component]
+
+Phrase: "[2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "]"
+
+Phrase: "and in many patients high titres of anti-DNA antibodies"
+Meta Candidates (Total=17; Excluded=2; Pruned=0; Remaining=15)
+   782   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   757   C1262035:antibodies dna [Laboratory Procedure]
+   757   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   753   C0476442:High antibody titre [Finding]
+   741 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   741   C0474643:antibodies titre [Laboratory Procedure]
+   741   C1287242:antibodies titre [Laboratory or Test Result]
+   739   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   739   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   739   C0030705:Patients [Patient or Disabled Group]
+   739   C0205250:High [Qualitative Concept]
+   739   C1299351:High [Qualitative Concept]
+   739   C1515981:And [Idea or Concept]
+   739   C2700149:HIGH [Intellectual Product]
+   706 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   706   C0475208:Titre [Quantitative Concept]
+
+Phrase: "correlate with"
+
+Phrase: "("
+
+Phrase: "and"
+
+Phrase: "predict"
+
+Phrase: "exacerbations of) nephritis"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+   827   C0027697:Nephritis [Disease or Syndrome]
+   734 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   734 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   734 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   734 E C1514845:KIDNEY [Tissue]
+
+Phrase: "[4"
+
+Phrase: "]."
+Processing 00000000.tx.14: Furthermore, a proportion of both mouse and human monoclonal anti-DNA antibodies can cause nephritis when transferred into non-autoimmune mice [57]. 
+
+Phrase: "Furthermore,"
+
+Phrase: "a proportion of both mouse"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1709707:Proportion [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "human monoclonal anti-DNA antibodies"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   884   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   875   C0003250:Monoclonal Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   853   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   836 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   823   C1262035:dna antibody [Laboratory Procedure]
+   804   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   804   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   771 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "can"
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "nephritis"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0027697:Nephritis [Disease or Syndrome]
+   907 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   907 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   907 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   907 E C1514845:KIDNEY [Tissue]
+
+Phrase: "when"
+
+Phrase: "transferred into non-autoimmune mice"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   781   C1513853:NON Mouse [Mammal]
+   760   C0025914:Mice [Mammal]
+   760   C0025929:mice [Mammal]
+   760   C0026809:Mice [Mammal]
+   760   C0348011:transferred [Functional Concept]
+   760   C0443146:Autoimmune [Pathologic Function]
+   760   C1518422:Non [Functional Concept]
+   726 E C0040671:Transfer [Mental Process]
+   726 E C1705822:Transfer [Activity]
+
+Phrase: "[57"
+
+Phrase: "]."
+Processing 00000000.tx.15: Different monoclonal autoantibodies, when administered to mice, resulted in various patterns of immunoglobulin deposition and histological profiles. 
+
+Phrase: "Different monoclonal autoantibodies,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "when"
+
+Phrase: "administered to mice,"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   790   C0025914:Mice [Mammal]
+   790   C0025929:mice [Mammal]
+   790   C0026809:Mice [Mammal]
+   790   C1521801:Administered [Functional Concept]
+   756 E C1621583:Administer [Functional Concept]
+
+Phrase: "resulted in various patterns of immunoglobulin deposition"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   778   C1512663:Immunoglobulin Deposition [Finding]
+   748   C0021027:Immunoglobulin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   748   C0333562:Deposition [Functional Concept]
+   748   C0440102:Various [Indicator, Reagent, or Diagnostic Aid]
+   748   C0449774:Patterns [Spatial Concept]
+   748   C1621846:immunoglobulin [Molecular Function]
+   714   C1274040:Result [Functional Concept]
+   714   C1546471:Result [Idea or Concept]
+   714   C2825142:Result [Finding]
+
+Phrase: "and"
+
+Phrase: "histological profiles."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1979963:Profile [Laboratory Procedure]
+   827   C2003903:Profile [Functional Concept]
+Processing 00000000.tx.16: Some high-affinity IgG anti-double-stranded (ds) DNA antibodies did not cause nephritis. 
+
+Phrase: "Some high-affinity IgG anti-double-stranded (ds) DNA antibodies"
+Meta Candidates (Total=20; Excluded=2; Pruned=0; Remaining=18)
+   861   C2698136:Anti-Double Stranded DNA [Laboratory Procedure]
+   857   C2746079:Anti-Double Stranded DNA Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   855   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   850   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   847   C2754943:IgG antibody [Cell Component]
+   844   C0312612:Double-stranded DNA antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   844   C0919679:double stranded dna antibody [Laboratory Procedure]
+   835   C0311474:DNA, Double-Stranded [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   834 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   795   C1262035:dna antibody [Laboratory Procedure]
+   793   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   793   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   793   C0205173:Double [Functional Concept]
+   793   C1705764:Double [Activity]
+   793   C1705765:Double [Qualitative Concept]
+   776   C1979882:Double strand [Qualitative Concept]
+   760 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   721   C1704972:Strand [Spatial Concept]
+   721   C1704973:Strand [Nucleic Acid, Nucleoside, or Nucleotide]
+
+Phrase: "did"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "nephritis."
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0027697:Nephritis [Disease or Syndrome]
+   907 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   907 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   907 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   907 E C1514845:KIDNEY [Tissue]
+Processing 00000000.tx.17: The clear implication from these experiments is that the different clinical and histological presentations of lupus nephritis may in part be due to differences in the specificity of the autoantibodies produced. 
+
+Phrase: "The clear implication from these experiments"
+
+Phrase: "is"
+
+Phrase: "that"
+
+Phrase: "the different clinical"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205210:Clinical [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "histological presentations of lupus nephritis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0449450:presentations [Idea or Concept]
+
+Phrase: "may in part"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0449719:Part [Spatial Concept]
+   790   C1709471:Part [Quantitative Concept]
+
+Phrase: "be due to differences"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0678226:Due to [Functional Concept]
+           due
+   770   C2987476:Be [Conceptual Entity]
+   770   C3146286:Due [Idea or Concept]
+   737   C1705241:*Difference [Quantitative Concept]
+   737   C1705242:Difference [Qualitative Concept]
+
+Phrase: "in the specificity"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0037791:Specificity [Quantitative Concept]
+  1000   C1511884:Specificity [Quantitative Concept]
+   928 E C0205369:Specific [Qualitative Concept]
+   928 E C1552740:specific [Intellectual Product]
+
+Phrase: "of the autoantibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "produced."
+Processing 00000000.tx.18: What is less clear are the defining characteristics that govern the nephritogenicity of a particular antibody; 
+
+Phrase: "What"
+
+Phrase: "is"
+
+Phrase: "less"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439092:less [Intellectual Product]
+  1000   C0547044:Less [Qualitative Concept]
+
+Phrase: "clear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+
+Phrase: "are"
+
+Phrase: "the defining characteristics"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1521970:Characteristics [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "govern"
+
+Phrase: "the nephritogenicity of a particular antibody"
+
+Phrase: ";"
+Processing 00000000.tx.19: it does not appear simply to reflect the affinity for DNA. 
+
+Phrase: "it"
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "simply to"
+
+Phrase: "reflect"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0558058:reflect [Mental Process]
+
+Phrase: "the affinity for DNA."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1510827:Affinity [Natural Phenomenon or Process]
+Processing 00000000.tx.20: Indeed, lupus nephritis can occur in patients without any evidence of circulating anti-DNA antibodies and, conversely, persistent high serum titres of IgG anti-dsDNA antibodies can occur without clinical evidence of renal injury [8]. 
+
+Phrase: "Indeed,"
+
+Phrase: "lupus nephritis"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+  1000   C0024143:Lupus Nephritis [Disease or Syndrome]
+   861   C0024131:Lupus [Disease or Syndrome]
+   861   C0024138:lupus [Disease or Syndrome]
+   861   C0027697:Nephritis [Disease or Syndrome]
+   861   C0409974:Lupus [Disease or Syndrome]
+   768 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   768 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   768 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   768 E C1514845:KIDNEY [Tissue]
+
+Phrase: "can"
+
+Phrase: "occur in patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0030705:Patients [Patient or Disabled Group]
+   790   C1709305:Occur [Activity]
+   790   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "without any evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332120:Evidence [Functional Concept]
+
+Phrase: "of circulating anti-DNA antibodies"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   923   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   875   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   858 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   844   C1262035:dna antibody [Laboratory Procedure]
+   812   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   812   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   779 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: ","
+
+Phrase: "conversely,"
+
+Phrase: "persistent high serum titres of IgG anti-dsDNA antibodies"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   759   C0476442:High antibody titre [Finding]
+   745   C0474643:antibodies titre [Laboratory Procedure]
+   745   C1287242:antibodies titre [Laboratory or Test Result]
+   708   C0475208:Titre [Quantitative Concept]
+
+Phrase: "can"
+
+Phrase: "occur without clinical evidence of renal injury"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   778   C0160420:Renal injury [Injury or Poisoning]
+   778   C0332120:Evidence of [Functional Concept]
+           Evidence
+   748   C0022646:Renal [Body Part, Organ, or Organ Component]
+   748   C0205210:Clinical [Qualitative Concept]
+   748   C1709305:Occur [Activity]
+   748   C2745955:OCCUR [Temporal Concept]
+   748   C3263722:Injury [Injury or Poisoning]
+   748   C3263723:Injury [Injury or Poisoning]
+
+Phrase: "[8"
+
+Phrase: "]."
+Processing 00000000.tx.21: In one study, the pathogenicity of a monoclonal anti-DNA antibody was lost after site-directed mutagenesis of its antigen binding region despite retaining DNA binding activity [9]. 
+
+Phrase: "In one study,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+
+Phrase: "the pathogenicity of a monoclonal anti-DNA antibody"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0030657:pathogenicity [Qualitative Concept]
+   744   C1136169:Pathogenicity [Organism Attribute]
+
+Phrase: "was"
+
+Phrase: "lost after site-directed mutagenesis of its antigen binding region"
+Meta Candidates (Total=20; Excluded=0; Pruned=0; Remaining=20)
+   782   C0079870:Mutagenesis, Site-Directed [Genetic Function]
+   777   C0221114:Antigen binding site [Immunologic Factor]
+   760   C1148575:antigen binding [Molecular Function]
+   757   C0005456:Binding Site [Receptor]
+   757   C0682969:Binding Site [Amino Acid Sequence]
+   757   C2945843:Site of [Qualitative Concept]
+   739   C0003320:Antigen [Immunologic Factor]
+   739   C0017446:Region [Geographic Area]
+   739   C0079866:Mutagenesis [Molecular Function]
+   739   C0205145:Site [Spatial Concept]
+   739   C0205147:Region [Spatial Concept]
+   739   C0243122:binding [Functional Concept]
+   739   C0745777:Lost [Functional Concept]
+   739   C1145667:Binding [Activity]
+   739   C1167622:Binding [Molecular Function]
+   739   C1515974:Site [Body Location or Region]
+   739   C2825164:Site [Spatial Concept]
+   739   C3146302:Mutagenesis [Laboratory Procedure]
+   706   C0439851:Direct [Qualitative Concept]
+   706   C1947931:Direct [Qualitative Concept]
+
+Phrase: "despite retaining DNA binding activity"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   861   C2266866:Binding Activity [Molecular Function]
+   812   C0205177:Activity [Functional Concept]
+   812   C0439167:% activity [Quantitative Concept]
+   812   C0441655:Activity [Activity]
+   812   C1561536:*Activity [Idea or Concept]
+
+Phrase: "[9"
+
+Phrase: "]."
+Processing 00000000.tx.22: One explanation for the imperfect association between binding to DNA and pathogenicity is that the nephritogenic antinuclear antibodies are cross-reacting with glomerular antigens [10]. 
+
+Phrase: "One explanation for the imperfect association"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0681841:Explanation [Intellectual Product]
+
+Phrase: "between binding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0243122:binding [Functional Concept]
+  1000   C1145667:Binding [Activity]
+  1000   C1167622:Binding [Molecular Function]
+
+Phrase: "to DNA"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+
+Phrase: "and"
+
+Phrase: "pathogenicity"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0030657:pathogenicity [Qualitative Concept]
+  1000   C1136169:Pathogenicity [Organism Attribute]
+   928 E C0450254:Pathogenic [Organism]
+
+Phrase: "is"
+
+Phrase: "that"
+
+Phrase: "the nephritogenic antinuclear antibodies"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   901   C0003243:Antibodies, Antinuclear [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   793 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "cross-reacting with glomerular antigens"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   833   C0111080:Cross reacting antigen [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   760   C0003320:Antigens [Immunologic Factor]
+   760   C0022663:Glomerular [Body Part, Organ, or Organ Component]
+   760   C0268731:GLOMERULAR [Disease or Syndrome]
+   760   C2828360:Cross [Conceptual Entity]
+
+Phrase: "[10"
+
+Phrase: "]."
+Processing 00000000.tx.23: An alternative mechanism whereby antibodies can cause nephritis is through the deposition of immune complexes, i.e. antibody plus nuclear antigens [11]. 
+
+Phrase: "An alternative mechanism whereby antibodies"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   779 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "can"
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "nephritis"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0027697:Nephritis [Disease or Syndrome]
+   907 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   907 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   907 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   907 E C1514845:KIDNEY [Tissue]
+
+Phrase: "is through the deposition of immune complexes,"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   778   C0003313:Immune Complexes [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   748   C0333562:Deposition [Functional Concept]
+   748   C0439662:Immune [Functional Concept]
+   748   C1704241:Complexes [Chemical Viewed Structurally]
+   714 E C0439855:Complex [Qualitative Concept]
+
+Phrase: "i.e. antibody plus nuclear antigens"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   783   C0221138:I not otherwise specified Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   783   C0313106:antibody e [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   783   C0370188:i Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   783   C0487261:Nuclear antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   783   C0947659:antibody e [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   767   C0368675:antibody antigen [Immunologic Factor]
+   753   C0003241:Antibody [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   753   C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "[11"
+
+Phrase: "]."
+Processing 00000000.tx.24: To what extent direct binding to glomerular antigens or immune complexes contribute to nephritis in lupus is still unclear. 
+
+Phrase: "To what extent direct binding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0243122:binding [Functional Concept]
+   827   C1145667:Binding [Activity]
+   827   C1167622:Binding [Molecular Function]
+
+Phrase: "to glomerular antigens"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0003320:Antigens [Immunologic Factor]
+   755 E C2698667:ANTIGENICITY [Regulation or Law]
+
+Phrase: "or"
+
+Phrase: "immune complexes"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003313:Immune Complexes [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0439662:Immune [Functional Concept]
+   861   C1704241:Complexes [Chemical Viewed Structurally]
+   827 E C0439855:Complex [Qualitative Concept]
+
+Phrase: "contribute to nephritis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0027697:Nephritis [Disease or Syndrome]
+   790   C1880177:Contribute [Activity]
+
+Phrase: "in lupus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0024131:Lupus [Disease or Syndrome]
+  1000   C0024138:lupus [Disease or Syndrome]
+  1000   C0409974:Lupus [Disease or Syndrome]
+
+Phrase: "is"
+
+Phrase: "still unclear."
+Processing 00000000.tx.25: Despite these controversies, it is the measurement of high-affinity anti-DNA antibodies that remains the best autoantibody marker of lupus nephritis in the majority of patients. 
+
+Phrase: "Despite these controversies,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0680243:controversies [Social Behavior]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "the measurement of high-affinity anti-DNA antibodies"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   822   C0236300:ANTI-DNA ANTIBODIES MEASUREMENT [Laboratory Procedure]
+   782   C1262035:DNA antibody measurement [Laboratory Procedure]
+   750   C0201278:Antibody measurement [Laboratory Procedure]
+   744   C0242485:Measurement [Functional Concept]
+
+Phrase: "that"
+
+Phrase: "remains"
+
+Phrase: "the best autoantibody marker of lupus nephritis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0005516:Marker [Clinical Attribute]
+
+Phrase: "in the majority"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0680220:majority [Social Behavior]
+
+Phrase: "of patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.26: One intriguing claim that has arisen (or perhaps been revisited) from studies of monoclonal anti-DNA antibodies is that some of these immunoglobulins can penetrate living cells and react directly with the nucleus [12]. 
+
+Phrase: "One intriguing"
+
+Phrase: "claim"
+
+Phrase: "that"
+
+Phrase: "has"
+
+Phrase: "arisen"
+
+Phrase: "("
+
+Phrase: "or"
+
+Phrase: "perhaps"
+
+Phrase: "been"
+
+Phrase: "revisited"
+
+Phrase: ")"
+
+Phrase: "from studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "of monoclonal anti-DNA antibodies"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   923   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   902   C0003250:Monoclonal Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   875   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   858 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   844   C1262035:dna antibody [Laboratory Procedure]
+   812   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   812   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   779 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "that"
+
+Phrase: "some of these immunoglobulins"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   770   C0021027:Immunoglobulins [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   770   C0202081:Immunoglobulins NOS [Laboratory Procedure]
+   770   C0205392:Some [Quantitative Concept]
+   770   C3540770:Some [Intellectual Product]
+   737 E C1621846:immunoglobulin [Molecular Function]
+
+Phrase: "can"
+
+Phrase: "penetrate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205321:penetrate [Functional Concept]
+
+Phrase: "living cells"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0007634:Cells [Cell]
+   861   C3282337:Cells [Cell]
+   827 E C1269647:Cell [Cell]
+   827 E C1704653:Cell [Medical Device]
+   827 E C1948049:Cell [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "react"
+
+Phrase: "directly with the nucleus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0007610:Nucleus [Cell Component]
+   770   C1947931:Directly [Qualitative Concept]
+
+Phrase: "[12"
+
+Phrase: "]."
+Processing 00000000.tx.27: It has been proposed that this subset of antibodies bind to myosin 1 on the cell surface, become internalized, cause glomerular hypercellularity and subsequently proteinuria [13]. 
+
+Phrase: "It"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "proposed"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1441414:PROPOSED [Idea or Concept]
+  1000   C1553874:Proposed [Qualitative Concept]
+  1000   C1578820:Proposed [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "this subset of antibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1515021:Subset [Classification]
+
+Phrase: "bind to myosin 1"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0027096:Myosin [Amino Acid, Peptide, or Protein,Enzyme]
+   770   C1145667:Bind [Activity]
+   770   C1167622:bind [Molecular Function]
+
+Phrase: "on the cell surface,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0699040:Cell surface [Cell Component]
+   861   C0205148:Surface [Spatial Concept]
+
+Phrase: "become"
+
+Phrase: "internalized,"
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "glomerular hypercellularity"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0020507:Hypercellularity [Pathologic Function]
+
+Phrase: "and"
+
+Phrase: "subsequently proteinuria"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0033687:Proteinuria [Finding]
+   861   C1962972:Proteinuria [Finding]
+
+Phrase: "[13"
+
+Phrase: "]."
+Processing 00000000.tx.28: Indeed, a peptide derived from one of these antibodies has been shown to be able to act as a vector for the intranuclear delivery of macromolecules [14]. 
+
+Phrase: "Indeed,"
+
+Phrase: "a peptide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030956:Peptide [Amino Acid, Peptide, or Protein]
+
+Phrase: "derived from one of these antibodies"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   753   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   753   C0205447:One [Quantitative Concept]
+   753   C1441547:Derived [Qualitative Concept]
+   753   C3245521:derived [Idea or Concept]
+   719 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "able to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0085732:Able [Organism Attribute]
+   861   C1299581:Able [Finding]
+
+Phrase: "act as a vector"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0079613:ACT [Therapeutic or Preventive Procedure]
+   770   C0086022:Vector [Nucleic Acid, Nucleoside, or Nucleotide]
+   770   C0442335:Vector [Spatial Concept]
+   770   C1705099:Vector [Idea or Concept]
+
+Phrase: "for the intranuclear delivery"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011209:Delivery [Therapeutic or Preventive Procedure]
+   861   C0559563:delivery [Finding]
+   861   C1705822:Delivery [Activity]
+
+Phrase: "of macromolecules"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0178735:macromolecules [Chemical Viewed Structurally]
+
+Phrase: "[14"
+
+Phrase: "]."
+Processing 00000000.tx.29: These autoantibodies are not specific for glomerular cells, but have the ability to penetrate a wide variety of cells. 
+
+Phrase: "These autoantibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "are"
+
+Phrase: "not specific for glomerular cells,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0205369:Specific [Qualitative Concept]
+   760   C1552740:specific [Intellectual Product]
+
+Phrase: "but"
+
+Phrase: "have"
+
+Phrase: "the ability to"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0085732:Ability [Organism Attribute]
+   789 E C1299581:Able [Finding]
+
+Phrase: "penetrate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205321:penetrate [Functional Concept]
+
+Phrase: "a wide variety of cells."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1883525:Variety [Conceptual Entity]
+   760   C2346866:Variety [Conceptual Entity]
+Processing 00000000.tx.30: It has been speculated that after these antibodies have been internalized, they modulate the process of apoptosis through an interaction with DNase I [13]. 
+
+Phrase: "It"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "speculated"
+
+Phrase: "that"
+
+Phrase: "after"
+
+Phrase: "these antibodies"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   966 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "internalized"
+
+Phrase: ","
+
+Phrase: "they"
+
+Phrase: "modulate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443264:modulate [Spatial Concept]
+
+Phrase: "the process of apoptosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   783   C0162638:Apoptotic Process [Cell Function]
+   770   C1184743:Process [Body Part, Organ, or Organ Component]
+   770   C1522240:Process [Phenomenon or Process]
+
+Phrase: "through an interaction"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1704675:Interaction [Functional Concept]
+
+Phrase: "with DNase I"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0011519:DNAase I [Amino Acid, Peptide, or Protein,Enzyme]
+           DNase
+  1000   C1148702:DNase I [Genetic Function]
+   861   C0011522:DNAase [Amino Acid, Peptide, or Protein,Enzyme,Pharmacologic Substance]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "[13"
+
+Phrase: "]."
+Processing 00000000.tx.31: This modulation of apoptosis could have a major impact on inflamed tissues and perhaps explain the glomerular hypercellularity observed when these antibodies are administered to normal mice. 
+
+Phrase: "This modulation of apoptosis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0443264:Modulation [Spatial Concept]
+
+Phrase: "could"
+
+Phrase: "have"
+
+Phrase: "a major impact on inflamed tissues"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1825598:IMPACT [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "perhaps"
+
+Phrase: "explain"
+
+Phrase: "the glomerular hypercellularity"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0020507:Hypercellularity [Pathologic Function]
+
+Phrase: "observed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+
+Phrase: "when"
+
+Phrase: "these antibodies"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   966 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "administered to normal mice."
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   770   C0025914:Mice [Mammal]
+   770   C0025929:mice [Mammal]
+   770   C0026809:Mice [Mammal]
+   770   C0205307:Normal [Qualitative Concept]
+   770   C0439166:% normal [Quantitative Concept]
+   770   C1521801:Administered [Functional Concept]
+   770   C2347086:% Normal [Quantitative Concept]
+   737 E C1621583:Administer [Functional Concept]
+Processing 00000000.tx.32: The observation that some antinuclear autoantibodies can penetrate cells and bind in the nucleus is unlikely to be the main mechanism that accounts for the pathology observed in lupus nephritis. 
+
+Phrase: "The observation"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0302523:Observation [Research Activity]
+  1000   C0700325:observation [Health Care Activity]
+  1000   C1964257:Observation [Diagnostic Procedure]
+   928 E C1518527:OBSERVATIONAL [Research Activity]
+
+Phrase: "that"
+
+Phrase: "some antinuclear autoantibodies"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   983   C0003243:Antinuclear Autoantibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "can"
+
+Phrase: "penetrate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205321:penetrate [Functional Concept]
+
+Phrase: "cells"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0007634:Cells [Cell]
+  1000   C3282337:Cells [Cell]
+   966 E C1269647:Cell [Cell]
+   966 E C1704653:Cell [Medical Device]
+   966 E C1948049:Cell [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "bind in the nucleus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0007610:Nucleus [Cell Component]
+   770   C1145667:Bind [Activity]
+   770   C1167622:bind [Molecular Function]
+
+Phrase: "is"
+
+Phrase: "unlikely to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0750558:Unlikely [Conceptual Entity]
+   861   C1710571:Unlikely [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "the main mechanism"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0441712:Mechanism [Functional Concept]
+   861   C1706376:Mechanism [Manufactured Object]
+
+Phrase: "that accounts for the pathology"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   726   C1551359:account [Idea or Concept]
+   726   C2741673:Account # [Clinical Attribute]
+   726   C2981730:Account [Classification]
+
+Phrase: "observed in lupus nephritis."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0024143:Lupus Nephritis [Disease or Syndrome]
+   770   C0024131:Lupus [Disease or Syndrome]
+   770   C0024138:lupus [Disease or Syndrome]
+   770   C0027697:Nephritis [Disease or Syndrome]
+   770   C0409974:Lupus [Disease or Syndrome]
+   770   C1441672:Observed [Functional Concept]
+Processing 00000000.tx.33: Once the self-reactive antibody has found its way to the glomerulus, it has two main effector pathways which could lead to damage: through the activation of complement and/or via the ability of IgG antibodies to bind to Fc receptors, thus recruiting other cellular effector mechanisms. 
+
+Phrase: "Once"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1720092:Once [Intellectual Product]
+  1000   C1948045:Once [Temporal Concept]
+
+Phrase: "the self-reactive antibody"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0004358:self reactive antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0003241:Antibody [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827   C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "has"
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "its way to the glomerulus,"
+
+Phrase: "it"
+
+Phrase: "has"
+
+Phrase: "two main effector pathways"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C1704259:Pathways [Molecular Function]
+   812   C1705987:Pathways [Conceptual Entity]
+
+Phrase: "which"
+
+Phrase: "could"
+
+Phrase: "lead"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+  1000   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+  1000   C1522538:Lead [Functional Concept]
+  1000   C2348269:Lead [Element, Ion, or Isotope]
+  1000   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "damage"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0010957:Damage [Injury or Poisoning]
+  1000   C1883709:Damage [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "through the activation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1879547:Activation [Activity]
+
+Phrase: "of complement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0009498:Complement [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "and/or via the ability of IgG antibodies to"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   764   C1706528:And/Or [Conceptual Entity]
+   748   C2754943:IgG antibody [Cell Component]
+   742   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   742   C0085732:Ability [Organism Attribute]
+   742   C1515981:And [Idea or Concept]
+   708 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "bind to Fc receptors,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   833   C0034805:Receptors, Fc [Amino Acid, Peptide, or Protein,Immunologic Factor,Receptor]
+   770   C0597357:receptors [Amino Acid, Peptide, or Protein,Receptor]
+   770   C1145667:Bind [Activity]
+   770   C1167622:bind [Molecular Function]
+   770   C2983605:FC [Activity]
+
+Phrase: "thus"
+
+Phrase: "recruiting"
+
+Phrase: "other cellular effector mechanisms."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0441712:Mechanisms [Functional Concept]
+   793 E C1706376:Mechanism [Manufactured Object]
+Processing 00000000.tx.34: Convincing evidence has demonstrated that the latter pathway can account for much of the injury observed. 
+
+Phrase: "Convincing evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "has"
+
+Phrase: "demonstrated"
+
+Phrase: "that"
+
+Phrase: "the latter pathway"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1704259:Pathway [Molecular Function]
+   861   C1705987:Pathway [Conceptual Entity]
+
+Phrase: "can"
+
+Phrase: "account for much of the injury"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C1551359:account [Idea or Concept]
+   753   C2741673:Account # [Clinical Attribute]
+   753   C2981730:Account [Classification]
+   753   C3263722:Injury [Injury or Poisoning]
+   753   C3263723:Injury [Injury or Poisoning]
+
+Phrase: "observed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+Processing 00000000.tx.35: When NZB/W mice, which develop a nephritis very similar to that seen in lupus patients, were crossed with mice deficient in the Fc receptor (gamma chain) for IgG, renal injury was prevented and the mice had a prolonged survival [15]. 
+
+Phrase: "When"
+
+Phrase: "NZB/W mice,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   913   C0025926:Mice, NZB [Mammal]
+   827   C0025914:Mice [Mammal]
+   827   C0025929:mice [Mammal]
+   827   C0026809:Mice [Mammal]
+
+Phrase: "which"
+
+Phrase: "develop"
+
+Phrase: "a nephritis"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0027697:Nephritis [Disease or Syndrome]
+   907 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   907 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   907 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   907 E C1514845:KIDNEY [Tissue]
+
+Phrase: "very similar to that"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C2348205:Similar [Qualitative Concept]
+
+Phrase: "seen in lupus patients,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   770   C0024131:Lupus [Disease or Syndrome]
+   770   C0024138:lupus [Disease or Syndrome]
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C0205397:Seen [Qualitative Concept]
+   770   C0409974:Lupus [Disease or Syndrome]
+   737 E C0042789:see [Organism Function]
+   737 E C1947903:See [Activity]
+
+Phrase: "were"
+
+Phrase: "crossed with mice"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   790   C0025914:Mice [Mammal]
+   790   C0025929:mice [Mammal]
+   790   C0026809:Mice [Mammal]
+   790   C0205203:Crossed [Spatial Concept]
+   756 E C2828360:Cross [Conceptual Entity]
+
+Phrase: "deficient in the Fc receptor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0011155:Deficient [Functional Concept]
+   760   C1636779:% deficient [Quantitative Concept]
+
+Phrase: "(gamma chain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0337112:Chain [Manufactured Object]
+   861   C1524075:Chain [Idea or Concept]
+
+Phrase: ")"
+
+Phrase: "for IgG,"
+
+Phrase: "renal injury"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0160420:Renal injury [Injury or Poisoning]
+   861   C3263722:Injury [Injury or Poisoning]
+   861   C3263723:Injury [Injury or Poisoning]
+
+Phrase: "was"
+
+Phrase: "prevented"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0309872:PREVENT [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "the mice"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0025914:Mice [Mammal]
+  1000   C0025929:mice [Mammal]
+  1000   C0026809:Mice [Mammal]
+
+Phrase: "had"
+
+Phrase: "a prolonged survival"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0038952:Survival [Activity]
+   861   C0220921:survival [Functional Concept]
+
+Phrase: "[15"
+
+Phrase: "]."
+Processing 00000000.tx.36: These mice still had immunoglobulins deposited in their glomerulus along with complement, but showed no severe pathological response. 
+
+Phrase: "These mice still"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0025914:Mice [Mammal]
+   861   C0025929:mice [Mammal]
+   861   C0026809:Mice [Mammal]
+
+Phrase: "had"
+
+Phrase: "immunoglobulins"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0021027:Immunoglobulins [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+  1000   C0202081:Immunoglobulins NOS [Laboratory Procedure]
+   966 E C1621846:immunoglobulin [Molecular Function]
+
+Phrase: "deposited in their glomerulus"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0022663:Glomerulus [Body Part, Organ, or Organ Component]
+   770   C0333562:deposited [Functional Concept]
+
+Phrase: "along with complement,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0009498:Complement [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "but"
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "no severe pathological response."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0871261:Response [Organism Attribute]
+   827   C1704632:Response [Finding]
+   827   C1706817:Response [Intellectual Product]
+   827   C2911692:Response [Mental Process]
+Processing 00000000.tx.37: Thus, this pathway represents a potential target for therapy of lupus nephritis. 
+
+Phrase: "Thus,"
+
+Phrase: "this pathway"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1704259:Pathway [Molecular Function]
+  1000   C1705987:Pathway [Conceptual Entity]
+
+Phrase: "represents"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1882932:Represent [Activity]
+
+Phrase: "a potential target for therapy of lupus nephritis."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C1521840:Target [Functional Concept]
+   744   C2986546:TARGET [Diagnostic Procedure]
+Processing 00000000.tx.38: The story with complement appears to be more complex, but reveals some fascinating insights into the workings of this cascade. 
+
+Phrase: "The story with complement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C1547707:Story [Geographic Area]
+
+Phrase: "appears"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "more complex,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439855:Complex [Qualitative Concept]
+   861   C1704241:Complex [Chemical Viewed Structurally]
+
+Phrase: "but"
+
+Phrase: "reveals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443289:reveal [Qualitative Concept]
+
+Phrase: "some fascinating insights into the workings of this cascade."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C0233820:insights [Mental Process]
+Processing 00000000.tx.39: Deficiencies in the early complement components C1q or C4 exacerbate the tendency to develop lupus nephritis, whereas if one loses C3, a central player in the workings of complement, no effect is seen [1618]. 
+
+Phrase: "Deficiencies in the early complement components C1q"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   782   C1285186:Complement component deficiency [Disease or Syndrome]
+   774   C0272242:complement deficiencies [Disease or Syndrome]
+   757   C3150902:C1q DEFICIENCY [Finding]
+   714   C0011155:Deficiency [Functional Concept]
+   714   C0162429:Deficiency [Disease or Syndrome]
+   714   C1623416:deficiency [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "C4"
+
+Phrase: "exacerbate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0436331:exacerbate [Finding]
+
+Phrase: "the tendency to"
+
+Phrase: "develop"
+
+Phrase: "lupus nephritis,"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+  1000   C0024143:Lupus Nephritis [Disease or Syndrome]
+   861   C0024131:Lupus [Disease or Syndrome]
+   861   C0024138:lupus [Disease or Syndrome]
+   861   C0027697:Nephritis [Disease or Syndrome]
+   861   C0409974:Lupus [Disease or Syndrome]
+   768 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   768 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   768 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   768 E C1514845:KIDNEY [Tissue]
+
+Phrase: "whereas"
+
+Phrase: "if"
+
+Phrase: "one"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "loses"
+
+Phrase: "C3,"
+
+Phrase: "a central player in the workings of complement,"
+
+Phrase: "no effect"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1280500:Effect [Qualitative Concept]
+  1000   C2348382:Effect [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "seen"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0205397:Seen [Qualitative Concept]
+   966 E C0042789:see [Organism Function]
+   966 E C1947903:See [Activity]
+
+Phrase: "[1618"
+
+Phrase: "]."
+Processing 00000000.tx.40: Thus, it appears that complement is not required to effect the tissue damage observed when immunoglobulins are bound to the glomerulus. 
+
+Phrase: "Thus,"
+
+Phrase: "it"
+
+Phrase: "appears"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "that complement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0009498:Complement [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "required"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "effect"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1280500:Effect [Qualitative Concept]
+  1000   C2348382:Effect [Qualitative Concept]
+
+Phrase: "the tissue damage"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0010957:Tissue damage [Injury or Poisoning]
+           Damage
+   861   C0040300:Tissue [Tissue]
+   861   C1547928:Tissue [Intellectual Product]
+   861   C1883709:Damage [Functional Concept]
+
+Phrase: "observed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1441672:Observed [Functional Concept]
+
+Phrase: "when"
+
+Phrase: "immunoglobulins"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0021027:Immunoglobulins [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+  1000   C0202081:Immunoglobulins NOS [Laboratory Procedure]
+   966 E C1621846:immunoglobulin [Molecular Function]
+
+Phrase: "are"
+
+Phrase: "bound to the glomerulus."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0022663:Glomerulus [Body Part, Organ, or Organ Component]
+   770   C0332297:bound [Spatial Concept]
+   770   C1145667:Bound [Activity]
+   770   C1167622:Bound [Molecular Function]
+   770   C1689898:% bound [Quantitative Concept]
+   770   C2349209:Bound [Conceptual Entity]
+Processing 00000000.tx.41: Rather, a number of properties have been ascribed to some complement proteins that lead to protection against autoimmunity. 
+
+Phrase: "Rather,"
+
+Phrase: "a number of properties"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0237753:*Number [Quantitative Concept]
+   770   C0449788:Number [Quantitative Concept]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "ascribed to some complement proteins"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   806   C0009498:Complement Proteins [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Complement
+   760   C0033684:Proteins [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "that"
+
+Phrase: "lead to protection"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   790   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   790   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   790   C1522538:Lead [Functional Concept]
+   790   C1545588:Protection [Finding]
+   790   C2348269:Lead [Element, Ion, or Isotope]
+   790   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "against autoimmunity."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0004368:Autoimmunity [Pathologic Function]
+   928 E C0443146:Autoimmune [Pathologic Function]
+Processing 00000000.tx.42: These include removal of immune complexes, binding to and removal of apoptotic blebs containing potentially immunogenic autoantigens, and the regulation of tolerance against soluble autoantigens. 
+
+Phrase: "These"
+
+Phrase: "include"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:include [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "removal of immune complexes,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0015252:Removal [Therapeutic or Preventive Procedure]
+   770   C0728940:Removal [Therapeutic or Preventive Procedure]
+
+Phrase: "binding to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C0243122:binding [Functional Concept]
+   833   C1145667:Binding [Activity]
+   833   C1167622:Binding [Molecular Function]
+
+Phrase: "and"
+
+Phrase: "removal of apoptotic blebs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0015252:Removal [Therapeutic or Preventive Procedure]
+   770   C0728940:Removal [Therapeutic or Preventive Procedure]
+
+Phrase: "containing"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332256:Containing [Functional Concept]
+  1000   C2700400:Containing [Activity]
+
+Phrase: "potentially immunogenic autoantigens,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0004359:Autoantigens [Immunologic Factor]
+
+Phrase: "and"
+
+Phrase: "the regulation of tolerance"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0851285:Regulation [Governmental or Regulatory Activity]
+   770   C1327622:Regulation [Biologic Function]
+
+Phrase: "against soluble autoantigens."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0004359:Autoantigens [Immunologic Factor]
+Processing 00000000.tx.43: In this last role, it has been proposed that early components of complement bind to self-antigens, boosting the signal delivered to immature self-reactive B cells, leading to their deletion. 
+
+Phrase: "In this last role,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0035820:Role [Social Behavior]
+   861   C1705810:Role [Conceptual Entity]
+
+Phrase: "it"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "proposed"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1441414:PROPOSED [Idea or Concept]
+  1000   C1553874:Proposed [Qualitative Concept]
+  1000   C1578820:Proposed [Idea or Concept]
+
+Phrase: "that early components of complement"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   797   C0312743:complement components [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   760   C0449432:Components [Manufactured Object]
+   726 E C1705248:Component [Conceptual Entity]
+
+Phrase: "bind to self-antigens,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   833   C0004359:Self-Antigens [Immunologic Factor]
+   770   C0003320:Antigens [Immunologic Factor]
+   770   C0036588:Self [Idea or Concept]
+   770   C1145667:Bind [Activity]
+   770   C1167622:bind [Molecular Function]
+   770   C1551994:self [Intellectual Product]
+   770   C3244295:Self [Intellectual Product]
+
+Phrase: "boosting"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C1511253:Boost [Functional Concept]
+   966   C1874596:BOOST [Food]
+
+Phrase: "the signal"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1710082:Signal [Phenomenon or Process]
+
+Phrase: "delivered to immature self-reactive B cells,"
+Meta Candidates (Total=17; Excluded=5; Pruned=0; Remaining=12)
+   804   C1512631:Immature B-Cells [Cell]
+   778   C0004561:B-Cells [Cell]
+   774   C2708700:Immature cells [Cell]
+   774   C3272950:Immature Cells [Laboratory Procedure]
+   748   C0007634:Cells [Cell]
+   748   C0036588:Self [Idea or Concept]
+   748   C0205252:Immature [Temporal Concept]
+   748   C0205332:Reactive [Qualitative Concept]
+   748   C1551994:self [Intellectual Product]
+   748   C1705822:Delivered [Activity]
+   748   C3244295:Self [Intellectual Product]
+   748   C3282337:Cells [Cell]
+   714 E C0308779:DELIVER [Organic Chemical,Pharmacologic Substance]
+   714 E C1269647:Cell [Cell]
+   714 E C1704653:Cell [Medical Device]
+   714 E C1874964:DELIVER [Pharmacologic Substance]
+   714 E C1948049:Cell [Spatial Concept]
+
+Phrase: "leading to their deletion."
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   770   C0332152:Leading [Temporal Concept]
+   770   C1442161:Deletion [Cell or Molecular Dysfunction]
+   770   C1511760:Deletion [Genetic Function]
+   770   C1522538:Leading [Functional Concept]
+   770   C1880274:Deletion [Activity]
+   737 E C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   737 E C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   737 E C2348269:Lead [Element, Ion, or Isotope]
+   737 E C3275067:LEAD [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.44: The observation that C1q deficiency leads to an increase in the presence of apoptotic blebs in the glomerulus adds strength to an earlier observation that provided a framework to explain the presence of the most frequently reoccurring autoantibodies [19]. 
+
+Phrase: "The observation"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0302523:Observation [Research Activity]
+  1000   C0700325:observation [Health Care Activity]
+  1000   C1964257:Observation [Diagnostic Procedure]
+   928 E C1518527:OBSERVATIONAL [Research Activity]
+
+Phrase: "that C1q deficiency"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C3150902:C1q DEFICIENCY [Finding]
+   861   C0011155:Deficiency [Functional Concept]
+   861   C0162429:Deficiency [Disease or Syndrome]
+   861   C1623416:deficiency [Qualitative Concept]
+   789 E C1636779:% deficient [Quantitative Concept]
+
+Phrase: "leads to an increase"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   770   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   770   C0181586:leads [Medical Device]
+   770   C0442805:Increase [Functional Concept]
+   770   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   770   C1522538:Lead [Functional Concept]
+   770   C2348269:Lead [Element, Ion, or Isotope]
+   770   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "in the presence"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0392148:Presence [Therapeutic or Preventive Procedure]
+   928 E C0150312:Present [Quantitative Concept]
+   928 E C0449450:Present [Idea or Concept]
+
+Phrase: "of apoptotic blebs"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0005758:Blebs [Pathologic Function]
+   827 E C1820376:bleb [Cell Component]
+
+Phrase: "in the glomerulus"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0022663:Glomerulus [Body Part, Organ, or Organ Component]
+   928 E C0268731:GLOMERULAR [Disease or Syndrome]
+
+Phrase: "adds"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883712:Add [Functional Concept]
+
+Phrase: "strength to an earlier observation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0237897:Strength [Quantitative Concept]
+   760   C0808080:Strength [Idea or Concept]
+   760   C1705922:Strength [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "provided"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provided [Activity]
+
+Phrase: "a framework to"
+
+Phrase: "explain"
+
+Phrase: "the presence of the most frequently reoccurring autoantibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0392148:Presence [Therapeutic or Preventive Procedure]
+
+Phrase: "[19"
+
+Phrase: "]."
+Processing 00000000.tx.45: Autoantigens such as DNA, histones, Ro, La and RNP were found to be present in structures on the surface of apoptotic cells. 
+
+Phrase: "Autoantigens such as DNA,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0004359:Autoantigens [Immunologic Factor]
+
+Phrase: "histones,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0019652:Histones [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "Ro,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0035826:RO [Geographic Area]
+  1000   C1413096:RO [Gene or Genome]
+  1000   C2987048:RO [Gene or Genome]
+
+Phrase: "La"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023031:La [Element, Ion, or Isotope]
+
+Phrase: "and"
+
+Phrase: "RNP"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0035544:RNP [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1167298:RNP [Cell Component]
+
+Phrase: "were"
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "present in structures"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0150312:Present [Quantitative Concept]
+   790   C0449450:Present [Idea or Concept]
+
+Phrase: "on the surface"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205148:Surface [Spatial Concept]
+
+Phrase: "of apoptotic cells."
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0007634:Cells [Cell]
+   861   C3282337:Cells [Cell]
+   827 E C1269647:Cell [Cell]
+   827 E C1704653:Cell [Medical Device]
+   827 E C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.46: Thus, it was speculated that one of the first cellular events in SLE is an increase in apoptosis of certain cells, leading to the accessibility of antigens to trigger autoimmunity. 
+
+Phrase: "Thus,"
+
+Phrase: "it"
+
+Phrase: "was"
+
+Phrase: "speculated"
+
+Phrase: "that one of the first cellular events"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0205447:One [Quantitative Concept]
+
+Phrase: "in SLE"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+  1000   C2984317:Systemic lupus erythematosus [Functional Concept]
+   901   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0205373:Systemic [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "an increase in apoptosis of certain cells,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0442805:Increase [Functional Concept]
+
+Phrase: "leading to the accessibility of antigens to"
+Meta Candidates (Total=8; Excluded=4; Pruned=0; Remaining=4)
+   748   C0003320:Antigens [Immunologic Factor]
+   748   C0332152:Leading [Temporal Concept]
+   748   C0814423:accessibility [Qualitative Concept]
+   748   C1522538:Leading [Functional Concept]
+   714 E C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   714 E C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   714 E C2348269:Lead [Element, Ion, or Isotope]
+   714 E C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "trigger"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0032930:Trigger [Clinical Attribute]
+  1000   C1444748:Trigger [Qualitative Concept]
+
+Phrase: "autoimmunity."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0004368:Autoimmunity [Pathologic Function]
+   928 E C0443146:Autoimmune [Pathologic Function]
+Processing 00000000.tx.47: This notion gains further support with the observations that lupus patients have high numbers of apoptotic cells and that these cells release large quantities of oligonucleosomes. 
+
+Phrase: "This notion"
+
+Phrase: "gains"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C1517378:Gain [Quantitative Concept]
+   944 E C0205217:Increased [Quantitative Concept]
+   944 E C0439661:Acquired [Temporal Concept]
+   944 E C0442805:Increase [Functional Concept]
+   944 E C0442808:Increasing [Functional Concept]
+   944 E C1301820:Obtain [Functional Concept]
+   944 E C1706701:Acquire [Activity]
+   944 E C3245488:acquired [Intellectual Product]
+
+Phrase: "further"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1517331:Further [Spatial Concept]
+   966 E C0205108:far [Spatial Concept]
+
+Phrase: "support with the observations"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   770   C0183683:Support [Medical Device]
+   770   C0302523:observations [Research Activity]
+   770   C0700325:observations [Health Care Activity]
+   770   C1521721:Support [Conceptual Entity]
+   770   C3244290:observations [Functional Concept]
+   737 E C1964257:Observation [Diagnostic Procedure]
+
+Phrase: "that lupus patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "have"
+
+Phrase: "high numbers of apoptotic cells"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   781   C0007584:Cell Number [Laboratory Procedure]
+   760   C0237753:*Number [Quantitative Concept]
+   760   C0449788:Number [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "that"
+
+Phrase: "these cells"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0007634:Cells [Cell]
+  1000   C3282337:Cells [Cell]
+   966 E C1269647:Cell [Cell]
+   966 E C1704653:Cell [Medical Device]
+   966 E C1948049:Cell [Spatial Concept]
+
+Phrase: "release"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0030685:Release [Health Care Activity]
+  1000   C0391871:Release [Functional Concept]
+  1000   C0439180:% release [Quantitative Concept]
+  1000   C0680255:release [Health Care Activity]
+  1000   C1283071:Release [Functional Concept]
+  1000   C1963578:Release [Therapeutic or Preventive Procedure]
+
+Phrase: "large quantities of oligonucleosomes."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   770   C1265611:QUANTITIES [Quantitative Concept]
+   737 E C1554108:Quantity [Intellectual Product]
+   737 E C1561573:Quantity [Intellectual Product]
+Processing 00000000.tx.48: In mouse models of lupus, antinucleosomal antibodies are present before anti-DNA and anti-histone antibodies [20]. 
+
+Phrase: "In mouse"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0025914:Mouse [Mammal]
+  1000   C0025929:mouse [Mammal]
+  1000   C0026809:Mouse [Mammal]
+
+Phrase: "models of lupus,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0024131:Lupus [Disease or Syndrome]
+   790   C0024138:lupus [Disease or Syndrome]
+   790   C0409974:Lupus [Disease or Syndrome]
+   790   C3161035:Model [Intellectual Product]
+
+Phrase: "antinucleosomal antibodies"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "present before anti-DNA"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0150312:Present [Quantitative Concept]
+   770   C0449450:Present [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "anti-histone antibodies"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0236515:anti histone antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   913   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   896 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   884   C0369360:Histone antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827   C0019652:Histone [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   793 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "[20"
+
+Phrase: "]."
+Processing 00000000.tx.49: What the initiating genetic and/or environmental triggers might be is still unclear. 
+
+Phrase: "What"
+
+Phrase: "the initiating genetic"
+Meta Candidates (Total=16; Excluded=14; Pruned=0; Remaining=2)
+   861   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   861   C0314603:Genetic [Functional Concept]
+   805 E C0005615:Birth [Organism Function]
+   805 E C0035150:Reproduction [Organism Function]
+   805 E C0079946:origin [Classification]
+   805 E C0439659:Origin [Temporal Concept]
+   805 E C1550512:origin [Intellectual Product]
+   805 E C1550722:birth [Idea or Concept]
+   805 E C3245487:birth [Intellectual Product]
+   777 E C0454729:Natal [Geographic Area]
+   777 E C0559522:Genital [Body System]
+   777 E C1546649:Genital [Intellectual Product]
+   777 E C1550642:Genital [Body Substance]
+   768 E C0205313:Original [Idea or Concept]
+   768 E C2347409:Original [Occupational Activity]
+   750 E C0598240:originality [Mental Process]
+
+Phrase: "and/or"
+
+Phrase: "environmental triggers"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0032930:triggers [Clinical Attribute]
+   827 E C1444748:Trigger [Qualitative Concept]
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "is"
+
+Phrase: "still unclear."
+Processing 00000000.tx.50: However, experiments where lupus is induced in non-autoimmune mice by manipulating their immune system demonstrate that a lupus-type reaction can be achieved in a variety of ways. 
+
+Phrase: "However,"
+
+Phrase: "experiments where lupus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0409974:Lupus [Disease or Syndrome]
+
+Phrase: "is"
+
+Phrase: "induced in non-autoimmune mice"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   781   C1513853:NON Mouse [Mammal]
+   760   C0025914:Mice [Mammal]
+   760   C0025929:mice [Mammal]
+   760   C0026809:Mice [Mammal]
+   760   C0205263:Induced [Functional Concept]
+   760   C0443146:Autoimmune [Pathologic Function]
+   760   C1518422:Non [Functional Concept]
+
+Phrase: "by manipulating"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C2584326:Manipulating [Organism Function]
+   966 E C0947647:Manipulate [Therapeutic or Preventive Procedure]
+
+Phrase: "their immune system"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+  1000   C0020962:Immune system [Body System]
+  1000   C1291764:IMMUNE SYSTEM [Finding]
+   861   C0439662:Immune [Functional Concept]
+   861   C0449913:System [Functional Concept]
+   861   C1553451:System [Manufactured Object]
+   861   C1704459:System [Medical Device]
+   789 E C0205373:Systemic [Functional Concept]
+
+Phrase: "demonstrate"
+
+Phrase: "that"
+
+Phrase: "a lupus-type reaction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0443286:Reaction [Functional Concept]
+   827   C1114821:Reaction [Clinical Attribute]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "achieved in a variety of ways."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1883525:Variety [Conceptual Entity]
+   753   C2346866:Variety [Conceptual Entity]
+Processing 00000000.tx.51: These can be divided into two main groups. 
+
+Phrase: "These"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "divided into two main groups."
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   760   C0205225:Main [Qualitative Concept]
+   760   C0205448:Two [Quantitative Concept]
+   760   C0332849:Divided [Functional Concept]
+   760   C0441833:Group [Idea or Concept]
+   760   C0687744:group [Population Group]
+   760   C1257890:Group [Population Group]
+   760   C1542147:Main [Qualitative Concept]
+   760   C1552516:Group [Health Care Related Organization]
+   760   C1552839:groups [Idea or Concept]
+   760   C1705428:Group [Conceptual Entity]
+   760   C1705429:Group [Population Group]
+Processing 00000000.tx.52: The first are experiments where lupus is induced by immunizing mice with a range of antigens and the second involves genetically altering mice to induce disease, usually by removing a component of the immune system. 
+
+Phrase: "The first"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205435:First [Quantitative Concept]
+  1000   C1279901:First [Qualitative Concept]
+
+Phrase: "are"
+
+Phrase: "experiments where lupus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0409974:Lupus [Disease or Syndrome]
+
+Phrase: "is"
+
+Phrase: "induced by immunizing mice"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0025914:Mice [Mammal]
+   770   C0025929:mice [Mammal]
+   770   C0026809:Mice [Mammal]
+   770   C0205263:Induced [Functional Concept]
+
+Phrase: "with a range"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1514721:Range [Quantitative Concept]
+  1000   C2348147:Range [Quantitative Concept]
+  1000   C3542016:Range [Intellectual Product]
+
+Phrase: "of antigens"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003320:Antigens [Immunologic Factor]
+   893 E C2698667:ANTIGENICITY [Regulation or Law]
+
+Phrase: "and"
+
+Phrase: "the second"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0205436:Second [Quantitative Concept]
+  1000   C0457385:Second [Temporal Concept]
+  1000   C0565930:/second [Quantitative Concept]
+  1000   C1561503:second [Idea or Concept]
+  1000   C1705190:Second [Qualitative Concept]
+   928 E C0027627:secondary [Neoplastic Process]
+   928 E C0175668:Secondary [Temporal Concept]
+
+Phrase: "involves"
+
+Phrase: "genetically altering mice to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0025914:Mice [Mammal]
+   812   C0025929:mice [Mammal]
+   812   C0026809:Mice [Mammal]
+
+Phrase: "induce"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "disease,"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "usually by removing"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   756   C0849355:remove [Qualitative Concept]
+   756   C1883720:Remove [Activity]
+   756   C3244314:remove [Functional Concept]
+
+Phrase: "a component of the immune system."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0449432:Component [Manufactured Object]
+   753   C1705248:Component [Conceptual Entity]
+Processing 00000000.tx.53: A recent example of the first illustrates how the initiating antigen might not contain nucleosomes. 
+
+Phrase: "A recent example of the first"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1707959:Example [Conceptual Entity]
+
+Phrase: "illustrates"
+
+Phrase: "how"
+
+Phrase: "the initiating antigen"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0003320:Antigen [Immunologic Factor]
+   761 E C2698667:ANTIGENICITY [Regulation or Law]
+
+Phrase: "might"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "contain"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332256:contain [Functional Concept]
+  1000   C2700400:Contain [Activity]
+
+Phrase: "nucleosomes."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0028623:Nucleosomes [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   966 E C1166675:nucleosome [Cell Component]
+Processing 00000000.tx.54: Putterman and Diamond [21] screened a peptide library with an anti-dsDNA antibody and isolated a peptide that, if immunized into BALB/C mice (a non-autoimmune strain), induced lupus nephritis. 
+
+Phrase: "Putterman"
+
+Phrase: "and"
+
+Phrase: "Diamond"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0057717:Diamond [Element, Ion, or Isotope]
+  1000   C1706341:Diamond [Qualitative Concept]
+
+Phrase: "[21"
+
+Phrase: "]"
+
+Phrase: "screened"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C0220908:screen [Health Care Activity]
+   966   C1305399:screen [Functional Concept]
+   966   C1705053:Screen [Medical Device]
+
+Phrase: "a peptide library with an anti-dsDNA antibody"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0376436:Peptide Library [Amino Acid, Peptide, or Protein,Indicator, Reagent, or Diagnostic Aid]
+   744   C0023621:Library [Manufactured Object,Organization]
+   744   C0751608:Library [Gene or Genome,Nucleic Acid, Nucleoside, or Nucleotide]
+   744   C0872147:Library [Gene or Genome,Nucleic Acid, Nucleoside, or Nucleotide]
+
+Phrase: "and"
+
+Phrase: "isolated"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0205409:Isolated [Functional Concept]
+  1000   C1548221:Isolated [Idea or Concept]
+   966 E C0370215:Isolate [Substance]
+   966 E C1875400:ISOLATE [Pharmacologic Substance]
+
+Phrase: "a peptide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030956:Peptide [Amino Acid, Peptide, or Protein]
+
+Phrase: "that,"
+
+Phrase: "if"
+
+Phrase: "immunized into BALB/C mice"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   862   C0025919:Mice, BALB C [Mammal]
+           BALB/C
+   760   C0025914:Mice [Mammal]
+   760   C0025929:mice [Mammal]
+   760   C0026809:Mice [Mammal]
+
+Phrase: "("
+
+Phrase: "a non-autoimmune strain"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0080194:Strain [Injury or Poisoning]
+   827   C0456178:strain [Intellectual Product]
+   827   C1518614:Strain [Organism]
+   827   C2987481:Strain [Mental Process]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "induced lupus nephritis."
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   901   C0024143:Lupus Nephritis [Disease or Syndrome]
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0027697:Nephritis [Disease or Syndrome]
+   827   C0409974:Lupus [Disease or Syndrome]
+   734 E C0022646:Kidney [Body Part, Organ, or Organ Component]
+   734 E C0227665:kidney [Body Part, Organ, or Organ Component]
+   734 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   734 E C1514845:KIDNEY [Tissue]
+Processing 00000000.tx.55: Here, they argue that a cross-reactive epitope induces antibodies against DNA and also results in the appearance of antibodies binding cardiolipin and histones, and the development of renal pathology. 
+
+Phrase: "Here,"
+
+Phrase: "they"
+
+Phrase: "argue"
+
+Phrase: "that"
+
+Phrase: "a cross-reactive epitope"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0003316:Epitope [Immunologic Factor]
+   734   C0010357:Cross-reactive [Molecular Function]
+
+Phrase: "induces"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "antibodies against DNA"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   858   C1262035:antibodies dna [Laboratory Procedure]
+   790   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   756 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "also"
+
+Phrase: "results in the appearance of antibodies"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   753   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   753   C0233426:Appearance [Organism Attribute]
+   753   C0700364:Appearance [Qualitative Concept]
+   753   C1274040:Result [Functional Concept]
+   753   C1546471:Result [Idea or Concept]
+   753   C2825142:Result [Finding]
+   719 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "binding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0243122:binding [Functional Concept]
+  1000   C1145667:Binding [Activity]
+  1000   C1167622:Binding [Molecular Function]
+
+Phrase: "cardiolipin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0007188:Cardiolipin [Lipid]
+
+Phrase: "and"
+
+Phrase: "histones,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0019652:Histones [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: "and"
+
+Phrase: "the development of renal pathology."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0243107:development [Physiologic Function]
+   760   C0678723:Development [Organism Function]
+   760   C1527148:Development [Functional Concept]
+Processing 00000000.tx.56: This last observation highlights the potential phenomenon of epitope spreading where the initiating antigen leads not only to antibodies reactive with itself, but also other, often related, antigens. 
+
+Phrase: "This last observation"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   861   C0302523:Observation [Research Activity]
+   861   C0700325:observation [Health Care Activity]
+   861   C1964257:Observation [Diagnostic Procedure]
+   789 E C1518527:OBSERVATIONAL [Research Activity]
+
+Phrase: "highlights"
+
+Phrase: "the potential phenomenon of epitope"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1882365:Phenomenon [Phenomenon or Process]
+
+Phrase: "spreading"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0332261:Spreading [Qualitative Concept]
+   966 E C1947932:Spread [Activity]
+
+Phrase: "where"
+
+Phrase: "the initiating antigen"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0003320:Antigen [Immunologic Factor]
+   761 E C2698667:ANTIGENICITY [Regulation or Law]
+
+Phrase: "leads"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+  1000   C0181586:leads [Medical Device]
+  1000   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+  1000   C1522538:Lead [Functional Concept]
+  1000   C2348269:Lead [Element, Ion, or Isotope]
+  1000   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "not only to antibodies"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   770   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   770   C0205171:Only [Quantitative Concept]
+   770   C1518422:Not [Functional Concept]
+   770   C1720467:Only [Intellectual Product]
+   737 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "reactive with itself,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0205332:Reactive [Qualitative Concept]
+
+Phrase: "but"
+
+Phrase: "also"
+
+Phrase: "other,"
+
+Phrase: "often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "related"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0439849:Related [Qualitative Concept]
+  1000   C0445223:Related [Finding]
+   966 E C0163712:Relate [Organic Chemical]
+
+Phrase: ","
+
+Phrase: "antigens."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003320:Antigens [Immunologic Factor]
+   893 E C2698667:ANTIGENICITY [Regulation or Law]
+Processing 00000000.tx.57: This type of process could provide part of the explanation for the diverse set of autoantibodies observed in lupus patients and hinder the identification of the `initiating' antigen. 
+
+Phrase: "This type of process"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0332307:Type [Qualitative Concept]
+   770   C1547052:*Type [Quantitative Concept]
+
+Phrase: "could"
+
+Phrase: "provide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provide [Activity]
+
+Phrase: "part of the explanation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C1292711:Part of [Spatial Concept]
+   770   C0449719:Part [Spatial Concept]
+   770   C1709471:Part [Quantitative Concept]
+
+Phrase: "for the diverse set"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0036849:Set [Mental Process]
+   861   C1442518:Set [Functional Concept]
+   861   C1705195:Set [Conceptual Entity]
+
+Phrase: "of autoantibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "observed in lupus patients"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0024131:Lupus [Disease or Syndrome]
+   770   C0024138:lupus [Disease or Syndrome]
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C0409974:Lupus [Disease or Syndrome]
+   770   C1441672:Observed [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "hinder"
+
+Phrase: "the identification of the `initiating' antigen."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0020792:Identification [Mental Process]
+   753   C0205396:Identification [Qualitative Concept]
+Processing 00000000.tx.58: Examples of the second type of experiment, i.e. manipulating the genetic make-up of a mouse, are plentiful. 
+
+Phrase: "Examples of the second type of experiment,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   714   C1707959:Example [Conceptual Entity]
+
+Phrase: "i.e."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0683454:I-E [Diagnostic Procedure,Intellectual Product]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "manipulating"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C2584326:Manipulating [Organism Function]
+   966 E C0947647:Manipulate [Therapeutic or Preventive Procedure]
+
+Phrase: "the genetic make-up of a mouse,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1881534:Make [Functional Concept]
+
+Phrase: "are"
+
+Phrase: "plentiful."
+Processing 00000000.tx.59: The relevance of some of these experiments is reinforced by a parallel genetic predisposition in lupus patients. 
+
+Phrase: "The relevance of some of these experiments"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C2347946:Relevance [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "reinforced by a parallel genetic predisposition"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   790   C0314657:Genetic Predisposition [Organism Attribute]
+   753   C0012655:Predisposition [Clinical Attribute]
+   753   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   753   C0220898:Predisposition [Organism Attribute]
+   753   C0314603:Genetic [Functional Concept]
+   753   C2348042:Parallel [Qualitative Concept]
+   753   C2826345:PARALLEL [Research Activity]
+
+Phrase: "in lupus patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.60: As mentioned above, deficiencies in the complement components C1q and C4 both predispose to lupus in humans and mice [1618]. 
+
+Phrase: "As"
+
+Phrase: "mentioned above, deficiencies in the complement components C1q"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   771   C1285186:Complement component deficiency [Disease or Syndrome]
+   767   C0272242:complement deficiencies [Disease or Syndrome]
+   750   C3150902:C1q DEFICIENCY [Finding]
+   711   C0011155:Deficiency [Functional Concept]
+   711   C0162429:Deficiency [Disease or Syndrome]
+   711   C1623416:deficiency [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "C4"
+
+Phrase: "both"
+
+Phrase: "predispose to lupus"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0024131:Lupus [Disease or Syndrome]
+   790   C0024138:lupus [Disease or Syndrome]
+   790   C0409974:Lupus [Disease or Syndrome]
+
+Phrase: "in humans"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0086418:Humans [Human]
+
+Phrase: "and"
+
+Phrase: "mice"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0025914:Mice [Mammal]
+  1000   C0025929:mice [Mammal]
+  1000   C0026809:Mice [Mammal]
+
+Phrase: "[1618"
+
+Phrase: "]."
+Processing 00000000.tx.61: The list of other immune deficiencies that can lead to a lupus-like disease with antinuclear antibodies varies from hyperactivity in B cells to a more broad dysregulation of cellular responsiveness and proliferation (e.g. [2223, 24]). 
+
+Phrase: "The list of other immune deficiencies"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0745732:List [Conceptual Entity]
+   753   C3272378:LIST [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "can"
+
+Phrase: "lead to a lupus-like disease"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   753   C0012634:Disease [Disease or Syndrome]
+   753   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   753   C0024131:Lupus [Disease or Syndrome]
+   753   C0024138:lupus [Disease or Syndrome]
+   753   C0409974:Lupus [Disease or Syndrome]
+   753   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   753   C1522538:Lead [Functional Concept]
+   753   C2348269:Lead [Element, Ion, or Isotope]
+   753   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "with antinuclear antibodies"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0003243:Antibodies, Antinuclear [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "varies from hyperactivity"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0424295:Hyperactivity, NOS [Finding]
+   790   C1548673:Varies [Intellectual Product]
+
+Phrase: "in B cells"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0004561:B-Cells [Cell]
+   861   C0007634:Cells [Cell]
+   861   C3282337:Cells [Cell]
+   827 E C1269647:Cell [Cell]
+   827 E C1704653:Cell [Medical Device]
+   827 E C1948049:Cell [Spatial Concept]
+
+Phrase: "to a more broad dysregulation"
+
+Phrase: "of cellular responsiveness"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   789   C0205342:Responsive [Functional Concept]
+   761 E C2371924:Responsivity [Mental Process]
+
+Phrase: "and"
+
+Phrase: "proliferation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0334094:Proliferation [Pathologic Function]
+  1000   C1514485:Proliferation [Functional Concept]
+
+Phrase: "("
+
+Phrase: "e.g."
+
+Phrase: "[2223,"
+
+Phrase: "24"
+
+Phrase: "]"
+
+Phrase: ")."
+Processing 00000000.tx.62: The multiplicity of genetically manipulated mice that lead to a lupus-type reaction is reflected by the number of genes that have been proposed to contribute to lupus in man. 
+
+Phrase: "The multiplicity of genetically manipulated mice"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0449822:Multiplicity [Quantitative Concept]
+
+Phrase: "that"
+
+Phrase: "lead to a lupus-type reaction"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   753   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   753   C0024131:Lupus [Disease or Syndrome]
+   753   C0024138:lupus [Disease or Syndrome]
+   753   C0332307:Type [Qualitative Concept]
+   753   C0409974:Lupus [Disease or Syndrome]
+   753   C0443286:Reaction [Functional Concept]
+   753   C1114821:Reaction [Clinical Attribute]
+   753   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   753   C1522538:Lead [Functional Concept]
+   753   C1547052:*Type [Quantitative Concept]
+   753   C2348269:Lead [Element, Ion, or Isotope]
+   753   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "is"
+
+Phrase: "reflected by the number of genes"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0017337:Genes [Gene or Genome]
+   753   C0237753:*Number [Quantitative Concept]
+   753   C0449788:Number [Quantitative Concept]
+   753   C0558058:reflected [Mental Process]
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "proposed"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1441414:PROPOSED [Idea or Concept]
+  1000   C1553874:Proposed [Qualitative Concept]
+  1000   C1578820:Proposed [Idea or Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "contribute to lupus"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0024131:Lupus [Disease or Syndrome]
+   790   C0024138:lupus [Disease or Syndrome]
+   790   C0409974:Lupus [Disease or Syndrome]
+   790   C1880177:Contribute [Activity]
+
+Phrase: "in man."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0024554:MAN [Finding]
+  1000   C0025266:Man [Population Group]
+  1000   C0086418:Man [Human]
+Processing 00000000.tx.63: The range of new findings have provided a framework for discriminating consequence from subsequence. 
+
+Phrase: "The range of new findings"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C1514721:Range [Quantitative Concept]
+   760   C2348147:Range [Quantitative Concept]
+   760   C3542016:Range [Intellectual Product]
+
+Phrase: "have"
+
+Phrase: "provided"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1999230:Provided [Activity]
+
+Phrase: "a framework for discriminating consequence"
+
+Phrase: "from subsequence."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   928   C0332282:Subsequent [Temporal Concept]
+Processing 00000000.tx.64: What is apparent is that lupus autoantibodies can occur by a variety of genetic and environmental causes, and their presence can directly lead to tissue injury. 
+
+Phrase: "What"
+
+Phrase: "is"
+
+Phrase: "apparent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750489:apparent [Idea or Concept]
+
+Phrase: "is"
+
+Phrase: "that lupus autoantibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "can"
+
+Phrase: "occur by a variety of genetic"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   753   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   753   C0314603:Genetic [Functional Concept]
+   753   C1709305:Occur [Activity]
+   753   C1883525:Variety [Conceptual Entity]
+   753   C2346866:Variety [Conceptual Entity]
+   753   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "environmental causes,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0015127:causes [Functional Concept]
+   861   C1314792:Causes [Functional Concept]
+   827 E C1524003:Cause [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "their presence"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0392148:Presence [Therapeutic or Preventive Procedure]
+   928 E C0150312:Present [Quantitative Concept]
+   928 E C0449450:Present [Idea or Concept]
+
+Phrase: "can"
+
+Phrase: "directly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947931:Directly [Qualitative Concept]
+
+Phrase: "lead to tissue injury."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   770   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   770   C0040300:Tissue [Tissue]
+   770   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   770   C1522538:Lead [Functional Concept]
+   770   C1547928:Tissue [Intellectual Product]
+   770   C2348269:Lead [Element, Ion, or Isotope]
+   770   C3263722:Injury [Injury or Poisoning]
+   770   C3263723:Injury [Injury or Poisoning]
+   770   C3275067:LEAD [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.65: What is now required is precise information on the sequence of critical events that cause lupus in patients and how these can be manipulated to reduce disease. 
+
+Phrase: "What"
+
+Phrase: "is"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "required"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "precise information on the sequence of critical events"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   750   C0681322:information event [Occupational Activity]
+   744   C1533716:Information [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "lupus in patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0024131:Lupus [Disease or Syndrome]
+   790   C0024138:lupus [Disease or Syndrome]
+   790   C0409974:Lupus [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "how"
+
+Phrase: "these"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "manipulated"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0947647:Manipulate [Therapeutic or Preventive Procedure]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "reduce"
+
+Phrase: "disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.66: References Tzioufas AG, Kokori SI, Petrovas CI, Moutsopoulos HM. 
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Tzioufas AG,"
+
+Phrase: "Kokori SI,"
+
+Phrase: "Petrovas CI,"
+
+Phrase: "Moutsopoulos HM."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0262500:hm [Health Care Activity]
+   861   C1512358:HM [Geographic Area]
+   861   C3538713:HM [Idea or Concept]
+Processing 00000000.tx.67: Autoantibodies to human recombinant erythropoietin in patients with systemic lupus erythematosus: correlation with anemia. 
+
+Phrase: "Autoantibodies to human recombinant erythropoietin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "in patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with systemic lupus erythematosus"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+  1000   C2984317:Systemic lupus erythematosus [Functional Concept]
+   901   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0205373:Systemic [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "correlation with anemia."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1707520:Correlation [Qualitative Concept]
+Processing 00000000.tx.68: Arthritis Rheum 1997;40:22126.[ISI][Medline] Winfield JB, Faiferman I, Koffler D. 
+
+Phrase: "Arthritis Rheum 1997"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";40"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: ":"
+
+Phrase: "22126."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Winfield JB,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1550751:JB [Temporal Concept]
+
+Phrase: "Faiferman I,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "Koffler D."
+Processing 00000000.tx.69: Avidity of anti-DNA antibodies in serum and IgG glomerular eluates from patients with systemic lupus erythematosus. 
+
+Phrase: "Avidity of anti-DNA antibodies"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   781   C0003256:Antibody Avidity [Quantitative Concept]
+   760   C1510996:Avidity [Qualitative Concept]
+   745 E C0450226:Avid antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "in serum"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0229671:Serum [Body Substance]
+  1000   C1546774:Serum [Intellectual Product]
+  1000   C1550100:Serum [Body Substance]
+
+Phrase: "and"
+
+Phrase: "IgG glomerular eluates from patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   726   C0301870:Eluate [Body Substance]
+   726   C1272724:Eluate [Substance]
+
+Phrase: "with systemic lupus erythematosus."
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+  1000   C2984317:Systemic lupus erythematosus [Functional Concept]
+   901   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0205373:Systemic [Functional Concept]
+Processing 00000000.tx.70: Association of high avidity antinative DNA antibody with glomerulonephritis. 
+
+Phrase: "Association of high avidity antinative DNA antibody"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0004083:Association [Mental Process]
+   748   C0439849:Association [Qualitative Concept]
+   748   C0596306:Association [Phenomenon or Process]
+   748   C0699792:association [Social Behavior]
+
+Phrase: "with glomerulonephritis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017658:Glomerulonephritis [Disease or Syndrome]
+Processing 00000000.tx.71: J Clin Invest 1977;59:906.[ISI][Medline] Sabbaga J, Pankewycz OG, Lufft V, Schwartz RS, Madaio MP. 
+
+Phrase: "J"
+
+Phrase: "Clin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1315013:CLIN [Intellectual Product]
+
+Phrase: "Invest"
+
+Phrase: "1977"
+
+Phrase: ";59"
+
+Phrase: ":"
+
+Phrase: "906."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Sabbaga J,"
+
+Phrase: "Pankewycz OG,"
+
+Phrase: "Lufft V,"
+
+Phrase: "Schwartz RS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3539879:RS [Idea or Concept]
+
+Phrase: "Madaio MP."
+Processing 00000000.tx.72: Cross-reactivity distinguishes serum and nephritogenic anti-DNA antibodies in human lupus from their natural counterparts in normal serum. 
+
+Phrase: "Cross-reactivity"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0010357:Cross Reactivity [Molecular Function]
+  1000   C0872139:cross reactivity [Molecular Function]
+  1000   C1880190:CROSS REACTIVITY [Event]
+   861   C2828360:Cross [Conceptual Entity]
+   789   C0205332:Reactive [Qualitative Concept]
+
+Phrase: "distinguishes"
+
+Phrase: "serum"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0229671:Serum [Body Substance]
+  1000   C1546774:Serum [Intellectual Product]
+  1000   C1550100:Serum [Body Substance]
+
+Phrase: "and"
+
+Phrase: "nephritogenic anti-DNA antibodies in human lupus"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   814   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   774   C0443794:antibodies lupus [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   774   C1262035:antibodies dna [Laboratory Procedure]
+   774   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   757 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   748   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   748   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   714 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "from their natural counterparts"
+
+Phrase: "in normal serum."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   861   C0205307:Normal [Qualitative Concept]
+   861   C0229671:Serum [Body Substance]
+   861   C0439166:% normal [Quantitative Concept]
+   861   C1546774:Serum [Intellectual Product]
+   861   C1550100:Serum [Body Substance]
+   861   C2347086:% Normal [Quantitative Concept]
+Processing 00000000.tx.73: J Autoimmun 1990;3:21535.[ISI][Medline] ter Borg EJ, Horst G, Hummel EJ, Limburg PC, Kallenberg CG. 
+
+Phrase: "J Autoimmun 1990"
+
+Phrase: ";3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ":"
+
+Phrase: "21535."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] ter Borg EJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1718783:Ej [Immunologic Factor]
+
+Phrase: "Horst G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Hummel EJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1718783:Ej [Immunologic Factor]
+
+Phrase: "Limburg PC,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540812:PC [Gene or Genome]
+
+Phrase: "Kallenberg CG."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0054868:CG [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C3540479:CG [Gene or Genome]
+Processing 00000000.tx.74: Measurement of increases in anti-double-stranded DNA antibody levels as a predictor of disease exacerbation in systemic lupus erythematosus. 
+
+Phrase: "Measurement of increases"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0242485:Measurement [Functional Concept]
+
+Phrase: "in anti-double-stranded DNA antibody levels"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   799   C0441889:Levels [Qualitative Concept]
+   780   C2746079:Anti-Double Stranded DNA Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   766 E C0456079:Level [Classification]
+   766 E C1547707:Level [Geographic Area]
+   766 E C2946261:Level [Pharmacologic Substance]
+   734   C0312612:Double-stranded DNA antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   734   C0919679:double stranded dna antibody [Laboratory Procedure]
+   734   C2698136:Anti-Double Stranded DNA [Laboratory Procedure]
+   719   C0282056:Anti DNA antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   709   C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "as a predictor"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2698872:Predictor [Idea or Concept]
+
+Phrase: "of disease exacerbation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0235874:Disease Exacerbation [Finding]
+
+Phrase: "in systemic lupus erythematosus."
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+  1000   C2984317:Systemic lupus erythematosus [Functional Concept]
+   901   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0205373:Systemic [Functional Concept]
+Processing 00000000.tx.75: A long-term, prospective study. 
+
+Phrase: "A long-term,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0443252:Long-term [Temporal Concept]
+   827   C1515273:Term [Temporal Concept]
+   827   C1705313:Term [Idea or Concept]
+   827   C2826302:TERM [Intellectual Product]
+
+Phrase: "prospective study."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0033522:prospective study [Research Activity]
+  1000   C1709709:Prospective Study [Research Activity]
+   861   C0023981:prospective [Research Activity]
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+Processing 00000000.tx.76: Arthritis Rheum 1990;33:63443.[ISI][Medline] Vlahakos DV, Foster MH, Adams S, Katz M, Ucci AA, Barrett KJ et al. 
+
+Phrase: "Arthritis Rheum 1990"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";33"
+
+Phrase: ":"
+
+Phrase: "63443."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Vlahakos DV,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0279354:DV [Therapeutic or Preventive Procedure]
+   861   C1704645:DV [Conceptual Entity]
+
+Phrase: "Foster MH,"
+
+Phrase: "Adams S,"
+
+Phrase: "Katz M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Ucci AA,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1235746:Aa [Plant]
+   861   C1882141:aa [Qualitative Concept]
+
+Phrase: "Barrett KJ et al."
+Processing 00000000.tx.77: Anti-DNA antibodies form immune deposits at distinct glomerular and vascular sites. 
+
+Phrase: "Anti-DNA antibodies"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   913   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   896 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   884   C1262035:dna antibody [Laboratory Procedure]
+   827   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   827   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   793 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "form"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0348078:Form [Qualitative Concept]
+  1000   C0376315:Form [Manufactured Object]
+  1000   C1522492:Form [Functional Concept]
+
+Phrase: "immune deposits at distinct glomerular"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0333562:Deposits [Functional Concept]
+   760   C0439662:Immune [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "vascular sites."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0205145:Sites [Spatial Concept]
+   827 E C1515974:Site [Body Location or Region]
+   827 E C2825164:Site [Spatial Concept]
+Processing 00000000.tx.78: Kidney Int 1992;41:1690700.[ISI][Medline] Ohnishi K, Ebling FM, Mitchell B, Singh RR, Hahn BH, Tsao BP. 
+
+Phrase: "Kidney Int 1992"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   827   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   827   C0063789:INT [Organic Chemical]
+   827   C0227665:kidney [Body Part, Organ, or Organ Component]
+   827   C1278978:Kidney [Body Part, Organ, or Organ Component]
+   827   C1514845:KIDNEY [Tissue]
+   827   C3272375:INT [Intellectual Product]
+   734 E C0027697:Nephritides [Disease or Syndrome]
+
+Phrase: ";41"
+
+Phrase: ":"
+
+Phrase: "1690700."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Ohnishi K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Ebling FM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540627:FM [Gene or Genome]
+
+Phrase: "Mitchell B,"
+
+Phrase: "Singh RR,"
+
+Phrase: "Hahn BH,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0004684:BH [Geographic Area]
+   861   C1412800:BH [Gene or Genome]
+   861   C2986890:BH [Idea or Concept]
+
+Phrase: "Tsao BP."
+Processing 00000000.tx.79: Comparison of pathogenic and non-pathogenic murine antibodies to DNA: antigen binding and structural characteristics. 
+
+Phrase: "Comparison of pathogenic"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1707455:Comparison [Activity]
+
+Phrase: "and"
+
+Phrase: "non-pathogenic murine antibodies to DNA"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   783   C1262035:antibodies dna [Laboratory Procedure]
+   753   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   719 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: ":"
+
+Phrase: "antigen binding"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C1148575:antigen binding [Molecular Function]
+   861   C0003320:Antigen [Immunologic Factor]
+   861   C0243122:binding [Functional Concept]
+   861   C1145667:Binding [Activity]
+   861   C1167622:Binding [Molecular Function]
+   761 E C2698667:ANTIGENICITY [Regulation or Law]
+
+Phrase: "and"
+
+Phrase: "structural characteristics."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1521970:Characteristics [Qualitative Concept]
+Processing 00000000.tx.80: Int Immunol 1994;6:81730.[Abstract] Ehrenstein MR, Katz DR, Griffiths MH, Papadaki L, Winkler TH, Kalden JR et al. 
+
+Phrase: "Int Immunol 1994"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0063789:INT [Organic Chemical]
+   827   C1517844:Immunol [Organic Chemical,Pharmacologic Substance]
+   827   C3272375:INT [Intellectual Product]
+
+Phrase: ";6"
+
+Phrase: ":"
+
+Phrase: "81730."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Ehrenstein MR,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2347167:Mr. [Conceptual Entity]
+
+Phrase: "Katz DR,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0031831:DR [Professional or Occupational Group]
+   861   C1707664:DR [Biomedical or Dental Material]
+   861   C2348314:Dr. [Conceptual Entity]
+   861   C3540849:DR [Idea or Concept]
+
+Phrase: "Griffiths MH,"
+
+Phrase: "Papadaki L,"
+
+Phrase: "Winkler TH,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039725:TH [Geographic Area]
+   861   C0039738:Th [Element, Ion, or Isotope]
+   861   C1420718:TH [Gene or Genome]
+
+Phrase: "Kalden JR et al."
+Processing 00000000.tx.81: Human IgG anti-DNA antibodies deposit in kidneys and induce proteinuria in SCID mice. 
+
+Phrase: "Human IgG anti-DNA antibodies"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   884   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   858   C2754943:IgG antibody [Cell Component]
+   853   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   836 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   823   C1262035:dna antibody [Laboratory Procedure]
+   804   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   804   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   771 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "deposit in kidneys"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   790   C0022646:Kidneys [Body Part, Organ, or Organ Component]
+   790   C0227665:kidneys [Body Part, Organ, or Organ Component]
+   790   C0333562:Deposit [Functional Concept]
+   756 E C1278978:Kidney [Body Part, Organ, or Organ Component]
+   756 E C1514845:KIDNEY [Tissue]
+
+Phrase: "and"
+
+Phrase: "induce"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "proteinuria in SCID mice."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0033687:Proteinuria [Finding]
+   770   C1962972:Proteinuria [Finding]
+Processing 00000000.tx.82: Kidney Int 1995;48:70511.[ISI][Medline] Gladman DD, Urowitz MB, Keystone EC. 
+
+Phrase: "Kidney Int 1995"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   827   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   827   C0063789:INT [Organic Chemical]
+   827   C0227665:kidney [Body Part, Organ, or Organ Component]
+   827   C1278978:Kidney [Body Part, Organ, or Organ Component]
+   827   C1514845:KIDNEY [Tissue]
+   827   C3272375:INT [Intellectual Product]
+   734 E C0027697:Nephritides [Disease or Syndrome]
+
+Phrase: ";48"
+
+Phrase: ":"
+
+Phrase: "70511."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Gladman DD,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3538867:DD [Gene or Genome]
+
+Phrase: "Urowitz MB,"
+
+Phrase: "Keystone EC."
+Processing 00000000.tx.83: Serologically active clinically quiescent systemic lupus erythematosus: a discordance between clinical and serologic features. 
+
+Phrase: "Serologically active clinically quiescent systemic lupus erythematosus"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   845   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+   845   C2984317:Systemic lupus erythematosus [Functional Concept]
+   818   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   795   C0024131:Lupus [Disease or Syndrome]
+   795   C0024138:lupus [Disease or Syndrome]
+   795   C0205373:Systemic [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "a discordance between clinical"
+
+Phrase: "and"
+
+Phrase: "serologic features."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1521970:Feature [Qualitative Concept]
+   827   C1706388:Feature [Conceptual Entity]
+   827   C2346469:Feature [Qualitative Concept]
+   827   C2348519:Feature [Qualitative Concept]
+Processing 00000000.tx.84: Am J Med 1979;66:2105.[ISI][Medline] Katz JB, Limpanasithikul W, Diamond B. 
+
+Phrase: "Am"
+
+Phrase: "J Med 1979"
+
+Phrase: ";66"
+
+Phrase: ":"
+
+Phrase: "2105."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Katz JB,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1550751:JB [Temporal Concept]
+
+Phrase: "Limpanasithikul W,"
+
+Phrase: "Diamond B."
+Processing 00000000.tx.85: Mutational analysis of an autoantibody: differential binding and pathogenicity. 
+
+Phrase: "Mutational analysis of an autoantibody"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0796357:mutation analysis [Laboratory Procedure]
+   760   C0002778:Analysis [Laboratory Procedure]
+   760   C0936012:Analysis [Research Activity]
+   760   C1524024:analysis [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "differential binding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0243122:binding [Functional Concept]
+   861   C1145667:Binding [Activity]
+   861   C1167622:Binding [Molecular Function]
+
+Phrase: "and"
+
+Phrase: "pathogenicity."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0030657:pathogenicity [Qualitative Concept]
+  1000   C1136169:Pathogenicity [Organism Attribute]
+   928 E C0450254:Pathogenic [Organism]
+Processing 00000000.tx.86: J Exp Med 1994;180:92532.[Abstract] D'Andrea DM, Coupaye-Gerard B, Kleyman TR, Foster MH, Madaio MP. 
+
+Phrase: "J Exp Med 1994"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1417055:EXP [Gene or Genome]
+
+Phrase: ";180"
+
+Phrase: ":"
+
+Phrase: "92532."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "]"
+
+Phrase: "D'"
+
+Phrase: "Andrea DM,"
+
+Phrase: "Coupaye-Gerard B,"
+
+Phrase: "Kleyman TR,"
+
+Phrase: "Foster MH,"
+
+Phrase: "Madaio MP."
+Processing 00000000.tx.87: Lupus autoantibodies interact directly with distinct glomerular and vascular cell surface antigens. 
+
+Phrase: "Lupus autoantibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "interact"
+
+Phrase: "directly with distinct glomerular"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0022663:Glomerular [Body Part, Organ, or Organ Component]
+   770   C0268731:GLOMERULAR [Disease or Syndrome]
+   770   C1947931:Directly [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "vascular cell surface antigens."
+Meta Candidates (Total=12; Excluded=2; Pruned=0; Remaining=10)
+   923   C0003339:Cell Surface Antigens [Immunologic Factor]
+           Surface Antigens
+   861   C0699040:Cell surface [Cell Component]
+   819   C2328697:Hemal cell [Cell]
+   812   C0003320:Antigens [Immunologic Factor]
+   812   C0007634:Cell [Cell]
+   812   C0205148:Surface [Spatial Concept]
+   812   C1269647:Cell [Cell]
+   812   C1704653:Cell [Medical Device]
+   812   C1948049:Cell [Spatial Concept]
+   811 E C0005773:Blood cell [Cell]
+   706 E C2698667:ANTIGENICITY [Regulation or Law]
+Processing 00000000.tx.88: Kidney Int 1996;49:121421.[ISI][Medline] van Bruggen MC, Walgreen B, Rijke TP, Tamboer W, Kramers K, Smeenk RJ et al. 
+
+Phrase: "Kidney Int 1996"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   827   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   827   C0063789:INT [Organic Chemical]
+   827   C0227665:kidney [Body Part, Organ, or Organ Component]
+   827   C1278978:Kidney [Body Part, Organ, or Organ Component]
+   827   C1514845:KIDNEY [Tissue]
+   827   C3272375:INT [Intellectual Product]
+   734 E C0027697:Nephritides [Disease or Syndrome]
+
+Phrase: ";49"
+
+Phrase: ":"
+
+Phrase: "121421."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] van Bruggen MC,"
+
+Phrase: "Walgreen B,"
+
+Phrase: "Rijke TP,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3541334:TP [Gene or Genome]
+
+Phrase: "Tamboer W,"
+
+Phrase: "Kramers K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Smeenk RJ et al."
+Processing 00000000.tx.89: Antigen specificity of anti-nuclear antibodies complexed to nucleosomes determines glomerular basement membrane binding in vivo. 
+
+Phrase: "Antigen specificity of anti-nuclear antibodies"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   790   C1536991:antigen specificity [Molecular Function]
+   783   C0003264:antibodies specificity [Molecular Function]
+   754 E C0003317:Antigenic Specificity [Natural Phenomenon or Process]
+   754 E C0456981:antigen specific [Immunologic Factor]
+   753   C0037791:Specificity [Quantitative Concept]
+   753   C1511884:Specificity [Quantitative Concept]
+   731 E C0443640:Specific antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "complexed to nucleosomes"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0028623:Nucleosomes [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   756   C0439855:Complex [Qualitative Concept]
+   756 E C1166675:nucleosome [Cell Component]
+   756   C1704241:Complex [Chemical Viewed Structurally]
+
+Phrase: "determines"
+
+Phrase: "glomerular basement membrane"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+  1000   C0599297:Glomerular Basement Membrane [Body Part, Organ, or Organ Component]
+   901   C0004799:Basement membrane [Tissue]
+   827   C0022663:Glomerular [Body Part, Organ, or Organ Component]
+   827   C0025255:Membrane [Tissue]
+   827   C0268731:GLOMERULAR [Disease or Syndrome]
+   827   C0596901:Membrane [Cell Component]
+   827   C1706182:Membrane [Manufactured Object]
+   827   C1979853:Basement [Cell Component]
+   755 E C0205287:Membranous [Qualitative Concept]
+
+Phrase: "binding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0243122:binding [Functional Concept]
+  1000   C1145667:Binding [Activity]
+  1000   C1167622:Binding [Molecular Function]
+
+Phrase: "in vivo."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1515655:In Vivo [Spatial Concept]
+           vivo
+Processing 00000000.tx.90: Eur J Immunol 1997;27:15649.[ISI][Medline] Vlahakos D, Foster MH, Ucci AA, Barrett KJ, Datta SK, Madaio MP. 
+
+Phrase: "Eur J Immunol 1997"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1517844:Immunol [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ";27"
+
+Phrase: ":"
+
+Phrase: "15649."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Vlahakos D,"
+
+Phrase: "Foster MH,"
+
+Phrase: "Ucci AA,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1235746:Aa [Plant]
+   861   C1882141:aa [Qualitative Concept]
+
+Phrase: "Barrett KJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439255:kJ [Quantitative Concept]
+
+Phrase: "Datta SK,"
+
+Phrase: "Madaio MP."
+Processing 00000000.tx.91: Murine monoclonal anti-DNA antibodies penetrate cells, bind to nuclei, and induce glomerular proliferation and proteinuria in vivo. 
+
+Phrase: "Murine monoclonal anti-DNA antibodies"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   884   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Anti-DNA
+   875   C0003250:Monoclonal Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   853   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   836 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   823   C1262035:dna antibody [Laboratory Procedure]
+   804   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   804   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   771 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "penetrate"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205321:penetrate [Functional Concept]
+
+Phrase: "cells,"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0007634:Cells [Cell]
+  1000   C3282337:Cells [Cell]
+   966 E C1269647:Cell [Cell]
+   966 E C1704653:Cell [Medical Device]
+   966 E C1948049:Cell [Spatial Concept]
+
+Phrase: "bind to nuclei,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C1145667:Bind [Activity]
+   790   C1167622:bind [Molecular Function]
+   756   C0007610:Nucleus [Cell Component]
+
+Phrase: "and"
+
+Phrase: "induce"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "glomerular proliferation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0334094:Proliferation [Pathologic Function]
+   861   C1514485:Proliferation [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "proteinuria"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033687:Proteinuria [Finding]
+  1000   C1962972:Proteinuria [Finding]
+
+Phrase: "in vivo."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1515655:In Vivo [Spatial Concept]
+           vivo
+Processing 00000000.tx.92: J Am Soc Nephrol 1992;2:134554.[Abstract] Yanase K, Smith RM, Puccetti A, Jarett L, Madaio MP. 
+
+Phrase: "J"
+
+Phrase: "Am"
+
+Phrase: "Soc Nephrol 1992"
+
+Phrase: ";2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: ":"
+
+Phrase: "134554."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Yanase K,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+
+Phrase: "Smith RM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2951520:RM [Body Location or Region]
+
+Phrase: "Puccetti A,"
+
+Phrase: "Jarett L,"
+
+Phrase: "Madaio MP."
+Processing 00000000.tx.93: Receptor-mediated cellular entry of nuclear localizing anti-DNA antibodies via myosin 1. 
+
+Phrase: "Receptor-mediated cellular entry of nuclear localizing anti-DNA antibodies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   739   C1705654:Entry [Intellectual Product]
+
+Phrase: "via myosin 1."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0027096:Myosin [Amino Acid, Peptide, or Protein,Enzyme]
+Processing 00000000.tx.94: J Clin Invest 1997;100:2531.[Abstract/Free FullText] Avrameas A, Ternynck T, Nato F, Buttin G, Avrameas S. 
+
+Phrase: "J"
+
+Phrase: "Clin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1315013:CLIN [Intellectual Product]
+
+Phrase: "Invest"
+
+Phrase: "1997"
+
+Phrase: ";100"
+
+Phrase: ":"
+
+Phrase: "2531."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Avrameas A,"
+
+Phrase: "Ternynck T,"
+
+Phrase: "Nato F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Buttin G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Avrameas S."
+Processing 00000000.tx.95: Polyreactive anti-DNA monoclonal antibodies and a derived peptide as vectors for the intracytoplasmic and intranuclear translocation of macromolecules. 
+
+Phrase: "Polyreactive anti-DNA monoclonal antibodies"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   888   C0282056:Antibodies, Anti-DNA [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   875   C1624602:Anti-Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   858 E C0003242:anti antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   840   C0003250:Monoclonal Antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   836   C1262035:dna antibody [Laboratory Procedure]
+   804   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   804   C0746619:monoclonal [Finding]
+   771 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "a derived peptide as vectors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0030956:Peptide [Amino Acid, Peptide, or Protein]
+
+Phrase: "for the intracytoplasmic"
+
+Phrase: "and"
+
+Phrase: "intranuclear translocation of macromolecules."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0040715:Translocation [Cell or Molecular Dysfunction]
+   770   C2987521:Translocation [Activity]
+Processing 00000000.tx.96: Proc Natl Acad Sci USA 1998;95:56016.[Abstract/Free FullText] Clynes R, Dumitru C, Ravetch JV. 
+
+Phrase: "Proc Natl Acad Sci USA 1998"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   799   C0041703:USA [Geographic Area]
+   799   C0268596:ACAD [Disease or Syndrome]
+   799   C1418943:PROC [Gene or Genome]
+   799   C2700624:ACAD [Cell Function]
+   799   C3642273:SCI [Professional or Occupational Group]
+
+Phrase: ";95"
+
+Phrase: ":"
+
+Phrase: "56016."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Clynes R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Dumitru C,"
+
+Phrase: "Ravetch JV."
+Processing 00000000.tx.97: Uncoupling of immune complex formation and kidney damage in autoimmune glomerulonephritis. 
+
+Phrase: "Uncoupling of immune complex formation"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   862   C3269238:immune complex formation [Organism Function]
+   806   C0003313:Immune complex [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   760   C0220781:formation [Biologic Function]
+   760   C0439634:formation [Spatial Concept]
+   760   C0439662:Immune [Functional Concept]
+   760   C0439855:Complex [Qualitative Concept]
+   760   C1522492:Formation [Functional Concept]
+   760   C1704241:Complex [Chemical Viewed Structurally]
+
+Phrase: "and"
+
+Phrase: "kidney damage in autoimmune glomerulonephritis."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0010957:Damage [Injury or Poisoning]
+   760   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   760   C0227665:kidney [Body Part, Organ, or Organ Component]
+   760   C1278978:Kidney [Body Part, Organ, or Organ Component]
+   760   C1514845:KIDNEY [Tissue]
+   760   C1883709:Damage [Functional Concept]
+Processing 00000000.tx.98: Science 1998;279:10524.[Abstract/Free FullText] Morgan BP, Walport MJ. 
+
+Phrase: "Science 1998"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0036397:Science [Occupation or Discipline]
+
+Phrase: ";279"
+
+Phrase: ":"
+
+Phrase: "10524."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Morgan BP,"
+
+Phrase: "Walport MJ."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439254:MJ [Medical Device]
+Processing 00000000.tx.99: Complement deficiency and disease. 
+
+Phrase: "Complement deficiency"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0272242:Complement Deficiency [Disease or Syndrome]
+   861   C0011155:Deficiency [Functional Concept]
+   861   C0162429:Deficiency [Disease or Syndrome]
+   861   C1623416:deficiency [Qualitative Concept]
+   789 E C1636779:% deficient [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.100: Immunol Today 1991;12:3016.[ISI][Medline] Botto M, Dell'Agnola C, Bygrave AE, Thompson EM, Cook HT, Petry F et al. 
+
+Phrase: "Immunol Today 1991"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0310367:Today [Antibiotic,Organic Chemical]
+   827   C0750526:Today [Temporal Concept]
+   827   C1517844:Immunol [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ";12"
+
+Phrase: ":"
+
+Phrase: "3016."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Botto M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Dell'Agnola C,"
+
+Phrase: "Bygrave AE,"
+
+Phrase: "Thompson EM,"
+
+Phrase: "Cook HT,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0018510:HT [Geographic Area]
+   861   C0677607:HT [Disease or Syndrome]
+
+Phrase: "Petry F et al."
+Processing 00000000.tx.101: Homozygous C1q deficiency causes glomerulonephritis associated with multiple apoptotic bodies. 
+
+Phrase: "Homozygous C1q deficiency"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   901   C3150902:C1q DEFICIENCY [Finding]
+   827   C0011155:Deficiency [Functional Concept]
+   827   C0162429:Deficiency [Disease or Syndrome]
+   827   C1623416:deficiency [Qualitative Concept]
+   755 E C1636779:% deficient [Quantitative Concept]
+
+Phrase: "causes"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1314792:Causes [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "glomerulonephritis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017658:Glomerulonephritis [Disease or Syndrome]
+
+Phrase: "associated with multiple apoptotic bodies."
+Meta Candidates (Total=11; Excluded=4; Pruned=0; Remaining=7)
+   806   C0332281:Associated with [Qualitative Concept]
+           Associated
+   790   C3269134:apoptotic body [Cell Component]
+   760   C0242821:bodies [Human]
+   760   C0439064:Multiple [Quantitative Concept]
+   760   C1516044:Apoptotic [Qualitative Concept]
+   760   C1995017:Bodies [Cell Component]
+   726 E C0460148:Body [Anatomical Structure]
+   726 E C0750490:Associate [Idea or Concept]
+   726 E C1268086:Body [Anatomical Structure]
+   726 E C1706221:Associate [Professional or Occupational Group]
+Processing 00000000.tx.102: Nature Genet 1998;19:569.[ISI][Medline] Prodeus AP, Goerg S, Shen LM, Pozdnyakova OO, Chu L, Alicot EM et al. 
+
+Phrase: "Nature Genet 1998"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0325074:Genet [Mammal]
+   827   C0349590:Nature [Idea or Concept]
+   827   C1262865:Nature [Functional Concept]
+   755 E C0205296:Natural [Functional Concept]
+
+Phrase: ";19"
+
+Phrase: ":"
+
+Phrase: "569."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Prodeus AP,"
+
+Phrase: "Goerg S,"
+
+Phrase: "Shen LM,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C1261082:LM [Body Part, Organ, or Organ Component]
+   861   C1551056:lm [Quantitative Concept]
+   861   C2981682:LM [Quantitative Concept]
+
+Phrase: "Pozdnyakova OO,"
+
+Phrase: "Chu L,"
+
+Phrase: "Alicot EM et al."
+Processing 00000000.tx.103: A critical role for complement in maintenance of self-tolerance. 
+
+Phrase: "A critical role for complement"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0035820:Role [Social Behavior]
+   760   C1705810:Role [Conceptual Entity]
+
+Phrase: "in maintenance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0024501:Maintenance [Activity]
+
+Phrase: "of self-tolerance."
+Meta Candidates (Total=12; Excluded=2; Pruned=0; Remaining=10)
+  1000   C0020963:Self Tolerance [Pathologic Function]
+           Tolerance
+  1000   C0206119:Self Tolerance [Organ or Tissue Function]
+   861   C0013220:Tolerance [Finding]
+   861   C0036588:Self [Idea or Concept]
+   861   C0220929:tolerance [Mental Process]
+   861   C0231197:Tolerance [Physiologic Function]
+   861   C1551994:self [Intellectual Product]
+   861   C1704410:Tolerance [Qualitative Concept]
+   861   C3244295:Self [Intellectual Product]
+   805 E C0680282:toleration [Social Behavior]
+   789 E C0231198:Tolerant [Functional Concept]
+Processing 00000000.tx.104: Immunity 1998;9:72131.[ISI][Medline] Casciola-Rosen LA, Anhalt G, Rosen A. 
+
+Phrase: "Immunity 1998"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0020964:Immunity [Physiologic Function]
+   789 E C0439662:Immune [Functional Concept]
+
+Phrase: ";9"
+
+Phrase: ":"
+
+Phrase: "72131."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Casciola-Rosen LA,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0023031:La [Element, Ion, or Isotope]
+
+Phrase: "Anhalt G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Rosen A."
+Processing 00000000.tx.105: Autoantigens targeted in systemic lupus erythematosus are clustered in two populations of surface structures on apoptotic keratinocytes. 
+
+Phrase: "Autoantigens"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004359:Autoantigens [Immunologic Factor]
+
+Phrase: "targeted in systemic lupus erythematosus"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   862   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+   862   C2984317:Systemic lupus erythematosus [Functional Concept]
+   806   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   760   C0024131:Lupus [Disease or Syndrome]
+   760   C0024138:lupus [Disease or Syndrome]
+   760   C0205373:Systemic [Functional Concept]
+   760   C1521840:Targeted [Functional Concept]
+   726 E C2986546:TARGET [Diagnostic Procedure]
+
+Phrase: "are"
+
+Phrase: "clustered in two populations of surface structures"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   748   C0032659:Population [Quantitative Concept]
+   748   C0205148:Surface [Spatial Concept]
+   748   C0205448:Two [Quantitative Concept]
+   748   C0678594:structures [Spatial Concept]
+   748   C1257890:Population [Population Group]
+   714   C1555715:Cluster [Idea or Concept]
+   714   C1704332:Cluster [Quantitative Concept]
+
+Phrase: "on apoptotic keratinocytes."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0022567:Keratinocytes [Cell]
+Processing 00000000.tx.106: J Exp Med 1994;179:131730.[Abstract] Amoura Z, Chabre H, Koutouzov S, Lotton C, Cabrespines A, Bach JF et al. 
+
+Phrase: "J Exp Med 1994"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1417055:EXP [Gene or Genome]
+
+Phrase: ";179"
+
+Phrase: ":"
+
+Phrase: "131730."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Amoura Z,"
+
+Phrase: "Chabre H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Koutouzov S,"
+
+Phrase: "Lotton C,"
+
+Phrase: "Cabrespines A,"
+
+Phrase: "Bach JF et al."
+Processing 00000000.tx.107: Nucleosome-restricted antibodies are detected before anti-dsDNA and/or antihistone antibodies in serum of MRL-Mp lpr/lpr and +/+ mice, and are present in kidney eluates of lupus mice with proteinuria. 
+
+Phrase: "Nucleosome-restricted antibodies"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   896   C1317579:Nucleosome Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   793 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "detected before anti-dsDNA"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   833   C0741099:anti ds dna [Finding]
+   770   C0311474:ds-DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   770   C0442726:Detected [Finding]
+   770   C1511790:Detected [Therapeutic or Preventive Procedure]
+
+Phrase: "and/or"
+
+Phrase: "antihistone antibodies in serum of MRL-Mp lpr/lpr"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   764   C0236515:anti histone antibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   742   C0003241:Antibodies [Amino Acid, Peptide, or Protein,Cell Component,Immunologic Factor]
+   708 E C0021027:Antibody [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and +/+"
+
+Phrase: "mice,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0025914:Mice [Mammal]
+  1000   C0025929:mice [Mammal]
+  1000   C0026809:Mice [Mammal]
+
+Phrase: "and"
+
+Phrase: "are"
+
+Phrase: "present in kidney eluates of lupus mice"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0150312:Present [Quantitative Concept]
+   748   C0449450:Present [Idea or Concept]
+
+Phrase: "with proteinuria."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033687:Proteinuria [Finding]
+  1000   C1962972:Proteinuria [Finding]
+Processing 00000000.tx.108: Arthritis Rheum 1994;37:16848.[ISI][Medline] Putterman C, Diamond B. 
+
+Phrase: "Arthritis Rheum 1994"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";37"
+
+Phrase: ":"
+
+Phrase: "16848."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Putterman C,"
+
+Phrase: "Diamond B."
+Processing 00000000.tx.109: Immunization with a peptide surrogate for double-stranded DNA (dsDNA) induces autoantibody production and renal immunoglobulin deposition. 
+
+Phrase: "Immunization with a peptide surrogate"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0020971:Immunisation [Therapeutic or Preventive Procedure]
+   760   C0042196:immunisation [Therapeutic or Preventive Procedure]
+   760   C3244291:immunization [Functional Concept]
+
+Phrase: "for double-stranded DNA (dsDNA"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0311474:ds-DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+           DNA, Double-Stranded
+
+Phrase: ")"
+
+Phrase: "induces"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "autoantibody production"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0033268:production [Occupational Activity]
+
+Phrase: "and"
+
+Phrase: "renal immunoglobulin deposition."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C1512663:Immunoglobulin Deposition [Finding]
+   827   C0333562:Deposition [Functional Concept]
+Processing 00000000.tx.110: J Exp Med 1998;188:2938.[Abstract/Free FullText] O'Keefe TL, Williams GT, Batista FD, Neuberger MS. 
+
+Phrase: "J Exp Med 1998"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1417055:EXP [Gene or Genome]
+
+Phrase: ";188"
+
+Phrase: ":"
+
+Phrase: "2938."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] O'Keefe TL,"
+
+Phrase: "Williams GT,"
+
+Phrase: "Batista FD,"
+
+Phrase: "Neuberger MS."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039676:MS [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C2349943:Ms. [Conceptual Entity]
+   861   C3539704:MS [Gene or Genome]
+Processing 00000000.tx.111: Deficiency in CD22, a B cell-specific inhibitory receptor, is sufficient to predispose to development of high affinity autoantibodies. 
+
+Phrase: "Deficiency in CD22,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0011155:Deficiency [Functional Concept]
+   790   C0162429:Deficiency [Disease or Syndrome]
+   790   C1623416:deficiency [Qualitative Concept]
+   718 E C1636779:% deficient [Quantitative Concept]
+
+Phrase: "a B cell-specific inhibitory receptor,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   911   C0034789:B cell receptor [Amino Acid, Peptide, or Protein,Immunologic Factor,Receptor]
+   804   C0597357:receptor [Amino Acid, Peptide, or Protein,Receptor]
+
+Phrase: "is"
+
+Phrase: "sufficient to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205410:Sufficient [Qualitative Concept]
+
+Phrase: "predispose to development of high affinity autoantibodies."
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   748   C0004358:Autoantibodies [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   748   C0205250:High [Qualitative Concept]
+   748   C0243107:development [Physiologic Function]
+   748   C0678723:Development [Organism Function]
+   748   C1299351:High [Qualitative Concept]
+   748   C1510827:Affinity [Natural Phenomenon or Process]
+   748   C1527148:Development [Functional Concept]
+   748   C2700149:HIGH [Intellectual Product]
+Processing 00000000.tx.112: J Exp Med 1999;189:130713.[Abstract/Free FullText] Hibbs ML, Tarlinton DM, Armes J, Grail D, Hodgson G, Maglitto R et al. 
+
+Phrase: "J Exp Med 1999"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1417055:EXP [Gene or Genome]
+
+Phrase: ";189"
+
+Phrase: ":"
+
+Phrase: "130713."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Hibbs ML,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439526:/mL [Quantitative Concept]
+
+Phrase: "Tarlinton DM,"
+
+Phrase: "Armes J,"
+
+Phrase: "Grail D,"
+
+Phrase: "Hodgson G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Maglitto R et al."
+Processing 00000000.tx.113: Multiple defects in the immune system of Lyn-deficient mice, culminating in autoimmune disease. 
+
+Phrase: "Multiple defects in the immune system of Lyn-deficient mice,"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   741   C0301889:Immune defect [Pathologic Function]
+   739   C0243067:defects [Functional Concept]
+   706 E C1457869:Defect [Functional Concept]
+   706 E C1861101:DEFECT [Disease or Syndrome]
+
+Phrase: "culminating in autoimmune disease."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   833   C0004364:Autoimmune Disease [Disease or Syndrome]
+   770   C0012634:Disease [Disease or Syndrome]
+   770   C0205260:Culminating [Qualitative Concept]
+   770   C0443146:Autoimmune [Pathologic Function]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.114: Cell 1995;83:30111.[ISI][Medline] Theofilopoulos AN, Kofler R, Singer PA, Dixon FJ. 
+
+Phrase: "Cell 1995"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0007634:Cell [Cell]
+   861   C1269647:Cell [Cell]
+   861   C1704653:Cell [Medical Device]
+   861   C1948049:Cell [Spatial Concept]
+
+Phrase: ";83"
+
+Phrase: ":"
+
+Phrase: "30111."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Theofilopoulos"
+
+Phrase: "AN,"
+
+Phrase: "Kofler R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Singer PA,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3541314:PA [Idea or Concept]
+
+Phrase: "Dixon FJ."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0016080:FJ [Geographic Area]
+Processing 00000000.tx.115: Molecular genetics of murine lupus models. 
+
+Phrase: "Molecular genetics of murine lupus models."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C0086345:Genetics, Molecular [Biomedical Occupation or Discipline]
+   783   C0026344:Models, Molecular [Intellectual Product]
+   753   C0017398:Genetics [Biomedical Occupation or Discipline]
+   753   C0017399:genetics [Biologic Function]
+   753   C1521991:Molecular [Qualitative Concept]
+Processing 00000000.tx.116: Adv Immunol 1989;46:61109.[ISI][Medline] This Article Full Text (PDF) Alert me when this article is cited Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in ISI Web of Science Similar articles in PubMed Alert me to new issues of the journal Add to My Personal Archive Download to citation manager Search for citing articles in: ISI Web of Science (1) Disclaimer Request Permissions Google Scholar Articles by Ehrenstein, M. 
+
+Phrase: "Adv Immunol 1989"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0001483:ADV [Virus]
+   827   C1517844:Immunol [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ";46"
+
+Phrase: ":"
+
+Phrase: "61109."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "This Article Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in ISI Web"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282111:Web [Manufactured Object]
+
+Phrase: "of Science Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0162443:Journal [Intellectual Product,Manufactured Object]
+   748   C0205314:New [Temporal Concept]
+   714   C0033213:Issue [Finding]
+   714   C1706387:Issue [Intellectual Product]
+
+Phrase: "Add to My Personal Archive Download"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0003738:archive [Manufactured Object]
+   753   C0024552:MY [Geographic Area]
+   753   C1519021:Personal [Organism Attribute]
+   753   C1554162:Archive [Idea or Concept]
+   753   C1883712:Add [Functional Concept]
+
+Phrase: "to citation manager Search"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1552603:search [Intellectual Product]
+   827   C1706202:Search [Activity]
+
+Phrase: "for citing articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1706852:Article [Intellectual Product]
+
+Phrase: "in"
+
+Phrase: ":"
+
+Phrase: "ISI Web of Science"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0282111:Web [Manufactured Object]
+
+Phrase: "(1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: "Disclaimer Request Permissions Google Scholar Articles by Ehrenstein,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   711   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.117: R. 
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.118: PubMed PubMed Citation Articles by Ehrenstein, M. 
+
+Phrase: "PubMed PubMed Citation Articles by Ehrenstein,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   719   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.119: R. 
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.120: Online ISSN 1462-0332 - Print ISSN 1462-0324 Copyright  2006 British Society for Rheumatology Oxford Journals Oxford University Press Site Map Privacy Policy Frequently Asked Questions Other Oxford University Press sites: Oxford University Press American National Biography Booksellers' Information Service Children's Fiction and Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights and Permissions Science School Books Social Sciences Very Short Introductions World's Classics
+
+Phrase: "Online ISSN 1462-0332 - Print ISSN 1462-0324 Copyright  2006 British Society"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   787   C0037455:society [Organization]
+
+Phrase: "for Rheumatology Oxford Journals Oxford University Press Site Map Privacy Policy Frequently"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   801   C2735290:Privacy policy [Intellectual Product]
+   788   C0242456:Policy [Intellectual Product]
+
+Phrase: "Asked"
+
+Phrase: "Questions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1522634:Question [Intellectual Product]
+
+Phrase: "Other Oxford University Press sites"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0205145:Sites [Spatial Concept]
+   779 E C1515974:Site [Body Location or Region]
+   779 E C2825164:Site [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "Oxford University Press American National Biography Booksellers' Information Service Children's Fiction"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   788   C0887933:fiction [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "Poetry Children's Reference Corporate & Special Sales Dictionaries Dictionary"
+
+Phrase: "of National Biography Digital Reference English Language Teaching Higher Education Textbooks Humanities International Education Unit Law Medicine Music Online Products Oxford English Dictionary Reference Rights"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   852   C0947619:Finger.right [Body Part, Organ, or Organ Component]
+   782   C0035621:Rights [Qualitative Concept]
+   782   C0205090:Right [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "Permissions Science School Books Social Sciences Very Short Introductions World's Classics"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   788   C0439658:classics [Qualitative Concept]
+   755 E C0439858:Classic [Qualitative Concept]
+

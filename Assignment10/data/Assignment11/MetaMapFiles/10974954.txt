@@ -1,0 +1,4348 @@
+Processing 00000000.tx.1: Truth-telling and the diagnosis of dementia GILL PINNER, MRCPsych Division of Psychiatry, University Hospital, Nottingham NG7 2UH The change of attitude towards disclosure of the diagnosis of medical conditions, most notably cancer, has been dramatic in the past 40 years. 
+
+Phrase: "Truth-telling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0150391:Truth telling [Therapeutic or Preventive Procedure]
+
+Phrase: "and"
+
+Phrase: "the diagnosis of dementia GILL PINNER,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0011900:Diagnosis [Finding]
+   753   C1704338:diagnosis [Qualitative Concept]
+   753   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "MRCPsych Division of Psychiatry,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C1293097:Division [Therapeutic or Preventive Procedure]
+   770   C2919030:Division [Organization]
+   770   C2919031:Division [Activity]
+
+Phrase: "University Hospital,"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0020028:university hospital [Health Care Related Organization,Manufactured Object]
+   861   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   861   C0041740:University [Manufactured Object,Organization]
+   861   C1510665:Hospital [Qualitative Concept]
+   777 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Nottingham NG7 2UH"
+
+Phrase: "The change of attitude"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   833   C0025320:The change [Physiologic Function]
+   770   C0392747:Change [Functional Concept]
+   770   C0443172:change [Quantitative Concept]
+   770   C1705241:Change [Quantitative Concept]
+
+Phrase: "towards disclosure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012625:Disclosure [Individual Behavior]
+
+Phrase: "of the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "of medical conditions,"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   827   C0012634:condition [Disease or Syndrome]
+   827   C0348080:Condition [Qualitative Concept]
+   827   C1705253:Condition [Conceptual Entity]
+   777 E C0009647:Conditioned [Mental Process]
+   777 E C1701901:Conditional [Qualitative Concept]
+   777 E C1963686:Conditional [Functional Concept]
+   755 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "most notably cancer,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0006826:Cancer [Neoplastic Process]
+   827   C0998265:Cancer [Eukaryote]
+   827   C1306459:Cancer [Finding]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "dramatic in the past 40 years."
+Processing 00000000.tx.2: However, the progression of openness towards patients suffering from Alzheimer's disease or other dementias may be less apparent. 
+
+Phrase: "However,"
+
+Phrase: "the progression of openness"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0242656:progression [Pathologic Function]
+   770   C0449258:Progression [Functional Concept]
+
+Phrase: "towards patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "suffering from Alzheimer's disease"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   833   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   833   C1521724:Alzheimer's Disease [Pathologic Function]
+   770   C0012634:Disease [Disease or Syndrome]
+   770   C0683278:Suffering [Mental or Behavioral Dysfunction]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+
+Phrase: "or"
+
+Phrase: "other dementias"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0497327:Dementias [Mental or Behavioral Dysfunction]
+   966 E C0011265:dementia [Mental or Behavioral Dysfunction]
+   893 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "less apparent."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0750489:apparent [Idea or Concept]
+Processing 00000000.tx.3: Most of the research on truth-telling in relation to diagnosis is held in the cancer literature. 
+
+Phrase: "Most of the research"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0035168:research [Research Activity]
+   770   C0205393:Most [Quantitative Concept]
+   770   C0242481:Research [Research Activity]
+
+Phrase: "on truth-telling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0150391:Truth telling [Therapeutic or Preventive Procedure]
+
+Phrase: "in relation to diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "is"
+
+Phrase: "held in the cancer literature."
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   760   C0006826:Cancer [Neoplastic Process]
+   760   C0023866:Literature [Intellectual Product]
+   760   C0034036:LITERATURE [Intellectual Product,Manufactured Object]
+   760   C0998265:Cancer [Eukaryote]
+   760   C1306459:Cancer [Finding]
+   760   C1948036:held [Idea or Concept]
+   760   C2987518:hELD [Amino Acid, Peptide, or Protein]
+   726 E C1553387:Hold [Idea or Concept]
+   726 E C1948035:Hold [Activity]
+Processing 00000000.tx.4: In the 1960s, an early study of physicians' attitudes towards disclosure of the diagnosis of cancer showed that 90% of doctors had a policy of not revealing the diagnosis (Oken, 1961). 
+
+Phrase: "In the 1960s,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0681755:1960s [Temporal Concept]
+
+Phrase: "an early study of physicians' attitudes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0557651:Study [Manufactured Object]
+   753   C2603343:Study [Research Activity]
+
+Phrase: "towards disclosure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012625:Disclosure [Individual Behavior]
+
+Phrase: "of the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "of cancer"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0006826:Cancer [Neoplastic Process]
+  1000   C0998265:Cancer [Eukaryote]
+  1000   C1306459:Cancer [Finding]
+
+Phrase: "showed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "that 90% of doctors"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0031831:doctors [Professional or Occupational Group]
+   770   C0439083:>90 [Quantitative Concept]
+   770   C0439087:<90 [Quantitative Concept]
+   737 E C2348314:Doctor [Conceptual Entity]
+
+Phrase: "had"
+
+Phrase: "a policy of"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0242456:Policy [Intellectual Product]
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "revealing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443289:revealing [Qualitative Concept]
+
+Phrase: "the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "(Oken,"
+
+Phrase: "1961"
+
+Phrase: ")."
+Processing 00000000.tx.5: The study was repeated nearly 20 years later and a major shift was found in medical attitudes, with 98% of doctors reported as having a policy of telling patients the truth (Novack et al, 1979) Little is known about the attitudes held among psychiatrists and physicians towards disclosing the diagnosis of dementia, or about what is the current practice. 
+
+Phrase: "The study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "was"
+
+Phrase: "repeated"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0205341:Repeated [Functional Concept]
+   966 E C1547730:Repeat [Temporal Concept]
+   966 E C1705914:Repeat [Conceptual Entity]
+
+Phrase: "nearly 20 years later"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0439234:years [Temporal Concept]
+   779 E C0439508:/year [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "a major shift"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0333051:Shift [Functional Concept]
+   861   C2347509:Shift [Phenomenon or Process]
+
+Phrase: "was"
+
+Phrase: "found in medical attitudes,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0004271:Attitudes [Mental Process]
+   770   C0150312:Found [Quantitative Concept]
+   770   C0205476:Medical [Functional Concept]
+   737 E C0243095:Find [Finding]
+
+Phrase: "with 98%"
+
+Phrase: "of doctors"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0031831:doctors [Professional or Occupational Group]
+   966 E C2348314:Doctor [Conceptual Entity]
+
+Phrase: "reported"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0684224:Reported [Intellectual Product]
+  1000   C0700287:Reported [Health Care Activity]
+  1000   C3496591:Reported [Clinical Attribute]
+   966 E C3273238:Report [Intellectual Product]
+
+Phrase: "as"
+
+Phrase: "having"
+
+Phrase: "a policy of telling patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0242456:Policy [Intellectual Product]
+
+Phrase: "the truth"
+
+Phrase: "(Novack et al,"
+
+Phrase: "1979"
+
+Phrase: ")"
+
+Phrase: "Little"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0023882:Little NOS [Congenital Abnormality,Disease or Syndrome]
+  1000   C0700321:Little [Quantitative Concept]
+  1000   C2700395:Little [Quantitative Concept]
+
+Phrase: "is"
+
+Phrase: "known about the attitudes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0004271:Attitudes [Mental Process]
+   770   C0205309:Known [Qualitative Concept]
+
+Phrase: "held among psychiatrists"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   790   C0033872:Psychiatrists [Professional or Occupational Group]
+   790   C1948036:held [Idea or Concept]
+   790   C2987518:hELD [Amino Acid, Peptide, or Protein]
+   756 E C1553387:Hold [Idea or Concept]
+   756 E C1948035:Hold [Activity]
+
+Phrase: "and"
+
+Phrase: "physicians towards disclosing"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C0031831:Physicians [Professional or Occupational Group]
+   756 E C0804815:Physician [Clinical Attribute]
+
+Phrase: "the diagnosis of dementia,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0011900:Diagnosis [Finding]
+   770   C1704338:diagnosis [Qualitative Concept]
+   770   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "or"
+
+Phrase: "about"
+
+Phrase: "what"
+
+Phrase: "is"
+
+Phrase: "the current practice."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0237607:practice [Mental Process]
+   861   C3245512:practice [Intellectual Product]
+Processing 00000000.tx.6: Similarly, there is little evidence as to what carers or indeed patients themselves wish to know with regard to their diagnosis. 
+
+Phrase: "Similarly,"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "little evidence as to what carers"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0332120:Evidence [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "indeed patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "themselves"
+
+Phrase: "wish"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1423524:WISH [Gene or Genome]
+  1000   C3273411:WISH [Gene or Genome]
+  1000   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "know with regard to their diagnosis."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0011900:Diagnosis [Finding]
+   753   C1704338:diagnosis [Qualitative Concept]
+   753   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.7: With the advent of potential treatment options for Alzheimer's disease, the issues surrounding early diagnosis and prognosis have come to the fore in the psychiatry of old age. 
+
+Phrase: "With the advent"
+
+Phrase: "of potential treatment options"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   901   C0683525:treatment options [Therapeutic or Preventive Procedure]
+   827   C1518601:Options [Functional Concept]
+   793 E C1550456:option [Idea or Concept]
+   743 E C1518600:Optional [Qualitative Concept]
+
+Phrase: "for Alzheimer's disease,"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "the issues"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0033213:Issue [Finding]
+   966   C1706387:Issue [Intellectual Product]
+
+Phrase: "surrounding"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1282914:Surrounding [Spatial Concept]
+
+Phrase: "early diagnosis"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0596473:Early Diagnosis [Diagnostic Procedure]
+   861   C0011900:Diagnosis [Finding]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "and"
+
+Phrase: "prognosis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033325:Prognosis [Health Care Activity]
+
+Phrase: "have"
+
+Phrase: "come to the fore"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0205094:Fore [Spatial Concept]
+   770   C0439780:Fore [Spatial Concept]
+
+Phrase: "in the psychiatry"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0033872:Psychiatry [Professional or Occupational Group]
+  1000   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   928 E C0205487:Psychiatric [Functional Concept]
+
+Phrase: "of old age."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0231337:Old age [Finding]
+  1000   C1999167:Old age [Population Group]
+   944 E C0392079:Senile [Finding]
+   861   C0001779:Age [Organism Attribute]
+   861   C0580836:Old [Temporal Concept]
+Processing 00000000.tx.8: Consequently, an intrinsic part of our clinical practice must be questioned: that of disclosure of the diagnosis of dementia. 
+
+Phrase: "Consequently,"
+
+Phrase: "an intrinsic part of our clinical practice"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   778   C1292711:Part of [Spatial Concept]
+   748   C0449719:Part [Spatial Concept]
+   748   C1709471:Part [Quantitative Concept]
+
+Phrase: "must"
+
+Phrase: "be"
+
+Phrase: "questioned"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1522634:Question [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "that of disclosure of the diagnosis of dementia."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   744   C0011265:dementia [Mental or Behavioral Dysfunction]
+   744   C0011900:Diagnosis [Finding]
+   744   C0012625:Disclosure [Individual Behavior]
+   744   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   744   C1704338:diagnosis [Qualitative Concept]
+   744   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.9: The advantages and disadvantages of disclosure of such a diagnosis and the ethical issues involved are discussed. 
+
+Phrase: "The advantages"
+
+Phrase: "and"
+
+Phrase: "disadvantages of disclosure of such"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0012625:Disclosure [Individual Behavior]
+
+Phrase: "a diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "and"
+
+Phrase: "the ethical issues"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0086264:Ethical Issues [Idea or Concept]
+   827   C0033213:Issue [Finding]
+   827   C1706387:Issue [Intellectual Product]
+
+Phrase: "involved"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involved [Functional Concept]
+
+Phrase: "are"
+
+Phrase: "discussed."
+Processing 00000000.tx.10: TRUTH-TELLING AND DEMENTIA: PRACTITIONERS' ATTITUDES AND PRACTICE There may be parallel issues to consider between cancer and dementia, for example, with the advent of new drug therapies and increased public awareness, but there are also notable differences. 
+
+Phrase: "TRUTH-TELLING"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0150391:Truth telling [Therapeutic or Preventive Procedure]
+
+Phrase: "AND"
+
+Phrase: "DEMENTIA"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: ":"
+
+Phrase: "PRACTITIONERS' ATTITUDES"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0004271:Attitudes [Mental Process]
+
+Phrase: "AND"
+
+Phrase: "PRACTICE"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0237607:practice [Mental Process]
+  1000   C3245512:practice [Intellectual Product]
+
+Phrase: "There"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "parallel issues to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   793   C0033213:Issue [Finding]
+   793   C1706387:Issue [Intellectual Product]
+
+Phrase: "consider between cancer"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0006826:Cancer [Neoplastic Process]
+   790   C0750591:consider [Idea or Concept]
+   790   C0998265:Cancer [Eukaryote]
+   790   C1306459:Cancer [Finding]
+
+Phrase: "and"
+
+Phrase: "dementia,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "for example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "with the advent"
+
+Phrase: "of new drug therapies"
+Meta Candidates (Total=11; Excluded=6; Pruned=0; Remaining=5)
+   901   C0013216:Therapies, Drug [Therapeutic or Preventive Procedure]
+   896   C3242274:new therapy [Idea or Concept]
+   867 E C0013217:drug therapy [Functional Concept]
+   827   C0013227:Drug [Pharmacologic Substance]
+   827   C0087111:therapies [Therapeutic or Preventive Procedure]
+   827   C1254351:Drug [Pharmacologic Substance]
+   793 E C0039798:therapy [Functional Concept]
+   793 E C1363945:Therapy [Finding]
+   771 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   771 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   734 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "increased public awareness,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0004448:Awareness [Mental Process]
+
+Phrase: "but"
+
+Phrase: "there"
+
+Phrase: "are"
+
+Phrase: "also notable differences."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   793   C1705241:*Difference [Quantitative Concept]
+   793   C1705242:Difference [Qualitative Concept]
+   743 E C0443199:Differential [Qualitative Concept]
+Processing 00000000.tx.11: In dementia, the illness is intrinsically altering the patient's cognition, ability to make judgements and have insight, thus affecting the patient's very being. 
+
+Phrase: "In dementia,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "the illness"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0221423:Illness [Finding]
+   928 E C0231218:Ill [Sign or Symptom]
+   928 E C0332271:worse [Qualitative Concept]
+   928 E C1279889:Worse [Finding]
+   928 E C1457868:Worse [Qualitative Concept]
+   928 E C1522166:Worst [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "intrinsically"
+
+Phrase: "altering"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   907   C0392747:Altered [Functional Concept]
+
+Phrase: "the patient's cognition,"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0009240:Cognition [Mental Process]
+   777 E C2981149:Intellect [Mental Process]
+   768 E C0233698:Noesis [Mental or Behavioral Dysfunction]
+
+Phrase: "ability to"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0085732:Ability [Organism Attribute]
+   789 E C1299581:Able [Finding]
+
+Phrase: "make"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "judgements"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0022423:judgements [Mental Process]
+
+Phrase: "and"
+
+Phrase: "have"
+
+Phrase: "insight,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0233820:Insight [Mental Process]
+
+Phrase: "thus"
+
+Phrase: "affecting"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0392760:Affecting [Functional Concept]
+  1000   C1314939:Affecting [Functional Concept]
+   966 E C0001721:Affect [Mental Process]
+
+Phrase: "the patient's very"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "being."
+Processing 00000000.tx.12: This makes the issue of disclosure rather different from other physical illnesses. 
+
+Phrase: "This"
+
+Phrase: "makes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "the issue of disclosure"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0033213:Issue [Finding]
+   770   C1706387:Issue [Intellectual Product]
+
+Phrase: "rather different from other physical illnesses."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1705242:Different [Qualitative Concept]
+Processing 00000000.tx.13: There is a small but growing research interest in the area of disclosure of the diagnosis of dementia. 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "a small"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700321:Small [Quantitative Concept]
+
+Phrase: "but"
+
+Phrase: "growing research interest in the area of disclosure of the diagnosis of dementia."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   735   C0543488:Interest [Mental Process]
+Processing 00000000.tx.14: A recent study examined current practice and attitudes among geriatricians and psychiatrists of old age. 
+
+Phrase: "A recent study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+
+Phrase: "examined"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332128:Examined [Finding]
+
+Phrase: "current practice"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0237607:practice [Mental Process]
+   861   C3245512:practice [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "attitudes among geriatricians"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0004271:Attitudes [Mental Process]
+
+Phrase: "and"
+
+Phrase: "psychiatrists of old age."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   865   C0586880:Old age psychiatrist [Professional or Occupational Group]
+   770   C0033872:Psychiatrists [Professional or Occupational Group]
+Processing 00000000.tx.15: The results suggested that only 40% of health-care specialists of the elderly regularly tell patients the diagnosis and 20% see no benefit in telling the patient. 
+
+Phrase: "The results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1274040:Result [Functional Concept]
+   966   C1546471:Result [Idea or Concept]
+   966   C2825142:Result [Finding]
+
+Phrase: "suggested"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that only 40% of health-care specialists of the elderly regularly"
+Meta Candidates (Total=11; Excluded=2; Pruned=0; Remaining=9)
+   756   C0086388:Health Care [Health Care Activity]
+   738   C0001792:Elderly [Population Group]
+   738   C0018684:Health [Idea or Concept]
+   738   C0087009:Specialists [Professional or Occupational Group]
+   738   C0205171:Only [Quantitative Concept]
+   738   C0439509:/40 [Temporal Concept]
+   738   C1720467:Only [Intellectual Product]
+   738   C1947933:Care [Activity]
+   738   C1999167:elderly [Population Group]
+   704 E C1611835:Specialist [Intellectual Product]
+   704 E C2348234:Specialist [Professional or Occupational Group]
+
+Phrase: "tell"
+
+Phrase: "patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "and"
+
+Phrase: "20%"
+
+Phrase: "see"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042789:see [Organism Function]
+  1000   C1947903:See [Activity]
+
+Phrase: "no benefit in telling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0814225:Benefit [Quantitative Concept]
+
+Phrase: "the patient."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+Processing 00000000.tx.16: However, 72.5% of the respondents would wish to know themselves if they were suffering from the illness (Johnson et al, 2000). 
+
+Phrase: "However,"
+
+Phrase: "72.5% of the respondents"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0282122:Respondents [Population Group]
+
+Phrase: "would"
+
+Phrase: "wish"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1423524:WISH [Gene or Genome]
+  1000   C3273411:WISH [Gene or Genome]
+  1000   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "know"
+
+Phrase: "themselves"
+
+Phrase: "if"
+
+Phrase: "they"
+
+Phrase: "were"
+
+Phrase: "suffering from the illness"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0683278:Suffering [Mental or Behavioral Dysfunction]
+
+Phrase: "(Johnson et al,"
+
+Phrase: "2000"
+
+Phrase: ")."
+Processing 00000000.tx.17: Other studies examining the practice of general practitioners, geriatricians and psychiatrists have shown similar findings (Gilliard & Gwilliam, 1996; Rice et al, 1997; Clafferty et al, 1998; Vassilas & Donaldson, 1998). 
+
+Phrase: "Other studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "examining"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332128:examining [Finding]
+  1000   C2004054:Examining [Activity]
+
+Phrase: "the practice of general practitioners,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   827   C1273816:General practitioner practice [Health Care Related Organization]
+   797   C0015607:General Practice [Biomedical Occupation or Discipline]
+   797   C0086343:General Practice [Biomedical Occupation or Discipline]
+   760   C0237607:practice [Mental Process]
+   760   C3245512:practice [Intellectual Product]
+
+Phrase: "geriatricians"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0586872:geriatricians [Professional or Occupational Group]
+
+Phrase: "and"
+
+Phrase: "psychiatrists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033872:Psychiatrists [Professional or Occupational Group]
+
+Phrase: "have"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "similar findings"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+
+Phrase: "(Gilliard & Gwilliam,"
+
+Phrase: "1996"
+
+Phrase: "; Rice et al,"
+
+Phrase: "1997"
+
+Phrase: "; Clafferty et al,"
+
+Phrase: "1998"
+
+Phrase: "; Vassilas & Donaldson,"
+
+Phrase: "1998"
+
+Phrase: ")."
+Processing 00000000.tx.18: VIEWS OF CARERS, PATIENTS AND THEIR PEER GROUP The view of carers' on information given by health professionals is sparse. 
+
+Phrase: "VIEWS OF CARERS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0449911:Views [Spatial Concept]
+
+Phrase: "PATIENTS"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "AND"
+
+Phrase: "THEIR PEER GROUP"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0030767:Peer Group [Population Group]
+   861   C0441833:Group [Idea or Concept]
+   861   C0687744:group [Population Group]
+   861   C1257890:Group [Population Group]
+   861   C1552516:Group [Health Care Related Organization]
+   861   C1705428:Group [Conceptual Entity]
+   861   C1705429:Group [Population Group]
+
+Phrase: "The view of carers'"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0449911:View [Spatial Concept]
+
+Phrase: "on information"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1533716:Information [Idea or Concept]
+   928 E C3242430:informational [Idea or Concept]
+
+Phrase: "given by health professionals"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   833   C0018724:health professionals [Professional or Occupational Group]
+   833   C1704312:Health professionals [Professional or Occupational Group]
+   770   C0018684:Health [Idea or Concept]
+   770   C0679924:professionals [Professional or Occupational Group]
+   770   C1442162:GIVEN [Conceptual Entity]
+   770   C1550718:given [Idea or Concept]
+   770   C3244317:given [Intellectual Product]
+   737 E C1947971:Give [Functional Concept]
+   737 E C2698884:Professional [Occupation or Discipline]
+
+Phrase: "is"
+
+Phrase: "sparse."
+Processing 00000000.tx.19: A recent study has examined the views of relatives of sufferers of Alzheimer's disease: 83% of carers expressed a wish that their relative should not be told (Maguire et al, 1996). 
+
+Phrase: "A recent study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0557651:Study [Manufactured Object]
+   861   C2603343:Study [Research Activity]
+
+Phrase: "has"
+
+Phrase: "examined"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332128:Examined [Finding]
+
+Phrase: "the views of relatives of sufferers of Alzheimer's disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C0449911:Views [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "83% of carers"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0085537:Carers [Professional or Occupational Group]
+   790   C1305660:carers [Professional or Occupational Group]
+
+Phrase: "expressed"
+
+Phrase: "a wish"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1423524:WISH [Gene or Genome]
+  1000   C3273411:WISH [Gene or Genome]
+  1000   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "that"
+
+Phrase: "their relative"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0080103:Relative [Family Group]
+  1000   C0205345:Relative [Qualitative Concept]
+  1000   C1547039:*Relative [Quantitative Concept]
+
+Phrase: "should"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "be"
+
+Phrase: "told"
+
+Phrase: "(Maguire et al,"
+
+Phrase: "1996"
+
+Phrase: ")."
+Processing 00000000.tx.20: Despite this, 71% of the same carers indicated that they themselves would like to be told if they were developing the illness. 
+
+Phrase: "Despite this,"
+
+Phrase: "71% of the same carers"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0085537:Carers [Professional or Occupational Group]
+   760   C0445247:Same [Qualitative Concept]
+   760   C0450389:71 [Intellectual Product]
+   760   C1305660:carers [Professional or Occupational Group]
+
+Phrase: "indicated"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1444656:Indicated [Finding]
+
+Phrase: "that"
+
+Phrase: "they themselves"
+
+Phrase: "would like to"
+
+Phrase: "be"
+
+Phrase: "told"
+
+Phrase: "if"
+
+Phrase: "they"
+
+Phrase: "were"
+
+Phrase: "developing"
+
+Phrase: "the illness."
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+  1000   C0221423:Illness [Finding]
+   928 E C0231218:Ill [Sign or Symptom]
+   928 E C0332271:worse [Qualitative Concept]
+   928 E C1279889:Worse [Finding]
+   928 E C1457868:Worse [Qualitative Concept]
+   928 E C1522166:Worst [Qualitative Concept]
+Processing 00000000.tx.21: A similar, although smaller, survey reported different findings: 57% of first-degree relatives wished the sufferer to be informed (Barnes, 1997). 
+
+Phrase: "A similar,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2348205:Similar [Qualitative Concept]
+
+Phrase: "although"
+
+Phrase: "smaller, survey"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0038951:Survey [Intellectual Product]
+
+Phrase: "reported"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0684224:Reported [Intellectual Product]
+  1000   C0700287:Reported [Health Care Activity]
+  1000   C3496591:Reported [Clinical Attribute]
+   966 E C3273238:Report [Intellectual Product]
+
+Phrase: "different findings"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+
+Phrase: ":"
+
+Phrase: "57% of first-degree relatives"
+Meta Candidates (Total=13; Excluded=3; Pruned=0; Remaining=10)
+   862   C1518469:First Degree Relatives [Quantitative Concept]
+   828 E C1517194:First Degree Relative [Family Group]
+   806   C0444502:First degree [Qualitative Concept]
+   760   C0080103:Relatives [Family Group]
+   760   C0205435:First [Quantitative Concept]
+   760   C0441889:Degree [Qualitative Concept]
+   760   C0449286:Degree [Quantitative Concept]
+   760   C0542560:Degree [Intellectual Product]
+   760   C1279901:First [Qualitative Concept]
+   760   C1561545:degree [Quantitative Concept]
+   760   C2348088:Degree [Quantitative Concept]
+   726 E C0205345:Relative [Qualitative Concept]
+   726 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "wished"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1423524:WISH [Gene or Genome]
+   966   C3273411:WISH [Gene or Genome]
+   966   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "the sufferer to"
+
+Phrase: "be"
+
+Phrase: "informed"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1522154:Informed [Qualitative Concept]
+   966 E C0537670:Inform [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   966 E C0700287:inform [Health Care Activity]
+   966 E C1552002:inform [Idea or Concept]
+
+Phrase: "(Barnes,"
+
+Phrase: "1997"
+
+Phrase: ")."
+Processing 00000000.tx.22: Reasons for this included: relatives not wishing to hide information from their loved ones; 
+
+Phrase: "Reasons for this included"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0392360:reasons [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "relatives"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0080103:Relatives [Family Group]
+   966 E C0205345:Relative [Qualitative Concept]
+   966 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "wishing"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1423524:WISH [Gene or Genome]
+   966   C3273411:WISH [Gene or Genome]
+   966   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "hide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1719994:Hide [Body Substance]
+
+Phrase: "information from their loved ones"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1533716:Information [Idea or Concept]
+
+Phrase: ";"
+Processing 00000000.tx.23: that they would probably work it out anyway; 
+
+Phrase: "that"
+
+Phrase: "they"
+
+Phrase: "would"
+
+Phrase: "probably"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750492:Probably [Idea or Concept]
+
+Phrase: "work"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0043227:Work [Occupational Activity]
+
+Phrase: "it out anyway"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0439787:Out [Spatial Concept]
+   861   C0849355:Out [Qualitative Concept]
+
+Phrase: ";"
+Processing 00000000.tx.24: and making preparations for their future. 
+
+Phrase: "and"
+
+Phrase: "making preparations for their future."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   726   C0455052:Preparation [Health Care Activity]
+   726   C1521827:Preparation [Functional Concept]
+Processing 00000000.tx.25: Much less is known about patients' preferences. 
+
+Phrase: "Much less"
+
+Phrase: "is"
+
+Phrase: "known about patients' preferences."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   816   C0376409:Preferences, Patient [Qualitative Concept]
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C0205309:Known [Qualitative Concept]
+   770   C0558295:Preferences [Idea or Concept]
+   737 E C1549513:Preference [Idea or Concept]
+Processing 00000000.tx.26: One may gain some insight into the views of elderly patients with dementia by examining the views of other elderly peer groups. 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "may"
+
+Phrase: "gain"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C1517378:Gain [Quantitative Concept]
+   944 E C0205217:Increased [Quantitative Concept]
+   944 E C0439661:Acquired [Temporal Concept]
+   944 E C0442805:Increase [Functional Concept]
+   944 E C0442808:Increasing [Functional Concept]
+   944 E C1301820:Obtain [Functional Concept]
+   944 E C1706701:Acquire [Activity]
+   944 E C3245488:acquired [Intellectual Product]
+
+Phrase: "some insight into the views of elderly patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0233820:Insight [Mental Process]
+
+Phrase: "with dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "by examining"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332128:examining [Finding]
+  1000   C2004054:Examining [Activity]
+
+Phrase: "the views of other elderly peer groups."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0449911:Views [Spatial Concept]
+Processing 00000000.tx.27: One such study found that 90% would have wished to be told of the diagnosis, their reasons mainly being in order to make plans for care, obtain a second opinion and settle family matters (Erde et al, 1988). 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "such study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "that 90%"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439083:>90 [Quantitative Concept]
+  1000   C0439087:<90 [Quantitative Concept]
+
+Phrase: "would"
+
+Phrase: "have"
+
+Phrase: "wished"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1423524:WISH [Gene or Genome]
+   966   C3273411:WISH [Gene or Genome]
+   966   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "told of the diagnosis,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0011900:Diagnosis [Finding]
+   770   C1704338:diagnosis [Qualitative Concept]
+   770   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "their reasons mainly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0392360:reasons [Idea or Concept]
+
+Phrase: "being in order to"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C1705175:Order [Intellectual Product]
+   770   C1705176:Order [Qualitative Concept]
+   770   C1705177:Order [Classification]
+   770   C1705178:Order [Activity]
+   770   C1882348:Order [Qualitative Concept]
+   770   C2987476:Being [Conceptual Entity]
+
+Phrase: "make"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "plans for care,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   858   C0178916:care plans [Intellectual Product]
+   841 E C1553899:care plan [Idea or Concept]
+   756   C0270724:PLAN [Disease or Syndrome]
+   756   C1301732:Plan [Functional Concept]
+
+Phrase: "obtain"
+Meta Candidates (Total=8; Excluded=6; Pruned=0; Remaining=2)
+  1000   C1301820:Obtain [Functional Concept]
+  1000   C1706701:Obtain [Activity]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442805:Increase [Functional Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "a second opinion"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0036524:Second Opinion [Intellectual Product]
+  1000   C1548433:Second Opinion [Idea or Concept]
+  1000   C1548632:Second Opinion [Idea or Concept]
+   861   C0871010:opinion [Mental Process]
+
+Phrase: "and"
+
+Phrase: "settle"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1266099:SETTLE [Neoplastic Process]
+
+Phrase: "family matters"
+
+Phrase: "(Erde et al,"
+
+Phrase: "1988"
+
+Phrase: ")."
+Processing 00000000.tx.28: More recent studies have shown similar findings (Holroyd et al, 1996; further details available from the author upon request). 
+
+Phrase: "More recent studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C0947630:studies [Laboratory Procedure]
+   793 E C0557651:Study [Manufactured Object]
+   793 E C2603343:Study [Research Activity]
+
+Phrase: "have"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "similar findings"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+
+Phrase: "(Holroyd et al,"
+
+Phrase: "1996"
+
+Phrase: "; further"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1517331:Further [Spatial Concept]
+   966 E C0205108:far [Spatial Concept]
+
+Phrase: "details"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1522508:Detail [Qualitative Concept]
+  1000   C1561567:detail [Functional Concept]
+
+Phrase: "available from the author"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0470187:Available [Functional Concept]
+
+Phrase: "upon request"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0686900:request [Functional Concept]
+  1000   C1272683:Request [Functional Concept]
+  1000   C1522634:Request [Intellectual Product]
+
+Phrase: ")."
+Processing 00000000.tx.29: The question of what patients with a diagnosis of dementia would wish to be told remains largely unknown. 
+
+Phrase: "The question of what patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1522634:Question [Intellectual Product]
+
+Phrase: "with a diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "of dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "would"
+
+Phrase: "wish"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1423524:WISH [Gene or Genome]
+  1000   C3273411:WISH [Gene or Genome]
+  1000   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "told remains"
+
+Phrase: "largely unknown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439673:Unknown [Qualitative Concept]
+
+Phrase: "."
+Processing 00000000.tx.30: The Fairhill guidelines (Post & Whitehouse, 1995) report a series of meetings involving the testimonies of patients and care-givers about ethical aspects of dementia care and they are firmly of the view that the patient with mild dementia should be told of the diagnosis. 
+
+Phrase: "The Fairhill guidelines"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0162791:Guidelines [Intellectual Product]
+   861   C0220845:guidelines [Intellectual Product]
+   861   C0282423:guidelines [Intellectual Product]
+
+Phrase: "(Post & Whitehouse,"
+
+Phrase: "1995"
+
+Phrase: ")"
+
+Phrase: "report"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0684224:Report [Intellectual Product]
+  1000   C0700287:Report [Health Care Activity]
+  1000   C3273238:Report [Intellectual Product]
+
+Phrase: "a series of meetings"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0205549:Series [Quantitative Concept]
+   770   C2348044:Series [Intellectual Product]
+
+Phrase: "involving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involving [Functional Concept]
+
+Phrase: "the testimonies of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0680706:testimonies [Governmental or Regulatory Activity]
+
+Phrase: "and"
+
+Phrase: "care-givers about ethical aspects of dementia care"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0085537:Care Givers [Professional or Occupational Group]
+   754 E C1546494:Care giver [Idea or Concept]
+   744   C1947933:Care [Activity]
+
+Phrase: "and"
+
+Phrase: "they"
+
+Phrase: "are"
+
+Phrase: "firmly of the view"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0449911:View [Spatial Concept]
+   770   C1880776:Firmly [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "the patient with mild dementia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "should"
+
+Phrase: "be"
+
+Phrase: "told of the diagnosis."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0011900:Diagnosis [Finding]
+   770   C1704338:diagnosis [Qualitative Concept]
+   770   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.31: However, there is no direct research evidence obtaining views on being given a diagnosis of dementia involving the patients themselves. 
+
+Phrase: "However,"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "no direct research evidence obtaining views on"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0449911:Views [Spatial Concept]
+
+Phrase: "being"
+
+Phrase: "given"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1442162:GIVEN [Conceptual Entity]
+  1000   C1550718:given [Idea or Concept]
+  1000   C3244317:given [Intellectual Product]
+   966 E C1947971:Give [Functional Concept]
+
+Phrase: "a diagnosis of dementia"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0011900:Diagnosis [Finding]
+   770   C1704338:diagnosis [Qualitative Concept]
+   770   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "involving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involving [Functional Concept]
+
+Phrase: "the patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "themselves."
+Processing 00000000.tx.32: One might argue that this lack of research activity is due to the ethical difficulties of including patients with dementia in such research. 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "might"
+
+Phrase: "argue"
+
+Phrase: "that"
+
+Phrase: "this lack of research activity"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0332268:lack [Qualitative Concept]
+
+Phrase: "is due to the ethical difficulties of"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   778   C0678226:Due to [Functional Concept]
+           due
+   748   C0026531:ethical [Idea or Concept]
+   748   C1299586:difficulties [Finding]
+   748   C3146286:Due [Idea or Concept]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "patients with dementia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "in such research."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0035168:research [Research Activity]
+  1000   C0242481:Research [Research Activity]
+Processing 00000000.tx.33: This would seem more palatable than the possibility that this is just one further reflection of the medical profession's paternalistic we know best attitude. 
+
+Phrase: "This"
+
+Phrase: "would"
+
+Phrase: "seem"
+
+Phrase: "more palatable than the possibility"
+
+Phrase: "that"
+
+Phrase: "this"
+
+Phrase: "is"
+
+Phrase: "just one further reflection of the medical profession's"
+
+Phrase: "paternalistic"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   928   C0949762:Paternalism [Social Behavior]
+
+Phrase: "we"
+
+Phrase: "know"
+
+Phrase: "best attitude."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0004271:Attitude [Mental Process]
+Processing 00000000.tx.34: TO TELL OR NOT TO TELL? 
+
+Phrase: "TO"
+
+Phrase: "TELL"
+
+Phrase: "OR"
+
+Phrase: "NOT TO"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   833   C1518422:Not [Functional Concept]
+
+Phrase: "TELL?"
+Processing 00000000.tx.35: - ISSUES AGAINST AND REASONS FOR DISCLOSURE The moral doctrine of diagnosis disclosure is derived from a respect for the patient's autonomy as well as beneficence. 
+
+Phrase: "- ISSUES AGAINST"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   799   C0033213:Issue [Finding]
+   799   C1706387:Issue [Intellectual Product]
+
+Phrase: "AND"
+
+Phrase: "REASONS FOR DISCLOSURE"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0012625:Disclosure [Individual Behavior]
+   790   C0392360:Reason [Idea or Concept]
+
+Phrase: "The moral doctrine of diagnosis disclosure"
+
+Phrase: "is"
+
+Phrase: "derived from a respect"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0679133:respect [Social Behavior]
+   770   C1441547:Derived [Qualitative Concept]
+   770   C3245521:derived [Idea or Concept]
+
+Phrase: "for the patient's autonomy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0085862:Autonomy [Idea or Concept]
+
+Phrase: "as well as"
+
+Phrase: "beneficence."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0004978:Beneficence [Idea or Concept]
+Processing 00000000.tx.36: Considering the principle of respect for autonomy (the ability to self-govern and make one's own decisions) and the principle of non-maleficence (the obligation not to inflict harm intentionally), one finds that these two goals are not necessarily incompatible but often lead to different decisions about what information is given. 
+
+Phrase: "Considering"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considering [Idea or Concept]
+
+Phrase: "the principle of respect"
+
+Phrase: "for autonomy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085862:Autonomy [Idea or Concept]
+
+Phrase: "("
+
+Phrase: "the ability to self-"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0085732:Ability [Organism Attribute]
+
+Phrase: "govern"
+
+Phrase: "and"
+
+Phrase: "make"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "one's own decisions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0679006:decisions [Mental Process]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "the principle of non-maleficence"
+
+Phrase: "("
+
+Phrase: "the obligation"
+
+Phrase: "not to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1518422:Not [Functional Concept]
+
+Phrase: "inflict"
+
+Phrase: "harm intentionally"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "one"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "finds"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0243095:Find [Finding]
+
+Phrase: "that"
+
+Phrase: "these two goals"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0018017:Goals [Intellectual Product]
+   827 E C1571704:Goal [Idea or Concept]
+
+Phrase: "are"
+
+Phrase: "not necessarily incompatible"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   755   C0679426:incompatibilities [Social Behavior]
+
+Phrase: "but"
+
+Phrase: "often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "lead to different decisions"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   770   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   770   C0679006:decisions [Mental Process]
+   770   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   770   C1522538:Lead [Functional Concept]
+   770   C1705242:Different [Qualitative Concept]
+   770   C2348269:Lead [Element, Ion, or Isotope]
+   770   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "about what information"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1533716:Information [Idea or Concept]
+   928 E C3242430:informational [Idea or Concept]
+
+Phrase: "is"
+
+Phrase: "given."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C1442162:GIVEN [Conceptual Entity]
+  1000   C1550718:given [Idea or Concept]
+  1000   C3244317:given [Intellectual Product]
+   966 E C1947971:Give [Functional Concept]
+Processing 00000000.tx.37: The rationale for withholding information rests on preventing harm. 
+
+Phrase: "The rationale for withholding information"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0392360:Rationale [Idea or Concept]
+   760   C2699007:Rationale [Idea or Concept]
+
+Phrase: "rests on preventing harm."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0035253:Rest [Daily or Recreational Activity]
+   770   C1622890:ResT [Molecular Function]
+   737   C0309872:PREVENT [Pharmacologic Substance]
+Processing 00000000.tx.38: It can be argued that truth-telling has become a moral absolute, the patient's right to know being paramount; 
+
+Phrase: "It"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "argued"
+
+Phrase: "that truth-telling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0150391:Truth telling [Therapeutic or Preventive Procedure]
+
+Phrase: "has"
+
+Phrase: "become"
+
+Phrase: "a moral absolute,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205344:Absolute [Qualitative Concept]
+
+Phrase: "the patient's right to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C0030706:Right, Patient's [Idea or Concept]
+   827   C0030705:*^patient [Patient or Disabled Group]
+   827   C0205090:Right [Spatial Concept]
+
+Phrase: "know"
+
+Phrase: "being"
+
+Phrase: "paramount"
+
+Phrase: ";"
+Processing 00000000.tx.39: but if taken literally, it is easy to imagine the potential harm in some cases. 
+
+Phrase: "but"
+
+Phrase: "if"
+
+Phrase: "taken"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1883727:Taken [Conceptual Entity]
+   966 E C1515187:Take [Health Care Activity]
+
+Phrase: "literally,"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "easy to"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0332219:Easy [Qualitative Concept]
+   789 E C1331418:Ease [Mental Process]
+
+Phrase: "imagine"
+
+Phrase: "the potential harm in some cases."
+Processing 00000000.tx.40: One must remember that non-maleficence must be ensured in disclosure (Charlton, 1998). 
+
+Phrase: "One"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205447:One [Quantitative Concept]
+
+Phrase: "must"
+
+Phrase: "remember"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0679062:remember [Mental Process]
+
+Phrase: "that non-maleficence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1518422:Non [Functional Concept]
+
+Phrase: "must"
+
+Phrase: "be"
+
+Phrase: "ensured in disclosure"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0012625:Disclosure [Individual Behavior]
+   756   C0218063:Ensure [Food]
+
+Phrase: "(Charlton,"
+
+Phrase: "1998"
+
+Phrase: ")."
+Processing 00000000.tx.41: Although there is no evidence of long-term psychological damage, physicians have stated various concerns, including the fear of destroying hope and concern about specific detrimental outcomes such as depressive illness, suicide or catastrophic reaction (Watts et al, 1992; Markle, 1993; Rohde et al, 1995). 
+
+Phrase: "Although"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "no evidence of long-term psychological damage,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   778   C0332120:Evidence of [Functional Concept]
+           Evidence
+
+Phrase: "physicians"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0031831:Physicians [Professional or Occupational Group]
+   966 E C0804815:Physician [Clinical Attribute]
+
+Phrase: "have"
+
+Phrase: "stated various concerns,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C2699424:Concerns [Idea or Concept]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "the fear of destroying hope"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0015726:Fear [Mental Process]
+
+Phrase: "and"
+
+Phrase: "concern about specific detrimental outcomes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C2699424:Concern [Idea or Concept]
+
+Phrase: "such as depressive illness,"
+Meta Candidates (Total=7; Excluded=5; Pruned=0; Remaining=2)
+  1000   C0011581:Depressive illness [Mental or Behavioral Dysfunction]
+   861   C0221423:Illness [Finding]
+   789 E C0231218:Ill [Sign or Symptom]
+   789 E C0332271:worse [Qualitative Concept]
+   789 E C1279889:Worse [Finding]
+   789 E C1457868:Worse [Qualitative Concept]
+   789 E C1522166:Worst [Qualitative Concept]
+
+Phrase: "suicide"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0038661:Suicide [Finding]
+   928 E C0438696:Suicidal [Finding]
+   900 E C3166387:Suicidality [Clinical Attribute]
+
+Phrase: "or"
+
+Phrase: "catastrophic reaction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0443286:Reaction [Functional Concept]
+   861   C1114821:Reaction [Clinical Attribute]
+
+Phrase: "(Watts et al,"
+
+Phrase: "1992"
+
+Phrase: "; Markle,"
+
+Phrase: "1993"
+
+Phrase: "; Rohde et al,"
+
+Phrase: "1995"
+
+Phrase: ")."
+Processing 00000000.tx.42: Other reasons that give rise to concern for disclosure include the difficulties of accurate diagnosis. 
+
+Phrase: "Other reasons"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0392360:reasons [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "give"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947971:Give [Functional Concept]
+
+Phrase: "rise"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "concern for disclosure"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0012625:Disclosure [Individual Behavior]
+   790   C2699424:Concern [Idea or Concept]
+
+Phrase: "include"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:include [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "the difficulties of accurate diagnosis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1299586:difficulties [Finding]
+Processing 00000000.tx.43: However, there are clear and accurate diagnostic criteria for Alzheimer's disease (ICD-10; World Health Organization, 1992). 
+
+Phrase: "However,"
+
+Phrase: "there"
+
+Phrase: "are"
+
+Phrase: "clear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "accurate diagnostic criteria for Alzheimer's disease"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0679228:diagnostic criteria [Intellectual Product]
+   753   C0243161:criteria [Intellectual Product]
+
+Phrase: "(ICD-10"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1137110:ICD-10 [Intellectual Product]
+
+Phrase: "; World Health Organization,"
+Meta Candidates (Total=11; Excluded=1; Pruned=0; Remaining=10)
+  1000   C0043237:World Health Organization [Health Care Related Organization]
+   901   C0043236:World Health [Idea or Concept]
+   901   C0920545:health organization [Health Care Related Organization]
+   827   C0018684:Health [Idea or Concept]
+   827   C0029237:Organisation [Physiologic Function]
+   827   C0029246:Organization [Organization]
+   827   C0220885:organization [Qualitative Concept]
+   827   C1300196:Organization [Functional Concept]
+   827   C1522486:Organization [Professional or Occupational Group]
+   827   C2700280:World [Population Group]
+   727 E C0031206:healthiness [Finding]
+
+Phrase: "1992"
+
+Phrase: ")."
+Processing 00000000.tx.44: Drickamer & Lachs (1992) state that although the histological diagnosis is often uncertain in life, we still have the option of being truthful with our patients, making an honest presentation of the information as it is perceived and known. 
+
+Phrase: "Drickamer & Lachs"
+
+Phrase: "(1992"
+
+Phrase: ")"
+
+Phrase: "state"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1301808:State [Geographic Area]
+  1000   C1442792:State [Functional Concept]
+  1000   C3148680:State [Geographic Area]
+
+Phrase: "that"
+
+Phrase: "although"
+
+Phrase: "the histological diagnosis"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0679557:histological diagnosis [Diagnostic Procedure]
+   861   C0011900:Diagnosis [Finding]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "is"
+
+Phrase: "often uncertain in life,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C0376558:Life [Idea or Concept]
+   729 E C0595998:lives [Finding]
+
+Phrase: "we still"
+
+Phrase: "have"
+
+Phrase: "the option of"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C1518601:Option [Functional Concept]
+   790   C1550456:option [Idea or Concept]
+   718 E C1518600:Optional [Qualitative Concept]
+
+Phrase: "being"
+
+Phrase: "truthful with our patients,"
+
+Phrase: "making"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1881534:Make [Functional Concept]
+
+Phrase: "an honest presentation of the information"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0449450:Presentation [Idea or Concept]
+
+Phrase: "as"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "perceived"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030971:Perceived [Mental Process]
+
+Phrase: "and"
+
+Phrase: "known."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205309:Known [Qualitative Concept]
+Processing 00000000.tx.45: Positive reasons for disclosure range from "the patients' right to know" and facilitation of future planning to "taking that once in a lifetime holiday". 
+
+Phrase: "Positive reasons for disclosure range"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0392360:reasons [Idea or Concept]
+
+Phrase: "from """
+
+Phrase: "the patients' right to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   884   C0030706:Right, Patient's [Idea or Concept]
+   827   C0205090:Right [Spatial Concept]
+
+Phrase: "know"
+
+Phrase: """"
+
+Phrase: "and"
+
+Phrase: "facilitation of future planning to """
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0234112:Facilitation [Organ or Tissue Function]
+
+Phrase: "taking"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: "that once in a lifetime holiday""."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0019843:holiday [Activity]
+Processing 00000000.tx.46: It may assist in persuading the patient to accept help and in managing social needs. 
+
+Phrase: "It"
+
+Phrase: "may"
+
+Phrase: "assist in persuading"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0018896:assist [Social Behavior]
+   790   C0557034:assist [Health Care Activity]
+
+Phrase: "the patient to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "accept"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1272684:accept [Qualitative Concept]
+  1000   C1548601:Accept [Idea or Concept]
+
+Phrase: "help"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0018896:Help [Social Behavior]
+  1000   C1552861:help [Idea or Concept]
+
+Phrase: "and in managing social needs."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0027552:Needs [Qualitative Concept]
+   760   C0686904:needs [Functional Concept]
+   760   C0728831:Social [Functional Concept]
+   760   C1273870:Managing [Occupational Activity]
+   760   C1515981:And [Idea or Concept]
+Processing 00000000.tx.47: It enables the issue of driving safety to be addressed (Johnson & Bouman, 1997). 
+
+Phrase: "It"
+
+Phrase: "enables"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0562342:enable [Mental Process]
+  1000   C1171285:enable [Mental Process]
+
+Phrase: "the issue of driving safety to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   783   C2911688:Safety Issue [Qualitative Concept]
+   753   C0033213:Issue [Finding]
+   753   C1706387:Issue [Intellectual Product]
+
+Phrase: "be"
+
+Phrase: "addressed"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0376649:Address [Intellectual Product]
+   966   C1442065:Address [Spatial Concept]
+
+Phrase: "(Johnson & Bouman,"
+
+Phrase: "1997"
+
+Phrase: ")."
+Processing 00000000.tx.48: With advanced medical directives, personal affairs such as power of attorney, making wills, choice in future care and living wills may be established. 
+
+Phrase: "With advanced medical directives,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   913   C0001683:Advanced directives [Intellectual Product]
+
+Phrase: "personal affairs such as power of attorney,"
+
+Phrase: "making"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1881534:Make [Functional Concept]
+
+Phrase: "wills,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042950:wills [Mental Process]
+  1000   C0043177:Wills [Intellectual Product]
+
+Phrase: "choice in future care"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0008300:choice [Individual Behavior]
+   770   C1707391:Choice [Activity]
+
+Phrase: "and"
+
+Phrase: "living wills"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0023914:Living Wills [Regulation or Law]
+   861   C0042950:wills [Mental Process]
+   861   C0043177:Wills [Intellectual Product]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "established."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0443211:Established [Qualitative Concept]
+  1000   C1272684:Established [Qualitative Concept]
+Processing 00000000.tx.49: Being told the diagnosis may aid the issue of psychological adjustment, allowing patients to share their anxieties. 
+
+Phrase: "Being"
+
+Phrase: "told"
+
+Phrase: "the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "may"
+
+Phrase: "aid"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0018896:Aid [Social Behavior]
+  1000   C0449435:Aid [Manufactured Object]
+  1000   C3540469:AID [Gene or Genome]
+
+Phrase: "the issue of psychological adjustment,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0033213:Issue [Finding]
+   760   C1706387:Issue [Intellectual Product]
+
+Phrase: "allowing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allowing [Social Behavior]
+
+Phrase: "patients to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "share"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0237876:Share [Social Behavior]
+
+Phrase: "their anxieties."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003467:Anxieties [Mental Process]
+   966 E C0003469:Anxiety [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.50: Disclosing the diagnosis can assist access to the new cognitive enhancers, such as donepezil and rivastigmine. 
+
+Phrase: "Disclosing"
+
+Phrase: "the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "can"
+
+Phrase: "assist"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0018896:assist [Social Behavior]
+  1000   C0557034:assist [Health Care Activity]
+
+Phrase: "access to the new cognitive enhancers,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0444454:Access [Spatial Concept]
+   753   C1554204:access [Idea or Concept]
+
+Phrase: "such as donepezil"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0527316:donepezil [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "rivastigmine."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0649350:rivastigmine [Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.51: With the development of new drug treatments, disclosure allows patients to consent to participation in clinical trials when they still have the capacity to consent. 
+
+Phrase: "With the development"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0243107:development [Physiologic Function]
+  1000   C0678723:Development [Organism Function]
+  1000   C1527148:Development [Functional Concept]
+   928 E C0458003:Developmental [Qualitative Concept]
+
+Phrase: "of new drug treatments,"
+Meta Candidates (Total=11; Excluded=8; Pruned=0; Remaining=3)
+   827   C0013227:Drug [Pharmacologic Substance]
+   827   C0087111:Treatments [Therapeutic or Preventive Procedure]
+   827   C1254351:Drug [Pharmacologic Substance]
+   793 E C0039798:treatment [Functional Concept]
+   793 E C1522326:Treatment [Functional Concept]
+   793 E C1533734:Treatment [Therapeutic or Preventive Procedure]
+   793 E C1705169:Treatment [Conceptual Entity]
+   793 E C3538994:TREATMENT [Research Activity]
+   771 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   771 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   734 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "disclosure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012625:Disclosure [Individual Behavior]
+
+Phrase: "allows"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allow [Social Behavior]
+
+Phrase: "patients to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "consent to participation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0679823:Participation [Functional Concept]
+   790   C1511481:Consent [Functional Concept]
+   790   C1554192:consent [Idea or Concept]
+
+Phrase: "in clinical trials"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0008976:Clinical Trials [Research Activity]
+           Trial
+  1000   C1096775:clinical trials [Intellectual Product]
+   861   C0205210:Clinical [Qualitative Concept]
+
+Phrase: "when"
+
+Phrase: "they still"
+
+Phrase: "have"
+
+Phrase: "the capacity to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1516240:Capacity [Quantitative Concept]
+
+Phrase: "consent."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1511481:Consent [Functional Concept]
+  1000   C1554192:consent [Idea or Concept]
+Processing 00000000.tx.52: Currently most research relies on relatives to give proxy consent, although this is currently being challenged as legally unacceptable (Ross, 1996). 
+
+Phrase: "Currently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0521116:Currently [Temporal Concept]
+
+Phrase: "most research"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0035168:research [Research Activity]
+  1000   C0242481:Research [Research Activity]
+
+Phrase: "relies on relatives to"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   770   C0080103:Relatives [Family Group]
+   737 E C0205345:Relative [Qualitative Concept]
+   737 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "give"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947971:Give [Functional Concept]
+
+Phrase: "proxy consent,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1511481:Consent [Functional Concept]
+   861   C1554192:consent [Idea or Concept]
+
+Phrase: "although"
+
+Phrase: "this"
+
+Phrase: "is"
+
+Phrase: "currently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0521116:Currently [Temporal Concept]
+
+Phrase: "being"
+
+Phrase: "challenged as legally unacceptable"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C1883420:Unacceptable [Qualitative Concept]
+   737   C0798503:Challenge [Clinical Attribute]
+   737   C0805586:Challenge [Health Care Activity]
+   737   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "(Ross,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0331968:Ross [Health Care Related Organization]
+  1000   C2699100:Ross [Bird]
+
+Phrase: "1996"
+
+Phrase: ")."
+Processing 00000000.tx.53: WHEN AND HOW TO TELL In the early stages of dementia, while the individual is still competent, it can be argued that a patient needs to know the diagnosis to enable choice, autonomy and future planning. 
+
+Phrase: "WHEN"
+
+Phrase: "AND"
+
+Phrase: "HOW TO"
+
+Phrase: "TELL In the early stages of dementia,"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   778   C2363430:early stages [Temporal Concept]
+   762 E C1517886:Early Stage [Classification]
+   748   C0011265:dementia [Mental or Behavioral Dysfunction]
+   748   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   748   C1279919:Early [Temporal Concept]
+   748   C1306673:Stages [Qualitative Concept]
+   714 E C0205390:Stage [Temporal Concept]
+   714 E C1300072:Stage [Clinical Attribute]
+
+Phrase: "while"
+
+Phrase: "the individual"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027361:Individual [Population Group]
+  1000   C0237401:Individual [Human]
+
+Phrase: "is"
+
+Phrase: "still competent,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0086035:Competent [Qualitative Concept]
+
+Phrase: "it"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "argued"
+
+Phrase: "that"
+
+Phrase: "a patient"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "needs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027552:Need [Qualitative Concept]
+  1000   C0686904:need [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "know"
+
+Phrase: "the diagnosis to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011900:Diagnosis [Finding]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "enable"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0562342:enable [Mental Process]
+  1000   C1171285:enable [Mental Process]
+
+Phrase: "choice,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0008300:choice [Individual Behavior]
+  1000   C1707391:Choice [Activity]
+
+Phrase: "autonomy"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0085862:Autonomy [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "future planning."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0032074:Planning [Mental Process]
+   861   C1301732:Planning [Functional Concept]
+Processing 00000000.tx.54: In the late stages of disease the truth will neither benefit nor harm, and disclosure is merely futile. 
+
+Phrase: "In the late stages"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C1279941:late stages [Temporal Concept]
+   861   C1306673:Stages [Qualitative Concept]
+   827 E C0205390:Stage [Temporal Concept]
+   827 E C1300072:Stage [Clinical Attribute]
+
+Phrase: "of disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+
+Phrase: "the truth"
+
+Phrase: "will"
+
+Phrase: "neither benefit"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0814225:Benefit [Quantitative Concept]
+
+Phrase: "nor"
+
+Phrase: "harm,"
+
+Phrase: "and"
+
+Phrase: "disclosure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012625:Disclosure [Individual Behavior]
+
+Phrase: "is"
+
+Phrase: "merely futile."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   789   C0086322:Futility [Qualitative Concept]
+Processing 00000000.tx.55: Moody (1995) wrote, "What sense really does it make to speak of telling the truth when the truth can only be heard, and then promptly forgotten". 
+
+Phrase: "Moody"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0554980:Moody [Finding]
+   928 E C0026516:Mood [Mental Process]
+   928 E C0241999:MOODINESS [Mental Process]
+   928 E C2713234:Mood [Clinical Attribute]
+
+Phrase: "(1995"
+
+Phrase: ")"
+
+Phrase: "wrote"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C0043266:write [Occupation or Discipline]
+   966   C1576875:Write [Finding]
+   966   C2584304:Write [Mental Process]
+
+Phrase: ","
+
+Phrase: """"
+
+Phrase: "What"
+
+Phrase: "sense"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0036658:sense [Organ or Tissue Function]
+
+Phrase: "really"
+
+Phrase: "does"
+
+Phrase: "it"
+
+Phrase: "make to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   833   C1881534:Make [Functional Concept]
+
+Phrase: "speak of telling"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0234856:Speak [Daily or Recreational Activity]
+   790   C0600116:speak [Finding]
+   790   C1547187:Speak [Idea or Concept]
+
+Phrase: "the truth"
+
+Phrase: "when"
+
+Phrase: "the truth"
+
+Phrase: "can"
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "be"
+
+Phrase: "heard,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0018767:hear [Physiologic Function]
+
+Phrase: "and"
+
+Phrase: "then promptly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1883708:Then [Temporal Concept]
+
+Phrase: "forgotten"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0598853:forget [Mental or Behavioral Dysfunction]
+
+Phrase: """."
+Processing 00000000.tx.56: But there is more of a dilemma in the cases where some understanding remains. 
+
+Phrase: "But"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "more of a dilemma"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0205172:More [Functional Concept]
+
+Phrase: "in the cases where"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C0868928:Cases [Functional Concept]
+   861   C1533148:Cases [Quantitative Concept]
+   827 E C1706255:CASE [Medical Device]
+   827 E C1706256:Case [Conceptual Entity]
+
+Phrase: "some"
+
+Phrase: "understanding"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0162340:Understanding [Mental Process]
+
+Phrase: "remains."
+Processing 00000000.tx.57: It is difficult to find the right time when the diagnosis is clear enough but the patient's capacity to make use of the information is intact enough. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "difficult to"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0332218:Difficult [Qualitative Concept]
+   789 E C1299586:Difficulty [Finding]
+
+Phrase: "find"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0243095:Find [Finding]
+
+Phrase: "the right time"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0040223:Time [Temporal Concept]
+   861   C3541383:Time [Temporal Concept]
+   805 E C0442043:Temporal [Spatial Concept]
+   805 E C2362314:Temporal [Temporal Concept]
+   777 E C1632851:Times [Quantitative Concept]
+
+Phrase: "when"
+
+Phrase: "the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "is"
+
+Phrase: "clear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2963144:Clear [Qualitative Concept]
+
+Phrase: "enough"
+
+Phrase: "but"
+
+Phrase: "the patient's capacity to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1516240:Capacity [Quantitative Concept]
+
+Phrase: "make"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "use of the information"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   833   C1524063:Use of [Functional Concept]
+   770   C0042153:use [Functional Concept]
+   770   C0457083:Use [Functional Concept]
+   770   C1947944:Use [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "intact enough."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205266:Intact [Qualitative Concept]
+   861   C1554187:Intact [Idea or Concept]
+Processing 00000000.tx.58: When having to deliver such bad news, sensitivity, flexibility and discretion are required. 
+
+Phrase: "When"
+
+Phrase: "having"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "deliver"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0308779:DELIVER [Organic Chemical,Pharmacologic Substance]
+  1000   C1705822:Deliver [Activity]
+  1000   C1874964:DELIVER [Pharmacologic Substance]
+
+Phrase: "such bad news,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282425:News [Intellectual Product]
+
+Phrase: "sensitivity,"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+  1000   C0036667:Sensitivity [Quantitative Concept]
+  1000   C0312418:Sensitivity [Mental Process]
+  1000   C0427965:Sensitivity [Finding]
+  1000   C1511883:Sensitivity [Quantitative Concept]
+  1000   C1522640:Sensitivity [Qualitative Concept]
+  1000   C2346484:SENSITIVITY [Phenomenon or Process]
+  1000   C2349185:Sensitivity [Qualitative Concept]
+   928 E C0332324:Sensitive [Functional Concept]
+   928 E C1550474:sensitive [Idea or Concept]
+
+Phrase: "flexibility"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0242808:Flexibility [Qualitative Concept]
+   928 E C0443220:Flexible [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "discretion"
+
+Phrase: "are"
+
+Phrase: "required."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+Processing 00000000.tx.59: Disclosure should not be a one-off event and must be seen as an ongoing, dynamic process and a fundamental part of the care of a patient with dementia. 
+
+Phrase: "Disclosure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012625:Disclosure [Individual Behavior]
+
+Phrase: "should"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "be"
+
+Phrase: "a one-off event"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0205447:One [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "must"
+
+Phrase: "be"
+
+Phrase: "seen as an ongoing, dynamic process"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   753   C0205397:Seen [Qualitative Concept]
+   753   C0549178:ONGOING [Idea or Concept]
+   753   C0729333:Dynamic [Functional Concept]
+   753   C1184743:Process [Body Part, Organ, or Organ Component]
+   753   C1522240:Process [Phenomenon or Process]
+   719 E C0042789:see [Organism Function]
+   719 E C1947903:See [Activity]
+
+Phrase: "and"
+
+Phrase: "a fundamental part of the care of a patient"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   764   C1292711:Part of [Spatial Concept]
+   742   C0449719:Part [Spatial Concept]
+   742   C1709471:Part [Quantitative Concept]
+
+Phrase: "with dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.60: Many doctors hold the fear of causing distress by telling the truth about the diagnosis, but in turn it could be considered an intrinsic part of our work to address the distress and be there for the patient, even if they do not take the diagnosis well. 
+
+Phrase: "Many doctors"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0031831:doctors [Professional or Occupational Group]
+   966 E C2348314:Doctor [Conceptual Entity]
+
+Phrase: "hold"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1553387:Hold [Idea or Concept]
+  1000   C1948035:Hold [Activity]
+
+Phrase: "the fear of causing distress"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0015726:Fear [Mental Process]
+
+Phrase: "by telling"
+
+Phrase: "the truth about the diagnosis,"
+
+Phrase: "but"
+
+Phrase: "in turn"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0541749:turn [Finding]
+   861   C1709743:Turn [Spatial Concept]
+
+Phrase: "it"
+
+Phrase: "could"
+
+Phrase: "be"
+
+Phrase: "considered"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considered [Idea or Concept]
+
+Phrase: "an intrinsic part of our work to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   778   C1292711:Part of [Spatial Concept]
+   748   C0449719:Part [Spatial Concept]
+   748   C1709471:Part [Quantitative Concept]
+
+Phrase: "address"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0376649:Address [Intellectual Product]
+  1000   C1442065:Address [Spatial Concept]
+
+Phrase: "the distress"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0231303:Distress [Mental Process]
+   928 E C0231304:Distressful [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "be"
+
+Phrase: "there for the patient,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "even"
+
+Phrase: "if"
+
+Phrase: "they"
+
+Phrase: "do"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "take"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: "the diagnosis well."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011900:Diagnosis [Finding]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.61: There is an extensive literature now on the wishes of patients who suffer from cancer and the information that they would like to have (Meredith et al, 1996). 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "an extensive literature now on the wishes of patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C0023866:Literature [Intellectual Product]
+   742   C0034036:LITERATURE [Intellectual Product,Manufactured Object]
+
+Phrase: "who"
+
+Phrase: "suffer from cancer"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0006826:Cancer [Neoplastic Process]
+   790   C0683278:suffer [Mental or Behavioral Dysfunction]
+   790   C0998265:Cancer [Eukaryote]
+   790   C1306459:Cancer [Finding]
+
+Phrase: "and"
+
+Phrase: "the information"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1533716:Information [Idea or Concept]
+   928 E C3242430:informational [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "they"
+
+Phrase: "would like to"
+
+Phrase: "have"
+
+Phrase: "(Meredith et al,"
+
+Phrase: "1996"
+
+Phrase: ")."
+Processing 00000000.tx.62: There is some evidence from healthy adults that they would like to know if they had a diagnosis of Alzheimer's disease. 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "some evidence from healthy adults"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0332120:Evidence [Functional Concept]
+
+Phrase: "that"
+
+Phrase: "they"
+
+Phrase: "would like to"
+
+Phrase: "know"
+
+Phrase: "if"
+
+Phrase: "they"
+
+Phrase: "had"
+
+Phrase: "a diagnosis of Alzheimer's disease."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011900:Diagnosis [Finding]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.63: However, medical practitioners, relatives and carers appear more reluctant to disclose diagnostic information to a patient suffering from dementia. 
+
+Phrase: "However,"
+
+Phrase: "medical practitioners,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1306754:Medical practitioners NOS [Professional or Occupational Group]
+   827   C1709627:Practitioner [Professional or Occupational Group]
+
+Phrase: "relatives"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0080103:Relatives [Family Group]
+   966 E C0205345:Relative [Qualitative Concept]
+   966 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "carers"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0085537:Carers [Professional or Occupational Group]
+  1000   C1305660:carers [Professional or Occupational Group]
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "more reluctant to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0205172:More [Functional Concept]
+   827   C2347948:Reluctant [Mental Process]
+
+Phrase: "disclose"
+
+Phrase: "diagnostic information to a patient suffering"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   783   C1955348:Patient Information [Intellectual Product]
+   783   C2598117:Patient Information [Clinical Attribute]
+   753   C1533716:Information [Idea or Concept]
+
+Phrase: "from dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.64: This reluctance appears to be operating on a mechanism of a wish to protect, but from what? 
+
+Phrase: "This reluctance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347948:Reluctance [Mental Process]
+
+Phrase: "appears"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "operating on a mechanism of a wish to"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   744   C0441712:Mechanism [Functional Concept]
+   744   C1423524:WISH [Gene or Genome]
+   744   C1706376:Mechanism [Manufactured Object]
+   744   C3273411:WISH [Gene or Genome]
+   744   C3273412:WISH [Amino Acid, Peptide, or Protein]
+   711   C3242339:operate [Functional Concept]
+
+Phrase: "protect"
+
+Phrase: ","
+
+Phrase: "but from what?"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0233535:but [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.65: There is little evidence that patients will suffer any long-term harm following disclosure. 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "little evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "that patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "will"
+
+Phrase: "suffer"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683278:suffer [Mental or Behavioral Dysfunction]
+
+Phrase: "any long-term harm"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   734   C0443252:Long-term [Temporal Concept]
+
+Phrase: "following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "disclosure."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012625:Disclosure [Individual Behavior]
+Processing 00000000.tx.66: There are no studies specifically investigating patients' views on this matter and doctors really are unsure whether patients would wish to know or not. 
+
+Phrase: "There"
+
+Phrase: "are"
+
+Phrase: "no studies specifically investigating patients' views on this matter"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C0449911:Views [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "doctors really"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0031831:doctors [Professional or Occupational Group]
+   827 E C2348314:Doctor [Conceptual Entity]
+
+Phrase: "are"
+
+Phrase: "unsure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0087130:Unsure [Idea or Concept]
+
+Phrase: "whether"
+
+Phrase: "patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "would"
+
+Phrase: "wish"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1423524:WISH [Gene or Genome]
+  1000   C3273411:WISH [Gene or Genome]
+  1000   C3273412:WISH [Amino Acid, Peptide, or Protein]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "know"
+
+Phrase: "or"
+
+Phrase: "not."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+Processing 00000000.tx.67: This has to be an important area for further research, to enable our therapeutic alliance with our patients to be strengthened. 
+
+Phrase: "This"
+
+Phrase: "has"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "an important area for further research,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0017446:Area [Geographic Area]
+   753   C0205146:Area [Spatial Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "enable"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0562342:enable [Mental Process]
+  1000   C1171285:enable [Mental Process]
+
+Phrase: "our therapeutic alliance with our patients to"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   778   C0814487:therapeutic alliance [Idea or Concept]
+   748   C0039796:Therapeutic [Therapeutic or Preventive Procedure]
+   748   C0302350:Therapeutic [Functional Concept]
+   748   C0680207:alliance [Social Behavior]
+
+Phrase: "be"
+
+Phrase: "strengthened."
+Processing 00000000.tx.68: It is not a question of whether to tell the truth or not; 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "a question of"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1522634:Question [Intellectual Product]
+
+Phrase: "whether"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "tell"
+
+Phrase: "the truth"
+
+Phrase: "or"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: ";"
+Processing 00000000.tx.69: we must be truthful to our patients. 
+
+Phrase: "we"
+
+Phrase: "must"
+
+Phrase: "be"
+
+Phrase: "truthful to our patients."
+Processing 00000000.tx.70: When and how are the questions that need to be explored, with the help, of course, of our patients. 
+
+Phrase: "When"
+
+Phrase: "and"
+
+Phrase: "how"
+
+Phrase: "are"
+
+Phrase: "the questions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1522634:Question [Intellectual Product]
+
+Phrase: "that"
+
+Phrase: "need"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027552:Need [Qualitative Concept]
+  1000   C0686904:need [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "explored"
+
+Phrase: ","
+
+Phrase: "with the help,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0018896:Help [Social Behavior]
+  1000   C1552861:help [Idea or Concept]
+
+Phrase: "of course,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750729:Course [Temporal Concept]
+
+Phrase: "of our patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.71: REFERENCES Barnes, R. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Barnes,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.72: C. 
+
+Phrase: "C."
+Processing 00000000.tx.73: (1997) Telling the diagnosis to patients with Alzheimer's disease: relatives should act as proxy for patient. 
+
+Phrase: "(1997"
+
+Phrase: ")"
+
+Phrase: "Telling"
+
+Phrase: "the diagnosis to patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0011900:Diagnosis [Finding]
+   770   C1704338:diagnosis [Qualitative Concept]
+   770   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "with Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "relatives"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0080103:Relatives [Family Group]
+   966 E C0205345:Relative [Qualitative Concept]
+   966 E C1547039:*Relative [Quantitative Concept]
+
+Phrase: "should"
+
+Phrase: "act as proxy"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0079613:ACT [Therapeutic or Preventive Procedure]
+   790   C0600420:Proxy [Group]
+
+Phrase: "for patient."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:*^patient [Patient or Disabled Group]
+Processing 00000000.tx.74: British Medical Journal, 314, 375-376.[Free FullText] Charlton, R. 
+
+Phrase: "British Medical Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "314,"
+
+Phrase: "375-376."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Charlton,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.75: (1998) Do we always need to tell patients the truth? 
+
+Phrase: "(1998"
+
+Phrase: ")"
+
+Phrase: "Do"
+
+Phrase: "we always"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2003902:Always [Temporal Concept]
+
+Phrase: "need to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   833   C0027552:Need [Qualitative Concept]
+   833   C0686904:need [Functional Concept]
+
+Phrase: "tell"
+
+Phrase: "patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "the truth?"
+Processing 00000000.tx.76: Lancet, 352, 1787. 
+
+Phrase: "Lancet,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0777169:Lancet [Medical Device]
+
+Phrase: "352,"
+
+Phrase: "1787."
+Processing 00000000.tx.77: Clafferty, R. 
+
+Phrase: "Clafferty,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.78: A., Brown, K. 
+
+Phrase: "A.,"
+
+Phrase: "Brown,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0678579:Brown [Natural Phenomenon or Process]
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.79: W. 
+
+Phrase: "W."
+Processing 00000000.tx.80: & McCabe, E. 
+
+Phrase: "& McCabe,"
+
+Phrase: "E."
+Processing 00000000.tx.81: (1998) Under half of psychiatrists tell patients their diagnosis of Alzheimer's disease. 
+
+Phrase: "(1998"
+
+Phrase: ")"
+
+Phrase: "Under half"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2825407:Half [Quantitative Concept]
+
+Phrase: "of psychiatrists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033872:Psychiatrists [Professional or Occupational Group]
+
+Phrase: "tell"
+
+Phrase: "patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "their diagnosis of Alzheimer's disease."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011900:Diagnosis [Finding]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.82: British Medical Journal, 317, 603.[Free FullText] Drickamer, M. 
+
+Phrase: "British Medical Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "317,"
+
+Phrase: "603."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Drickamer,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.83: A. 
+
+Phrase: "A."
+Processing 00000000.tx.84: & Lachs, M. 
+
+Phrase: "& Lachs,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.85: S. 
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.86: (1992) Should patients with Alzheimer's disease be told their diagnosis? 
+
+Phrase: "(1992"
+
+Phrase: ")"
+
+Phrase: "Should"
+
+Phrase: "patients with Alzheimer's disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "be"
+
+Phrase: "told"
+
+Phrase: "their diagnosis?"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.87: New England Journal of Medicine, 326, 947-951.[Medline] Erde, E. 
+
+Phrase: "New England Journal of Medicine,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "326,"
+
+Phrase: "947-951."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Erde,"
+
+Phrase: "E."
+Processing 00000000.tx.88: L., Nadal, E. 
+
+Phrase: "L., Nadal,"
+
+Phrase: "E."
+Processing 00000000.tx.89: C. 
+
+Phrase: "C."
+Processing 00000000.tx.90: & Scholl, T. 
+
+Phrase: "& Scholl,"
+
+Phrase: "T."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603360:T' [Clinical Attribute]
+Processing 00000000.tx.91: O. 
+
+Phrase: "O."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439114:O NOS [Intellectual Product]
+Processing 00000000.tx.92: (1988) On truth telling and the diagnosis of Alzheimer's disease. 
+
+Phrase: "(1988"
+
+Phrase: ")"
+
+Phrase: "On truth telling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0150391:Truth telling [Therapeutic or Preventive Procedure]
+
+Phrase: "and"
+
+Phrase: "the diagnosis of Alzheimer's disease."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011900:Diagnosis [Finding]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.93: Journal of Family Practice, 26, 401-406.[Medline] Gilliard, J. 
+
+Phrase: "Journal of Family Practice,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "26,"
+
+Phrase: "401-406."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Gilliard,"
+
+Phrase: "J."
+Processing 00000000.tx.94: & Gwilliam, C. 
+
+Phrase: "& Gwilliam,"
+
+Phrase: "C."
+Processing 00000000.tx.95: (1996) Sharing the diagnosis: a survey of memory disorders clinics, their policies on informing people with dementia and their families, and the support they offer. 
+
+Phrase: "(1996"
+
+Phrase: ")"
+
+Phrase: "Sharing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0237876:Sharing [Social Behavior]
+
+Phrase: "the diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: ":"
+
+Phrase: "a survey of memory disorders clinics,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0038951:Survey [Intellectual Product]
+
+Phrase: "their policies on informing people"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0242456:Policies [Intellectual Product]
+
+Phrase: "with dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "and"
+
+Phrase: "their families,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0015576:Families [Family Group]
+  1000   C1704727:Family [Conceptual Entity]
+   916 E C0241888:Familial [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "the support"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0183683:Support [Medical Device]
+  1000   C1521721:Support [Conceptual Entity]
+
+Phrase: "they"
+
+Phrase: "offer."
+Processing 00000000.tx.96: International Journal of Geriatric Psychiatry, 11, 1001-1003.[CrossRef] Holroyd, S., Snustad, D. 
+
+Phrase: "International Journal of Geriatric Psychiatry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "11,"
+
+Phrase: "1001-1003."
+
+Phrase: "[CrossRef"
+
+Phrase: "] Holroyd,"
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Snustad,"
+
+Phrase: "D."
+Processing 00000000.tx.97: G. 
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.98: & Chalifoux, R. 
+
+Phrase: "& Chalifoux,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.99: N. 
+
+Phrase: "N."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+Processing 00000000.tx.100: (1996) Attitudes of older adults on being told the diagnosis of Alzheimer's disease. 
+
+Phrase: "(1996"
+
+Phrase: ")"
+
+Phrase: "Attitudes of older adults"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0004271:Attitudes [Mental Process]
+
+Phrase: "on"
+
+Phrase: "being"
+
+Phrase: "told"
+
+Phrase: "the diagnosis of Alzheimer's disease."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011900:Diagnosis [Finding]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.101: Journal of the American Geriatric Society, 44, 400-403. 
+
+Phrase: "Journal of the American Geriatric Society,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "44,"
+
+Phrase: "400-403."
+Processing 00000000.tx.102: Johnson, H. 
+
+Phrase: "Johnson,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.103: & Bouman, W. 
+
+Phrase: "& Bouman,"
+
+Phrase: "W."
+Processing 00000000.tx.104: P. 
+
+Phrase: "P."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+Processing 00000000.tx.105: (1997) Driving and dementia. 
+
+Phrase: "(1997"
+
+Phrase: ")"
+
+Phrase: "Driving"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0004379:Driving [Daily or Recreational Activity]
+   966 E C0013126:Drive [Mental Process]
+
+Phrase: "and"
+
+Phrase: "dementia."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.106: Geriatric Medicine, 6, 59-60. 
+
+Phrase: "Geriatric Medicine,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0017469:Geriatric medicine [Biomedical Occupation or Discipline]
+  1000   C1555747:Geriatric Medicine [Professional or Occupational Group]
+  1000   C1555760:Geriatric Medicine [Professional or Occupational Group]
+   861   C0013227:Medicine, NOS [Pharmacologic Substance]
+   861   C0025118:Medicine [Biomedical Occupation or Discipline]
+   861   C1704440:Geriatric [Qualitative Concept]
+   861   C1999167:geriatric [Population Group]
+
+Phrase: "6,"
+
+Phrase: "59-60."
+Processing 00000000.tx.107: Johnson, H. 
+
+Phrase: "Johnson,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.108: & Bouman, W. 
+
+Phrase: "& Bouman,"
+
+Phrase: "W."
+Processing 00000000.tx.109: P. 
+
+Phrase: "P."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+Processing 00000000.tx.110: & Pinner, G. 
+
+Phrase: "& Pinner,"
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.111: (2000) On disclosing the diagnosis in Alzheimer's disease: a pilot study of current attitudes and practice. 
+
+Phrase: "(2000"
+
+Phrase: ")"
+
+Phrase: "On disclosing"
+
+Phrase: "the diagnosis in Alzheimer's disease"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011900:Diagnosis [Finding]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: ":"
+
+Phrase: "a pilot study of current attitudes"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C0031928:Pilot Study [Research Activity]
+   753   C0473169:Pilot [Professional or Occupational Group]
+   753   C0557651:Study [Manufactured Object]
+   753   C1414316:PILOT [Gene or Genome]
+   753   C2603343:Study [Research Activity]
+
+Phrase: "and"
+
+Phrase: "practice."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0237607:practice [Mental Process]
+  1000   C3245512:practice [Intellectual Product]
+Processing 00000000.tx.112: International Psychogeriatrics, 12, in press. 
+
+Phrase: "International Psychogeriatrics,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017467:Psychogeriatrics [Biomedical Occupation or Discipline]
+
+Phrase: "12,"
+
+Phrase: "in press."
+Processing 00000000.tx.113: Maguire, C. 
+
+Phrase: "Maguire,"
+
+Phrase: "C."
+Processing 00000000.tx.114: P., Kirby, M., Coen, R., et al (1996) Family members attitudes towards telling the patient with Alzheimer's disease their diagnosis. 
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Kirby,"
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "Coen,"
+
+Phrase: "R.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+
+Phrase: "et al (1996"
+
+Phrase: ")"
+
+Phrase: "Family members attitudes towards telling"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0004271:Attitudes [Mental Process]
+
+Phrase: "the patient with Alzheimer's disease"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "their diagnosis."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.115: British Medical Journal, 313, 529-530.[Free FullText] Markle, G. 
+
+Phrase: "British Medical Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "313,"
+
+Phrase: "529-530."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Markle,"
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.116: B. 
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.117: (1993) Telling the diagnosis of Alzheimer's disease. 
+
+Phrase: "(1993"
+
+Phrase: ")"
+
+Phrase: "Telling"
+
+Phrase: "the diagnosis of Alzheimer's disease."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0011900:Diagnosis [Finding]
+   760   C1704338:diagnosis [Qualitative Concept]
+   760   C1704656:DIAGNOSIS [Research Activity]
+Processing 00000000.tx.118: New England Journal of Medicine, 328, 736.[Free FullText] Meredith, C., Symonds, P., Webster, L., et al (1996) Information needs of cancer patients in West Scotland. 
+
+Phrase: "New England Journal of Medicine,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "328,"
+
+Phrase: "736."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Meredith,"
+
+Phrase: "C.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1553033:[c] [Quantitative Concept]
+
+Phrase: "Symonds,"
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Webster,"
+
+Phrase: "L.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+
+Phrase: "et al (1996"
+
+Phrase: ")"
+
+Phrase: "Information"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1533716:Information [Idea or Concept]
+   928 E C3242430:informational [Idea or Concept]
+
+Phrase: "needs of cancer patients"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   819   C0686904:needs patients [Functional Concept]
+           need
+   816   C1516213:Cancer Patient [Patient or Disabled Group]
+   770   C0006826:Cancer [Neoplastic Process]
+   770   C0027552:Need [Qualitative Concept]
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C0998265:Cancer [Eukaryote]
+   770   C1306459:Cancer [Finding]
+
+Phrase: "in West Scotland."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0036453:Scotland [Geographic Area]
+Processing 00000000.tx.119: British Medical Journal, 313, 724-726.[Abstract/Free FullText] Moody, H. 
+
+Phrase: "British Medical Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "313,"
+
+Phrase: "724-726."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Moody, H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.120: R. 
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.121: (1995) The forgetful mourner: commentary. 
+
+Phrase: "(1995"
+
+Phrase: ")"
+
+Phrase: "The forgetful mourner"
+
+Phrase: ":"
+
+Phrase: "commentary."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0282411:Commentary [Intellectual Product]
+Processing 00000000.tx.122: Hastings Center Report, 25, 33. 
+
+Phrase: "Hastings"
+
+Phrase: "Center"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205099:Center [Spatial Concept]
+
+Phrase: "Report,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0684224:Report [Intellectual Product]
+  1000   C0700287:Report [Health Care Activity]
+  1000   C3273238:Report [Intellectual Product]
+
+Phrase: "25,"
+
+Phrase: "33."
+Processing 00000000.tx.123: Novack, D. 
+
+Phrase: "Novack,"
+
+Phrase: "D."
+Processing 00000000.tx.124: B., Plumer, R., Smith, R. 
+
+Phrase: "B.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+
+Phrase: "Plumer,"
+
+Phrase: "R.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+
+Phrase: "Smith,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0554249:Smith [Professional or Occupational Group]
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.125: L., et al (1979) Changes in physicians' attitudes toward telling the cancer patient. 
+
+Phrase: "L., et al (1979"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0439394:l's [Quantitative Concept]
+   812   C1706495:L- [Intellectual Product]
+   812   C3642217:/L [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "Changes in physicians' attitudes"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   819   C0235187:attitudes change [Qualitative Concept]
+   770   C0004271:Attitudes [Mental Process]
+   770   C0031831:Physicians [Professional or Occupational Group]
+   770   C0392747:Change [Functional Concept]
+   770   C0443172:change [Quantitative Concept]
+   770   C1705241:Change [Quantitative Concept]
+   737 E C0804815:Physician [Clinical Attribute]
+
+Phrase: "toward telling"
+
+Phrase: "the cancer patient."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1516213:Cancer Patient [Patient or Disabled Group]
+   861   C0030705:*^patient [Patient or Disabled Group]
+Processing 00000000.tx.126: Journal of the American Medical Association, 241, 897-900.[Abstract] Oken, D. 
+
+Phrase: "Journal of the American Medical Association,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "241,"
+
+Phrase: "897-900."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Oken,"
+
+Phrase: "D."
+Processing 00000000.tx.127: (1961) What to tell cancer patients. 
+
+Phrase: "(1961"
+
+Phrase: ")"
+
+Phrase: "What to"
+
+Phrase: "tell"
+
+Phrase: "cancer patients."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   983   C1516213:Cancer Patient [Patient or Disabled Group]
+   861   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.128: Journal of the American Medical Association, 175, 1120-1128. 
+
+Phrase: "Journal of the American Medical Association,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "175,"
+
+Phrase: "1120-1128."
+Processing 00000000.tx.129: Post, S. 
+
+Phrase: "Post,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0687676:Post [Temporal Concept]
+  1000   C1704687:Post [Manufactured Object]
+   928 E C1514253:Postal [Functional Concept]
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.130: G. 
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.131: & Whitehouse, P. 
+
+Phrase: "& Whitehouse,"
+
+Phrase: "P."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+Processing 00000000.tx.132: J. 
+
+Phrase: "J."
+Processing 00000000.tx.133: (1995) Fairhill guidelines on ethics of the care of people with Alzheimer's disease: a clinical summary. 
+
+Phrase: "(1995"
+
+Phrase: ")"
+
+Phrase: "Fairhill guidelines on ethics of the care of people"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   742   C0162791:Guidelines [Intellectual Product]
+   742   C0220845:guidelines [Intellectual Product]
+   742   C0282423:guidelines [Intellectual Product]
+
+Phrase: "with Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "a clinical summary."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C2699349:Clinical Summary [Regulation or Law]
+   861   C1552616:summary [Intellectual Product]
+   861   C1706244:Summary [Intellectual Product]
+Processing 00000000.tx.134: Journal of the American Geriatric Society, 43, 1423-1429. 
+
+Phrase: "Journal of the American Geriatric Society,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "43,"
+
+Phrase: "1423-1429."
+Processing 00000000.tx.135: Rice, K., Warner, N., Tye, T., et al (1997) Geriatricians' and psychiatrists' practice differs. 
+
+Phrase: "Rice,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0035567:Rice [Food]
+  1000   C1140671:rice [Plant]
+  1000   C1509547:RICE [Organic Chemical,Pharmacologic Substance]
+  1000   C3484401:RICE [Pharmacologic Substance]
+
+Phrase: "K.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+
+Phrase: "Warner,"
+
+Phrase: "N.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+
+Phrase: "Tye,"
+
+Phrase: "T.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603360:T' [Clinical Attribute]
+
+Phrase: "et al (1997"
+
+Phrase: ")"
+
+Phrase: "Geriatricians'"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0586872:geriatricians [Professional or Occupational Group]
+
+Phrase: "and"
+
+Phrase: "psychiatrists' practice"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0237607:practice [Mental Process]
+   861   C3245512:practice [Intellectual Product]
+
+Phrase: "differs."
+Processing 00000000.tx.136: British Medical Journal, 314, 376.[Free FullText] Rohde, K., Peskind, E. 
+
+Phrase: "British Medical Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "314,"
+
+Phrase: "376."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Rohde,"
+
+Phrase: "K.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+
+Phrase: "Peskind,"
+
+Phrase: "E."
+Processing 00000000.tx.137: R. 
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.138: & Raskind, M. 
+
+Phrase: "& Raskind,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.139: A. 
+
+Phrase: "A."
+Processing 00000000.tx.140: (1995) Suicide in two patients with Alzheimer's disease. 
+
+Phrase: "(1995"
+
+Phrase: ")"
+
+Phrase: "Suicide in two patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0038661:Suicide [Finding]
+
+Phrase: "with Alzheimer's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.141: Journal of the American Geriatric Society, 43, 187-189. 
+
+Phrase: "Journal of the American Geriatric Society,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "43,"
+
+Phrase: "187-189."
+Processing 00000000.tx.142: Ross, J. 
+
+Phrase: "Ross,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0331968:Ross [Health Care Related Organization]
+  1000   C2699100:Ross [Bird]
+
+Phrase: "J."
+Processing 00000000.tx.143: (1996) Rules over research on mental patients invalid. 
+
+Phrase: "(1996"
+
+Phrase: ")"
+
+Phrase: "Rules"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0805874:Rule [Idea or Concept]
+  1000   C0870077:Rule [Intellectual Product]
+  1000   C1446409:rule [Qualitative Concept]
+
+Phrase: "over"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205136:Over [Spatial Concept]
+
+Phrase: "research on mental patients invalid."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   806   C0025360:Mental Patients [Patient or Disabled Group]
+   760   C0030705:Patients [Patient or Disabled Group]
+   760   C0035168:research [Research Activity]
+   760   C0229992:mental [Mental Process]
+   760   C0231173:Invalid [Finding]
+   760   C0242481:Research [Research Activity]
+   760   C1708563:INVALID [Idea or Concept]
+   760   C3245471:Invalid [Qualitative Concept]
+   756   C0033876:Psychic Research [Research Activity]
+Processing 00000000.tx.144: New York Law Journal, 10, 25-30. 
+
+Phrase: "New York Law Journal,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "10,"
+
+Phrase: "25-30."
+Processing 00000000.tx.145: Vassilas, C. 
+
+Phrase: "Vassilas,"
+
+Phrase: "C."
+Processing 00000000.tx.146: A. 
+
+Phrase: "A."
+Processing 00000000.tx.147: & Donaldson, J. 
+
+Phrase: "& Donaldson,"
+
+Phrase: "J."
+Processing 00000000.tx.148: (1998) Telling the truth: what do general practitioners say to patients with dementia or terminal cancer? 
+
+Phrase: "(1998"
+
+Phrase: ")"
+
+Phrase: "Telling"
+
+Phrase: "the truth"
+
+Phrase: ":"
+
+Phrase: "what"
+
+Phrase: "do"
+
+Phrase: "general practitioners"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0017319:General Practitioners [Professional or Occupational Group]
+   861   C0205246:General [Spatial Concept]
+   861   C1553889:General [Idea or Concept]
+   827   C1709627:Practitioner [Professional or Occupational Group]
+
+Phrase: "say to patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "with dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "or"
+
+Phrase: "terminal cancer?"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0741884:terminal cancer [Neoplastic Process]
+   861   C0006826:Cancer [Neoplastic Process]
+   861   C0205088:Terminal [Temporal Concept]
+   861   C0998265:Cancer [Eukaryote]
+   861   C1306459:Cancer [Finding]
+   861   C1705314:Terminal [Manufactured Object]
+   861   C1705315:Terminal [Spatial Concept]
+Processing 00000000.tx.149: British Journal of General Practice, 48, 1081-1082.[Medline] Watts, D. 
+
+Phrase: "British Journal of General Practice,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "48,"
+
+Phrase: "1081-1082."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Watts,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439261:Watt [Quantitative Concept]
+
+Phrase: "D."
+Processing 00000000.tx.150: T., Howell, T. 
+
+Phrase: "T.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603360:T' [Clinical Attribute]
+
+Phrase: "Howell,"
+
+Phrase: "T."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603360:T' [Clinical Attribute]
+Processing 00000000.tx.151: & Priefer, B. 
+
+Phrase: "& Priefer,"
+
+Phrase: "B."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2347469:/B [Quantitative Concept]
+Processing 00000000.tx.152: A. 
+
+Phrase: "A."
+Processing 00000000.tx.153: (1992) Geriatricians attitudes toward assisting suicide of dementia patients. 
+
+Phrase: "(1992"
+
+Phrase: ")"
+
+Phrase: "Geriatricians attitudes toward assisting suicide of dementia patients."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   767   C0870289:attitudes patients [Mental Process]
+   744   C0004271:Attitudes [Mental Process]
+Processing 00000000.tx.154: Journal of the American Geriatric Society, 40, 878-885. 
+
+Phrase: "Journal of the American Geriatric Society,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "40,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: "878-885."
+Processing 00000000.tx.155: World Health Organization (1992) The ICD-10 Classification of Mental and Behavioural Disorders. 
+
+Phrase: "World Health Organization"
+Meta Candidates (Total=11; Excluded=1; Pruned=0; Remaining=10)
+  1000   C0043237:World Health Organization [Health Care Related Organization]
+   901   C0043236:World Health [Idea or Concept]
+   901   C0920545:health organization [Health Care Related Organization]
+   827   C0018684:Health [Idea or Concept]
+   827   C0029237:Organisation [Physiologic Function]
+   827   C0029246:Organization [Organization]
+   827   C0220885:organization [Qualitative Concept]
+   827   C1300196:Organization [Functional Concept]
+   827   C1522486:Organization [Professional or Occupational Group]
+   827   C2700280:World [Population Group]
+   727 E C0031206:healthiness [Finding]
+
+Phrase: "(1992"
+
+Phrase: ")"
+
+Phrase: "The ICD-10 Classification of Mental"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0008902:Classification [Classification]
+   753   C0008903:classification [Functional Concept]
+   753   C0678229:classification [Occupational Activity]
+
+Phrase: "and"
+
+Phrase: "Behavioural Disorders."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+  1000   C0004930:Behavioral disorders [Mental or Behavioral Dysfunction]
+   983 E C0481391:Behavioral Disorder [Injury or Poisoning]
+   861   C0004927:Behavioral [Individual Behavior]
+   861   C0012634:Disorders [Disease or Syndrome]
+   861   C2986890:Behavioral [Idea or Concept]
+   789 E C0677505:behaviours [Finding]
+   789 E C2707008:Behavior [Clinical Attribute]
+Processing 00000000.tx.156: Geneva: WHO. 
+
+Phrase: "Geneva"
+
+Phrase: ":"
+
+Phrase: "WHO."
+Processing 00000000.tx.157: Received for publication August 16, 1999. 
+
+Phrase: "Received for publication August 16,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1514756:Received [Qualitative Concept]
+   760   C1704324:Publication [Intellectual Product]
+
+Phrase: "1999."
+Processing 00000000.tx.158: Revision received December 14, 1999. 
+
+Phrase: "Revision"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439617:Revision [Temporal Concept]
+  1000   C0558347:Revision [Therapeutic or Preventive Procedure]
+  1000   C1527075:Revision [Therapeutic or Preventive Procedure]
+
+Phrase: "received"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514756:Received [Qualitative Concept]
+
+Phrase: "December 14,"
+
+Phrase: "1999."
+Processing 00000000.tx.159: Accepted for publication December 16, 1999.
+
+Phrase: "Accepted for publication December 16,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1272684:Accepted [Qualitative Concept]
+   760   C1548435:Accepted [Idea or Concept]
+   760   C1704324:Publication [Intellectual Product]
+   726 E C1548601:Accept [Idea or Concept]
+
+Phrase: "1999."
+

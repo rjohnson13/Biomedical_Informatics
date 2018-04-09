@@ -1,0 +1,3973 @@
+Processing 00000000.tx.1: Psychiatric genetics in the post-genome age AIDEN CORVIN, MRCPsych and MICHAEL GILL, MRCPsych Department of Psychiatry, St James's Hospital, Dublin 8, Ireland Correspondence: Dr Aiden Corvin, Department of Psychiatry, Trinity Centre for Health Sciences, St James's Hospital, St James's Street, Dublin 8, Ireland DECLARATION OF INTEREST A.C. is a Wellcome Trust Research Fellow in Mental Health. 
+
+Phrase: "Psychiatric genetics in the post-genome age AIDEN CORVIN,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C0017398:Genetics [Biomedical Occupation or Discipline]
+   742   C0017399:genetics [Biologic Function]
+
+Phrase: "MRCPsych"
+
+Phrase: "and"
+
+Phrase: "MICHAEL GILL,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017558:Gill [Body Part, Organ, or Organ Component]
+   861   C1552935:gill [Quantitative Concept]
+
+Phrase: "MRCPsych Department of Psychiatry,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   819   C0587494:Psychiatry department [Health Care Related Organization]
+   770   C1704729:Department [Organization]
+
+Phrase: "St James's Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   827   C1510665:Hospital [Qualitative Concept]
+   743 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Dublin 8,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0454777:Dublin [Geographic Area]
+
+Phrase: "Ireland Correspondence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282413:Correspondence [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "Dr Aiden Corvin,"
+
+Phrase: "Department of Psychiatry,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   858   C0587494:Psychiatry department [Health Care Related Organization]
+   790   C1704729:Department [Organization]
+
+Phrase: "Trinity Centre for Health Sciences,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   797   C0475309:Health center [Health Care Related Organization,Manufactured Object]
+   760   C0205099:Center [Spatial Concept]
+
+Phrase: "St James's Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   827   C1510665:Hospital [Qualitative Concept]
+   743 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "St James's Street,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0442658:Street [Manufactured Object]
+   827   C1301826:Street [Finding]
+
+Phrase: "Dublin 8,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0454777:Dublin [Geographic Area]
+
+Phrase: "Ireland DECLARATION OF INTEREST"
+
+Phrase: "A.C."
+
+Phrase: "is"
+
+Phrase: "a Wellcome Trust Research Fellow in Mental Health."
+Processing 00000000.tx.2: Less than 50 years after publication of the structure of DNA, we possess a working draft of the human genome and expect a completed draft listing all genes and their location by 2003 (International Human Genome Sequencing Consortium, 2001). 
+
+Phrase: "Less than 50 years"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   833   C0439092:Less Than [Intellectual Product]
+           less
+   770   C0439234:years [Temporal Concept]
+   770   C0547044:Less [Qualitative Concept]
+   737 E C0439508:/year [Temporal Concept]
+
+Phrase: "after publication"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0034036:Publication [Intellectual Product,Manufactured Object]
+  1000   C0034037:Publication [Occupational Activity]
+  1000   C1704324:Publication [Intellectual Product]
+
+Phrase: "of the structure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0678594:Structure [Spatial Concept]
+
+Phrase: "of DNA,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0012854:DNA [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+
+Phrase: "we"
+
+Phrase: "possess"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0850310:possess [Mental or Behavioral Dysfunction]
+  1000   C3154893:Possess [Idea or Concept]
+
+Phrase: "a working draft of the human genome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C1547277:Draft [Intellectual Product]
+   748   C3245506:Draft [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "expect"
+
+Phrase: "a completed draft"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1547277:Draft [Intellectual Product]
+   861   C3245506:Draft [Intellectual Product]
+
+Phrase: "listing"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0745732:List [Conceptual Entity]
+   966   C3272378:LIST [Intellectual Product]
+
+Phrase: "all genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017337:Genes [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "their location by 2003"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0450429:Location [Spatial Concept]
+   770   C1515974:Location [Body Location or Region]
+
+Phrase: "(International Human Genome Sequencing Consortium,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C1513822:Consortium [Professional or Occupational Group]
+   804   C1880171:Consortium [Professional or Occupational Group]
+
+Phrase: "2001"
+
+Phrase: ")."
+Processing 00000000.tx.3: For 21st-century medicine, the genome will offer a gateway to new biological mechanisms that integrate our genetic and environmental understanding of behaviour and disease. 
+
+Phrase: "For 21st-century medicine,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0013227:Medicine, NOS [Pharmacologic Substance]
+   827   C0025118:Medicine [Biomedical Occupation or Discipline]
+   734   C0681759:21st century [Temporal Concept]
+
+Phrase: "the genome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017428:Genome [Gene or Genome]
+  1000   C2338314:Genome [Conceptual Entity]
+
+Phrase: "will"
+
+Phrase: "offer"
+
+Phrase: "a gateway to new biological mechanisms"
+
+Phrase: "that"
+
+Phrase: "integrate"
+
+Phrase: "our genetic"
+Meta Candidates (Total=16; Excluded=14; Pruned=0; Remaining=2)
+  1000   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+  1000   C0314603:Genetic [Functional Concept]
+   944 E C0005615:Birth [Organism Function]
+   944 E C0035150:Reproduction [Organism Function]
+   944 E C0079946:origin [Classification]
+   944 E C0439659:Origin [Temporal Concept]
+   944 E C1550512:origin [Intellectual Product]
+   944 E C1550722:birth [Idea or Concept]
+   944 E C3245487:birth [Intellectual Product]
+   916 E C0454729:Natal [Geographic Area]
+   916 E C0559522:Genital [Body System]
+   916 E C1546649:Genital [Intellectual Product]
+   916 E C1550642:Genital [Body Substance]
+   907 E C0205313:Original [Idea or Concept]
+   907 E C2347409:Original [Occupational Activity]
+   888 E C0598240:originality [Mental Process]
+
+Phrase: "and"
+
+Phrase: "environmental understanding of behaviour"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   819   C0582778:Understanding behavior [Therapeutic or Preventive Procedure]
+   770   C0162340:Understanding [Mental Process]
+
+Phrase: "and"
+
+Phrase: "disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.4: In psychiatry a genetic contribution to common disorders, cognition and personality traits is well established, and susceptibility loci have been identified for schizophrenia, bipolar affective disorder, autism and Alzheimer's disease. 
+
+Phrase: "In psychiatry"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0033872:Psychiatry [Professional or Occupational Group]
+  1000   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   928 E C0205487:Psychiatric [Functional Concept]
+
+Phrase: "a genetic contribution to common disorders,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1880177:Contribution [Activity]
+
+Phrase: "cognition"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0009240:Cognition [Mental Process]
+   916 E C2981149:Intellect [Mental Process]
+   907 E C0233698:Noesis [Mental or Behavioral Dysfunction]
+
+Phrase: "and"
+
+Phrase: "personality traits"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0233849:Personality Traits [Finding]
+   861   C0599883:traits [Organism Attribute]
+   861   C1427926:TRAITS [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "well established,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0205170:Well [Qualitative Concept]
+   861   C0443211:Established [Qualitative Concept]
+   861   C1272684:Established [Qualitative Concept]
+   861   C3146287:Well [Manufactured Object]
+
+Phrase: "and"
+
+Phrase: "susceptibility loci"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1708726:Locus [Gene or Genome]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "identified for schizophrenia,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0036341:Schizophrenia [Mental or Behavioral Dysfunction]
+   790   C0205396:Identified [Qualitative Concept]
+   790   C1550043:Identified [Finding]
+   790   C1551388:Identified [Functional Concept]
+
+Phrase: "bipolar affective disorder,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0005586:Bipolar affective disorder [Mental or Behavioral Dysfunction]
+           Bipolar Disorder
+   901   C0525045:Affective disorder [Mental or Behavioral Dysfunction]
+   827   C0012634:Disorder [Disease or Syndrome]
+   827   C0443156:Bipolar [Spatial Concept]
+
+Phrase: "autism"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0004352:Autism [Mental or Behavioral Dysfunction]
+   944 E C0233639:Autistic thinking [Mental or Behavioral Dysfunction]
+
+Phrase: "and"
+
+Phrase: "Alzheimer's disease."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.5: Genetic mutations causing hundreds of Mendelian disorders are known; 
+
+Phrase: "Genetic mutations"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0026882:genetic mutations [Genetic Function]
+           Mutations
+   827 E C1705285:Mutation [Cell or Molecular Dysfunction]
+
+Phrase: "causing"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0678227:Causing [Functional Concept]
+   966 E C0015127:cause [Functional Concept]
+   966 E C1524003:Cause [Conceptual Entity]
+
+Phrase: "hundreds of Mendelian disorders"
+
+Phrase: "are"
+
+Phrase: "known"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205309:Known [Qualitative Concept]
+
+Phrase: ";"
+Processing 00000000.tx.6: many present with rare neuropsychiatric phenotypes, such as Huntington's disease and familial forms of Alzheimer's disease and Parkinson's disease (http://www.ncbi.nlm.nih.gov/OMIM). 
+
+Phrase: "many present with rare neuropsychiatric phenotypes,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0150312:Present [Quantitative Concept]
+   753   C0449450:Present [Idea or Concept]
+
+Phrase: "such as Huntington's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0020179:Huntington Disease [Disease or Syndrome]
+  1000   C2919056:Huntington's Disease [Functional Concept]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "familial forms of Alzheimer's disease"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C1832428:Familial form [Finding]
+   760   C0348078:forms [Qualitative Concept]
+   760   C0376315:Forms [Manufactured Object]
+   726 E C1522492:Form [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "Parkinson's disease"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+  1000   C0030567:Parkinson Disease [Disease or Syndrome]
+  1000   C1521736:Parkinson's Disease [Functional Concept]
+  1000   C2681933:PARKINSON DISEASE [Gene or Genome]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+   761   C1021144:Parkinsonia [Plant]
+
+Phrase: "(http"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1555015:HTTP [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "//www.ncbi.nlm.nih.gov/OMIM"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   799   C0950133:OMIM [Intellectual Product]
+
+Phrase: ")."
+Processing 00000000.tx.7: Nevertheless, as in other branches of medicine, locating susceptibility genes of minor effect has proved difficult. 
+
+Phrase: "Nevertheless,"
+
+Phrase: "as in other branches of medicine,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   773   C1253959:Branch of [Body Part, Organ, or Organ Component]
+           Branch
+   753   C0013227:Medicine, NOS [Pharmacologic Substance]
+   753   C0025118:Medicine [Biomedical Occupation or Discipline]
+   719   C1881507:Branch [Chemical Viewed Structurally]
+   719   C2700383:Branch [Plant]
+   719   C2826234:BRANCH [Intellectual Product]
+
+Phrase: "locating"
+
+Phrase: "susceptibility genes of minor effect"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0919453:Susceptibility Gene [Gene or Genome]
+   760   C0017337:Genes [Gene or Genome]
+
+Phrase: "has"
+
+Phrase: "proved difficult."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0332218:Difficult [Qualitative Concept]
+   789 E C1299586:Difficulty [Finding]
+Processing 00000000.tx.8: The common neuropsychiatric disorders have a complex genetic aetiology, probably involving interaction between genes and interaction between genome and environment. 
+
+Phrase: "The common neuropsychiatric disorders"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0012634:Disorders [Disease or Syndrome]
+
+Phrase: "have"
+
+Phrase: "a complex genetic aetiology,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0015127:aetiology [Functional Concept]
+   827   C1314792:Aetiology [Functional Concept]
+   827   C1524003:Etiology [Conceptual Entity]
+
+Phrase: "probably"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750492:Probably [Idea or Concept]
+
+Phrase: "involving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involving [Functional Concept]
+
+Phrase: "interaction between genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   841   C0596610:gene interaction [Genetic Function]
+   790   C1704675:Interaction [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "interaction between genome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1704675:Interaction [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "environment."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0014406:Environment [Spatial Concept]
+Processing 00000000.tx.9: Until now this complexity has (mostly) frustrated investigators, but the prospect of a complete genome draft offers hope that genotypephenotype interactions can be unlocked to expose underlying biology. 
+
+Phrase: "Until"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "this complexity"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   928   C0439855:Complex [Qualitative Concept]
+   928   C1704241:Complex [Chemical Viewed Structurally]
+
+Phrase: "has"
+
+Phrase: "(mostly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750554:mostly [Idea or Concept]
+
+Phrase: ")"
+
+Phrase: "frustrated investigators,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0035173:Investigators [Professional or Occupational Group]
+
+Phrase: "but"
+
+Phrase: "the prospect of a complete genome draft offers"
+
+Phrase: "hope"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0392347:Hope [Mental Process]
+
+Phrase: "that genotypephenotype interactions"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1704675:Interaction [Functional Concept]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "unlocked"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1550031:Unlock [Idea or Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "expose"
+
+Phrase: "underlying biology."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0005532:Biology [Biomedical Occupation or Discipline]
+   789 E C0205460:Biologic [Qualitative Concept]
+   789 E C2979985:BIOLOGIC [Biologically Active Substance,Pharmacologic Substance]
+Processing 00000000.tx.10: This may be the first challenge of the post-genome era, but it echoes older motivations that are not exclusive to psychiatric geneticists: The intention is to furnish a psychology that shall be a natural science: that is, to represent psychical processes as quantitatively determinate states of specifiable material particles, thus making these psychical processes perspicuous and free of contradiction. 
+
+Phrase: "This"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "the first challenge of the post-genome era,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0798503:Challenge [Clinical Attribute]
+   744   C0805586:Challenge [Health Care Activity]
+   744   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "but"
+
+Phrase: "it"
+
+Phrase: "echoes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0058928:ECHO [Therapeutic or Preventive Procedure]
+  1000   C1655045:Echo [Eukaryote]
+
+Phrase: "older motivations"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0026605:motivations [Mental Process]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "not exclusive to psychiatric geneticists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1548966:Exclusive [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "The intention"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0162425:Intention [Mental Process]
+  1000   C1283828:Intention [Qualitative Concept]
+   900 E C0679198:intentionality [Idea or Concept]
+
+Phrase: "is"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "furnish"
+
+Phrase: "a psychology"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0033909:Psychology [Biomedical Occupation or Discipline]
+  1000   C1524060:psychology [Functional Concept]
+   928 E C0205486:Psychologic [Functional Concept]
+   928 E C1306597:PSYCHOLOGICAL [Mental or Behavioral Dysfunction]
+
+Phrase: "that"
+
+Phrase: "shall"
+
+Phrase: "be"
+
+Phrase: "a natural science"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0678530:natural science [Occupation or Discipline]
+   861   C0036397:Science [Occupation or Discipline]
+   861   C0205296:Natural [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "that"
+
+Phrase: "is"
+
+Phrase: ","
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "represent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1882932:Represent [Activity]
+
+Phrase: "psychical processes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1184743:Process [Body Part, Organ, or Organ Component]
+   827   C1522240:Process [Phenomenon or Process]
+
+Phrase: "as"
+
+Phrase: "quantitatively determinate states of specifiable material particles,"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   748   C1301808:states [Geographic Area]
+   714 E C1442792:State [Functional Concept]
+   714 E C3148680:State [Geographic Area]
+
+Phrase: "thus"
+
+Phrase: "making"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1881534:Make [Functional Concept]
+
+Phrase: "these psychical processes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1184743:Process [Body Part, Organ, or Organ Component]
+   827   C1522240:Process [Phenomenon or Process]
+
+Phrase: "perspicuous"
+
+Phrase: "and"
+
+Phrase: "free of contradiction."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0332296:free [Functional Concept]
+   790   C1880497:Free [Qualitative Concept]
+   790   C1996904:Free [Qualitative Concept]
+Processing 00000000.tx.11: (Freud, 1914) FROM GENOME TO SUSCEPTIBILITY GENE Genetic principles can be applied to directly identify relationships between genomic variation and disease. 
+
+Phrase: "(Freud,"
+
+Phrase: "1914"
+
+Phrase: ")"
+
+Phrase: "FROM GENOME"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017428:Genome [Gene or Genome]
+  1000   C2338314:Genome [Conceptual Entity]
+
+Phrase: "TO SUSCEPTIBILITY GENE Genetic principles"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "applied"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0185125:Applied [Health Care Activity]
+   966 E C1632850:Apply [Functional Concept]
+   966 E C1879355:Apply [Functional Concept]
+
+Phrase: "to directly"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1883351:To [Qualitative Concept]
+   861   C1947931:Directly [Qualitative Concept]
+
+Phrase: "identify"
+
+Phrase: "relationships between genomic variation"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0439849:Relationships [Qualitative Concept]
+   737 E C1705630:Relationship [Idea or Concept]
+   737 E C1706279:Relationship [Idea or Concept]
+   737 E C3540605:Relationship [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.12: Hypothesis-free approaches of this type are attractive because genes can be identified where underlying disease biology is unknown (as is often the case in psychiatry). 
+
+Phrase: "Hypothesis-free approaches of this type"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0449445:Approaches [Spatial Concept]
+   753   C1292724:Approaches [Functional Concept]
+
+Phrase: "are"
+
+Phrase: "attractive"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2346874:Attractive [Qualitative Concept]
+
+Phrase: "because"
+
+Phrase: "genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017337:Genes [Gene or Genome]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "identified"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+
+Phrase: "where underlying disease biology"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   812   C0005532:Biology [Biomedical Occupation or Discipline]
+   741 E C0205460:Biologic [Qualitative Concept]
+   741 E C2979985:BIOLOGIC [Biologically Active Substance,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "unknown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439673:Unknown [Qualitative Concept]
+
+Phrase: "(as is often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0332183:Often [Temporal Concept]
+
+Phrase: "the case in psychiatry"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0868928:Case [Functional Concept]
+   770   C1706255:CASE [Medical Device]
+   770   C1706256:Case [Conceptual Entity]
+
+Phrase: ")."
+Processing 00000000.tx.13: Draft human genomic information will improve the power of traditional methods such as linkage analysis to uncover relationships between DNA variation and disease. 
+
+Phrase: "Draft human genomic information"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C1533716:Information [Idea or Concept]
+   741 E C3242430:informational [Idea or Concept]
+
+Phrase: "will"
+
+Phrase: "improve"
+
+Phrase: "the power of traditional methods"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0032863:Power [Human-caused Phenomenon or Process]
+
+Phrase: "such as linkage analysis"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0796345:linkage analysis [Laboratory Procedure]
+   861   C0002778:Analysis [Laboratory Procedure]
+   861   C0023745:linkage [Molecular Function]
+   861   C0936012:Analysis [Research Activity]
+   861   C1524024:analysis [Functional Concept]
+
+Phrase: "to"
+
+Phrase: "uncover"
+
+Phrase: "relationships between DNA variation"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0439849:Relationships [Qualitative Concept]
+   737 E C1705630:Relationship [Idea or Concept]
+   737 E C1706279:Relationship [Idea or Concept]
+   737 E C3540605:Relationship [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.14: Linkage studies examine for co-segregation of disorder and genetic markers in families. 
+
+Phrase: "Linkage studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "examine for co-segregation of disorder"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0012634:Disorder [Disease or Syndrome]
+   753   C0080141:segregation [Social Behavior]
+
+Phrase: "and"
+
+Phrase: "genetic markers in families."
+Meta Candidates (Total=13; Excluded=7; Pruned=0; Remaining=6)
+   833   C0017393:Genetic Markers [Genetic Function]
+   833   C0600223:genetic markers [Laboratory Procedure]
+   791   C0870545:family origins [Family Group]
+   770   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   770   C0314603:Genetic [Functional Concept]
+   737   C0005516:Marker [Clinical Attribute]
+   715 E C0005615:Birth [Organism Function]
+   715 E C0035150:Reproduction [Organism Function]
+   715 E C0079946:origin [Classification]
+   715 E C0439659:Origin [Temporal Concept]
+   715 E C1550512:origin [Intellectual Product]
+   715 E C1550722:birth [Idea or Concept]
+   715 E C3245487:birth [Intellectual Product]
+Processing 00000000.tx.15: Early studies had a limited choice of markers; 
+
+Phrase: "Early studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "had"
+
+Phrase: "a limited choice of markers"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0008300:choice [Individual Behavior]
+   760   C1707391:Choice [Activity]
+
+Phrase: ";"
+Processing 00000000.tx.16: now there are extensive marker maps for all chromosomes. 
+
+Phrase: "now there"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1948052:Now [Temporal Concept]
+
+Phrase: "are"
+
+Phrase: "extensive marker"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0005516:Marker [Clinical Attribute]
+
+Phrase: "maps for all chromosomes."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   802   C0814036:chromosome map [Intellectual Product]
+   770   C0008633:Chromosomes [Cell Component]
+   770   C0024779:Map [Manufactured Object]
+   770   C0026045:MAPs [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   770   C1706473:Map [Conceptual Entity]
+Processing 00000000.tx.17: Unfortunately, in such analyses marker density reaches a saturation point where statistical evidence may implicate regions (loci) spanning millions of base pairs. 
+
+Phrase: "Unfortunately,"
+
+Phrase: "in such analyses marker density"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C0178587:density [Quantitative Concept]
+   755 E C0439794:Dense [Qualitative Concept]
+
+Phrase: "reaches"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0596012:Reaches [Finding]
+  1000   C2584321:Reach [Organism Function]
+
+Phrase: "a saturation point where statistical evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0332120:Evidence [Functional Concept]
+
+Phrase: "may"
+
+Phrase: "implicate"
+
+Phrase: "regions"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   966   C0017446:Region [Geographic Area]
+   966   C0205147:Region [Spatial Concept]
+   916 E C0205276:Regional [Spatial Concept]
+   916 E C1947913:Regional [Spatial Concept]
+
+Phrase: "(loci"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1708726:Locus [Gene or Genome]
+
+Phrase: ")"
+
+Phrase: "spanning millions of base pairs."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1881839:Million [Quantitative Concept]
+Processing 00000000.tx.18: Linkage studies also have limited power to identify small gene effects, but this can be partially resolved by collaboration or meta-analysis to increase sample size. 
+
+Phrase: "Linkage"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023745:linkage [Molecular Function]
+
+Phrase: "studies"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C0947630:studies [Laboratory Procedure]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "also"
+
+Phrase: "have"
+
+Phrase: "limited power to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0032863:Power [Human-caused Phenomenon or Process]
+
+Phrase: "identify"
+
+Phrase: "small gene effects,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C1280500:effects [Qualitative Concept]
+   793 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "but"
+
+Phrase: "this"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "partially"
+
+Phrase: "resolved by collaboration"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0282116:Collaboration [Social Behavior]
+   790   C1514893:Resolved [Idea or Concept]
+   790   C2699488:Resolved [Conceptual Entity]
+
+Phrase: "or"
+
+Phrase: "meta-analysis to"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   901   C0282458:Meta-Analysis [Intellectual Product]
+   901   C0920317:Meta-Analysis [Research Activity]
+   827   C0002778:Analysis [Laboratory Procedure]
+   827   C0936012:Analysis [Research Activity]
+   827   C1042496:Meta [Eukaryote]
+   827   C1524024:analysis [Functional Concept]
+
+Phrase: "increase"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "sample size."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0242618:Sample Size [Quantitative Concept]
+   861   C0456389:size [Spatial Concept]
+Processing 00000000.tx.19: By increasing study power in this way, susceptibility loci have now been identified for a number of complex disorders, including non-insulin-dependent diabetes mellitus (Horikawa et al, 2000), Alzheimer's disease and schizophrenia. 
+
+Phrase: "By increasing study power"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0032863:Power [Human-caused Phenomenon or Process]
+
+Phrase: "in this way,"
+
+Phrase: "susceptibility loci"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1708726:Locus [Gene or Genome]
+
+Phrase: "have"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "been"
+
+Phrase: "identified for a number of complex disorders,"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   774   C1880155:Complex Number [Quantitative Concept]
+   748   C0012634:Disorders [Disease or Syndrome]
+   748   C0205396:Identified [Qualitative Concept]
+   748   C0237753:*Number [Quantitative Concept]
+   748   C0439855:Complex [Qualitative Concept]
+   748   C0449788:Number [Quantitative Concept]
+   748   C1550043:Identified [Finding]
+   748   C1551388:Identified [Functional Concept]
+   748   C1704241:Complex [Chemical Viewed Structurally]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "non-insulin-dependent diabetes mellitus"
+Meta Candidates (Total=17; Excluded=2; Pruned=0; Remaining=15)
+  1000   C0011860:Diabetes Mellitus, Non-Insulin-Dependent [Disease or Syndrome]
+           Non-Insulin Dependent Diabetes
+  1000   C2697407:DIABETES MELLITUS, NONINSULIN-DEPENDENT [Gene or Genome]
+   937   C0011854:Diabetes Mellitus, Insulin-Dependent [Disease or Syndrome]
+           Insulin Dependent Diabetes
+   840   C0011849:Diabetes Mellitus [Disease or Syndrome]
+           Diabetes
+   804   C0011847:Diabetes [Disease or Syndrome]
+   804   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C0851827:Dependent [Qualitative Concept]
+   804   C1518422:Non [Functional Concept]
+   804   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C1579433:Insulin [Pharmacologic Substance]
+   804   C1701901:Dependent [Qualitative Concept]
+   804   C3244310:dependent [Functional Concept]
+   748 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   721 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "(Horikawa et al,"
+
+Phrase: "2000"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "schizophrenia."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0036341:Schizophrenia [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.20: Where loci are identified the completed genome draft will improve our ability to explore these large regions, which until now have required extensive mutation screening or DNA sequencing to uncover causative genetic mutations (Risch, 2000). 
+
+Phrase: "Where loci"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1708726:Locus [Gene or Genome]
+
+Phrase: "are"
+
+Phrase: "identified"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+
+Phrase: "the completed genome draft"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1547277:Draft [Intellectual Product]
+   827   C3245506:Draft [Intellectual Product]
+
+Phrase: "will"
+
+Phrase: "improve"
+
+Phrase: "our ability to"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0085732:Ability [Organism Attribute]
+   789 E C1299581:Able [Finding]
+
+Phrase: "explore"
+
+Phrase: "these large regions,"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   827   C0017446:Region [Geographic Area]
+   827   C0205147:Region [Spatial Concept]
+   777 E C0205276:Regional [Spatial Concept]
+   777 E C1947913:Regional [Spatial Concept]
+
+Phrase: "which"
+
+Phrase: "until"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "have"
+
+Phrase: "required extensive mutation screening"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   812   C0220908:Screening [Health Care Activity]
+   812   C0220909:screening [Functional Concept]
+   812   C1698960:screening [Intellectual Product]
+   812   C1710031:Screening [Diagnostic Procedure]
+   812   C1710477:SCREENING [Research Activity]
+
+Phrase: "or"
+
+Phrase: "DNA sequencing to"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   882   C0162326:DNA sequencing [Nucleotide Sequence]
+   882   C0917792:DNA Sequencing [Laboratory Procedure,Molecular Biology Research Technique]
+   790   C1553778:Sequencing [Intellectual Product]
+   790   C1561491:Sequencing [Functional Concept]
+
+Phrase: "uncover"
+
+Phrase: "causative genetic mutations"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   901   C0026882:genetic mutations [Genetic Function]
+           Mutations
+   793 E C1705285:Mutation [Cell or Molecular Dysfunction]
+
+Phrase: "(Risch,"
+
+Phrase: "2000"
+
+Phrase: ")."
+Processing 00000000.tx.21: For complex disorders, individual gene effects may be too small to identify by linkage, so new positional cloning methods and expansion in genotyping and analytical capacity will be necessary to identify all loci. 
+
+Phrase: "For complex disorders,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0012634:Disorders [Disease or Syndrome]
+
+Phrase: "individual gene effects"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C1280500:effects [Qualitative Concept]
+   793 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "too small to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0700321:Small [Quantitative Concept]
+
+Phrase: "identify by linkage,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0023745:linkage [Molecular Function]
+
+Phrase: "so"
+
+Phrase: "new positional cloning methods"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   858   C1704534:Positional Method [Therapeutic or Preventive Procedure]
+   812   C0025663:Methods [Intellectual Product]
+   812   C0025664:methods [Intellectual Product]
+   812   C0449851:Methods [Functional Concept]
+   779 E C0871511:METHOD [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "expansion in genotyping"
+
+Phrase: "and"
+
+Phrase: "analytical capacity"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1516240:Capacity [Quantitative Concept]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "necessary to"
+
+Phrase: "identify"
+
+Phrase: "all loci."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1708726:Locus [Gene or Genome]
+Processing 00000000.tx.22: Ultimately all DNA variation, or at least all variation that influences function, may need to be tested (Risch, 2000). 
+
+Phrase: "Ultimately"
+
+Phrase: "all DNA variation,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205419:Variation [Qualitative Concept]
+
+Phrase: "or at least"
+
+Phrase: "all variation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205419:Variation [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "influences"
+
+Phrase: "function,"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+  1000   C0031843:function [Physiologic Function]
+  1000   C0542341:Function [Functional Concept]
+  1000   C0700205:FUNCTION [Classification]
+  1000   C1705273:Function [Intellectual Product]
+   928 E C0205245:Functional [Functional Concept]
+   928 E C2700217:Functional [Conceptual Entity]
+
+Phrase: "may"
+
+Phrase: "need"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027552:Need [Qualitative Concept]
+  1000   C0686904:need [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "tested"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0392366:tested [Intellectual Product]
+   966 E C0022885:Test [Laboratory Procedure]
+   966 E C0039593:Test [Functional Concept]
+
+Phrase: "(Risch,"
+
+Phrase: "2000"
+
+Phrase: ")."
+Processing 00000000.tx.23: This is a considerable challenge, as total genomic variation is immense. 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: "a considerable challenge,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0798503:Challenge [Clinical Attribute]
+   861   C0805586:Challenge [Health Care Activity]
+   861   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "as"
+
+Phrase: "total genomic variation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0205419:Variation [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "immense."
+Processing 00000000.tx.24: A major collaborative effort by the SNP Consortium (http://www.ncbi.nlm.nih.gov/SNP/get_html.cgi?whichHtml=overview) has identified 4 million single-nucleotide polymorphisms (SNPs), the commonest form of DNA variation, across the human genome. 
+
+Phrase: "A major collaborative effort by the SNP Consortium"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0015264:Effort [Organism Function]
+
+Phrase: "(http"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1555015:HTTP [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "//www.ncbi.nlm.nih.gov/SNP/get_html.cgi?whichHtml"
+
+Phrase: "=overview"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0814812:overview [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "has"
+
+Phrase: "identified"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+
+Phrase: "4 million single-nucleotide polymorphisms (SNPs),"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   884   C0752046:Single Nucleotide Polymorphisms [Nucleotide Sequence]
+   804   C0028630:Nucleotide [Nucleic Acid, Nucleoside, or Nucleotide]
+   804   C0032529:polymorphisms [Genetic Function]
+   804   C0037179:Single [Population Group]
+   804   C0087136:single [Finding]
+   804   C0205171:Single [Quantitative Concept]
+   771 E C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "the commonest form of DNA variation,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0348078:Form [Qualitative Concept]
+   753   C0376315:Form [Manufactured Object]
+   753   C1522492:Form [Functional Concept]
+
+Phrase: "across the human genome."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0017429:Genome, Human [Gene or Genome]
+   861   C0017428:Genome [Gene or Genome]
+   861   C2338314:Genome [Conceptual Entity]
+Processing 00000000.tx.25: Comprehensive data on functionally relevant SNPs and their frequencies in different populations are only in development. 
+
+Phrase: "Comprehensive data on functionally relevant SNPs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C1511726:Data [Idea or Concept]
+   744   C3245479:data [Medical Device]
+
+Phrase: "and"
+
+Phrase: "their frequencies in different populations"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+   781   C0017270:Population Frequency [Quantitative Concept]
+   760   C0439603:Frequencies [Temporal Concept]
+   726 E C0376249:frequency [Quantitative Concept]
+   726 E C0871396:Frequency [Quantitative Concept]
+   726 E C1561548:Frequency [Qualitative Concept]
+   726 E C1705502:Frequency [Quantitative Concept]
+
+Phrase: "are"
+
+Phrase: "only in development."
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   790   C0205171:Only [Quantitative Concept]
+   790   C0243107:development [Physiologic Function]
+   790   C0678723:Development [Organism Function]
+   790   C1527148:Development [Functional Concept]
+   790   C1720467:Only [Intellectual Product]
+   718 E C0458003:Developmental [Qualitative Concept]
+Processing 00000000.tx.26: Exploiting this information, when it becomes available, to directly test all functional SNPs may require a 100-fold increase in genotyping capacity. 
+
+Phrase: "Exploiting"
+
+Phrase: "this information,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1533716:Information [Idea or Concept]
+   928 E C3242430:informational [Idea or Concept]
+
+Phrase: "when"
+
+Phrase: "it"
+
+Phrase: "becomes"
+
+Phrase: "available, to directly"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0470187:Available [Functional Concept]
+   827   C1947931:Directly [Qualitative Concept]
+
+Phrase: "test"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0022885:Test [Laboratory Procedure]
+  1000   C0039593:Test [Functional Concept]
+  1000   C0392366:test [Intellectual Product]
+
+Phrase: "all functional SNPs"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   923   C0752046:Single Nucleotide Polymorphisms [Nucleotide Sequence]
+   812   C0028630:Nucleotide [Nucleic Acid, Nucleoside, or Nucleotide]
+   812   C0032529:polymorphisms [Genetic Function]
+   812   C0037179:Single [Population Group]
+   812   C0087136:single [Finding]
+   812   C0205171:Single [Quantitative Concept]
+   779 E C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "may"
+
+Phrase: "require"
+
+Phrase: "a 100-fold increase in genotyping capacity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0442805:Increase [Functional Concept]
+Processing 00000000.tx.27: Modern genotyping methods using hybridisation (e.g. DNA chip microarrays), primer extension (e.g. mass spectrometry, pyrosequencing), oligo-nucleotide ligation (e.g. microarray ligation) or allele-specific polymerase chain reaction (PCR) are all limited by the necessity of a PCR amplification step. 
+
+Phrase: "Modern genotyping methods"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0025663:Methods [Intellectual Product]
+   827   C0025664:methods [Intellectual Product]
+   827   C0449851:Methods [Functional Concept]
+   793 E C0871511:METHOD [Intellectual Product]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "hybridisation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0020202:Hybridisation [Genetic Function]
+  1000   C1300517:Hybridization [Laboratory Procedure]
+
+Phrase: "("
+
+Phrase: "e.g. DNA chip microarrays"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   913   C0600596:DNA Microarrays [Research Device]
+           DNA Chip
+   896 E C1522053:DNA Microarray [Molecular Biology Research Technique]
+   793   C1709016:Microarray [Manufactured Object]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "primer extension"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1514433:Primer Extension [Molecular Biology Research Technique]
+   861   C0231448:Extension [Functional Concept]
+   861   C1880641:Extension [Conceptual Entity]
+
+Phrase: "("
+
+Phrase: "e.g. mass spectrometry,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0037813:Mass Spectrometry [Laboratory Procedure]
+   861   C0436196:Spectrometry [Laboratory Procedure]
+   861   C0577559:Mass [Finding]
+   861   C1306372:*Mass [Quantitative Concept]
+   861   C3152252:Mass [Quantitative Concept]
+
+Phrase: "pyrosequencing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2737269:Pyrosequencing [Laboratory Procedure]
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "oligo-nucleotide ligation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0023690:Ligation [Therapeutic or Preventive Procedure]
+
+Phrase: "("
+
+Phrase: "e.g. microarray ligation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0023690:Ligation [Therapeutic or Preventive Procedure]
+
+Phrase: ")"
+
+Phrase: "or"
+
+Phrase: "allele-specific polymerase chain reaction (PCR)"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   884   C0032520:Polymerase Chain Reaction [Laboratory Procedure,Molecular Biology Research Technique]
+   804   C0337112:Chain [Manufactured Object]
+   804   C0443286:Reaction [Functional Concept]
+   804   C1114821:Reaction [Clinical Attribute]
+   804   C1335439:Polymerase [Amino Acid, Peptide, or Protein,Enzyme]
+   804   C1524075:Chain [Idea or Concept]
+
+Phrase: "are"
+
+Phrase: "all"
+
+Phrase: "limited by the necessity of a PCR amplification step."
+Meta Candidates (Total=17; Excluded=2; Pruned=0; Remaining=15)
+   775   C0032520:Polymerase Chain Reaction [Laboratory Procedure,Molecular Biology Research Technique]
+   738   C0337112:Chain [Manufactured Object]
+   738   C0439801:Limited [Functional Concept]
+   738   C0443286:Reaction [Functional Concept]
+   738   C1114821:Reaction [Clinical Attribute]
+   738   C1261552:Step [Conceptual Entity]
+   738   C1335439:Polymerase [Amino Acid, Peptide, or Protein,Enzyme]
+   738   C1517480:Amplification [Molecular Biology Research Technique]
+   738   C1521871:Amplification [Phenomenon or Process]
+   738   C1524075:Chain [Idea or Concept]
+   738   C1704379:Step [Functional Concept]
+   738   C1705117:Step [Quantitative Concept]
+   738   C1705759:Amplification [Cell or Molecular Dysfunction]
+   738   C2825408:Step [Manufactured Object]
+   738   C3542948:Limited [Intellectual Product]
+   704 E C1549649:Limit [Idea or Concept]
+   704 E C2349209:Limit [Conceptual Entity]
+Processing 00000000.tx.28: Novel genotyping methods, perhaps avoiding this step, will be required before tests of all functional SNPs will be feasible (Syvnen, 2001). 
+
+Phrase: "Novel genotyping methods,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0025663:Methods [Intellectual Product]
+   827   C0025664:methods [Intellectual Product]
+   827   C0449851:Methods [Functional Concept]
+   793 E C0871511:METHOD [Intellectual Product]
+
+Phrase: "perhaps"
+
+Phrase: "avoiding"
+
+Phrase: "this step,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C1261552:Step [Conceptual Entity]
+  1000   C1704379:Step [Functional Concept]
+  1000   C1705117:Step [Quantitative Concept]
+  1000   C2825408:Step [Manufactured Object]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "required before tests of all functional SNPs"
+Meta Candidates (Total=14; Excluded=2; Pruned=0; Remaining=12)
+   790   C0752046:Single Nucleotide Polymorphisms [Nucleotide Sequence]
+   742   C0022885:Tests [Laboratory Procedure]
+   742   C0028630:Nucleotide [Nucleic Acid, Nucleoside, or Nucleotide]
+   742   C0032529:polymorphisms [Genetic Function]
+   742   C0037179:Single [Population Group]
+   742   C0087136:single [Finding]
+   742   C0205171:Single [Quantitative Concept]
+   742   C0205245:Functional [Functional Concept]
+   742   C0392366:Tests [Intellectual Product]
+   742   C0542341:Functional [Functional Concept]
+   742   C1514873:Required [Functional Concept]
+   742   C2700217:Functional [Conceptual Entity]
+   708 E C0039593:Test [Functional Concept]
+   708 E C1882417:Polymorphism [Qualitative Concept]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "feasible"
+
+Phrase: "(Syvnen,"
+
+Phrase: "2001"
+
+Phrase: ")."
+Processing 00000000.tx.29: Recent studies of genome structure may make it possible to capture total genomic variation using information from only a fraction of all DNA variants. 
+
+Phrase: "Recent studies of genome structure"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   760   C0947630:studies [Laboratory Procedure]
+   726 E C0557651:Study [Manufactured Object]
+   726 E C2603343:Study [Research Activity]
+
+Phrase: "may"
+
+Phrase: "make"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881534:Make [Functional Concept]
+
+Phrase: "it possible to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0332149:Possible [Qualitative Concept]
+   861   C1705910:Possible [Qualitative Concept]
+   861   C2362652:Possible [Qualitative Concept]
+
+Phrase: "capture"
+
+Phrase: "total genomic variation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0205419:Variation [Qualitative Concept]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "information from only"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C1533716:Information [Idea or Concept]
+   718 E C3242430:informational [Idea or Concept]
+
+Phrase: "a fraction of all DNA variants."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C1264633:Fraction of [Quantitative Concept]
+           Fraction
+   753   C1554103:Fraction [Idea or Concept]
+Processing 00000000.tx.30: This economy depends on linkage disequilibrium, the non-random association between variants at adjacent loci. 
+
+Phrase: "This economy"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0013556:economy [Occupation or Discipline]
+  1000   C0870462:Economy [Quantitative Concept]
+   928 E C0013557:Economic [Functional Concept]
+
+Phrase: "depends on linkage disequilibrium,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   833   C0023746:Linkage Disequilibrium [Quantitative Concept]
+   770   C0023745:linkage [Molecular Function]
+   770   C0281825:Disequilibrium [Finding]
+   770   C0394006:Disequilibrium [Disease or Syndrome]
+   770   C0725813:depend [Medical Device]
+
+Phrase: "the non-random association between variants"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0004083:Association [Mental Process]
+   753   C0439849:Association [Qualitative Concept]
+   753   C0596306:Association [Phenomenon or Process]
+   753   C0699792:association [Social Behavior]
+
+Phrase: "at adjacent loci."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1708726:Locus [Gene or Genome]
+Processing 00000000.tx.31: Linkage disequilibrium occurs in populations because approximately two recombination events occur per chromosome at meiosis. 
+
+Phrase: "Linkage disequilibrium"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0023746:Linkage Disequilibrium [Quantitative Concept]
+   861   C0023745:linkage [Molecular Function]
+   861   C0281825:Disequilibrium [Finding]
+   861   C0394006:Disequilibrium [Disease or Syndrome]
+
+Phrase: "occurs in populations"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0032659:Population [Quantitative Concept]
+   790   C1257890:Population [Population Group]
+   790   C1709305:Occur [Activity]
+   790   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "because"
+
+Phrase: "approximately two recombination events"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0441471:Events [Event]
+   812   C3541888:Events [Classification]
+
+Phrase: "occur per chromosome"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0008633:Chromosome [Cell Component]
+   790   C1709305:Occur [Activity]
+   790   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "at meiosis."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0025186:Meiosis [Cell Function]
+   928 E C0026207:Miotic [Pharmacologic Substance]
+Processing 00000000.tx.32: Consequently, markers that are closely physically located tend to remain together over many generations  analogous to playing cards sticking together until disrupted by repeated shuffling. 
+
+Phrase: "Consequently,"
+
+Phrase: "markers"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0005516:Marker [Clinical Attribute]
+
+Phrase: "that"
+
+Phrase: "are"
+
+Phrase: "closely physically"
+
+Phrase: "located"
+
+Phrase: "tend"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "remain"
+
+Phrase: "together over many generations"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   770   C0079411:Generations [Temporal Concept]
+   770   C1883357:Together [Qualitative Concept]
+   737 E C3146294:Generation [Activity]
+
+Phrase: "analogous to playing cards"
+
+Phrase: "sticking"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C1883170:STICKING [Event]
+   966 E C1706582:Stick [Biomedical or Dental Material]
+   966 E C1706583:Stick [Quantitative Concept]
+
+Phrase: "together"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883357:Together [Qualitative Concept]
+
+Phrase: "until"
+
+Phrase: "disrupted by repeated shuffling."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0205341:Repeated [Functional Concept]
+   770   C0332454:Disrupted [Qualitative Concept]
+   770   C2584310:Shuffling [Daily or Recreational Activity]
+   737 E C0560464:shuffle [Finding]
+Processing 00000000.tx.33: New evidence suggests that linkage disequilibrium follows highly structured block patterns and each block might be characterised by a small number of variants (Daly et al, 2001). 
+
+Phrase: "New evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "suggests"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that linkage disequilibrium"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0023746:Linkage Disequilibrium [Quantitative Concept]
+   861   C0023745:linkage [Molecular Function]
+   861   C0281825:Disequilibrium [Finding]
+   861   C0394006:Disequilibrium [Disease or Syndrome]
+
+Phrase: "follows"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332283:follow [Temporal Concept]
+  1000   C1719822:Follow [Intellectual Product]
+
+Phrase: "highly structured block patterns"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0449774:Patterns [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "each block"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0028778:Block [Pathologic Function]
+  1000   C0332206:Block [Functional Concept]
+  1000   C1533157:Block [Substance]
+  1000   C1706084:Block [Geographic Area]
+  1000   C2828370:Block [Quantitative Concept]
+   928 E C2983591:BLOCKED [Research Activity]
+
+Phrase: "might"
+
+Phrase: "be"
+
+Phrase: "characterised by a small number of variants"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0205419:variants [Qualitative Concept]
+   748   C0237753:*Number [Quantitative Concept]
+   748   C0449788:Number [Quantitative Concept]
+   748   C0700321:Small [Quantitative Concept]
+
+Phrase: "(Daly et al,"
+
+Phrase: "2001"
+
+Phrase: ")."
+Processing 00000000.tx.34: Understanding patterns of linkage disequilibrium across the genome in different populations is a major goal of current research, but even optimistic predictions of the number of markers ( 50 000) required for genome-wide association are far beyond current capacity. 
+
+Phrase: "Understanding"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0162340:Understanding [Mental Process]
+
+Phrase: "patterns of linkage disequilibrium"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0449774:Patterns [Spatial Concept]
+
+Phrase: "across the genome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017428:Genome [Gene or Genome]
+  1000   C2338314:Genome [Conceptual Entity]
+
+Phrase: "in different populations"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0032659:Population [Quantitative Concept]
+   861   C1257890:Population [Population Group]
+
+Phrase: "is"
+
+Phrase: "a major goal of current research,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0018017:Goal [Intellectual Product]
+   753   C1571704:Goal [Idea or Concept]
+
+Phrase: "but"
+
+Phrase: "even optimistic predictions of the number of markers"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0681842:predictions [Idea or Concept]
+
+Phrase: "( 50 000"
+
+Phrase: ")"
+
+Phrase: "required for genome-wide association"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   760   C0004083:Association [Mental Process]
+   760   C0017428:Genome [Gene or Genome]
+   760   C0332464:Wide [Spatial Concept]
+   760   C0439849:Association [Qualitative Concept]
+   760   C0596306:Association [Phenomenon or Process]
+   760   C0699792:association [Social Behavior]
+   760   C1514873:Required [Functional Concept]
+   760   C2338314:Genome [Conceptual Entity]
+
+Phrase: "are"
+
+Phrase: "far beyond current capacity."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0205108:far [Spatial Concept]
+   770   C0521116:Current [Temporal Concept]
+   770   C1516240:Capacity [Quantitative Concept]
+   770   C1705970:Current [Natural Phenomenon or Process]
+Processing 00000000.tx.35: However, linkage disequilibrium structural information will be useful and will allow much more efficient mapping of susceptibility loci, but at a cost. 
+
+Phrase: "However,"
+
+Phrase: "linkage disequilibrium structural information"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   812   C1533716:Information [Idea or Concept]
+   741 E C3242430:informational [Idea or Concept]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "useful"
+
+Phrase: "and"
+
+Phrase: "will"
+
+Phrase: "allow"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allow [Social Behavior]
+
+Phrase: "much more efficient mapping of susceptibility loci,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1283195:Mapping [Activity]
+
+Phrase: "but at a cost."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0010186:Cost [Quantitative Concept]
+   770   C0220812:cost [Quantitative Concept]
+   770   C0233535:but [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.36: Association studies identify haplotypes (sequences of DNA uninterrupted by recombination) containing susceptibility genes, but may not allow localisation of a specific mutation because of complete linkage disequilibrium between variants within the haplotype. 
+
+Phrase: "Association studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "identify"
+
+Phrase: "haplotypes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0018591:Haplotypes [Organism Attribute]
+
+Phrase: "(sequences of DNA"
+Meta Candidates (Total=7; Excluded=5; Pruned=0; Remaining=2)
+   858   C0162326:DNA Sequences [Nucleotide Sequence]
+           Sequences
+   756 E C0004793:Sequence [Nucleotide Sequence]
+   756 E C0162327:Sequence [Nucleotide Sequence]
+   756 E C1519249:Sequence [Functional Concept]
+   706 E C1548958:Sequential [Idea or Concept]
+   706 E C1705294:Sequential [Qualitative Concept]
+
+Phrase: "uninterrupted by recombination"
+
+Phrase: ")"
+
+Phrase: "containing susceptibility genes,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   884   C0919453:Susceptibility Gene [Gene or Genome]
+   827   C0017337:Genes [Gene or Genome]
+
+Phrase: "but"
+
+Phrase: "may"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "allow"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allow [Social Behavior]
+
+Phrase: "localisation of a specific mutation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0475264:Localisation [Functional Concept]
+   760   C1744691:localisation [Biologic Function]
+
+Phrase: "because of complete linkage disequilibrium"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0023746:Linkage Disequilibrium [Quantitative Concept]
+   901   C1880153:Complete Linkage [Research Activity]
+   827   C0023745:linkage [Molecular Function]
+   827   C0281825:Disequilibrium [Finding]
+   827   C0394006:Disequilibrium [Disease or Syndrome]
+
+Phrase: "between variants"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205419:variants [Qualitative Concept]
+
+Phrase: "within the haplotype."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0018591:Haplotype [Organism Attribute]
+Processing 00000000.tx.37: GENE MUTATION IDENTIFICATION INFORMED BY NEUROBIOLOGY The positional cloning strategies outlined will not develop in a vacuum. 
+
+Phrase: "GENE MUTATION IDENTIFICATION"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0020792:Identification [Mental Process]
+   827   C0205396:Identification [Qualitative Concept]
+   734   C0596611:Gene Mutation [Genetic Function]
+
+Phrase: "INFORMED BY NEUROBIOLOGY"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   790   C0027817:Neurobiology [Biomedical Occupation or Discipline]
+   790   C1522154:Informed [Qualitative Concept]
+   756 E C0537670:Inform [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   756 E C0700287:inform [Health Care Activity]
+   756 E C1552002:inform [Idea or Concept]
+
+Phrase: "The positional cloning strategies"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0679199:strategies [Mental Process]
+   734   C1656250:positional cloning [Research Activity]
+
+Phrase: "outlined"
+
+Phrase: "will"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "develop in a vacuum."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0042221:Vacuum [Natural Phenomenon or Process]
+Processing 00000000.tx.38: Direct examination for association (or linkage disequilibrium) between DNA variants and phenotypes is a more powerful method of detecting small gene effects than linkage. 
+
+Phrase: "Direct examination for association"
+
+Phrase: "("
+
+Phrase: "or"
+
+Phrase: "linkage disequilibrium"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0023746:Linkage Disequilibrium [Quantitative Concept]
+   861   C0023745:linkage [Molecular Function]
+   861   C0281825:Disequilibrium [Finding]
+   861   C0394006:Disequilibrium [Disease or Syndrome]
+
+Phrase: ")"
+
+Phrase: "between DNA variants"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205419:variants [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "phenotypes"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0031437:Phenotypes [Organism Attribute]
+   966 E C1285572:Phenotype [Laboratory Procedure]
+
+Phrase: "is"
+
+Phrase: "a more powerful method of detecting small gene effects"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   742   C0025663:Method [Intellectual Product]
+   742   C0449851:Method [Functional Concept]
+   742   C0871511:METHOD [Intellectual Product]
+
+Phrase: "than linkage."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023745:linkage [Molecular Function]
+Processing 00000000.tx.39: Until all variation can be examined, we are dependent on scientific hypotheses to select candidate genes to be tested for association with disease. 
+
+Phrase: "Until all variation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205419:Variation [Qualitative Concept]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "examined"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332128:Examined [Finding]
+
+Phrase: ","
+
+Phrase: "we"
+
+Phrase: "are"
+
+Phrase: "dependent on scientific hypotheses to"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0851827:Dependent [Qualitative Concept]
+   760   C1701901:Dependent [Qualitative Concept]
+   760   C3244310:dependent [Functional Concept]
+
+Phrase: "select"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707391:Select [Activity]
+
+Phrase: "candidate genes to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C1332838:Candidate Genes [Gene or Genome]
+   827   C0017337:Genes [Gene or Genome]
+
+Phrase: "be"
+
+Phrase: "tested for association"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+   790   C0004083:Association [Mental Process]
+   790   C0392366:tested [Intellectual Product]
+   790   C0439849:Association [Qualitative Concept]
+   790   C0596306:Association [Phenomenon or Process]
+   790   C0699792:association [Social Behavior]
+   756 E C0022885:Test [Laboratory Procedure]
+   756 E C0039593:Test [Functional Concept]
+
+Phrase: "with disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.40: Because the aetiology of many neuropsychiatric disorders is obscure, the number of plausible candidate genes is large and prior probability that a given variant is associated with disease is low. 
+
+Phrase: "Because"
+
+Phrase: "the aetiology of many neuropsychiatric disorders"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   767   C1314792:disorder etiology [Functional Concept]
+           Aetiology
+   753   C0015127:aetiology [Functional Concept]
+   753   C1524003:Etiology [Conceptual Entity]
+
+Phrase: "is"
+
+Phrase: "obscure,"
+
+Phrase: "the number of plausible candidate genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0237753:*Number [Quantitative Concept]
+   753   C0449788:Number [Quantitative Concept]
+
+Phrase: "is"
+
+Phrase: "large"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0549177:Large [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "prior probability"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0033204:Probability [Quantitative Concept]
+   789 E C0332148:Probable [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "a given variant"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205419:Variant [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "associated with disease"
+Meta Candidates (Total=9; Excluded=5; Pruned=0; Remaining=4)
+   882   C0332281:Associated with [Qualitative Concept]
+           Associated
+   858   C0243083:associated disease [Pathologic Function]
+   790   C0012634:Disease [Disease or Syndrome]
+   756 E C0750490:Associate [Idea or Concept]
+   756 E C1706221:Associate [Professional or Occupational Group]
+   734 E C1836721:MALS [Finding]
+   734 E C3538764:MALS [Gene or Genome]
+   734 E C3540595:MAL [Gene or Genome]
+
+Phrase: "is"
+
+Phrase: "low."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205251:low [Qualitative Concept]
+  1000   C1299352:Low [Qualitative Concept]
+  1000   C1550472:low [Idea or Concept]
+Processing 00000000.tx.41: Where success has been achieved it has depended on strong test hypotheses (e.g. DAT1 in attention-deficit hyperactivity disorder). 
+
+Phrase: "Where success"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0597535:Success [Social Behavior]
+   789 E C1272703:Successful [Qualitative Concept]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "achieved"
+
+Phrase: "it"
+
+Phrase: "has"
+
+Phrase: "depended on strong test hypotheses"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   781   C0237913:Hypothesis Test [Intellectual Product]
+   760   C0022885:Test [Laboratory Procedure]
+   760   C0039593:Test [Functional Concept]
+   760   C0392366:test [Intellectual Product]
+   760   C0442821:Strong [Qualitative Concept]
+   726   C0725813:depend [Medical Device]
+   726   C1512571:Hypothesis [Idea or Concept]
+
+Phrase: "("
+
+Phrase: "e.g. DAT1 in attention-deficit hyperactivity disorder"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C1416882:DAT1 [Gene or Genome]
+   744   C1420213:DAT1 [Gene or Genome]
+
+Phrase: ")."
+Processing 00000000.tx.42: Research in neuroscience is improving our molecular understanding of neuro-development and brain function. 
+
+Phrase: "Research in neuroscience"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0035168:research [Research Activity]
+   790   C0242481:Research [Research Activity]
+
+Phrase: "is"
+
+Phrase: "improving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1272745:Improving [Qualitative Concept]
+
+Phrase: "our molecular understanding of neuro-development"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162340:Understanding [Mental Process]
+
+Phrase: "and"
+
+Phrase: "brain function."
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+  1000   C0678908:brain function [Organ or Tissue Function]
+   861   C0006104:Brain [Body Part, Organ, or Organ Component]
+   861   C0031843:function [Physiologic Function]
+   861   C0542341:Function [Functional Concept]
+   861   C0700205:FUNCTION [Classification]
+   861   C1269537:Brain [Body Part, Organ, or Organ Component]
+   861   C1705273:Function [Intellectual Product]
+   789 E C0205245:Functional [Functional Concept]
+   789 E C2700217:Functional [Conceptual Entity]
+Processing 00000000.tx.43: The structure of brain regions and neural systems at a molecular level are being delineated; 
+
+Phrase: "The structure of brain regions"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   862   C0006104:Structure of brain [Body Part, Organ, or Organ Component]
+           Brain structure
+   760   C0678594:Structure [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "neural systems at a molecular level"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   729   C0027763:Systems, Nervous [Body System]
+   719   C0449913:System [Functional Concept]
+   719   C1553451:System [Manufactured Object]
+   719   C1704459:System [Medical Device]
+   712 E C0422837:NERVOUS SYSTEM [Finding]
+   712 E C1269560:Nervous system [Body System]
+
+Phrase: "are"
+
+Phrase: "being"
+
+Phrase: "delineated"
+
+Phrase: ";"
+Processing 00000000.tx.44: for example, at least 16 distinct gene clusters ( 1000 genes) are involved in neuronal proliferation, differentiation, synapse formation and maturation in normal hippocampus development (Mody et al, 2001). 
+
+Phrase: "for example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "at least 16 distinct gene clusters"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   840   C0017258:Gene Clusters [Gene or Genome]
+   771   C1555715:Cluster [Idea or Concept]
+   771   C1704332:Cluster [Quantitative Concept]
+
+Phrase: "( 1000 genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017337:Genes [Gene or Genome]
+
+Phrase: ")"
+
+Phrase: "are"
+
+Phrase: "involved in neuronal proliferation,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0334094:Proliferation [Pathologic Function]
+   770   C0521390:Neuronal [Immunologic Factor]
+   770   C1314939:Involved [Functional Concept]
+   770   C1514485:Proliferation [Functional Concept]
+
+Phrase: "differentiation,"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0007589:Differentiation [Cell Function]
+  1000   C1511938:Differentiation [Clinical Attribute]
+  1000   C2945687:Differentiation [Functional Concept]
+   928 E C0205615:Differentiated [Qualitative Concept]
+
+Phrase: "synapse formation"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0597545:synapse formation [Organ or Tissue Function]
+   861   C0220781:formation [Biologic Function]
+   861   C0439634:formation [Spatial Concept]
+   861   C1522492:Formation [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "maturation in normal hippocampus development"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   762   C1818255:developmental maturation [Organ or Tissue Function]
+   760   C0678723:Maturation [Organism Function]
+   760   C0870861:maturation [Phenomenon or Process]
+   760   C1254042:Maturation [Physiologic Function]
+
+Phrase: "(Mody et al,"
+
+Phrase: "2001"
+
+Phrase: ")."
+Processing 00000000.tx.45: As our aptitude for directly testing DNA variation improves, so too will our molecular understanding of neural systems, allowing more comprehensive and refined candidate gene studies. 
+
+Phrase: "As our aptitude"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0003646:Aptitude [Mental Process]
+   928 E C0003645:APT [Organic Chemical,Pharmacologic Substance]
+   928 E C1427290:APT [Gene or Genome]
+
+Phrase: "for directly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947931:Directly [Qualitative Concept]
+
+Phrase: "testing"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0039593:Testing [Functional Concept]
+  1000   C0392366:testing [Intellectual Product]
+   966 E C0022885:Test [Laboratory Procedure]
+
+Phrase: "DNA variation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205419:Variation [Qualitative Concept]
+
+Phrase: "improves"
+
+Phrase: ","
+
+Phrase: "so"
+
+Phrase: "too"
+
+Phrase: "will"
+
+Phrase: "our molecular understanding of neural systems,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162340:Understanding [Mental Process]
+
+Phrase: "allowing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allowing [Social Behavior]
+
+Phrase: "more comprehensive"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1880156:Comprehensive [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "refined candidate gene studies."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   861   C1273305:Gene studies [Laboratory Procedure]
+   812   C0947630:studies [Laboratory Procedure]
+   779 E C0557651:Study [Manufactured Object]
+   779 E C2603343:Study [Research Activity]
+Processing 00000000.tx.46: Gene expression studies will also directly inform candidate gene selection: first, by allowing the expression of all genes in susceptibility loci to be tested directly (Shoemaker et al, 2001), and second, by demonstrating differential gene expression between disease tissue from case and control samples. 
+
+Phrase: "Gene expression studies"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   913   C1273305:Gene studies [Laboratory Procedure]
+   827   C0947630:studies [Laboratory Procedure]
+   793 E C0557651:Study [Manufactured Object]
+   793 E C2603343:Study [Research Activity]
+   734   C0017262:Gene Expression [Genetic Function]
+
+Phrase: "will"
+
+Phrase: "also directly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1947931:Directly [Qualitative Concept]
+
+Phrase: "inform"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0537670:Inform [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+  1000   C0700287:inform [Health Care Activity]
+  1000   C1552002:inform [Idea or Concept]
+
+Phrase: "candidate gene selection"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0036576:selection [Genetic Function]
+   734   C1332838:Candidate Gene [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "first,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205435:First [Quantitative Concept]
+  1000   C1279901:First [Qualitative Concept]
+
+Phrase: "by allowing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allowing [Social Behavior]
+
+Phrase: "the expression of all genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   781   C0017262:Gene Expression [Genetic Function]
+   760   C0185117:Expression [Therapeutic or Preventive Procedure]
+
+Phrase: "in susceptibility loci to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   793   C1708726:Locus [Gene or Genome]
+
+Phrase: "be"
+
+Phrase: "tested"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0392366:tested [Intellectual Product]
+   966 E C0022885:Test [Laboratory Procedure]
+   966 E C0039593:Test [Functional Concept]
+
+Phrase: "directly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1947931:Directly [Qualitative Concept]
+
+Phrase: "(Shoemaker et al,"
+
+Phrase: "2001"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "second,"
+Meta Candidates (Total=7; Excluded=2; Pruned=0; Remaining=5)
+  1000   C0205436:Second [Quantitative Concept]
+  1000   C0457385:Second [Temporal Concept]
+  1000   C0565930:/second [Quantitative Concept]
+  1000   C1561503:second [Idea or Concept]
+  1000   C1705190:Second [Qualitative Concept]
+   928 E C0027627:secondary [Neoplastic Process]
+   928 E C0175668:Secondary [Temporal Concept]
+
+Phrase: "by"
+
+Phrase: "demonstrating"
+
+Phrase: "differential gene expression between disease tissue"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   833   C1519516:Differential Gene Expression [Genetic Function]
+   790   C0017262:Gene Expression [Genetic Function]
+   756   C1416989:MAL gene [Gene or Genome]
+   753   C0017337:Gene [Gene or Genome]
+   753   C0185117:Expression [Therapeutic or Preventive Procedure]
+
+Phrase: "from case"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0868928:Case [Functional Concept]
+  1000   C1706255:CASE [Medical Device]
+  1000   C1706256:Case [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "control samples."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0370003:Sample [Substance]
+   827   C2347026:Sample [Conceptual Entity]
+Processing 00000000.tx.47: Studies of this kind in schizophrenia may allow more focused candidate gene studies by demonstrating abnormal expression patterns for a tiny proportion of the thousands of genes tested. 
+
+Phrase: "Studies of this kind"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   770   C0947630:studies [Laboratory Procedure]
+   737 E C0557651:Study [Manufactured Object]
+   737 E C2603343:Study [Research Activity]
+
+Phrase: "in schizophrenia"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0036341:Schizophrenia [Mental or Behavioral Dysfunction]
+
+Phrase: "may"
+
+Phrase: "allow"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0683607:allow [Social Behavior]
+
+Phrase: "more focused candidate gene"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1332838:Candidate Gene [Gene or Genome]
+   812   C0017337:Gene [Gene or Genome]
+
+Phrase: "studies by"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   833   C0557651:Study [Manufactured Object]
+   833   C0947630:studies [Laboratory Procedure]
+   833   C2603343:Study [Research Activity]
+
+Phrase: "demonstrating"
+
+Phrase: "abnormal expression patterns for a tiny proportion of the thousands of genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   736   C0449774:Patterns [Spatial Concept]
+
+Phrase: "tested."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0392366:tested [Intellectual Product]
+   966 E C0022885:Test [Laboratory Procedure]
+   966 E C0039593:Test [Functional Concept]
+Processing 00000000.tx.48: BIOINFORMATICS Requirements for storage, analysis and interpretation of the vast amount of biological data generated by the Human Genome Project have spawned a new science, bioinformatics. 
+
+Phrase: "BIOINFORMATICS Requirements for storage,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C1514873:Requirement [Functional Concept]
+
+Phrase: "analysis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0002778:Analysis [Laboratory Procedure]
+  1000   C0936012:Analysis [Research Activity]
+  1000   C1524024:analysis [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "interpretation of the vast amount of biological data"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0459471:Interpretation [Intellectual Product]
+   744   C3173575:Interpretation [Clinical Attribute]
+
+Phrase: "generated by the Human Genome Project"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   833   C0020125:Human Genome Project [Research Activity]
+   790   C0017429:Genome, Human [Gene or Genome]
+   753   C0017428:Genome [Gene or Genome]
+   753   C0086418:Human [Human]
+   753   C1709701:Project [Conceptual Entity]
+   753   C2338314:Genome [Conceptual Entity]
+   753   C3146294:Generated [Activity]
+
+Phrase: "have"
+
+Phrase: "spawned"
+
+Phrase: "a new science,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0036397:Science [Occupation or Discipline]
+
+Phrase: "bioinformatics."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1140694:Bio-Informatics [Biomedical Occupation or Discipline]
+Processing 00000000.tx.49: Bioinformatics is the Rosetta stone that has rendered the genome intelligible. 
+
+Phrase: "Bioinformatics"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1140694:Bio-Informatics [Biomedical Occupation or Discipline]
+
+Phrase: "is"
+
+Phrase: "the Rosetta stone"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0006736:Stone [Body Substance]
+   789 E C0443312:Stoney [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "has"
+
+Phrase: "rendered"
+
+Phrase: "the genome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017428:Genome [Gene or Genome]
+  1000   C2338314:Genome [Conceptual Entity]
+
+Phrase: "intelligible."
+Processing 00000000.tx.50: Genes initially located experimentally from expressed sequences can now be identified computationally directly from the sequence. 
+
+Phrase: "Genes initially"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017337:Genes [Gene or Genome]
+
+Phrase: "located"
+
+Phrase: "experimentally from expressed sequences"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   770   C0162326:Sequences [Nucleotide Sequence]
+   737 E C0004793:Sequence [Nucleotide Sequence]
+   737 E C0162327:Sequence [Nucleotide Sequence]
+   737 E C1519249:Sequence [Functional Concept]
+
+Phrase: "can"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "be"
+
+Phrase: "identified"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+
+Phrase: "computationally directly from the sequence."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0004793:Sequence [Nucleotide Sequence]
+   760   C0162326:Sequence [Nucleotide Sequence]
+   760   C0162327:Sequence [Nucleotide Sequence]
+   760   C1519249:Sequence [Functional Concept]
+   760   C1947931:Directly [Qualitative Concept]
+Processing 00000000.tx.51: Algorithms can predict genes and gene structure inter alia by homology with either known human genomic/protein sequences or by comparison with sequences from other organisms. 
+
+Phrase: "Algorithms"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0002045:Algorithms [Intellectual Product]
+   966 E C1553907:algorithm [Laboratory Procedure]
+
+Phrase: "can"
+
+Phrase: "predict"
+
+Phrase: "genes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0017337:Genes [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "gene structure inter alia by homology"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C1517495:Gene Structure [Gene or Genome]
+   753   C0678594:Structure [Spatial Concept]
+   748 E C0017366:Structural gene [Gene or Genome]
+
+Phrase: "with either known human genomic/protein sequences"
+Meta Candidates (Total=9; Excluded=5; Pruned=0; Remaining=4)
+   839   C1142652:human protein [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   827   C0002518:protein sequences [Amino Acid Sequence]
+   799   C0033684:Protein [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   799   C0162326:Sequences [Nucleotide Sequence]
+   766 E C0004793:Sequence [Nucleotide Sequence]
+   766 E C0162327:Sequence [Nucleotide Sequence]
+   766 E C1519249:Sequence [Functional Concept]
+   716 E C1548958:Sequential [Idea or Concept]
+   716 E C1705294:Sequential [Qualitative Concept]
+
+Phrase: "or by comparison with sequences"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   760   C0162326:Sequences [Nucleotide Sequence]
+   760   C1707455:Comparison [Activity]
+   726 E C0004793:Sequence [Nucleotide Sequence]
+   726 E C0162327:Sequence [Nucleotide Sequence]
+   726 E C1519249:Sequence [Functional Concept]
+
+Phrase: "from other organisms."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0029235:Organisms [Organism]
+Processing 00000000.tx.52: As the draft genome is completed, integrated databases of gene structure, transcripts and proteomics are being developed which will contribute to our understanding of gene function and relationships (http://www.ensembl.org/genome/central). 
+
+Phrase: "As the draft genome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017428:Genome [Gene or Genome]
+   861   C2338314:Genome [Conceptual Entity]
+
+Phrase: "is"
+
+Phrase: "completed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205197:COMPLETED [Qualitative Concept]
+
+Phrase: ","
+
+Phrase: "integrated databases of gene structure,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0242356:Databases [Intellectual Product]
+   726 E C0993637:Database [Intellectual Product]
+
+Phrase: "transcripts"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1519595:Transcripts [Nucleic Acid, Nucleoside, or Nucleotide]
+
+Phrase: "and"
+
+Phrase: "proteomics"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0872252:Proteomics [Biomedical Occupation or Discipline]
+
+Phrase: "are"
+
+Phrase: "being"
+
+Phrase: "developed"
+
+Phrase: "which"
+
+Phrase: "will"
+
+Phrase: "contribute to our understanding of gene function"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   778   C0314627:Gene function [Genetic Function]
+   774   C0162340:Understanding, function [Mental Process]
+           Understanding
+   748   C0017337:Gene [Gene or Genome]
+   748   C0031843:function [Physiologic Function]
+   748   C0542341:Function [Functional Concept]
+   748   C0700205:FUNCTION [Classification]
+   748   C1705273:Function [Intellectual Product]
+   748   C1880177:Contribute [Activity]
+
+Phrase: "and"
+
+Phrase: "relationships"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0439849:Relationships [Qualitative Concept]
+   966 E C1705630:Relationship [Idea or Concept]
+   966 E C1706279:Relationship [Idea or Concept]
+   966 E C3540605:Relationship [Intellectual Product]
+
+Phrase: "(http"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1555015:HTTP [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "//www.ensembl.org/genome/central"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C0205099:Central [Spatial Concept]
+   804   C1879652:Central - [Laboratory Procedure]
+
+Phrase: ")."
+Processing 00000000.tx.53: Many secrets of the genome are still out of reach. 
+
+Phrase: "Many secrets of the genome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   726   C1424652:SECRET [Gene or Genome]
+
+Phrase: "are"
+
+Phrase: "still out of reach."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0439787:Out [Spatial Concept]
+   812   C0849355:Out [Qualitative Concept]
+   812   C2584321:Reach [Organism Function]
+Processing 00000000.tx.54: The Human Genome Project found fewer genes than expected, indicating that much of our genetic complexity may be because of gene regulation, alternative splice variation and post-translational change. 
+
+Phrase: "The Human Genome Project"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0020125:Human Genome Project [Research Activity]
+   901   C0017429:Genome, Human [Gene or Genome]
+   827   C0017428:Genome [Gene or Genome]
+   827   C0086418:Human [Human]
+   827   C1709701:Project [Conceptual Entity]
+   827   C2338314:Genome [Conceptual Entity]
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "fewer genes than"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0017337:Genes [Gene or Genome]
+
+Phrase: "expected"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1517001:Expected [Idea or Concept]
+
+Phrase: ","
+
+Phrase: "indicating"
+
+Phrase: "that much of our genetic complexity"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0017296:GENETIC [Therapeutic or Preventive Procedure]
+   753   C0314603:Genetic [Functional Concept]
+
+Phrase: "may"
+
+Phrase: "be because of gene regulation,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0017263:Gene Regulation [Genetic Function]
+   760   C0017337:Gene [Gene or Genome]
+   760   C0851285:Regulation [Governmental or Regulatory Activity]
+   760   C1327622:Regulation [Biologic Function]
+   760   C2987476:Be [Conceptual Entity]
+
+Phrase: "alternative splice variation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0205419:Variation [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "post-translational change."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0392747:Change [Functional Concept]
+   827   C0443172:change [Quantitative Concept]
+   827   C1705241:Change [Quantitative Concept]
+Processing 00000000.tx.55: Characterising subtle genomic effects and establishing the molecular mechanisms involved will be a major challenge for future experimental and computational research. 
+
+Phrase: "Characterising"
+
+Phrase: "subtle genomic effects"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C1280500:effects [Qualitative Concept]
+   793 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "establishing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443211:establishing [Qualitative Concept]
+
+Phrase: "the molecular mechanisms"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0441712:Mechanisms [Functional Concept]
+   827 E C1706376:Mechanism [Manufactured Object]
+
+Phrase: "involved"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1314939:Involved [Functional Concept]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "a major challenge for future experimental"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0798503:Challenge [Clinical Attribute]
+   753   C0805586:Challenge [Health Care Activity]
+   753   C3274764:Challenge [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "computational research."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0035168:research [Research Activity]
+   861   C0242481:Research [Research Activity]
+Processing 00000000.tx.56: FUTURE POST-GENOMIC RESEARCH As understanding of neurobiology improves, the methods described will merge and susceptibility genes will be identified. 
+
+Phrase: "FUTURE POST-GENOMIC RESEARCH As understanding of neurobiology"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0035168:research [Research Activity]
+   744   C0242481:Research [Research Activity]
+
+Phrase: "improves"
+
+Phrase: ","
+
+Phrase: "the methods"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0025663:Methods [Intellectual Product]
+  1000   C0025664:methods [Intellectual Product]
+  1000   C0449851:Methods [Functional Concept]
+   966 E C0871511:METHOD [Intellectual Product]
+
+Phrase: "described"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: "will"
+
+Phrase: "merge"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1881786:Merge [Activity]
+
+Phrase: "and"
+
+Phrase: "susceptibility genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   983   C0919453:Susceptibility Gene [Gene or Genome]
+   861   C0017337:Genes [Gene or Genome]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "identified."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205396:Identified [Qualitative Concept]
+  1000   C1550043:Identified [Finding]
+  1000   C1551388:Identified [Functional Concept]
+Processing 00000000.tx.57: Confirming their role will require interpretation of expression (the transcriptome) and protein products. 
+
+Phrase: "Confirming"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0521093:confirming [Qualitative Concept]
+  1000   C0750484:confirming [Idea or Concept]
+   966 E C1456348:Confirm [Qualitative Concept]
+
+Phrase: "their role"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0035820:Role [Social Behavior]
+  1000   C1705810:Role [Conceptual Entity]
+
+Phrase: "will"
+
+Phrase: "require"
+
+Phrase: "interpretation of expression"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0459471:Interpretation [Intellectual Product]
+   790   C3173575:Interpretation [Clinical Attribute]
+
+Phrase: "("
+
+Phrase: "the transcriptome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3178810:Transcriptome [Nucleotide Sequence]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "protein products."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C1514468:Products [Entity]
+   827 E C1704444:Product [Quantitative Concept]
+Processing 00000000.tx.58: Animal models will be needed to study the behavioural impact of genes in vivo in specific systems and through neurodevelopment. 
+
+Phrase: "Animal models"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0599779:Models, Animal [Animal]
+   861   C0003062:Animal [Animal]
+   861   C3161035:Models [Intellectual Product]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "needed"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027552:Needed [Qualitative Concept]
+  1000   C0686904:needed [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "study"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0557651:Study [Manufactured Object]
+  1000   C2603343:Study [Research Activity]
+
+Phrase: "the behavioural impact of genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   781   C1825598:IMPACT gene [Gene or Genome]
+           IMPACT
+
+Phrase: "in vivo in specific systems"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C1515655:In Vivo [Spatial Concept]
+           vivo
+
+Phrase: "and through neurodevelopment."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0599855:neurodevelopment [Organ or Tissue Function]
+   790   C1515981:And [Idea or Concept]
+Processing 00000000.tx.59: Because many genetic effects will be complex, multifaceted transgenic models will be necessary to examine subtle interactions between genes. 
+
+Phrase: "Because"
+
+Phrase: "many genetic effects"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C1280500:effects [Qualitative Concept]
+   827 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "complex, multifaceted transgenic models"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   844   C1519606:Transgenic Model [Experimental Model of Disease]
+   812   C3161035:Models [Intellectual Product]
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "necessary to"
+
+Phrase: "examine"
+
+Phrase: "subtle interactions between genes."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   786   C0596610:gene interaction [Genetic Function]
+   737   C1704675:Interaction [Functional Concept]
+Processing 00000000.tx.60: In psychiatry particularly, the sophistication of behavioural phenotypes will be a major obstacle: current models of schizophrenia, for example, depend on basic phenotypes such as gating deficits. 
+
+Phrase: "In psychiatry particularly,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0033872:Psychiatry [Professional or Occupational Group]
+   861   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   789 E C0205487:Psychiatric [Functional Concept]
+
+Phrase: "the sophistication of behavioural phenotypes"
+
+Phrase: "will"
+
+Phrase: "be"
+
+Phrase: "a major obstacle"
+
+Phrase: ":"
+
+Phrase: "current models of schizophrenia,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C3161035:Models [Intellectual Product]
+
+Phrase: "for example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "depend on basic phenotypes"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0031437:Phenotypes [Organism Attribute]
+   770   C0725813:depend [Medical Device]
+   770   C1527178:Basic [Functional Concept]
+   737 E C1285572:Phenotype [Laboratory Procedure]
+
+Phrase: "such as gating deficits."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C2987487:deficits [Qualitative Concept]
+   827 E C0162429:Deficit, NOS [Disease or Syndrome]
+Processing 00000000.tx.61: New epidemiological approaches will also be required to examine for and interpret interactions between genetic and environmental risk factors in people. 
+
+Phrase: "New epidemiological approaches"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0449445:Approaches [Spatial Concept]
+   827   C1292724:Approaches [Functional Concept]
+
+Phrase: "will"
+
+Phrase: "also"
+
+Phrase: "be"
+
+Phrase: "required"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "examine for"
+
+Phrase: "and"
+
+Phrase: "interpret"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1285553:interpret [Functional Concept]
+
+Phrase: "interactions between genetic"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1704675:Interaction [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "environmental risk factors in people."
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   862   C0686732:environmental risk factors [Qualitative Concept]
+       E   Environmental Factor
+   806   C0035648:risk factors [Quantitative Concept]
+   806   C1553898:risk factors [Idea or Concept]
+   797   C1516998:Environmental Factors [Functional Concept]
+   760   C0035647:Risk [Qualitative Concept]
+   726   C1521761:Factor [Functional Concept]
+   726   C2827422:Factor [Conceptual Entity]
+Processing 00000000.tx.62: Gene identification may be only the first step, but it begins a process that will expose the genetic architecture and biology of neuropsychiatric disorders. 
+
+Phrase: "Gene identification"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0020792:Identification [Mental Process]
+   861   C0205396:Identification [Qualitative Concept]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "the first step,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C1722730:First Step [Biomedical or Dental Material]
+   861   C1261552:Step [Conceptual Entity]
+   861   C1704379:Step [Functional Concept]
+   861   C1705117:Step [Quantitative Concept]
+   861   C2825408:Step [Manufactured Object]
+
+Phrase: "but"
+
+Phrase: "it"
+
+Phrase: "begins"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439659:Begin [Temporal Concept]
+
+Phrase: "a process"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1184743:Process [Body Part, Organ, or Organ Component]
+  1000   C1522240:Process [Phenomenon or Process]
+
+Phrase: "that"
+
+Phrase: "will"
+
+Phrase: "expose"
+
+Phrase: "the genetic architecture"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0003737:Architecture [Occupation or Discipline]
+
+Phrase: "and"
+
+Phrase: "biology of neuropsychiatric disorders."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0005532:Biology [Biomedical Occupation or Discipline]
+Processing 00000000.tx.63: Future researchers will follow stronger neurobiological leads than were available to earlier generations: ...those who being in search of any thing, that lies conceal'd from them, and not finding it in the place they expected, beat about all neighbouring fields, without any certain view or design, in hopes their good fortune will at last guide them to what they search for (Hume, 1739). 
+
+Phrase: "Future researchers"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0035173:Researchers [Professional or Occupational Group]
+
+Phrase: "will"
+
+Phrase: "follow"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332283:follow [Temporal Concept]
+  1000   C1719822:Follow [Intellectual Product]
+
+Phrase: "stronger neurobiological"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   789   C0027817:Neurobiology [Biomedical Occupation or Discipline]
+
+Phrase: "leads than"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   833   C0181586:leads [Medical Device]
+   833   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   833   C1522538:Lead [Functional Concept]
+   833   C2348269:Lead [Element, Ion, or Isotope]
+   833   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "were"
+
+Phrase: "available to earlier generations"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   812   C0079411:Generations [Temporal Concept]
+   779 E C3146294:Generation [Activity]
+   712 E C1414672:Genesis [Gene or Genome]
+   712 E C2984892:Genesis [Gene or Genome]
+
+Phrase: ": ..."
+
+Phrase: "those who"
+
+Phrase: "being in search of any thing,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C1551338:Thing [Entity]
+   753   C1552603:search [Intellectual Product]
+   753   C1706202:Search [Activity]
+   753   C2987476:Being [Conceptual Entity]
+
+Phrase: "that"
+
+Phrase: "lies"
+
+Phrase: "conceal"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0443189:conceal [Qualitative Concept]
+
+Phrase: "'d from them,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0073187:D NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "and"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "finding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0037088:Finding [Sign or Symptom]
+  1000   C0243095:Finding [Finding]
+  1000   C2825141:Finding [Finding]
+
+Phrase: "it in the place"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0442504:Place [Spatial Concept]
+   770   C1704765:Place [Functional Concept]
+   770   C1882509:Place [Activity]
+   770   C3496241:place [Disease or Syndrome]
+
+Phrase: "they"
+
+Phrase: "expected"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1517001:Expected [Idea or Concept]
+
+Phrase: ","
+
+Phrase: "beat about all neighbouring fields,"
+
+Phrase: "without any certain view"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0449911:View [Spatial Concept]
+
+Phrase: "or"
+
+Phrase: "design,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1707689:Design [Activity]
+  1000   C2983265:DESIGN [Intellectual Product]
+
+Phrase: "in hopes"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0392347:Hopes [Mental Process]
+   893 E C3540843:Hopefulness [Mental Process]
+
+Phrase: "their good fortune"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0757156:Fortune [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: "will at last"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0042950:Will [Mental Process]
+
+Phrase: "guide"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0181090:Guide [Professional or Occupational Group]
+  1000   C0302614:Guide [Medical Device]
+  1000   C1706050:Guide [Manufactured Object]
+
+Phrase: "them to what"
+
+Phrase: "they"
+
+Phrase: "search for"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   833   C1552603:search [Intellectual Product]
+   833   C1706202:Search [Activity]
+
+Phrase: "(Hume,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3476794:Hume [Intellectual Product]
+
+Phrase: "1739"
+
+Phrase: ")."
+Processing 00000000.tx.64: Post-genomic research may forever change how we classify and treat mental disorders. 
+
+Phrase: "Post-genomic research"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0035168:research [Research Activity]
+   827   C0242481:Research [Research Activity]
+
+Phrase: "may"
+
+Phrase: "forever"
+
+Phrase: "change"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0392747:Change [Functional Concept]
+  1000   C0443172:change [Quantitative Concept]
+  1000   C1705241:Change [Quantitative Concept]
+
+Phrase: "how"
+
+Phrase: "we"
+
+Phrase: "classify"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008902:classify [Classification]
+
+Phrase: "and"
+
+Phrase: "treat"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1292734:TREAT [Functional Concept]
+  1000   C1522326:Treat [Functional Concept]
+
+Phrase: "mental disorders."
+Meta Candidates (Total=13; Excluded=10; Pruned=0; Remaining=3)
+  1000   C0004936:Mental disorders [Mental or Behavioral Dysfunction]
+   966 E C0033975:mental disorder [Mental or Behavioral Dysfunction]
+   950 E C0152097:diaphragm disorders [Disease or Syndrome]
+   941 E C0277577:PSYCHIC DISORDER [Mental or Behavioral Dysfunction]
+   861   C0012634:Disorders [Disease or Syndrome]
+   861   C0229992:mental [Mental Process]
+   777 E C0229993:Psychic [Functional Concept]
+   761 E C0011980:Diaphragm [Body Part, Organ, or Organ Component]
+   761 E C0042241:DIAPHRAGM [Medical Device]
+   761 E C1279038:Diaphragm [Body Part, Organ, or Organ Component]
+   761 E C1705367:Diaphragm [Medical Device]
+   750 E C0086045:mindfulness [Mental Process]
+   750 E C3542996:Mindfulness [Mental Process]
+Processing 00000000.tx.65: Genetic insights into behaviour may fundamentally alter how we view the individual and his or her responsibilities. 
+
+Phrase: "Genetic insights into behaviour"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0233820:insights [Mental Process]
+
+Phrase: "may"
+
+Phrase: "fundamentally"
+
+Phrase: "alter"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   916   C0392747:Altered [Functional Concept]
+
+Phrase: "how"
+
+Phrase: "we"
+
+Phrase: "view"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "the individual"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0027361:Individual [Population Group]
+  1000   C0237401:Individual [Human]
+
+Phrase: "and"
+
+Phrase: "his"
+
+Phrase: "or"
+
+Phrase: "her responsibilities."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0678341:responsibilities [Individual Behavior]
+   916 E C1273518:Responsible [Finding]
+Processing 00000000.tx.66: But for common disorders and traits, susceptibility genes will only be risk factors and we must never forget the importance of environmental influences. 
+
+Phrase: "But for common disorders"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0012634:Disorders [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "traits,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0599883:traits [Organism Attribute]
+  1000   C1427926:TRAITS [Gene or Genome]
+
+Phrase: "susceptibility genes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   983   C0919453:Susceptibility Gene [Gene or Genome]
+   861   C0017337:Genes [Gene or Genome]
+
+Phrase: "will"
+
+Phrase: "only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+
+Phrase: "be"
+
+Phrase: "risk factors"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0035648:risk factors [Quantitative Concept]
+  1000   C1553898:risk factors [Idea or Concept]
+   861   C0035647:Risk [Qualitative Concept]
+   827   C1521761:Factor [Functional Concept]
+   827   C2827422:Factor [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "we"
+
+Phrase: "must"
+
+Phrase: "never"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2003901:Never [Temporal Concept]
+
+Phrase: "forget"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0598853:forget [Mental or Behavioral Dysfunction]
+
+Phrase: "the importance of environmental influences."
+Processing 00000000.tx.67: ACKNOWLEDGMENTS The authors thank the helpful comments of two anonymous reviewers in the preparation of this manuscript. 
+
+Phrase: "ACKNOWLEDGMENTS"
+
+Phrase: "The authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "thank"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2986676:THANK [Gene or Genome]
+
+Phrase: "the helpful comments of two anonymous reviewers"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C0282411:Comments [Intellectual Product]
+   748   C0947611:comments [Intellectual Product]
+   748   C1705247:Comments [Conceptual Entity]
+
+Phrase: "in the preparation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0455052:Preparation [Health Care Activity]
+  1000   C1521827:Preparation [Functional Concept]
+
+Phrase: "of this manuscript."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0600659:Manuscript [Intellectual Product,Manufactured Object]
+Processing 00000000.tx.68: REFERENCES Daly, M. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Daly,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.69: J., Rioux, J. 
+
+Phrase: "J.,"
+
+Phrase: "Rioux,"
+
+Phrase: "J."
+Processing 00000000.tx.70: D., Schaffner, S. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Schaffner,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.71: F., et al (2001) High-resolution haplotype structure in the human genome. 
+
+Phrase: "F.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+  1000   C0439133:(f) [Intellectual Product]
+  1000   C1553038:[f] [Quantitative Concept]
+
+Phrase: "et al (2001"
+
+Phrase: ")"
+
+Phrase: "High-resolution haplotype structure in the human genome."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   744   C0678594:Structure [Spatial Concept]
+Processing 00000000.tx.72: Nature Genetics, 29, 229-232.[CrossRef][Medline] Freud, S. 
+
+Phrase: "Nature Genetics,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017398:Genetics [Biomedical Occupation or Discipline]
+   861   C0017399:genetics [Biologic Function]
+
+Phrase: "29,"
+
+Phrase: "229-232."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Freud,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.73: (1914) Project for a Scientific Psychology. 
+
+Phrase: "(1914"
+
+Phrase: ")"
+
+Phrase: "Project for a Scientific Psychology."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0033909:Psychology [Biomedical Occupation or Discipline]
+   760   C0036397:Scientific [Occupation or Discipline]
+   760   C1524060:psychology [Functional Concept]
+   760   C1709701:Project [Conceptual Entity]
+Processing 00000000.tx.74: Reprinted (1953-1974) in the Standard Edition of the Complete Psychological Works of Sigmund Freud (trans. and ed. J. Strachey), vol. 
+
+Phrase: "Reprinted"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C3273171:Reprint [Intellectual Product]
+
+Phrase: "(1953-1974"
+
+Phrase: ")"
+
+Phrase: "in the Standard Edition"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0441792:Edition [Intellectual Product]
+
+Phrase: "of the Complete Psychological Works"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0043227:works [Occupational Activity]
+
+Phrase: "of Sigmund Freud"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0237631:Sigmund Freud [Human]
+
+Phrase: "(trans."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2826298:TRANS [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "ed. J. Strachey"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "vol."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0449468:VOL [Quantitative Concept]
+  1000   C0560268:vol% [Quantitative Concept]
+  1000   C1690016:% vol [Qualitative Concept]
+Processing 00000000.tx.75: 1, p. 
+
+Phrase: "1,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "p."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+Processing 00000000.tx.76: 281. 
+
+Phrase: "281."
+Processing 00000000.tx.77: London: Hogarth Press. 
+
+Phrase: "London"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: ":"
+
+Phrase: "Hogarth Press."
+Processing 00000000.tx.78: Hume, D. 
+
+Phrase: "Hume,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3476794:Hume [Intellectual Product]
+
+Phrase: "D."
+Processing 00000000.tx.79: (1739) A Treatise of Human Nature: Being an Attempt to Introduce the Experimental Method of Reasoning into Moral Subjects, etc. 
+
+Phrase: "(1739"
+
+Phrase: ")"
+
+Phrase: "A Treatise of Human Nature"
+
+Phrase: ":"
+
+Phrase: "Being"
+
+Phrase: "an Attempt to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1516084:Attempt [Event]
+
+Phrase: "Introduce"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1292748:introduce [Functional Concept]
+
+Phrase: "the Experimental Method of Reasoning"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   806   C0871738:Experimental Method [Research Activity]
+   760   C0025663:Method [Intellectual Product]
+   760   C0449851:Method [Functional Concept]
+   760   C0871511:METHOD [Intellectual Product]
+   760   C1517586:Experimental [Qualitative Concept]
+
+Phrase: "into Moral Subjects,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   827   C0681850:Subject [Group]
+   827   C1550501:{Subject} [Idea or Concept]
+   827   C1706203:Subject [Idea or Concept]
+   827   C2349001:Subject [Human]
+   827   C2697811:Subject [Functional Concept]
+
+Phrase: "etc."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1548556:etc. [Idea or Concept]
+Processing 00000000.tx.80: London: John Noon. 
+
+Phrase: "London"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: ":"
+
+Phrase: "John Noon."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0585020:Noon [Temporal Concept]
+Processing 00000000.tx.81: Horikawa, Y., Oda, N., Cox, N. 
+
+Phrase: "Horikawa,"
+
+Phrase: "Y.,"
+
+Phrase: "Oda,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0057642:ODA [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "N.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+
+Phrase: "Cox,"
+
+Phrase: "N."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+Processing 00000000.tx.82: J., et al (2000) Genetic variation in the gene encoding calpain-10 is associated with type 2 diabetes mellitus. 
+
+Phrase: "J.,"
+
+Phrase: "et al (2000"
+
+Phrase: ")"
+
+Phrase: "Genetic variation in the gene encoding calpain-10"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0042333:Genetic Variation [Natural Phenomenon or Process]
+   744   C0205419:Variation [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "associated with type 2 diabetes mellitus."
+Meta Candidates (Total=14; Excluded=2; Pruned=0; Remaining=12)
+   882   C0011860:Diabetes Mellitus, Type 2 [Disease or Syndrome]
+           Type 2 Diabetes
+   882   C2984301:Type II diabetes mellitus [Functional Concept]
+   790   C0011849:Diabetes Mellitus [Disease or Syndrome]
+           Diabetes
+   790   C0332281:Associated with [Qualitative Concept]
+           Associated
+   790   C0441730:Type 2 [Classification]
+   783   C1320657:Diabetes type [Finding]
+   753   C0011847:Diabetes [Disease or Syndrome]
+   753   C0332307:Type [Qualitative Concept]
+   753   C1547052:*Type [Quantitative Concept]
+   719 E C0750490:Associate [Idea or Concept]
+   719 E C1706221:Associate [Professional or Occupational Group]
+Processing 00000000.tx.83: Nature Genetics, 26, 163-175.[CrossRef][Medline] International Human Genome Sequencing Consortium (2001) A physical map of the Human Genome. 
+
+Phrase: "Nature Genetics,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0017398:Genetics [Biomedical Occupation or Discipline]
+   861   C0017399:genetics [Biologic Function]
+
+Phrase: "26,"
+
+Phrase: "163-175."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] International Human Genome Sequencing Consortium"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C1513822:Consortium [Professional or Occupational Group]
+   804   C1880171:Consortium [Professional or Occupational Group]
+
+Phrase: "(2001"
+
+Phrase: ")"
+
+Phrase: "A physical map of the Human Genome."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   946   C1521744:Physical Map of the Human Genome [Intellectual Product]
+   778   C0599777:physical map [Laboratory Procedure,Molecular Biology Research Technique]
+   748   C0024779:Map [Manufactured Object]
+   748   C1706473:Map [Conceptual Entity]
+Processing 00000000.tx.84: Nature, 409, 860-921.[CrossRef][Medline] Mody, M., Cao, Y., Cui, Z., et al (2001) Genome-wide gene expression profiles of the developing mouse hippocampus. 
+
+Phrase: "Nature,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0349590:Nature [Idea or Concept]
+  1000   C1262865:Nature [Functional Concept]
+   928 E C0205296:Natural [Functional Concept]
+
+Phrase: "409,"
+
+Phrase: "860-921."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Mody,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2984262:MODY [Functional Concept]
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "Cao,"
+
+Phrase: "Y.,"
+
+Phrase: "Cui,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1707476:CUI [Intellectual Product]
+  1000   C2348662:CUI [Intellectual Product]
+
+Phrase: "Z.,"
+
+Phrase: "et al (2001"
+
+Phrase: ")"
+
+Phrase: "Genome-wide gene expression profiles of the developing mouse hippocampus."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   782   C1956267:Gene Expression Profiles [Quantitative Concept]
+   765 E C1449575:gene expression profile [Laboratory Procedure]
+   706   C1979963:Profile [Laboratory Procedure]
+   706   C2003903:Profile [Functional Concept]
+Processing 00000000.tx.85: Proceedings of the National Academy of Sciences of the United States of America, 98, 8862-8867.[Abstract/Free FullText] Risch, N. 
+
+Phrase: "Proceedings of the National Academy of Sciences of the United States of America,"
+
+Phrase: "98,"
+
+Phrase: "8862-8867."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Risch,"
+
+Phrase: "N."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+Processing 00000000.tx.86: J. 
+
+Phrase: "J."
+Processing 00000000.tx.87: (2000) Searching for genetic determinants in the new millennium. 
+
+Phrase: "(2000"
+
+Phrase: ")"
+
+Phrase: "Searching for genetic determinants"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   737   C1552603:search [Intellectual Product]
+   737   C1706202:Search [Activity]
+
+Phrase: "in the new millennium."
+Processing 00000000.tx.88: Nature, 405, 847-856.[CrossRef][Medline] Shoemaker, D. 
+
+Phrase: "Nature,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0349590:Nature [Idea or Concept]
+  1000   C1262865:Nature [Functional Concept]
+   928 E C0205296:Natural [Functional Concept]
+
+Phrase: "405,"
+
+Phrase: "847-856."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Shoemaker,"
+
+Phrase: "D."
+Processing 00000000.tx.89: D., Schadt, E. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Schadt,"
+
+Phrase: "E."
+Processing 00000000.tx.90: E., Armour, C. 
+
+Phrase: "E.,"
+
+Phrase: "Armour,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0331774:Armour [Health Care Related Organization]
+
+Phrase: "C."
+Processing 00000000.tx.91: D., et al (2001) Experimental annotation of the human genome using microarray technology. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "et al (2001"
+
+Phrase: ")"
+
+Phrase: "Experimental annotation of the human genome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1706814:Annotation [Intellectual Product]
+   753   C3539095:Annotation [Intellectual Product]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "microarray technology."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1449575:Microarray Technology [Laboratory Procedure]
+   861   C0039421:Technology [Occupation or Discipline]
+Processing 00000000.tx.92: Nature, 409, 922-927.[CrossRef][Medline] Syvnen, A. 
+
+Phrase: "Nature,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0349590:Nature [Idea or Concept]
+  1000   C1262865:Nature [Functional Concept]
+   928 E C0205296:Natural [Functional Concept]
+
+Phrase: "409,"
+
+Phrase: "922-927."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Syvnen,"
+
+Phrase: "A."
+Processing 00000000.tx.93: C. 
+
+Phrase: "C."
+Processing 00000000.tx.94: (2001) Accessing genetic variation: genotyping single nucleotide polymorphisms. 
+
+Phrase: "(2001"
+
+Phrase: ")"
+
+Phrase: "Accessing"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0444454:accessing [Spatial Concept]
+   966 E C1554204:access [Idea or Concept]
+
+Phrase: "genetic variation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042333:Genetic Variation [Natural Phenomenon or Process]
+   861   C0205419:Variation [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "genotyping"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1285573:Genotyping [Laboratory Procedure]
+   966 E C0017431:Genotype [Organism Attribute]
+
+Phrase: "single nucleotide polymorphisms."
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+  1000   C0752046:Single Nucleotide Polymorphisms [Nucleotide Sequence]
+   827   C0028630:Nucleotide [Nucleic Acid, Nucleoside, or Nucleotide]
+   827   C0032529:polymorphisms [Genetic Function]
+   827   C0037179:Single [Population Group]
+   827   C0087136:single [Finding]
+   827   C0205171:Single [Quantitative Concept]
+   793 E C1882417:Polymorphism [Qualitative Concept]
+Processing 00000000.tx.95: Nature Reviews, Genetics, 2, 930-942.[CrossRef][Medline] Received for publication January 7, 2002. 
+
+Phrase: "Nature Reviews,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0282443:reviews [Intellectual Product]
+   827 E C1552617:Review [Idea or Concept]
+
+Phrase: "Genetics,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0017398:Genetics [Biomedical Occupation or Discipline]
+  1000   C0017399:genetics [Biologic Function]
+
+Phrase: "2,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "930-942."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "]"
+
+Phrase: "Received for publication January 7,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1514756:Received [Qualitative Concept]
+   760   C1704324:Publication [Intellectual Product]
+
+Phrase: "2002."
+Processing 00000000.tx.96: Revision received June 20, 2002. 
+
+Phrase: "Revision"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439617:Revision [Temporal Concept]
+  1000   C0558347:Revision [Therapeutic or Preventive Procedure]
+  1000   C1527075:Revision [Therapeutic or Preventive Procedure]
+
+Phrase: "received"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514756:Received [Qualitative Concept]
+
+Phrase: "June 20,"
+
+Phrase: "2002."
+Processing 00000000.tx.97: Accepted for publication July 10, 2002. 
+
+Phrase: "Accepted for publication July 10,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1272684:Accepted [Qualitative Concept]
+   760   C1548435:Accepted [Idea or Concept]
+   760   C1704324:Publication [Intellectual Product]
+   726 E C1548601:Accept [Idea or Concept]
+
+Phrase: "2002."
+Processing 00000000.tx.98: This Article Full Text (PDF) Submit a response Alert me when this article is cited Alert me when eLetters are posted Alert me if a correction is posted Services Email this article to a friend Similar articles in this journal Similar articles in PubMed Alert me to new issues of the journal Download to citation manager Google Scholar Articles by CORVIN, A. 
+
+Phrase: "This Article Full Text"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1527021:Text [Intellectual Product]
+   827   C1554111:Text [Idea or Concept]
+   827   C1705606:Text [Intellectual Product]
+   827   C3541382:Text [Intellectual Product]
+
+Phrase: "(PDF)"
+
+Phrase: "Submit"
+
+Phrase: "a response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "this article"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1706852:Article [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "cited"
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "when"
+
+Phrase: "eLetters"
+
+Phrase: "are"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me"
+
+Phrase: "if"
+
+Phrase: "a correction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1705565:CORRECTION [Intellectual Product]
+  1000   C1947976:Correction [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "posted"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0687676:Post [Temporal Concept]
+   966   C1704687:Post [Manufactured Object]
+
+Phrase: "Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0557854:Services [Occupational Activity]
+   966 E C2825316:Service [Manufactured Object]
+   966 E C3245478:service [Idea or Concept]
+
+Phrase: "Email"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0013849:E-Mail [Intellectual Product]
+  1000   C1705961:E-mail [Intellectual Product]
+
+Phrase: "this article to a friend Similar articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C1706852:Article [Intellectual Product]
+
+Phrase: "in this journal Similar articles"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   896   C0282420:Journal Article [Intellectual Product]
+   793   C1706852:Article [Intellectual Product]
+
+Phrase: "in PubMed"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1138432:PubMed [Intellectual Product]
+
+Phrase: "Alert"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0239110:ALERT [Finding]
+
+Phrase: "me to new issues of the journal Download"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0162443:Journal [Intellectual Product,Manufactured Object]
+   744   C0205314:New [Temporal Concept]
+   711   C0033213:Issue [Finding]
+   711   C1706387:Issue [Intellectual Product]
+
+Phrase: "to citation manager Google Scholar Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   771   C1706852:Article [Intellectual Product]
+
+Phrase: "by CORVIN,"
+
+Phrase: "A."
+Processing 00000000.tx.99: Articles by GILL, M. 
+
+Phrase: "Articles by GILL,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.100: Articles citing this Article PubMed PubMed Citation Articles by CORVIN, A. 
+
+Phrase: "Articles"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1706852:Article [Intellectual Product]
+
+Phrase: "citing"
+
+Phrase: "this Article PubMed PubMed Citation Articles by CORVIN,"
+
+Phrase: "A."
+Processing 00000000.tx.101: Articles by GILL, M. 
+
+Phrase: "Articles by GILL,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1706852:Article [Intellectual Product]
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.102: HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin Advances in Psychiatric Treatment All RCPsych Journals
+
+Phrase: "HOME HELP FEEDBACK SUBSCRIPTIONS ARCHIVE SEARCH TABLE OF CONTENTS Psychiatric Bulletin"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   738   C0039224:Table [Manufactured Object]
+   738   C1706073:Table [Medical Device]
+   738   C1706074:Table [Intellectual Product]
+
+Phrase: "Advances in Psychiatric Treatment"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   833   C0204523:psychiatric treatment [Therapeutic or Preventive Procedure]
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0205487:Psychiatric [Functional Concept]
+   770   C0725066:Advance [Medical Device]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "All RCPsych Journals"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0162443:journals [Intellectual Product,Manufactured Object]
+

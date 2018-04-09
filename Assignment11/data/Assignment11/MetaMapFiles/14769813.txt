@@ -1,0 +1,265 @@
+Processing 00000000.tx.1: Glutathione S-transferase omega-1 modifies age-at-onset of Alzheimer disease and Parkinson disease Yi-Ju Li, Sofia A. 
+
+Phrase: "Glutathione S-transferase omega-1"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C1421933:glutathione S-transferase omega 1 [Gene or Genome]
+   884   C0017837:Glutathione S-Transferase [Amino Acid, Peptide, or Protein,Enzyme]
+           Glutathione Transferase
+   804   C0017817:Glutathione [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   804   C0040676:Transferase [Amino Acid, Peptide, or Protein,Enzyme]
+   804   C1719844:Omega [Intellectual Product]
+
+Phrase: "modifies"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0392747:MODIFY [Functional Concept]
+
+Phrase: "age-at-onset of Alzheimer disease"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   814   C0206132:Age of Onset [Quantitative Concept]
+           Onset Age
+   783   C0277793:disease onset [Temporal Concept]
+   753   C0001779:Age [Organism Attribute]
+   753   C0332162:Onset [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "Parkinson disease Yi-Ju Li,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C3495095:Li+ [Element, Ion, or Isotope]
+
+Phrase: "Sofia A."
+Processing 00000000.tx.2: Oliveira, Puting Xu, Eden R. 
+
+Phrase: "Oliveira,"
+
+Phrase: "Puting Xu,"
+
+Phrase: "Eden R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.3: Martin, Judith E. 
+
+Phrase: "Martin,"
+
+Phrase: "Judith E."
+Processing 00000000.tx.4: Stenger, Christine Hulette, Clemens R. 
+
+Phrase: "Stenger,"
+
+Phrase: "Christine Hulette,"
+
+Phrase: "Clemens R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.5: Scherzer, Michael A. 
+
+Phrase: "Scherzer,"
+
+Phrase: "Michael A."
+Processing 00000000.tx.6: Hauser, William K. 
+
+Phrase: "Hauser,"
+
+Phrase: "William K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+   861   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.7: Scott, Gary W. 
+
+Phrase: "Scott,"
+
+Phrase: "Gary W."
+Processing 00000000.tx.8: Small, Martha A. 
+
+Phrase: "Small, Martha A."
+Processing 00000000.tx.9: Nance, Ray L. 
+
+Phrase: "Nance,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0330910:nance [Plant]
+
+Phrase: "Ray L."
+Processing 00000000.tx.10: Watts, Jean P. 
+
+Phrase: "Watts,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439261:Watt [Quantitative Concept]
+
+Phrase: "Jean P."
+Processing 00000000.tx.11: Hubble, William C. 
+
+Phrase: "Hubble,"
+
+Phrase: "William C."
+Processing 00000000.tx.12: Koller, Rajesh Pahwa, Matthew B. 
+
+Phrase: "Koller,"
+
+Phrase: "Rajesh Pahwa,"
+
+Phrase: "Matthew B."
+Processing 00000000.tx.13: Stern, Bradley C. 
+
+Phrase: "Stern,"
+
+Phrase: "Bradley C."
+Processing 00000000.tx.14: Hiner, Joseph Jankovic, Christopher G. 
+
+Phrase: "Hiner,"
+
+Phrase: "Joseph Jankovic,"
+
+Phrase: "Christopher G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.15: Goetz, Frank Mastaglia, Lefkos T. 
+
+Phrase: "Goetz,"
+
+Phrase: "Frank Mastaglia,"
+
+Phrase: "Lefkos T."
+Processing 00000000.tx.16: Middleton, Allen D. 
+
+Phrase: "Middleton,"
+
+Phrase: "Allen D."
+Processing 00000000.tx.17: Roses, Ann M. 
+
+Phrase: "Roses,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0035853:Roses [Plant]
+   966 E C0995005:ROSE [Pharmacologic Substance]
+
+Phrase: "Ann M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.18: Saunders, Kathleen A. 
+
+Phrase: "Saunders,"
+
+Phrase: "Kathleen A."
+Processing 00000000.tx.19: Welsh-Bohmer, Donald E. 
+
+Phrase: "Welsh-Bohmer,"
+
+Phrase: "Donald E."
+Processing 00000000.tx.20: Schmechel, Steven R. 
+
+Phrase: "Schmechel,"
+
+Phrase: "Steven R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.21: Gullans, Jonathan L. 
+
+Phrase: "Gullans,"
+
+Phrase: "Jonathan L."
+Processing 00000000.tx.22: Haines, John R. 
+
+Phrase: "Haines,"
+
+Phrase: "John R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.23: Gilbert, Jeffery M. 
+
+Phrase: "Gilbert,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1551090:Gilbert [Quantitative Concept]
+
+Phrase: "Jeffery M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.24: Vance and Margaret A. 
+
+Phrase: "Vance"
+
+Phrase: "and"
+
+Phrase: "Margaret A."
+Processing 00000000.tx.25: Pericak-Vance Human Molecular Genetics 12, 32593267 (2003) Two authors were inadvertently omitted from the title page of this recently published paper. 
+
+Phrase: "Pericak-Vance Human Molecular Genetics 12,"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   839   C0020124:Human Genetics [Biomedical Occupation or Discipline]
+   827   C0086345:Genetics, Molecular [Biomedical Occupation or Discipline]
+   799   C0017398:Genetics [Biomedical Occupation or Discipline]
+   799   C0017399:genetics [Biologic Function]
+   799   C0086418:Human [Human]
+   799   C1521991:Molecular [Qualitative Concept]
+   727 E C0567416:Molecule [Substance]
+
+Phrase: "32593267"
+
+Phrase: "(2003"
+
+Phrase: ")"
+
+Phrase: "Two authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "were"
+
+Phrase: "inadvertently"
+
+Phrase: "omitted from the title page of this recently published paper."
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   739   C0030351:Paper [Manufactured Object]
+   739   C0034037:Published [Occupational Activity]
+   739   C0332185:Recently [Temporal Concept]
+   739   C0750563:omitted [Idea or Concept]
+   739   C1519530:Title [Idea or Concept]
+   739   C1547566:Paper [Idea or Concept]
+   739   C1704324:Published [Intellectual Product]
+   739   C1704446:title [Idea or Concept]
+   739   C1704732:Page [Intellectual Product]
+   739   C1705823:Title [Intellectual Product]
+   739   C1705824:TITLE [Intellectual Product]
+Processing 00000000.tx.26: They were Christine Hulette (affiliation 1) and Kathleen A. 
+
+Phrase: "They"
+
+Phrase: "were"
+
+Phrase: "Christine Hulette"
+
+Phrase: "(affiliation 1"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1510825:Affiliation [Qualitative Concept]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "Kathleen A."
+Processing 00000000.tx.27: Welsh-Bohmer (affliation 16). 
+
+Phrase: "Welsh-Bohmer"
+
+Phrase: "(affliation 16"
+
+Phrase: ")."
+Processing 00000000.tx.28: The authors apologise for this error.
+
+Phrase: "The authors"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "apologise for this error."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0743559:error [Qualitative Concept]
+   770   C1608199:Error [Functional Concept]
+

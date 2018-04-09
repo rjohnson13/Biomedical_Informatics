@@ -1,0 +1,978 @@
+
+
+Analysis of the zebrafish smoothened mutant reveals conserved and divergent functions of hedgehog activity
+
+
+
+Wenbiao Chen, 
+Shawn Burgess and 
+Nancy Hopkins*
+
+
+
+
+Center for Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
+
+
+
+
+*Author for correspondence (e-mail: nhopkins{at}mit.edu)
+
+
+
+
+
+Accepted March 30, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+Despite extensive studies, there are still many unanswered questions regarding the mechanism of hedgehog signaling and the phylogenic conservation of hedgehog function in vertebrates. For example, whether hedgehog signaling in vertebrates requires smoothened is unclear, and the role of hedgehog activity in zebrafish is controversial. We show that inactivation of smoothened by retroviral insertions in zebrafish results in defects that are characteristic of hedgehog deficiencies, including abnormalities in body size, the central nervous system, adaxial mesoderm, cartilage and pectoral fins. We demonstrate that, as in Drosophila, vertebrate smoothened is essential for hedgehog signaling, and functions upstream of protein kinase A. Further analysis of neural tube defects revealed the absence of lateral floor plate and secondary motoneurons, but the presence of medial floor plate and primary motoneurons in smoothened mutant embryos. Blocking maternal hedgehog signaling by cyclopamine eliminates primary motoneurons, but not medial floor plate. Interestingly, even after inhibition of maternal hedgehog activity, the midbrain dopaminergic neurons still form, and looping of the heart does not randomize in the mutants. We also found decreased proliferation and increased apoptosis in the mutants. Taken together, these data demonstrate the conserved role of vertebrate smoothened in the hedgehog signaling pathway, and reveal similarities and differences of hedgehog function between teleosts and amniotes. 
+
+
+
+
+
+
+
+Key words: Zebrafish, Hedgehog, Smoothened, Floor plate, Motoneuron, Dopaminergic neurons, Left-right asymmetry, Apoptosis, Cell proliferation
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Hedgehog (Hh) is a family of secreted glycoproteins that play a central role in the patterning of a variety of tissues and organs, including CNS, somites, limbs, bones, skin, lungs and testes (Hammerschmidt et al., 1997; Murone et al., 1999). These glycoproteins are expressed in and secreted from a subset of cells in various tissues. It is thought that diffusion of the proteins creates a concentration gradient that induces surrounding cells to adopt appropriate fates. Several membrane and intracellular proteins are important for transducing the Hh signal in the target cells. Genetic screens in Drosophila have identified patched (ptc), smoothened (smo), fused (fu), cubitus interruptus (ci) as crucial components of the Hh signaling machinery. It is thought that Hh binds to the transmembrane protein Ptc, that this causes dissociation of the Ptc-Smo complex at the membrane, and that the free Smo protein initiates intracellular signaling events including activation of Fused protein and conversion of Ci from a transcriptional repressor to an activator. Protein kinase A also modulates Hh activity. Homologues of all these genes have been identified in vertebrates, and several of them have been shown to play similar roles in Hh signaling. 
+
+
+
+A well-characterized role of Hh activity is patterning of the neural tube in amniotes. During neurogenesis, sonic hedgehog (shh) from prechordal plate and notochord plays a key role in the specification of the ventral cell types, such as floor plate (FP) and motoneurons (MNs) (Chiang et al., 1996; Ericson et al., 1996; Marti et al., 1995; Roelink et al., 1994; Roelink et al., 1995), oligodendrocytes (Orentas et al., 1999; Poncet et al., 1996; Pringle et al., 1996), ventral midbrain dopaminergic (DA) neurons and ventral hindbrain serotonergic (5-HT) neurons (Hynes et al., 1995; Hynes et al., 2000; Wang et al., 1995; Ye et al., 1998). Mice that lack a mammalian homologue of ci, Gli2, also do not develop FP and have fewer ventral midbrain DA neurons. Although its ectopic expression also induces FP and MN markers in zebrafish as it does in mice (Krauss et al., 1993), shh does not seem to be as important in patterning the neural tube in the fish. For example, in the zebrafish shh mutant, sonic you (syu), both MN and medial FP (MFP) are present, although the lateral FP (LFP) cells are missing and axonal guidance of MNs is abnormal (Brand et al., 1996; Schauerte et al., 1998). It has not been reported whether midbrain DA neurons are affected in syu mutants. The reason for the differences between mice and zebrafish is uncertain. One proposed reason for the phenotypic differences of shh mutants is that there might be greater functional redundancy of Hh genes in zebrafish (Placzek et al., 2000). In addition to shh, zebrafish has two additional Hh genes that are expressed in the axial midline organizers: the FP specific tiggy-winkle hedgehog (twhh) (Ekker et al., 1995) and the notochord specific echidina hedgehog (ehh) (Currie and Ingham, 1996). It is conceivable that twhh and ehh may compensate for shh in syu mutants. Indeed, blocking of hh signaling by injecting ptc1 mRNA resulted in more severe defects in slow muscle development than observed in syu (Lewis et al., 1999b), and morpholino antisense oligos of shh and twhh have synergistic action in inhibition of Hh signaling (Nasevicius and Ekker, 2000). Alternatively, hedgehog activity may not be essential for MFP induction in zebrafish (Schauerte et al., 1998). A mutant that completely lacks Hh activity would help clarify Hh function in the development of MFP and MN. 
+
+
+
+Hh signaling has also been implicated in patterning the left-right (LR) axis. In chick, Shh is both necessary and sufficient for establishing the LR axis (Pagan-Westphal and Tabin, 1998). So far, such a role for Hh appears to be unique for the chick. Although alteration of shh expression in frog and zebrafish embryos perturbs LR asymmetry (Chen et al., 1997; Sampath et al., 1997; Schilling et al., 1999), the necessity of Hh activity in this aspect of development remains to be demonstrated. In the mouse, recent studies have found abnormal LR asymmetry in a Shh mutant, most notably pulmonary left isomerism (Izraeli et al., 1999; Meyers and Martin, 1999; Tsukui et al., 1999). However, such defects may be secondary to the midline defects or defects in lung development (Burdine and Schier, 2000). In addition, no laterality defect has been reported in mouse mutants of Ptch, Gli, Gli2, Gli3 or Gli1/Gli2. Thus, it remains unclear if Hh activity is essential for establishing laterality in species other than chick. 
+
+
+
+In addition to patterning activity, several studies have implicated shh in regulating cell survival and proliferation. For example, ectopic Shh in the dorsal neural tube in transgenic mice induces overgrowth of the dorsal neural tube (Rowitch et al., 1999). Hh is also a mitogen for mouse retina in vitro and zebrafish retina in vivo (Jensen and Wallace, 1997; Neumann and Nuesslein-Volhard, 2000; Stenkamp et al., 2000). Shh from Purkinje cells is essential for the growth of the external germinal layer (EGL) in the cerebellum (Dahmane and Ruiz-i-Altaba, 1999; Wallace, 1999; Wechsler-Reya and Scott, 1999). Recent studies have also demonstrated that Shh activity can modulate cell death in the developing chick embryo (Ahlgren and Bronner-Fraser, 1999; Oppenheim et al., 1999). In addition, Shh-/- mouse embryos appear much smaller than their littermates (Chiang et al., 1996), although the cause of this has not been determined. Except for a deficiency of cell proliferation in pectoral fin buds in syu (Neumann et al., 1999), little is known about Hh activity in the regulation of cell division and cell death in zebrafish. 
+
+
+
+In an ongoing large-scale insertional mutagenesis screen (Amsterdam et al., 1999), we have isolated two insertional mutants in the zebrafish that disrupt the smo gene. We now report that smo is a crucial component of Hh signaling pathway. The smo mutants (smo) lack secondary MNs (SMNs) and LFP. Their primary MNs (PMNs) and midbrain DA neurons are reduced in number. However, the induction of MFP is normal. Blocking maternal Hh activity by cyclopamine eliminates PMNs without affecting MFP induction. Interestingly, no randomization of heart looping was observed in the mutants even after inhibition of maternal Hh activity. Thus, Hh activity is required for the specification of PMNs and SMNs, but not midbrain DA neurons or MFP. Hh activity is also required for the proliferation and survival of diverse cell types. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Fish raising and handling
+
+
+Zebrafish were raised, maintained and F3 embryos were screened as described (Amsterdam et al., 1999; Westerfield, 1993). Fish embryos and larvae were staged according to Kimmel et al. (Kimmel et al., 1995). For mRNA injection, dechorionated embryos were injected with 3-5 nl synthetic mRNA of twhh (100 ng/l), shh (100 ng/l), or protein kinase inhibitor (PKI; 50 ng/l) and raised in fish water until desired stages. For drug treatment, embryos at desired stages were exposed to 100 M cyclopamine (from 20 mM stock in ethanol). To stop the treatment, embryos were rinsed at least three times in fish water. Embryos were then fixed with 4% paraformaldehyde at room temperature for 4 hours, or at 4C overnight. Fixed embryos were rinsed with PBST (PBS + 0.1% Tween-20) and kept in PBST at 4C until use for immunohistochemistry, or in methanol at 20C for in situ hybridization. 
+
+
+
+Cloning and mapping of zebrafish smo gene
+
+
+Cloning of fish DNA flanking a pro-viral insert linked to the mutant phenotype was performed using inverse PCR as described (Amsterdam et al., 1999). The map location of the flanking sequence was determined by PCR analysis of DNAs from zebrafish/human RH (radiation hybrid) panel from Research Genetics (Huntsville, AL) (Kwok et al., 1999). The data was submitted to the Tbingen zebrafish radiation hybrid map service for determination of chromosomal location. Full-length cDNA sequence of zebrafish smo gene was obtained by sequencing the 3' and 5' RACE products following manufacturers instructions (Life Technologies, Rockville, MD). 
+
+
+
+RT-PCR, immunohistochemistry, in situ hybridization and TUNEL assay
+
+
+Total RNA was isolated from a pool of 10 phenotypic and 10 non-phenotypic embryos using Trizol reagents (Life Technologies, Rockville, MD) and treated with RNase-free DNAse I (Boehringer Mannheim, Indianapolis, IL) according to manufacturers instructions. cDNA was synthesized from the total RNA using oligo dT primers and then used as template for PCR analysis of smo gene expression (forward primer, CATTCCGCCTCCAGAGGAAAGG; reverse primer; CTCAGTCAGCATCCCAATAGCTC). Expression of -actin is used as a control (forward primer, CAGCATGGCTTCTGCTCTGTATGG; reverse primer, CTTGTCAGTGTACAGAGACACCCTG). In situ hybridization and TUNEL assays were carried out as described (Becker et al., 1998). For BrdU uptake, about 10 nl of 10 mM BrdU was injected into the yolk of the embryos. Injected embryos were incubated in fish water at 28.5C for 2 hours before being fixed. Immunohistochemistry was performed according to Schier et al. except that the washing buffer contained PBS + 0.1% Tween-20 + 0.5% Triton X-100 and the extravidin peroxidase staining kit from Sigma was used (St Louis, MO) (Schier et al., 1996). Stained embryos were embedded using the JB-4 plus embedding kit (Polysciences, Warrington, PA) and cut into 4 m serial sections. The sections were stained with Methylene Blue-Azure II solution and counterstained with Basic Fuchsin. The following probes were used for in situ hybridization in this study: ptc1 (Concordet et al., 1996), shh (Krauss et al., 1993), twhh (Ekker et al., 1995), myoD (Weinberg et al., 1996), collagen 2a1 (Yan et al., 1995) and axial (Strahle et al., 1993). The antibodies used were MF-20, anti-islet-1/2 (4D5) and anti-engrailed (4D9) (Developmental Studies Hybridoma Bank, University of Iowa, Iowa City, IA); anti-acetylated tubulin and anti-BrdU (clone BU33) (Sigma); zn-5 and znp-1 (University of Oregon, Eugene, OR); and anti-tyrosine hydroxylase (DiaSorin, Stillwater, MN). 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Identification of smo mutants and characterization of the smo gene
+
+
+In an ongoing large-scale insertional mutagenesis screen (Amsterdam et al., 1999), we found two insertional mutant alleles in the zebrafish smo gene. One was found in F2 family 229, the other in family 1640. We named the mutant smo, and the two alleles smohi229 and smohi1640, according to the Zebrafish Nomenclature Guidelines (Westerfield, 1993). As homozygotes of the two alleles display identical phenotypes, we have not distinguished them in this paper. Sequence analysis of the genomic DNA flanking the mutagenic proviral insertions indicated that the integration sites are both in the first coding exon and are 327 bp apart (Fig. 1A). Using a radiation hybrid panel (Kwok et al., 1999), the smo gene was placed between 49.6 and 54.3 cM from the top of LG4 (submitted marker unp1464 on the Tubingen map of the zebrafish genome). 
+
+
+
+
+
+
+
+
+
+
+View larger version (46K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. Homozygotes of two insertional mutant alleles in the zebrafish smo gene display phenotypes characteristic of a Hh signaling deficiency. Unless specified otherwise, wild type is above and anterior is on the left in each panel in all figures. (A) A schematic drawing of the two alleles indicating the locations and orientations of the proviral insertions. (B) Sequence pair distances of all known Smo proteins using the Clustal method with PAM250 residue weight table. Zebrafish column and row are highlighted. (C) RT-PCR analysis showing the lack of smo mRNA in the mutants. -act, -actin. (D) Ventral view of Alcian Blue-stained wild-type and mutant embryos at 120 hpf showing small head, posterior cyclopia, and absence of cartilaginous jaw and brachial arches (arrow), much reduced cleithria (black arrowhead), and absence of pectoral fins (white arrowhead) in the mutant. pf, pectoral fin; cl, cleithrium. (E) Posterior view of wild-type and mutant embryos at 14 hpf after whole-mount in situ hybridization with antisense myoD probes showing the lack of adaxial mesoderm in the mutants (arrows). am, adaxial mesoderm. (F) Flattened dorsal view of head region of acetylated -tubulin antibody stained wild-type and mutant embryos at 24 hpf, showing the absence of all three commissures in the forebrain and midbrain (arrow). ac, anterior commissure; pc, posterior commissure; poc, post-optic commissure. (G) Ventral view of Zn-5 stained wild-type and mutant embryos at 48 hpf showing failure of optic chiasm formation in the mutant embryo (arrow). Anterior points upwards. oc, optic chiasm; on, optic nerve.
+
+
+
+
+
+&nbsp;
+
+
+
+We obtained the full-length sequence of the zebrafish smo cDNA by 5'- and 3'-RACE (Accession Number AY029808). The cDNA encodes a protein of 822 amino acids. Comparison of the amino acid sequence of zebrafish smo to all known smo genes in the public databases revealed extensive homology. Like other Smo proteins (Alcedo et al., 1996; Stone et al., 1996; van den Heuvel and Ingham, 1996), the zebrafish Smo protein contains seven putative transmembrane domains. Its overall similarity to other vertebrate Smo proteins is 64% to 66% (Fig. 1B). Excluding the most divergent region in the middle of the C-terminal cytoplasmic tail (from amino acid 697 to 793), the predicted zebrafish Smo is 77% identical to other vertebrate Smo proteins. Between zebrafish and fly Smo, there is a 30% overall similarity and 43% identity in the first 614 amino acids. 
+
+
+
+The two insertional alleles are probably null. We failed to detect smo mRNA in the mutant embryos either by RT-PCR (Fig. 1C) or in situ hybridization (Fig. 2J). Even if low levels of smo mRNA escaped detection by both methods, such mRNAs would not be likely to make functional proteins, as both alleles carry a 6 kb proviral insertion in the first coding exon that encodes the signal peptide essential for the processing of Smo protein. 
+
+
+
+
+
+
+
+
+
+
+View larger version (39K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. Expression of smo mRNA during early zebrafish development. (A,B) Side views of a two-cell stage (A) and a 128-cell stage (B) embryo showing maternal expression. (C) Lateral view of an embryo at 5 1/2 hpf showing general expression with a shallow dorsal-ventral gradient. Arrow points to the future organizer region. (D,E) Lateral views of wild-type (D) and mutant (E) embryos at 8 hpf showing higher expression in the future head (arrowhead) and tail (arrow) regions. Note much lower but detectable expression in the mutant. (F) Lateral view of a tail-bud stage embryo showing expression of smo mRNA in the head (arrowhead) and tail (arrow) regions. (G) Dorsal view of an embryo at 14 hpf demonstrating expression in the midline, adaxial mesoderm and somitic mesoderm. (H,I) Expression in wild-type embryos at 26 hpf. In the head region (H), higher levels of expression are seen in the tectum (arrowhead), epiphysis, ventral forebrain and midbrain, and pectoral fin bud (arrow). In the trunk region, higher levels of expression are found in the neural tube, somites and gut. (J) Lateral view of a mutant embryo at 26 hpf showing the absence of smo mRNA expression.
+
+
+
+
+
+&nbsp;
+
+
+
+smo mutants display phenotypes characteristic of defective Hh signaling
+
+
+The phenotype of smo mutants is consistent with disruption of Hh signaling. All smo embryos display morphological defects that are characteristic of the chemically induced U-type zebrafish mutants, to which both the shh mutant syu and the gli2 mutant you-too (yot) belong (Brand et al., 1996). The phenotypes include U-shaped somites that lack a horizontal myoseptum, a reduced FP, a ventrally curved body (data not shown) and a mild posterior cyclopia (Fig. 1D). The mutants have a small head with severe craniofacial defects and no outgrowth from the pectoral fin buds (Fig. 1D). The mutants also lack the endoskelatal discs and actinotrichs in the pectoral fins, although reduced cleithria are present (Fig. 1D), similar to syut4 (Neumann et al., 1999). Although the heart of the mutant embryos keeps beating for up to 4 days of development, there are few blood cells in the heart and no blood cells circulating in the body. Most of the mutant embryos have disintegrated by the end of day 4, although occasionally, some mutants can survive to day 6. 
+
+
+
+Analysis of the mutant by in situ RNA hybridization and immunohistochemistry revealed additional defects characteristic of a Hh signaling deficiency. The mutants have no myoD expression in adaxial tissue (Fig. 1E), have greatly reduced slow muscle fibers prior to 24 hours postfertilization (hpf), and no muscle pioneer cells (data not shown). All the above phenotypes resemble that of the chemically induced zebrafish slow-muscle-omitted (smu) mutant, whose slow muscle defects can be rescued by rat smo mRNA (Barresi et al., 2000). Additionally, all three major commissures in the forebrain and midbrain in 24 hour old mutants do not form (Fig. 1F). Axonal guidance of the optic nerve is also abnormal, a phenotype similar to yot (Brand et al., 1996; Karlstrom et al., 1999). In contrast to the optic nerves of wild-type embryos that cross the midline to form the optic chiasm, the optic nerves of mutant embryos usually do not cross the midline. Rather, they tend to stop on the way to the midline (Fig. 1G). In most cases, a fraction of the retinal ganglion axons do reach the tectum of the ipsilateral side. Occasionally, some axons in one optic nerve will find their way to the contralateral side. In none of these cases, however, do such axons make the correct turn and reach the tectum. In contrast, axons of the Mauthner neurons and commissural neurons in the hindbrain do cross the midline normally (data not shown). Taken together, these phenotypes suggest that lack of smo function in the zebrafish may result in defective Hh signaling. 
+
+
+
+Expression of smo mRNA during early development
+
+
+The expression of smo mRNA during early development is very dynamic. It appears that there is an abundant maternal supply of smo mRNA (Fig. 2A,B). During early gastrula stages, smo mRNA is widely expressed. As epiboly continues, a shallow dorsoventral gradient of smo mRNA expression begins to appear around the embryonic shield stage (5-6 hpf) with higher levels seen in the future organizer region (Fig. 2C). At 70% epiboly, one may be able to distinguish wild-type from smo embryos by the levels and pattern of expression. Although smo mRNA is distributed broadly, its concentration is much higher in the future head and tail regions in wild-type embryos (Fig. 2D). However, mutant embryos exhibit lower levels of smo mRNA and lack the two higher expression domains (Fig. 2E), a pattern that presumably arises at this stage, owing to the incomplete degradation of maternal smo mRNA and the lack of zygotic expression of smo mRNA. At the tail bud stage, smo mRNA cannot be detected by in situ hybridization in mutant embryos (data not shown). In wild-type embryos at this stage, smo mRNA is only found in the neural plate and axial mesoderm, with higher levels seen in the future head and tail domains. No expression was found in ventrolateral non-neuronal ectodermal tissues (Fig. 2F). As somitogenesis proceeds, the expression domain on the dorsal side expands laterally to adaxial mesoderm and somites (Fig. 2G). At 26 hpf, high levels of expression are found in the ventral diencephalon, the epiphysis, the tectum and the pectoral fin buds (Fig. 2H,I). No smo mRNA is detected in the mutant embryos at this stage (Fig. 2J). 
+
+
+
+The role of smo in the Hh pathway is conserved
+
+
+To determine if Hh signaling is indeed defective, as indicated by the phenotype of smo mutants, we studied the expression of Hh target genes. Remarkably, expression of the ptc1 gene (Concordet et al., 1996) is almost completely missing in the smo embryos as early as the tailbud stage (Fig. 3A,B and data not shown), except for a small ventral midbrain region after prolonged staining (Fig. 3A). The ptc1 phenotype is more severe than that of syu and yot, in which ptc1 expression is greatly reduced but nevertheless detectable in the trunk region (Concordet et al., 1996; Lewis et al., 1999a; Lewis et al., 1999b). The lack of ptc1 expression resembles that of smu mutants (Barresi et al., 2000). We also found decreased expression of axial (foxa2  Zebrafish Information Network; Fig. 4B-D) and netrin 1a genes (data not shown) in the mutants. Thus, the smo gene product is required for the expression of Hh target genes, and thus presumably Hh signaling. 
+
+
+
+
+
+
+
+
+
+
+View larger version (43K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. Essential and conserved role of vertebrate smo in Hh signaling. (A,B) Lateral view of wild-type and mutant embryos at 24 hpf (A) and 12 hpf (B) demonstrating the absence of ptc1 expression in the mutants. (C-E) ptc-1 expression in response to manipulation of Hh signaling components in wild-type and mutant embryos indicates a conserved role of smo in the pathway in zebrafish. Embryos were injected at one- to two-cell stages and ptc1 expression is determined at 12 hpf. (C) shh mRNA injection. (D) twhh mRNA injection. (E) PKI mRNA injection. Arrows indicate ectopic expression.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (75K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. MFP development is independent of Hh activity in zebrafish. (A,B) Lateral view of wild-type and mutant embryos at 24 hpf showing FP markers such as shh (A) and axial (B) are present at reduced levels in smo embryos. (C) Close up dorsal view of axial expression in embryos at 24 hpf, indicating the lack of LFP and the presence of MFP in the mutant. (D) Expression of axial is markedly reduced in mutant embryos at 35 hpf. Axial can be seen in a small region in the ventral midbrain (arrow). (E) Lateral view of the expression of the MFP marker type II collagen 1a (col2a1) at 30 hpf indicating the fragmentation of MFP in the mutant (arrow). (F) Lateral view of col2a1 expression at 24 hpf indicating that 100 M cyclopamine treatment from 4 to 10 hpf accelerated gap formation but did not eliminate the development of MFP. Arrows indicate gaps. (G) Side view of ptc1 expression in wild embryos at 10 hpf with (bottom) or without (top) 100 mM cyclopamine treatment showing that the treatment completely eliminates Hh activity. (H) Side view of ptc1 expression in the same batches of embryos as in (G) but sampled 2 hours after washing off cyclopamine, which indicates the inhibition is reversible.
+
+
+
+
+
+&nbsp;
+
+
+
+We next investigated whether the role of the vertebrate smo gene in Hh signaling is similar to that in Drosophila. We injected synthetic mRNA of shh (Krauss et al., 1993), twhh (Ekker et al., 1995) and dominant negative PKA (PKI) (Hammerschmidt et al., 1996) into one- to two-cell stage embryos and assayed ptc1 expression at 12 or 24 hpf by in situ hybridization. In wild-type embryos, shh, twhh and PKI all induce ectopic overexpression of ptc1 (Fig. 3C-E, top). However, injection of shh mRNA and twhh mRNA did not induce ptc1 expression in the mutants (Fig. 3C,D, bottom), whereas injection of PKI mRNA did bring about ectopic ptc1 expression in mutant embryos (Fig. 3E, bottom). Thus, as in Drosophila, smo gene product functions downstream of Hh proteins and upstream of PKA. Furthermore, these data suggest that there is only one functional smo gene at these stages in zebrafish. However, we can not exclude the possibility that there may be other smo-related genes in the zebrafish genome that function at later stages of development. Hence, smohi229 and smohi1640 are among the first known loss-of-function mutants of a vertebrate smo gene. As they appear to abolish Hh signaling during early development, they are useful reagents for analyzing the function of the Hh pathway in zebrafish, and for resolving the controversies that surround the discrepancies of Hh function in mouse and zebrafish. 
+
+
+
+smo is not required for MFP development
+
+
+Although the FP appears absent in mutants by visual inspection of live embryos, it is not completely missing in the mutants. Several FP markers, including shh (Fig. 4A), axial (zebrafish HNF3; Strahle et al., 1993; Fig. 4B,C), fkd4 (foxa  Zebrafish Information Network) twhh, and netrin 1a (data not shown) are all present in the midline cells at the position of FP in mutant embryos, albeit at lower levels than in wild-type embryos. Close inspection revealed that all of these markers were present only in the MFP in the mutants. The two columns of cells flanking the MFP (the LFP) are absent in the mutants (Fig. 4C). Thus, in the absence of zebrafish zygotic smo function, the induction of MFP proceeds, while the development of LFP fails, similar to syu and yot (Odenthal et al., 2000; Schauerte et al., 1998). Although not required for the initiation of axial gene expression, the function of the smo gene is necessary for its maintenance. At 35 hpf, except for a small region in the ventral midbrain, axial expression is entirely missing (Fig. 4D). Zygotic smo function also appears to be essential for maintaining the integrity of MFP. At 30 hpf or later, small gaps are often present in the MFP of smo embryos, but not in the wild-type embryos (Fig. 4E). Thus, zygotic function of smo is not required for the induction, but is required for the maintenance of the MFP, as well as the maintenance of axial expression. 
+
+
+
+It is possible that maternal smo mRNA is responsible for the induction of MFP in the mutants, as FP induction may take place in the embryonic organizer (Le Douarin and Halpern, 2000) and smo mRNA is still detectable in mutant embryos at 70% epiboly. To determine if MFP formation is a function of maternal smo mRNA, we used a morpholino antisense oligo that is specific for zebrafish smo, the PKA activators forskolin and IBMX, and cyclopamine, a specific inhibitor of Hh signaling that may act as a Smo antagonist (Cooper et al., 1998; Incardona et al., 1998; Taipale et al., 2000), to block early Hh activity. We found that only cyclopamine treatment can completely eliminate ptc1 expression. Although treating embryos in 50 M or 100 M of cyclopamine from 4 to 10 hpf completely inhibited the expression ptc1 in wild-type embryos (Fig. 4G), caused fusion of the eyes in the mutant embryos (for example, see Fig. 6D and 7F), and completely inhibited MN development (Fig. 5G and 5H), it did not prevent MFP from forming (Fig. 4F). However, the drug treatment accelerated the appearance and increased the severity of gap formation in MFP in the mutants. Gaps are readily detectable at 24 hpf in the treated mutants (Fig. 4F). Prolonged treatment, from 2 hpf to 24 hpf, did not inhibit MFP formation either (data not shown), whereas starting treatment before 2 hpf led to arrest and disintegration of the embryos at mid-gastrula stages. Taken together, our data suggest that MFP formation in zebrafish is likely to be independent of Hh activity, whereas MFP maintenance does require Hh activity. 
+
+
+
+
+
+
+
+
+
+
+View larger version (112K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 6. Midbrain DA neuron specification is independent of Smo and Hh activity. All are ventral views of anti-TH stained embryos at 48 hpf. Anterior is upwards. (A,B) Specification of midbrain DA neurons is normal in smo mutant embryos (B), but the number is only about half that in wild-type embryos (A). (C,D) Inhibition of Hh activity during gastrulation does not impair the specification of midbrain DA neurons in either wild-type (C) or mutant (D) embryos. Arrows indicate ventral midbrain DA neurons.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (75K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 7. Hh activity and heart looping. All are ventral views of MF-20-stained embryos at 48 hpf. Ventricle is stained darker than aorta. Anterior points upwards. Arrows indicate looping direction. (A-C) Despite morphological abnormalities, the heart of mutants (B,C) always loops to the right, as in wild-type embryos (A). (D-F) Inhibition of Hh activity by cyclopamine during gastrulation does not randomize heart looping. Morphology of the hearts are severely affected by the treatment in both wild-type (D,E) and mutants (F). Occasionally, the hearts of some treated embryos do not loop (E). However, reversal of looping has not been observed.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+View larger version (63K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Maternal and zygotic smo function in MN development. (A,D,G) Lateral views of islet-1/2 antibody staining showing MNs in wild-type (A), smo mutant (D) and cyclopamine treated wild-type (G) embryos at 20 hpf. Mutant embryos have a decreased number of PMNs (arrow). The decrease becomes more severe in the caudal spinal cord. Cyclopamine treatment during gastrulation completely eliminates PMN formation (G). (B,E) Flattened lateral views of acetylated -tubulin staining showing axons of primary neurons at 24 hpf. The axons of caudal PMN (CaP) in each hemisegment extend down (B, arrow), while CaP axons in the mutant branch and extend randomly (E, arrow). (C,F,H) Lateral views of Islet-1/2 antibody stained embryos at 48 hpf. A large number of SMNs are seen in the wild-type embryos (C, arrow), whereas few can been seen in the mutant (F, arrow). The PMNs disappear almost completely. Treatment of embryos with cyclopamine during gastrulation in wild-type embryos also leads to the absence of SMN formation (H, arrow). capa, caudal primary motoneuron axons; pmn, primary motoneuron; smn, secondary motoneuron; rb, Rohon-Beard neurons.
+
+
+
+
+
+&nbsp;
+
+
+
+Development of both PMN and SMN requires Hh activity
+
+
+The Hh pathway also plays an important role in the development of MN in amniotes. We therefore investigated MN development in smo mutants. Unlike amniotes, teleosts and amphibians have two types of MN: PMNs and SMNs (Eisen, 1991; Myers, 1985). The latter are thought to be the equivalent of the lateral MN column in amniotes. In smo mutant embryos, SMNs are absent, as indicated by the lack of Islet-1 and Zn-5 antibody staining in ventral spinal cord at 36 or 48 hpf (Fig. 5F and data not shown). Therefore, the smo gene is essential for the development of SMNs. 
+
+
+
+The lack of Islet-1 staining at 36 hpf also suggests that the function of the smo gene is required for PMN development. However, irregular spontaneous local contractions and occasional body wiggles have been observed from 20 to 26 hours of development in the mutant embryos. This prompted us to look at PMNs at earlier stages. At 20 hpf, wild-type embryos have three to four PMNs in each hemisegment (Fig. 5A). However, mutant embryos only have two or three PMNs per hemisegment in the anterior half of the spinal cord and one or none in the posterior spinal cord (Fig. 5D). In addition, unlike PMNs in wild-type embryos, which each extends an axon along a specific path (Fig. 5B), axons of these PMNs in mutant embryos are disorganized (Fig. 5E). Thus, zygotic function of the smo gene is not essential for the specification of early-born PMN in the anterior spinal cord. However, it is important for guiding axons of those PMNs to the correct targets, and for the formation of the late-born PMN in the posterior spinal cord. 
+
+
+
+The induction of PMNs in the anterior spinal cord in the smo mutants could be a function of maternal smo mRNA. So we examined the development of PMNs in cyclopamine-treated embryos. Neither wild-type nor mutant embryos treated from 4-10 hpf displayed any muscle contraction. Few PMNs or SMNs were detectable in these embryos using Islet-1 antibody (Fig. 5G,H). Thus, the Hh pathway is essential for both PMN and SMN development in zebrafish, and maternal smo mRNA is responsible for the formation of the early-born PMNs. This also explains the increasing severity of PMN defects from rostral to caudal. As development proceeds and maternal mRNA is depleted, more defects might be expected to occur in the later-developing caudal neural tube. 
+
+
+
+The development of midbrain DA neurons does not require Hh activity
+
+
+Hh activity has been implicated in the development of ventral midbrain DA neurons in rat and mouse brain explants (Hynes et al., 1995; Wang et al., 1995; Ye et al., 1998). However, it is not known if Hh activity is necessary for the specification of these neurons in vivo. We therefore examined the role of the smo gene in the development of ventral midbrain DA neurons using tyrosine hydroxylase (TH) antibody. Surprisingly, except for the sympathetic ganglia, all the TH-positive cell types (Guo et al., 1999), including midbrain DA neurons are present in smo mutants at 24 and 48 hpf (Fig. 6A,C and data not shown). Therefore, zygotic Hh activity is not essential for the specification of midbrain DA neurons. Nevertheless, in the mutants, the number of midbrain DA neurons is reduced to about a half of that in wild-type embryos. Furthermore, cyclopamine treatment from 4 to 10 hpf did not prevent DA neurons from forming (Fig. 6B,D). Thus, Hh activity is not required for the specification of DA neurons in zebrafish. 
+
+
+
+Development of LR asymmetry of the heart is independent of Hh activity in zebrafish
+
+
+The requirement for Hh signaling in patterning the LR axis differs from species to species (Burdine and Schier, 2000; Yost, 1999). The LR axis is normal in the zebrafish shh mutant syu (Chen et al., 1997). However, the aforementioned functional redundancy and maternal activity may mask a requirement for Hh signaling activity in patterning laterality in zebrafish. We therefore investigated laterality in the smo mutants. We chose to examine heart asymmetry, as it can easily be determined by visual inspection and by antibody staining. In zebrafish, as in all other vertebrates, the ventricle of the heart loops to the right (Fig. 7A). Of the more than 50 smo mutants analyzed, although some have abnormal heart morphology, none display reversed looping of the heart (Fig. 7B,C). As pericardiac edema is a typical mutant-associated phenotype, it is uncertain whether the morphological heart defect is directly due to the loss of smo function in the heart, or secondary to the edema. Cyclopamine treatment of the embryos during gastrulation worsens the morphological abnormalities in the heart tube (Fig. 7D-F). In a few cases (5/71 in +/? and 2/24 in -/-), the ventricle remains in the medial position (Fig. 7E). Nevertheless, reversal of heart looping has not been found. Thus, Hh signaling activity is not essential for LR cardiac polarity in zebrafish. 
+
+
+
+Extensive CNS cell death in smo mutants
+
+
+Similar to shh-/- mouse embryos, smo mutants are smaller than wild-type. The difference in size becomes more apparent as development proceeds. To understand the cause(s) of the phenotype, we studied cell proliferation and cell death in 1-day old mutant embryos. At 26 hpf, Acridine Orange and TUNEL staining revealed a marked increase of cell death in the mutant embryos, particularly in the CNS (Fig. 8A,B). Using BrdU incorporation to label dividing cells, we found that although a similar pattern of cell proliferation is seen in mutant and wild-type embryos, there is a marked difference in the number of proliferating cells (Fig. 8C,D and data not shown). Analysis of serial transverse sections indicates that there are twice as many proliferating cells per section in the CNS of wild-type embryos than in comparable regions in the mutants. For example, there are about 20 dividing cells per section of the cervical spinal cord in the wild-type embryos, versus only about nine in the mutant embryos (Fig. 8C,D). When normalized to the total number of spinal cells in the section, there is still a marked difference between wild-type and mutant embryos (Fig. 8D). Therefore, loss of smo function leads to an overall increase of cell death and decrease of cell proliferation. Consequently, the mutant embryos become progressively smaller compared with their wild-type counterparts. 
+
+
+
+
+
+
+
+
+
+
+View larger version (76K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 8 smo and regulation of cell proliferation and cell death. (A,B) Lateral view of embryos at 26 hpf showing a general increase of cell death in smo mutants. Embryos in A are stained live with Acridine Orange. Embryos in B are stained using the TUNEL protocol. (C,D) Decreased cell proliferation in smo mutants at 28 hpf. Embryos were labeled with BrdU and stained using an anti-BrdU antibody. (C) Representative cross sections of the cervical region of stained embryos that show fewer labeled cells as well as lower total cell numbers in the mutant. The border of the spinal cord is outlined. (D) Graph that summarizes the cell proliferation data in the cervical spinal cord of three wild-type and three mutant embryos. Mitotic index is the percentage of BrdU-labeled cells in the neural tube. Error bar shows s.d.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Hh and FP development in zebrafish
+
+
+Despite extensive studies, the mechanism of FP development remains controversial (Le Douarin and Halpern, 2000; Placzek et al., 2000). Part of the controversy is centered on the role of Hh activity in FP development. Loss of Shh or Gli2 function in mice abolishes the FP, supporting the model in which FP is induced by notochord-derived Hh activity. In contrast, loss of shh or gli2 in zebrafish only partially eliminates FP, thus casting doubts on the simple Hh induction model (Le Douarin and Halpern, 2000; Schauerte et al., 1998). The large contribution of maternal mRNA in early zebrafish development and the existence of multiple midline Hh genes make the zebrafish results less than completely convincing (Placzek et al., 2000). Our data suggest that MFP formation may be independent of Hh activity (Fig. 4). We showed that loss of smo function abolishes Hh activity, but not MFP, even after inhibition of maternal Hh activity by cyclopamine. Although 100 M cyclopamine may not have completely eliminated Hh activity, it should have prevented MFP from forming, as FP induction requires higher Hh activity than is needed for MN development (Roelink et al., 1995). These results are consistent with the theory that, in contrast to mouse, zebrafish MFP does not require Hh activity. Instead, functions of other zebrafish genes, such as cyc, oep and sur, are required for MFP development (Odenthal et al., 2000; Schauerte et al., 1998). We cannot exclude the possibility that the administration of cyclopamine is not early enough to inhibit the induction of MFP by Hh activity. Although it was suggested recently that cyclopamine may act as a Smo antagonist (Taipale et al., 2000), direct binding of cyclopamine to Smo has not been demonstrated. Therefore, the mechanism of cyclopamine inhibition, and thus the latency of its effect are uncertain. Combined with the uncertainty of the timing of MFP induction, it is formally possible that MFP induction had taken place before the inhibitory effects of cyclopamine were established in our experiments, even when cyclopamine is added at 2 hpf. As embryos exposed to 100 M cyclopamine prior to 2 hpf died at mid-gastrula stages, it may not be possible to conclude unequivocally whether MFP induction requires Hh activity in zebrafish using this pharmacological approach. In the future, definitive answer might be obtained if one could generate fertile smo homozygous females by rescuing with injected smo mRNA, as has been done for several other zebrafish mutants (Gritsman et al., 1999; Mintzer et al., 2001; Pogoda et al., 2000; Sirotkin et al., 2000). Analysis of the fate of MFP cells in maternal-zygotic smo mutants would be definitive. However, given the central roles of Hh activity in development, however, it remain to be seen if rescue of smo mutants will be possible. 
+
+
+
+An unexpected finding from our analysis is the requirement of Hh activity in the maintenance of MFP (Fig. 4). In smo mutants, the MFP becomes discontinuous after 30 hpf, and expression of MFP marker axial disappears by 35 hpf. Furthermore, block of early Hh activity by cyclopamine accelerates the appearance of the gaps. Such a function of Hh has not been reported in the mouse because FP is absent in mutants that lack Shh and Gli2. The mechanism of the maintenance function of Smo is uncertain. The gaps might be due to a discordance of the growth rate of MFP and neural tube: a slower proliferation of MFP cells might lead to gap formation by the tension created by the greater neural tube growth. However, analysis of the distribution of BrdU-labeled cells did not provide us conclusive evidence for a dorsal/ventral mitotic disparity (Fig. 8; data not shown). Alternatively, the gaps may develop because MFP cells might be more prone to apoptosis in the absence of Hh activity. Although we have shown an overall increase of apoptosis and decrease of cell division in the smo embryos (Fig. 8), more detailed analysis of these activities in MFP cells and neural tube is necessary to understand why the gaps form in the mutants. 
+
+
+
+Hh signaling and MN development in zebrafish
+
+
+The role of Hh activity in MN development was not well defined previously in zebrafish. Several lines of evidence have suggested the importance of Hh activity in MN specification. In flh;cyc double mutants, in which the expression of shh, twhh and ehh is absent at the beginning of somitogenesis, PMN number is dramatically reduced, particularly in the posterior most segments (Beattie et al., 1997). The PMNs in anterior segments of flh;cyc mutants were thought to be result of shh expression in the axial mesoderm, albeit at greatly reduced levels, at the end of gastrulation (Beattie et al., 1997). Similarly, in syu;cyc double mutants that lack both shh and twhh function, the number of PMNs is markedly decreased, particularly in the caudal spinal cord (Odenthal et al., 2000). The residual PMNs in syu;cyc double mutants were thought to be a result of normal ehh expression or cyc function in the mutants (Odenthal et al., 2000). Like smo mutants, SMNs fail to form in syu;cyc double mutants (Beattie et al., 1997). The similar MN phenotypes in smo, syu;cyc and flh;cyc mutants are consistent with the notions that smo mutants completely lack Hh activity from the onset of segmentation, and that shh, twhh and ehh have overlapping functions. Unlike previous studies, the study here clearly demonstrates for the first time the absolute requirement of Hh activity for MN induction in zebrafish. Thus, at the level of MN development, the role of Hh activity is conserved from teleosts to mammals. 
+
+
+
+The differential effects of inactivating zygotic smo on PMNs and SMNs reflect their difference in birthdate. Analysis of MN development in chick neural tube explants has revealed two crucial periods of Hh activity, an early requirement for specification of ventral fate and a late action during the last cell cycle (Ericson et al., 1996). The presence of detectable maternal smo mRNA at 8 hpf (Fig. 2E) and the absence of ptc1 expression at 10.5 hpf suggest that maternal Smo activity may exhaust around 9 to 10 hpf, during which PMNs start to form as shown by lineage tracing studies in zebrafish (Kimmel et al., 1994). By contrast, SMN form much later over an extended period. The last cell cycle for the earliest SMN occurs at about 14 hpf (Kimmel et al., 1994), at which time no functional Smo is present in the mutants. Therefore, PMN are present while SMN are missing in smo mutants. The results of cyclopamine treatment experiments are consistent with the notion that Hh activity is required in two critical periods for MN induction. The treatment probably impairs the specification of ventral fate. So, even if Hh signaling resumes at the time of the last cell cycle (Fig. 4H), PMNs and SMNs still fail to form (Fig. 5H). The axonal misguidance of PMN is probably due to defects in somite development, such as factors from adaxial mesoderm like the diw gene product (Zeller and Granato, 1999).  
+
+
+
+Another surprising result from our study is the requirement of Hh activity in PMN maintenance. Although PMNs form in the mutants, most of them disappear by 48 hpf, whereas all the PMNs survive to adulthood in wild-type zebrafish (Westerfield et al., 1986). Previous data have indicated that Hh activity seems to be no longer necessary for MNs after their birth (Ericson et al., 1996). The survival role of Hh activity in the neural tube seems not to be specific for PMNs, however. An overall increase of cell death in and out of the neural tube was observed in the mutants (Fig. 8). The requirement of Hh activity for the survival of neuronal and non-neuronal cell types has been observed in chick embryos (Ahlgren and Bronner-Fraser, 1999; Oppenheim et al., 1999). Whether or not the cell survival function of smo is a direct or secondary effect of Hh remains to be determined. 
+
+
+
+The new functions of Hh activity in MFP and PMN development revealed in our analyses demonstrate a useful feature of zebrafish in determining functions of genes essential for early patterning. Although the presence of maternal smo mRNA and the rapid development of zebrafish complicated the analysis of the mutant phenotypes, they allowed us to uncover the requirement of Hh activity in maintaining MFP and PMNs in late stages of development. Such a function of the smo gene would have been masked in a conventional mouse mutant created by homologous recombination in embryonic stem (ES) cells. Thus, in some ways, the smo mutants in fish behave as if they were partially conditional. In the case of MN development, the maternal smo mRNA permits the formation of PMNs, and the lack of zygotic smo mRNA unveils its roles in later development. 
+
+
+
+Hh signaling and DA neuron specification
+
+
+In contrast to the current model, our data indicate that Hh activity is not required in ventral midbrain DA neuron specification, at least in zebrafish. It is believed that Shh from the ventral neural tube and Fgf8 from the midbrain-hindbrain boundary collaborated to specify the DA neurons (Rosenthal, 1998; Ye et al., 1998). This model was largely based on data derived from chick, rat and mouse midbrain explants (Hynes et al., 1995; Wang et al., 1995; Ye et al., 1998). It was also consistent with the in vivo data in chick and mouse. Expression of a constitutively active smo gene in dorsal midbrain induces ectopic TH-positive DA neurons in transgenic mice (Hynes et al., 2000). Ectopic expression of shh in the chicken tectum also results in ectopic DA neurons and MNs (Watanabe and Nakamura, 2000). Thus, Hh activity is sufficient, both in vitro and in vivo, to induce DA neurons in amniotes. Whether it is necessary for specification of DA neurons in vivo remains an unanswered question in amniotes. The only supporting in vivo evidence so far is the observation of a marked reduction of midbrain DA in Gli2-/- mice (Matise et al., 1998). In addition to the inducing activity, Hh signaling has also been shown to promote the survival of cultured midbrain DA cells (Miao et al., 1997). Recombinant Shh also increases the yield of DA neurons derived from mouse ES cells (Lee et al., 2000). However, neither Fgf8 nor Shh is required for the induction of midbrain DA neurons from mouse ES cells. So, there appear to be multiple avenues for the induction of midbrain DA neurons. For this reason, it is not surprising perhaps to see the specification of midbrain DA neurons independent of Hh activity in zebrafish. The observed midbrain DA neuron phenotype in the smo mutants may just be a consequence of the overall increase of cell death and the decrease of mitosis in smo mutants. Alternatively, the phenotype may reflect general mechanisms that keep each cell type in appropriate proportion relative to the body size (Conlon and Raff, 1999). It is also possible that DA neuron specification differs between amniotes and zebrafish. In fact, the reduction of DA neurons in Gli2 mutant mice seems more severe than we observed in zebrafish smo mutants, even after cyclopamine treatment (Matise et al., 1998). Analysis of mouse embryos mutant for other Hh pathway members, particularly shh, will be very informative for resolving this discrepancy. 
+
+
+
+The difference in the requirement of Hh activity for the induction of midbrain DA neurons and MFP in mouse and zebrafish may be a result of differences in the spatial and temporal pattern of expression of the modulators of Hh activity. For example, Litingtung and Chiang have recently reported that the requirement of shh for several ventral neuronal types except FP is overcome in the absence of gli3 function (Litingtung and Chiang, 2000). It will be interesting to determine the spatial and temporal dynamics of gli3 and other Gli gene expression in zebrafish in relation to the induction of MFP and midbrain DA neurons. Nevertheless, our analyses of zebrafish smo mutants have clearly demonstrated both conserved and divergent roles of Hh activity in zebrafish development. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We thank Drs. Adam Amsterdam, Greg Golling, Zhaoxia Sun and Alex Schier for discussions, the fishroom staff of the Hopkins lab for superb technical support, Zoltan Varga, Judith Eisen, and Monte Westerfield for sharing data prior to publication that demonstrate zebrafish smu mutant is caused by mutation in the smo gene, and two anonymous reviewers for helpful suggestions. We are also grateful to Dr William Gaffield for cyclopamine, Drs Alex Schier, Hazel Sive, Yevgenya Grinblat, John Kuwada, Phil Ingham and Miguel Allende for plasmids, and the Developmental Studies Hybridoma Bank (maintained by Department of Biological Sciences at The University of Iowa) and Institute of Neuroscience (University of Oregon) for antibodies. This study was supported by grants from Amgen, NIH and the NCRR. 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Ahlgren, S. C. and Bronner-Fraser, M. (1999). Inhibition of sonic hedgehog signaling in vivo results in craniofacial neural crest cell death. Curr. Biol. 9, 1304-1314.[Medline]
+
+
+
+Alcedo, J., Ayzenzon, M., Von Ohlen, T., Noll, M. and Hooper, J. E. (1996). The Drosophila smoothened gene encodes a seven-pass membrane protein, a putative receptor for the hedgehog signal. Cell 86, 221-232.[Medline]
+
+
+
+Amsterdam, A., Burgess, S., Golling, G., Chen, W., Sun, Z., Townsend, K., Farrington, S., Haldi, M. and Hopkins, N. (1999). A large-scale insertional mutagenesis screen in zebrafish. Genes Dev. 13, 2713-2724.[Abstract/Free Full&nbsp;Text]
+
+
+
+Barresi, M. J., Stickney, H. L. and Devoto, S. H. (2000). The zebrafish slow-muscle-omitted gene product is required for Hedgehog signal transduction and the development of slow muscle identity. Development 127, 2189-2199.[Abstract/Free Full&nbsp;Text]
+
+
+
+Beattie, C. E., Hatta, K., Halpern, M. E., Liu, H., Eisen, J. S. and Kimmel, C. B. (1997). Temporal separation in the specification of primary and secondary motoneurons in zebrafish. Dev. Biol. 187, 171-182.[Medline]
+
+
+
+Becker, T. S., Burgess, S. M., Amsterdam, A. H., Allende, M. L. and Hopkins, N. (1998). not really finished is crucial for development of the zebrafish outer retina and encodes a transcription factor highly homologous to human Nuclear Respiratory Factor-1 and avian Initiation Binding Repressor. Development 125, 4369-4378.[Abstract/Free Full&nbsp;Text]
+
+
+
+Brand, M., Heisenberg, C. P., Warga, R. M., Pelegri, F., Karlstrom, R. O., Beuchle, D., Picker, A., Jiang, Y. J., Furutani-Seiki, M., van Eeden, F. J. et al. (1996). Mutations affecting development of the midline and general body shape during zebrafish embryogenesis. Development 123, 129-142.[Abstract/Free Full&nbsp;Text]
+
+
+
+Burdine, R. D. and Schier, A. F. (2000). Conserved and divergent mechanisms in left-right axis formation. Genes Dev. 14, 763-776.[Free Full&nbsp;Text]
+
+
+
+Chen, J. N., van Eeden, F. J., Warren, K. S., Chin, A., Nusslein-Volhard, C., Haffter, P. and Fishman, M. C. (1997). Left-right pattern of cardiac BMP4 may drive asymmetry of the heart in zebrafish. Development 124, 4373-4382.[Abstract/Free Full&nbsp;Text]
+
+
+
+Chiang, C., Litingtung, Y., Lee, E., Young, K. E., Corden, J. L., Westphal, H. and Beachy, P. A. (1996). Cyclopia and defective axial patterning in mice lacking Sonic hedgehog gene function. Nature 383, 407-413.[Medline]
+
+
+
+Concordet, J. P., Lewis, K. E., Moore, J. W., Goodrich, L. V., Johnson, R. L., Scott, M. P. and Ingham, P. W. (1996). Spatial regulation of a zebrafish patched homologue reflects the roles of sonic hedgehog and protein kinase A in neural tube and somite patterning. Development 122, 2835-2846.[Abstract/Free Full&nbsp;Text]
+
+
+
+Conlon, I. and Raff, M. (1999). Size control in animal development. Cell 96, 235-244.[Medline]
+
+
+
+Cooper, M. K., Porter, J. A., Young, K. E. and Beachy, P. A. (1998). Teratogen-mediated inhibition of target tissue response to Shh signaling. Science 280, 1603-1607.[Abstract/Free Full&nbsp;Text]
+
+
+
+Currie, P. D. and Ingham, P. W. (1996). Induction of a specific muscle cell type by a hedgehog-like protein in zebrafish. Nature 382, 452-455.[Medline]
+
+
+
+Dahmane, N. and Ruiz-i-Altaba, A. (1999). Sonic hedgehog regulates the growth and patterning of the cerebellum. Development 126, 3089-3100.[Abstract/Free Full&nbsp;Text]
+
+
+
+Eisen, J. S. (1991). Motoneuronal development in the embryonic zebrafish. Development 112, Suppl., 141-147.
+
+
+
+Ekker, S. C., Ungar, A. R., Greenstein, P., von Kessler, D. P., Porter, J. A., Moon, R. T. and Beachy, P. A. (1995). Patterning activities of vertebrate hedgehog proteins in the developing eye and brain. Curr. Biol. 5, 944-955.[Medline]
+
+
+
+Ericson, J., Morton, S., Kawakami, A., Roelink, H. and Jessell, T. M. (1996). Two critical periods of Sonic Hedgehog signaling required for the specification of motor neuron identity. Cell 87, 661-673.[Medline]
+
+
+
+Gritsman, K., Zhang, J., Cheng, S., Heckscher, E., Talbot, W. S. and Schier, A. F. (1999). The EGF-CFC protein one-eyed pinhead is essential for nodal signaling. Cell 97, 121-132.[Medline]
+
+
+
+Guo, S., Wilson, S. W., Cooke, S., Chitnis, A. B., Driever, W. and Rosenthal, A. (1999). Mutations in the zebrafish unmask shared regulatory pathways controlling the development of catecholaminergic neurons. Dev. Biol. 208, 473-487.[Medline]
+
+
+
+Hammerschmidt, M., Bitgood, M. J. and McMahon, A. P. (1996). Protein kinase A is a common negative regulator of Hedgehog signaling in the vertebrate embryo. Genes Dev. 10, 647-658.[Abstract]
+
+
+
+Hammerschmidt, M., Brook, A. and McMahon, A. P. (1997). The world according to hedgehog. Trends Genet. 13, 14-21.[Medline]
+
+
+
+Hynes, M., Porter, J. A., Chiang, C., Chang, D., Tessier-Lavigne, M., Beachy, P. A. and Rosenthal, A. (1995). Induction of midbrain dopaminergic neurons by Sonic hedgehog. Neuron 15, 35-44.[Medline]
+
+
+
+Hynes, M., Ye, W., Wang, K., Stone, D., Murone, M., Sauvage, F. and Rosenthal, A. (2000). The seven-transmembrane receptor smoothened cell-autonomously induces multiple ventral cell types. Nat. Neurosci. 3, 41-46.[Medline]
+
+
+
+Incardona, J. P., Gaffield, W., Kapur, R. P. and Roelink, H. (1998). The teratogenic Veratrum alkaloid cyclopamine inhibits sonic hedgehog signal transduction. Development 125, 3553-3562.[Abstract/Free Full&nbsp;Text]
+
+
+
+Izraeli, S., Lowe, L. A., Bertness, V. L., Good, D. J., Dorward, D. W., Kirsch, I. R. and Kuehn, M. R. (1999). The SIL gene is required for mouse embryonic axial development and left- right specification. Nature 399, 691-694.[Medline]
+
+
+
+Jensen, A. M. and Wallace, V. A. (1997). Expression of Sonic hedgehog and its putative role as a precursor cell mitogen in the developing mouse retina. Development 124, 363-371.[Abstract/Free Full&nbsp;Text]
+
+
+
+Karlstrom, R. O., Talbot, W. S. and Schier, A. F. (1999). Comparative synteny cloning of zebrafish you-too: mutations in the Hedgehog target gli2 affect ventral forebrain patterning. Genes Dev. 13, 388-393.[Abstract/Free Full&nbsp;Text]
+
+
+
+Kimmel, C. B., Warga, R. M. and Kane, D. A. (1994). Cell cycles and clonal strings during formation of the zebrafish central nervous system. Development 120, 265-276.[Abstract/Free Full&nbsp;Text]
+
+
+
+Kimmel, C. B., Ballard, W. W., Kimmel, S. R., Ullmann, B. and Schilling, T. F. (1995). Stages of embryonic development of the zebrafish. Dev. Dyn. 203, 253-310.[Medline]
+
+
+
+Krauss, S., Concordet, J. P. and Ingham, P. W. (1993). A functionally conserved homolog of the Drosophila segment polarity gene hh is expressed in tissues with polarizing activity in zebrafish embryos. Cell 75, 1431-1444.[Medline]
+
+
+
+Kwok, C., Critcher, R. and Schmitt, K. (1999). Construction and characterization of zebrafish whole genome radiation hybrids. Methods Cell Biol. 60, 287-302.[Medline]
+
+
+
+Le Douarin, N. M. and Halpern, M. E. (2000). Discussion point. Origin and specification of the neural tube floor plate: insights from the chick and zebrafish. Curr. Opin. Neurobiol. 10, 23-30.[Medline]
+
+
+
+Lee, S. H., Lumelsky, N., Studer, L., Auerbach, J. M. and McKay, R. D. (2000). Efficient generation of midbrain and hindbrain neurons from mouse embryonic stem cells. Nat. Biotechnol. 18, 675-679.[Medline]
+
+
+
+Lewis, K. E., Concordet, J. P. and Ingham, P. W. (1999a). Characterisation of a second patched gene in the zebrafish Danio rerio and the differential response of patched genes to Hedgehog signalling. Dev. Biol. 208, 14-29.[Medline]
+
+
+
+Lewis, K. E., Currie, P. D., Roy, S., Schauerte, H., Haffter, P. and Ingham, P. W. (1999b). Control of muscle cell-type specification in the zebrafish embryo by Hedgehog signalling. Dev. Biol. 216, 469-480.[Medline]
+
+
+
+Litingtung, Y. and Chiang, C. (2000). Specification of ventral neuron types is mediated by an antagonistic interaction between Shh and Gli3. Nat. Neurosci. 3, 979-985.[Medline]
+
+
+
+Marti, E., Bumcrot, D. A., Takada, R. and McMahon, A. P. (1995). Requirement of 19K form of Sonic hedgehog for induction of distinct ventral cell types in CNS explants. Nature 375, 322-325.[Medline]
+
+
+
+Matise, M. P., Epstein, D. J., Park, H. L., Platt, K. A. and Joyner, A. L. (1998). Gli2 is required for induction of floor plate and adjacent cells, but not most ventral neurons in the mouse central nervous system. Development 125, 2759-2770.[Abstract/Free Full&nbsp;Text]
+
+
+
+Meyers, E. N. and Martin, G. R. (1999). Differences in left-right axis pathways in mouse and chick: functions of FGF8 and SHH. Science 285, 403-406.[Abstract/Free Full&nbsp;Text]
+
+
+
+Miao, N., Wang, M., Ott, J. A., DAlessandro, J. S., Woolf, T. M., Bumcrot, D. A., Mahanthappa, N. K. and Pang, K. (1997). Sonic hedgehog promotes the survival of specific CNS neuron populations and protects these cells from toxic insult In vitro. J. Neurosci. 17, 5891-5899.[Abstract/Free Full&nbsp;Text]
+
+
+
+Mintzer, K. A., Lee, M. A., Runke, G., Trout, J., Whitman, M. and Mullins, M. C. (2001). lost-a-fin encodes a type I BMP receptor, Alk8, acting maternally and zygotically in dorsoventral pattern formation. Development 128, 859-869.[Abstract/Free Full&nbsp;Text]
+
+
+
+Murone, M., Rosenthal, A. and de Sauvage, F. J. (1999). Hedgehog signal transduction: from flies to vertebrates. Exp. Cell Res. 253, 25-33.[Medline]
+
+
+
+Myers, P. Z. (1985). Spinal motoneurons of the larval zebrafish. J. Comp. Neurol. 236, 555-561.[Medline]
+
+
+
+Nasevicius, A. and Ekker, S. C. (2000). Effective targeted gene knockdown in zebrafish. Nat. Genet. 26, 216-220.[Medline]
+
+
+
+Neumann, C. J., Grandel, H., Gaffield, W., Schulte-Merker, S. and Nusslein-Volhard, C. (1999). Transient establishment of anteroposterior polarity in the zebrafish pectoral fin bud in the absence of sonic hedgehog activity. Development 126, 4817-4826.[Abstract/Free Full&nbsp;Text]
+
+
+
+Neumann, C. J. and Nuesslein-Volhard, C. (2000). Patterning of the zebrafish retina by a wave of sonic hedgehog activity. Science 289, 2137-2139.[Abstract/Free Full&nbsp;Text]
+
+
+
+Odenthal, J., van Eeden, F. J., Haffter, P., Ingham, P. W. and Nusslein-Volhard, C. (2000). Two distinct cell populations in the floor plate of the zebrafish are induced by different pathways. Dev. Biol. 219, 350-363.[Medline]
+
+
+
+Oppenheim, R. W., Homma, S., Marti, E., Prevette, D., Wang, S., Yaginuma, H. and McMahon, A. P. (1999). Modulation of early but not later stages of programmed cell death in embryonic avian spinal cord by sonic hedgehog. Mol. Cell. Neurosci. 13, 348-361.[Medline]
+
+
+
+Orentas, D. M., Hayes, J. E., Dyer, K. L. and Miller, R. H. (1999). Sonic hedgehog signaling is required during the appearance of spinal cord oligodendrocyte precursors. Development 126, 2419-2429.[Abstract/Free Full&nbsp;Text]
+
+
+
+Pagan-Westphal, S. M. and Tabin, C. J. (1998). The transfer of left-right positional information during chick embryogenesis. Cell 93, 25-35.[Medline]
+
+
+
+Placzek, M., Dodd, J. and Jessell, T. M. (2000). Discussion point. The case for floor plate induction by the notochord. Curr. Opin. Neurobiol. 10, 15-22.[Medline]
+
+
+
+Pogoda, H. M., Solnica-Krezel, L., Driever, W. and Meyer, D. (2000). The zebrafish forkhead transcription factor FoxH1/Fast1 is a modulator of nodal signaling required for organizer formation. Curr. Biol. 10, 1041-1049.[Medline]
+
+
+
+Poncet, C., Soula, C., Trousse, F., Kan, P., Hirsinger, E., Pourquie, O., Duprat, A. M. and Cochard, P. (1996). Induction of oligodendrocyte progenitors in the trunk neural tube by ventralizing signals: effects of notochord and floor plate grafts, and of sonic hedgehog. Mech. Dev. 60, 13-32.[Medline]
+
+
+
+Pringle, N. P., Yu, W. P., Guthrie, S., Roelink, H., Lumsden, A., Peterson, A. C. and Richardson, W. D. (1996). Determination of neuroepithelial cell fate: induction of the oligodendrocyte lineage by ventral midline cells and sonic hedgehog. Dev. Biol. 177, 30-42.[Medline]
+
+
+
+Roelink, H., Augsburger, A., Heemskerk, J., Korzh, V., Norlin, S., Ruiz i Altaba, A., Tanabe, Y., Placzek, M., Edlund, T., Jessell, T. M. et al. (1994). Floor plate and motor neuron induction by vhh-1, a vertebrate homolog of hedgehog expressed by the notochord. Cell 76, 761-775.[Medline]
+
+
+
+Roelink, H., Porter, J. A., Chiang, C., Tanabe, Y., Chang, D. T., Beachy, P. A. and Jessell, T. M. (1995). Floor plate and motor neuron induction by different concentrations of the amino-terminal cleavage product of sonic hedgehog autoproteolysis. Cell 81, 445-455.[Medline]
+
+
+
+Rosenthal, A. (1998). Specification and survival of dopaminergic neurons in the mammalian midbrain. Adv. Pharmacol. 42, 908-911.[Medline]
+
+
+
+Rowitch, D. H., St-Jaques, B., Lee, S. M., Flax, J. D., Snyder, E. Y. and McMahon, A. P. (1999). Sonic hedgehog regulates proliferation and inhibits differentiation of CNS precursor cells. J. Neurosci. 19, 8954-8965.[Abstract/Free Full&nbsp;Text]
+
+
+
+Sampath, K., Cheng, A. M., Frisch, A. and Wright, C. V. (1997). Functional differences among Xenopus nodal-related genes in left-right axis determination. Development 124, 3293-3302.[Abstract/Free Full&nbsp;Text]
+
+
+
+Schauerte, H. E., van Eeden, F. J., Fricke, C., Odenthal, J., Strahle, U. and Haffter, P. (1998). Sonic hedgehog is not required for the induction of medial floor plate cells in the zebrafish. Development 125, 2983-2993.[Abstract/Free Full&nbsp;Text]
+
+
+
+Schier, A. F., Neuhauss, S. C., Harvey, M., Malicki, J., Solnica-Krezel, L., Stainier, D. Y., Zwartkruis, F., Abdelilah, S., Stemple, D. L., Rangini, Z. et al. (1996). Mutations affecting the development of the embryonic zebrafish brain. Development 123, 165-178.[Abstract/Free Full&nbsp;Text]
+
+
+
+Schilling, T. F., Concordet, J. P. and Ingham, P. W. (1999). Regulation of left-right asymmetries in the zebrafish by Shh and BMP4. Dev. Biol. 210, 277-287.[Medline]
+
+
+
+Sirotkin, H. I., Gates, M. A., Kelly, P. D., Schier, A. F. and Talbot, W. S. (2000). Fast1 is required for the development of dorsal axial structures in zebrafish. Curr. Biol. 10, 1051-1054.[Medline]
+
+
+
+Stenkamp, D. L., Frey, R. A., Prabhudesai, S. N. and Raymond, P. A. (2000). Function for hedgehog genes in zebrafish retinal development. Dev. Biol. 220, 238-252.[Medline]
+
+
+
+Stone, D. M., Hynes, M., Armanini, M., Swanson, T. A., Gu, Q., Johnson, R. L., Scott, M. P., Pennica, D., Goddard, A., Phillips, H. et al. (1996). The tumour-suppressor gene patched encodes a candidate receptor for Sonic hedgehog. Nature 384, 129-134.[Medline]
+
+
+
+Strahle, U., Blader, P., Henrique, D. and Ingham, P. W. (1993). Axial, a zebrafish gene expressed along the developing body axis, shows altered expression in cyclops mutant embryos. Genes Dev. 7, 1436-1446.[Abstract]
+
+
+
+Taipale, J., Chen, J. K., Cooper, M. K., Wang, B., Mann, R. K., Milenkovic, L., Scott, M. P. and Beachy, P. A. (2000). Effects of oncogenic mutations in Smoothened and Patched can be reversed by cyclopamine. Nature 406, 1005-1009.[Medline]
+
+
+
+Tsukui, T., Capdevila, J., Tamura, K., Ruiz-Lozano, P., Rodriguez-Esteban, C., Yonei-Tamura, S., Magallon, J., Chandraratna, R. A., Chien, K., Blumberg, B. et al. (1999). Multiple left-right asymmetry defects in Shh-/- mutant mice unveil a convergence of the shh and retinoic acid pathways in the control of Lefty-1. Proc. Natl. Acad. Sci. USA 96, 11376-11381.[Abstract/Free Full&nbsp;Text]
+
+
+
+van den Heuvel, M. and Ingham, P. W. (1996). smoothened encodes a receptor-like serpentine protein required for hedgehog signalling. Nature 382, 547-551.[Medline]
+
+
+
+Wallace, V. A. (1999). Purkinje-cell-derived Sonic hedgehog regulates granule neuron precursor cell proliferation in the developing mouse cerebellum. Curr. Biol. 9, 445-448.[Medline]
+
+
+
+Wang, M. Z., Jin, P., Bumcrot, D. A., Marigo, V., McMahon, A. P., Wang, E. A., Woolf, T. and Pang, K. (1995). Induction of dopaminergic neuron phenotype in the midbrain by Sonic hedgehog protein. Nat. Med. 1, 1184-1188.[Medline]
+
+
+
+Watanabe, Y. and Nakamura, H. (2000). Control of chick tectum territory along dorsoventral axis by Sonic hedgehog. Development 127, 1131-1140.[Abstract/Free Full&nbsp;Text]
+
+
+
+Wechsler-Reya, R. J. and Scott, M. P. (1999). Control of neuronal precursor proliferation in the cerebellum by Sonic Hedgehog. Neuron 22, 103-114.[Medline]
+
+
+
+Weinberg, E. S., Allende, M. L., Kelly, C. S., Abdelhamid, A., Murakami, T., Andermann, P., Doerre, O. G., Grunwald, D. J. and Riggleman, B. (1996). Developmental regulation of zebrafish MyoD in wild-type, no tail and spadetail embryos. Development 122, 271-280.[Abstract/Free Full&nbsp;Text]
+
+
+
+Westerfield, M. (1993). The Zebrafish Book. Eugene, OR: University of Oregon Press.
+
+
+
+Westerfield, M., McMurray, J. V. and Eisen, J. S. (1986). Identified motoneurons and their innervation of axial muscles in the zebrafish. J. Neurosci. 6, 2267-2277.[Abstract]
+
+
+
+Yan, Y. L., Hatta, K., Riggleman, B. and Postlethwait, J. H. (1995). Expression of a type II collagen gene in the zebrafish embryonic axis. Dev. Dyn. 203, 363-376.[Medline]
+
+
+
+Ye, W., Shimamura, K., Rubenstein, J. L., Hynes, M. A. and Rosenthal, A. (1998). FGF and Shh signals control dopaminergic and serotonergic cell fate in the anterior neural plate. Cell 93, 755-766.[Medline]
+
+
+
+Yost, H. J. (1999). Diverse initiation in a conserved left-right pathway? Curr. Opin. Genet. Dev. 9, 422-426.[Medline]
+
+
+
+Zeller, J. and Granato, M. (1999). The zebrafish diwanka gene controls an early step of motor growth cone migration. Development 126, 3461-3472.[Abstract/Free Full&nbsp;Text]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3490 @@
+Processing 00000000.tx.1: Immunology of delirium: new opportunities for treatment and research CAROLINE BROADHURST, MRCPsych KEN WILSON, FRCPsych EMI Academic Unit, St Catherine's Hospital, Birkenhead Correspondence: Caroline Broadhurst, EMI Academic Unit, St Catherine's Hospital, Church Road, Birkenhead, Merseyside CH42 0LQ, UK DECLARATION OF INTEREST None. 
+
+Phrase: "Immunology of delirium"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C0152036:Immunology [Biomedical Occupation or Discipline]
+   790   C1522005:immunology [Qualitative Concept]
+   718 E C0205470:Immunological [Functional Concept]
+
+Phrase: ":"
+
+Phrase: "new opportunities for treatment"
+
+Phrase: "and"
+
+Phrase: "research CAROLINE BROADHURST,"
+
+Phrase: "MRCPsych KEN WILSON,"
+
+Phrase: "FRCPsych EMI Academic Unit,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   812   C0439148:Unit [Quantitative Concept]
+   812   C1519795:Unit [Quantitative Concept]
+   812   C1704753:Unit [Manufactured Object]
+   812   C1880519:Unit [Quantitative Concept]
+
+Phrase: "St Catherine's Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   827   C1510665:Hospital [Qualitative Concept]
+   743 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Birkenhead Correspondence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0282413:Correspondence [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "Caroline Broadhurst,"
+
+Phrase: "EMI Academic Unit,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0439148:Unit [Quantitative Concept]
+   827   C1519795:Unit [Quantitative Concept]
+   827   C1704753:Unit [Manufactured Object]
+   827   C1880519:Unit [Quantitative Concept]
+
+Phrase: "St Catherine's Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   827   C1510665:Hospital [Qualitative Concept]
+   743 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "Church Road,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0442650:Road [Manufactured Object]
+
+Phrase: "Birkenhead,"
+
+Phrase: "Merseyside CH42 0LQ,"
+
+Phrase: "UK DECLARATION OF INTEREST"
+
+Phrase: "None."
+Processing 00000000.tx.2: EPIDEMIOLOGY AND OUTCOME Delirium is a common clinical syndrome. 
+
+Phrase: "EPIDEMIOLOGY"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0014507:Epidemiology [Biomedical Occupation or Discipline]
+  1000   C0014508:epidemiology [Functional Concept]
+  1000   C0699910:epidemiology [Health Care Activity]
+
+Phrase: "AND"
+
+Phrase: "OUTCOME Delirium"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0011206:Delirium [Mental or Behavioral Dysfunction]
+
+Phrase: "is"
+
+Phrase: "a common clinical syndrome."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0221444:clinical syndrome [Classification]
+   827   C0039082:Syndrome [Disease or Syndrome]
+Processing 00000000.tx.3: It is the clinical manifestation of disruption of the neuroendocrine homoeostasis. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "the clinical manifestation of disruption of the neuroendocrine homoeostasis."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   764   C1280464:Manifestation of [Qualitative Concept]
+           manifestation
+   742   C0205319:manifestation [Functional Concept]
+Processing 00000000.tx.4: It presents in a wide variety of physical conditions and is associated with a poor prognosis. 
+
+Phrase: "It"
+
+Phrase: "presents in a wide variety of physical conditions"
+Meta Candidates (Total=12; Excluded=0; Pruned=0; Remaining=12)
+   754   C0516977:physical condition [Finding]
+   744   C0031809:Physical [Health Care Activity]
+   744   C0150312:Present [Quantitative Concept]
+   744   C0205485:Physical [Functional Concept]
+   744   C0332464:Wide [Spatial Concept]
+   744   C0449450:Present [Idea or Concept]
+   744   C1509143:Physical [Finding]
+   744   C1883525:Variety [Conceptual Entity]
+   744   C2346866:Variety [Conceptual Entity]
+   711   C0012634:condition [Disease or Syndrome]
+   711   C0348080:Condition [Qualitative Concept]
+   711   C1705253:Condition [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "is"
+
+Phrase: "associated with a poor prognosis."
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   806   C0278252:Poor prognosis [Finding]
+   806   C0332281:Associated with [Qualitative Concept]
+           Associated
+   760   C0032854:Poor [Group Attribute]
+   760   C0033325:Prognosis [Health Care Activity]
+   760   C0542537:Poor [Qualitative Concept]
+   760   C2700379:Poor [Qualitative Concept]
+   726 E C0750490:Associate [Idea or Concept]
+   726 E C1706221:Associate [Professional or Occupational Group]
+Processing 00000000.tx.5: Prospective studies on elderly hospitalised medical patients demonstrate outcomes of increased mortality, increased length of hospital stay and increased likelihood of institutionalisation, with a significant minority having residual cognitive impairment (O'Keefe & Lavan, 1997). 
+
+Phrase: "Prospective studies on elderly hospitalised medical patients"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   778   C0033522:Prospective Studies [Research Activity]
+   748   C0023981:prospective [Research Activity]
+   748   C0947630:studies [Laboratory Procedure]
+   745 E C1709709:Prospective Study [Research Activity]
+   714 E C0557651:Study [Manufactured Object]
+   714 E C2603343:Study [Research Activity]
+
+Phrase: "demonstrate"
+
+Phrase: "outcomes of increased mortality,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C1274040:Outcome [Functional Concept]
+
+Phrase: "increased length of hospital stay"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   926   C0023303:length of hospital stay [Temporal Concept]
+           Length of Stay
+           hospital length stay
+           Stay Length
+   811 E C0557850:Long stay hospital [Health Care Related Organization,Manufactured Object]
+   760   C1444754:Length [Quantitative Concept]
+   760   C1706316:LENGTH [Research Activity]
+
+Phrase: "and"
+
+Phrase: "increased likelihood of institutionalisation,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0033204:Likelihood [Quantitative Concept]
+
+Phrase: "with a significant minority"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0026192:Minority [Population Group]
+
+Phrase: "having"
+
+Phrase: "residual cognitive impairment"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0338656:Cognitive impairment [Mental or Behavioral Dysfunction]
+   827   C0684336:Impairment [Pathologic Function]
+
+Phrase: "(O'Keefe & Lavan,"
+
+Phrase: "1997"
+
+Phrase: ")."
+Processing 00000000.tx.6: No studies have examined the interface between the neuroendocrine and immune systems in delirium. 
+
+Phrase: "No studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "have"
+
+Phrase: "examined"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332128:Examined [Finding]
+
+Phrase: "the interface between the neuroendocrine"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C1708533:Interface [Manufactured Object]
+   760   C2698172:Interface [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "immune systems in delirium."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   833   C0020962:Systems, Immune [Body System]
+   816 E C1291764:IMMUNE SYSTEM [Finding]
+   737   C0449913:System [Functional Concept]
+   737   C1553451:System [Manufactured Object]
+   737   C1704459:System [Medical Device]
+Processing 00000000.tx.7: NEUROENDOCRINE/IMMUNE MEDIATION Cytokines are released from brain cells in response to brain insult. 
+
+Phrase: "NEUROENDOCRINE/IMMUNE MEDIATION Cytokines"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0079189:Cytokines [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   812   C1524094:Cytokines [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "released from brain cells"
+Meta Candidates (Total=14; Excluded=7; Pruned=0; Remaining=7)
+   833   C0596208:brain cells [Cell]
+   770   C0006104:Brain [Body Part, Organ, or Organ Component]
+   770   C0007634:Cells [Cell]
+   770   C0391871:Released [Functional Concept]
+   770   C1269537:Brain [Body Part, Organ, or Organ Component]
+   770   C1283071:Released [Functional Concept]
+   770   C3282337:Cells [Cell]
+   737 E C0030685:Release [Health Care Activity]
+   737 E C0439180:% release [Quantitative Concept]
+   737 E C0680255:release [Health Care Activity]
+   737 E C1269647:Cell [Cell]
+   737 E C1704653:Cell [Medical Device]
+   737 E C1948049:Cell [Spatial Concept]
+   737 E C1963578:Release [Therapeutic or Preventive Procedure]
+
+Phrase: "in response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "to brain insult."
+Processing 00000000.tx.8: They aid the immune response but also can contribute to neuronal death (Tarowski et al, 1995). 
+
+Phrase: "They"
+
+Phrase: "aid"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0018896:Aid [Social Behavior]
+  1000   C0449435:Aid [Manufactured Object]
+  1000   C3540469:AID [Gene or Genome]
+
+Phrase: "the immune response"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0301872:Immune response [Organ or Tissue Function]
+   861   C0439662:Immune [Functional Concept]
+   861   C0871261:Response [Organism Attribute]
+   861   C1704632:Response [Finding]
+   861   C1706817:Response [Intellectual Product]
+   861   C2911692:Response [Mental Process]
+
+Phrase: "but"
+
+Phrase: "also"
+
+Phrase: "can"
+
+Phrase: "contribute to neuronal death"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   797   C2754100:neuron death [Cell Function]
+   770   C0011065:Death [Organism Function]
+   770   C0521390:Neuronal [Immunologic Factor]
+   770   C1306577:Death, NOS [Finding]
+   770   C1880177:Contribute [Activity]
+
+Phrase: "(Tarowski et al,"
+
+Phrase: "1995"
+
+Phrase: ")."
+Processing 00000000.tx.9: Raised levels of cytokines occur in common causes of delirium such as infection. 
+
+Phrase: "Raised levels of cytokines"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   770   C0441889:Levels [Qualitative Concept]
+   770   C0442818:Raised [Quantitative Concept]
+   737 E C0456079:Level [Classification]
+   737 E C1547707:Level [Geographic Area]
+   737 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "occur in common causes of delirium"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   753   C0011206:Delirium [Mental or Behavioral Dysfunction]
+   753   C0015127:causes [Functional Concept]
+   753   C0205214:Common [Quantitative Concept]
+   753   C1314792:Causes [Functional Concept]
+   753   C1522138:Common [Functional Concept]
+   753   C1709305:Occur [Activity]
+   753   C2745955:OCCUR [Temporal Concept]
+   753   C3245511:common [Intellectual Product]
+   719 E C1524003:Cause [Conceptual Entity]
+
+Phrase: "such as infection."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0009450:Infection, NOS [Disease or Syndrome]
+   928 E C0439663:Infected [Functional Concept]
+   888 E C0030657:infectivity [Qualitative Concept]
+Processing 00000000.tx.10: Their infusion promotes delirium in 30-50% of patients receiving the cytokine interleukin-2 as treatment for cancer (Rosenberg et al, 1989). 
+
+Phrase: "Their infusion"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0574032:Infusion [Therapeutic or Preventive Procedure]
+  1000   C1827465:Infusion [Functional Concept]
+
+Phrase: "promotes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033414:Promote [Activity]
+
+Phrase: "delirium in 30-50% of patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0011206:Delirium [Mental or Behavioral Dysfunction]
+
+Phrase: "receiving"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1514756:Receive [Qualitative Concept]
+
+Phrase: "the cytokine interleukin-2 as treatment"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C0021756:Interleukin-2 [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   790   C0879590:INTERLEUKIN 2 [Gene or Genome]
+   790   C1522405:Interleukin-2 [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   753   C0021764:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   753   C1527200:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "for cancer"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0006826:Cancer [Neoplastic Process]
+  1000   C0998265:Cancer [Eukaryote]
+  1000   C1306459:Cancer [Finding]
+
+Phrase: "(Rosenberg et al,"
+
+Phrase: "1989"
+
+Phrase: ")."
+Processing 00000000.tx.11: Insulin-like growth factor I (IGF-I) and somatostatin are peptides that have important neurotrophic properties. 
+
+Phrase: "Insulin-like growth factor I"
+Meta Candidates (Total=20; Excluded=2; Pruned=0; Remaining=18)
+  1000   C0021665:Insulin-Like Growth Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:INSULIN-LIKE GROWTH FACTOR I [Gene or Genome]
+   937   C0037657:Insulin-like growth factor [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   937   C1753359:insulin-like growth factor [Molecular Function]
+   870   C3180941:Iletin I [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   840   C0016006:Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   840   C0018284:Growth Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   804   C0018270:'growth' NOS [Organism Function]
+   804   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C0021966:I- [Inorganic Chemical]
+   804   C0220844:growth [Physiologic Function]
+   804   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C1521761:Factor [Functional Concept]
+   804   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C1579433:Insulin [Pharmacologic Substance]
+   804   C1621966:Growth [Organ or Tissue Function]
+   804   C2827422:Factor [Conceptual Entity]
+   804   C2911660:Growth [Activity]
+   748 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   721 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "(IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:IGF I [Gene or Genome]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   916 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "are"
+
+Phrase: "peptides"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030956:Peptides [Amino Acid, Peptide, or Protein]
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "important neurotrophic properties."
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   827   C0871161:properties [Qualitative Concept]
+   827   C1292721:properties [Functional Concept]
+   793 E C1882134:Property [Conceptual Entity]
+   793 E C2347695:Property [Entity]
+Processing 00000000.tx.12: In particular, somatostatin inhibits the release of cytokines (ten Bokum et al, 2000). 
+
+Phrase: "In particular, somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   861   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   777 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "inhibits"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   944   C0018790:arrested [Disease or Syndrome]
+   944   C0237477:Arrest [Temporal Concept]
+   944   C0392351:arrest [Governmental or Regulatory Activity]
+   944   C0521111:Retarded [Qualitative Concept]
+   916 E C0311403:Inhibited [Qualitative Concept]
+   916 E C3463820:Inhibiting [Activity]
+
+Phrase: "the release of cytokines"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0030685:Release [Health Care Activity]
+   770   C0391871:Release [Functional Concept]
+   770   C0439180:% release [Quantitative Concept]
+   770   C0680255:release [Health Care Activity]
+   770   C1283071:Release [Functional Concept]
+   770   C1963578:Release [Therapeutic or Preventive Procedure]
+
+Phrase: "(ten Bokum et al,"
+
+Phrase: "2000"
+
+Phrase: ")."
+Processing 00000000.tx.13: In 1999 Venters et al demonstrated that the cytokine tumour necrosis factor alpha (TNF-) exerted its cytotoxicity by inhibiting IGF-I activity. 
+
+Phrase: "In 1999 Venters et al"
+
+Phrase: "demonstrated"
+
+Phrase: "that"
+
+Phrase: "the cytokine tumour necrosis factor alpha"
+Meta Candidates (Total=17; Excluded=0; Pruned=0; Remaining=17)
+   937   C0041368:tumor necrosis factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           tumor necrosis factor
+   937   C1168005:Tumor Necrosis Factor alpha [Laboratory Procedure]
+   937   C1456820:Tumor Necrosis Factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Tumour necrosis factor
+   884   C1323304:tumor necrosis factor [Molecular Function]
+   840   C0333516:Tumor necrosis [Neoplastic Process]
+   804   C0027540:Necrosis [Organ or Tissue Function]
+   804   C0027651:Tumor [Neoplastic Process]
+   804   C0439095:Alpha [Intellectual Product]
+   804   C1334928:Necrosis [Finding]
+   804   C1521761:Factor [Functional Concept]
+   804   C1578706:Tumor [Intellectual Product]
+   804   C2003941:Alpha [Intellectual Product]
+   804   C2350010:Alpha [Qualitative Concept]
+   804   C2827422:Factor [Conceptual Entity]
+   804   C3273930:Tumor [Finding]
+
+Phrase: "exerted"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0015264:Exerted [Organism Function]
+
+Phrase: "its cytotoxicity by inhibiting IGF-I activity."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0596402:cytotoxicity [Cell or Molecular Dysfunction]
+Processing 00000000.tx.14: Loddick & Rothwell (1999) subsequently drew on this work in explaining some associated findings concerning the role of cytokines in neurodegeneration. 
+
+Phrase: "Loddick & Rothwell"
+
+Phrase: "(1999"
+
+Phrase: ")"
+
+Phrase: "subsequently"
+
+Phrase: "drew on this work"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0043227:Work [Occupational Activity]
+   737   C0013113:Draw [Intellectual Product]
+
+Phrase: "in explaining"
+
+Phrase: "some associated findings"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   983   C0449380:Associated finding [Finding]
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+
+Phrase: "concerning"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: "the role of cytokines"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0035820:Role [Social Behavior]
+   770   C1705810:Role [Conceptual Entity]
+
+Phrase: "in neurodegeneration."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027746:Neurodegeneration [Cell or Molecular Dysfunction]
+Processing 00000000.tx.15: Both TNF- and interleukin-1 (IL-1) clearly enhance experimental neurodegeneration, yet even at high doses they fail to cause cell death in the healthy brain. 
+
+Phrase: "Both TNF-"
+Meta Candidates (Total=17; Excluded=0; Pruned=0; Remaining=17)
+  1000   C0041368:tumor necrosis factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           tumor necrosis factor
+  1000   C1168005:Tumor Necrosis Factor alpha [Laboratory Procedure]
+  1000   C1456820:Tumor Necrosis Factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Tumour necrosis factor
+   923   C1323304:tumor necrosis factor [Molecular Function]
+   861   C0333516:Tumor necrosis [Neoplastic Process]
+   812   C0027540:Necrosis [Organ or Tissue Function]
+   812   C0027651:Tumor [Neoplastic Process]
+   812   C0439095:Alpha [Intellectual Product]
+   812   C1334928:Necrosis [Finding]
+   812   C1521761:Factor [Functional Concept]
+   812   C1578706:Tumor [Intellectual Product]
+   812   C2003941:Alpha [Intellectual Product]
+   812   C2350010:Alpha [Qualitative Concept]
+   812   C2827422:Factor [Conceptual Entity]
+   812   C3273930:Tumor [Finding]
+
+Phrase: "and"
+
+Phrase: "interleukin-1 (IL-1) clearly"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0021755:Interleukin-1 [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   901   C1522428:Interleukin 1 [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   827   C0021764:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C1527200:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "enhance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2349975:Enhance [Activity]
+
+Phrase: "experimental neurodegeneration,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0027746:Neurodegeneration [Cell or Molecular Dysfunction]
+
+Phrase: "yet even at high doses"
+Meta Candidates (Total=8; Excluded=3; Pruned=0; Remaining=5)
+   790   C0444956:High dose [Quantitative Concept]
+   760   C0178602:Doses [Quantitative Concept]
+   760   C0205250:High [Qualitative Concept]
+   760   C1299351:High [Qualitative Concept]
+   760   C2700149:HIGH [Intellectual Product]
+   726 E C0869039:Dose [Quantitative Concept]
+   726 E C1114758:Dose # [Clinical Attribute]
+   726 E C1428722:DOS [Gene or Genome]
+
+Phrase: "they"
+
+Phrase: "fail"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0231175:fail [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "cause"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015127:cause [Functional Concept]
+  1000   C1524003:Cause [Conceptual Entity]
+
+Phrase: "cell death in the healthy brain."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   790   C0007587:Cell Death [Cell Function]
+   783   C0006110:Brain Death [Pathologic Function]
+   783   C0596208:brain cell [Cell]
+   753   C0007634:Cell [Cell]
+   753   C0011065:Death [Organism Function]
+   753   C1269647:Cell [Cell]
+   753   C1306577:Death, NOS [Finding]
+   753   C1704653:Cell [Medical Device]
+   753   C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.16: These findings imply that these agents are not inherently neurotoxic but influence survival by inhibiting the protective effect of an endogenous growth factor that is produced in the injured brain. 
+
+Phrase: "These findings"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C2607943:findings [Functional Concept]
+  1000   C2926606:Findings [Clinical Attribute]
+  1000   C3539655:Findings [Intellectual Product]
+   966 E C0037088:Finding [Sign or Symptom]
+   966 E C0243095:Finding [Finding]
+   966 E C2825141:Finding [Finding]
+
+Phrase: "imply"
+
+Phrase: "that"
+
+Phrase: "these agents"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C0450442:Agent [Chemical Viewed Functionally]
+   966   C1254351:Agent [Pharmacologic Substance]
+   966   C1521826:Agent [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: "not inherently neurotoxic"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   755   C0235032:Neurotoxicity [Injury or Poisoning]
+
+Phrase: "but"
+
+Phrase: "influence survival by inhibiting"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0038952:Survival [Activity]
+   770   C0220921:survival [Functional Concept]
+
+Phrase: "the protective effect of an endogenous growth factor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C1280500:Effect [Qualitative Concept]
+   744   C2348382:Effect [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "is"
+
+Phrase: "produced in the injured brain."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0006104:Brain [Body Part, Organ, or Organ Component]
+   760   C0332664:Injured [Functional Concept]
+   760   C1269537:Brain [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.17: Tumour necrosis factor alpha, IL-1 and other pro-inflammatory cytokines are produced in the central nervous system (CNS) in response to systemic insults such as infection or inflammation and act as mediators of an array of host defence responses, including fever, appetite suppression and neuroendocrine changes. 
+
+Phrase: "Tumour necrosis factor alpha,"
+Meta Candidates (Total=17; Excluded=0; Pruned=0; Remaining=17)
+  1000   C0041368:tumor necrosis factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           tumor necrosis factor
+  1000   C1168005:Tumor Necrosis Factor alpha [Laboratory Procedure]
+  1000   C1456820:Tumor Necrosis Factor-alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+           Tumour necrosis factor
+   923   C1323304:tumor necrosis factor [Molecular Function]
+   861   C0333516:Tumor necrosis [Neoplastic Process]
+   812   C0027540:Necrosis [Organ or Tissue Function]
+   812   C0027651:Tumor [Neoplastic Process]
+   812   C0439095:Alpha [Intellectual Product]
+   812   C1334928:Necrosis [Finding]
+   812   C1521761:Factor [Functional Concept]
+   812   C1578706:Tumor [Intellectual Product]
+   812   C2003941:Alpha [Intellectual Product]
+   812   C2350010:Alpha [Qualitative Concept]
+   812   C2827422:Factor [Conceptual Entity]
+   812   C3273930:Tumor [Finding]
+
+Phrase: "IL-1"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0021755:Interleukin-1 [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C1522428:Interleukin 1 [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   861   C0021764:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C1527200:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "other pro-inflammatory cytokines"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0079189:Cytokines [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   827   C1524094:Cytokines [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "produced in the central nervous system (CNS)"
+Meta Candidates (Total=13; Excluded=1; Pruned=0; Remaining=12)
+   833   C0927232:Central Nervous System [Body System]
+   833   C1269563:Central nervous system [Body System]
+   790   C0027763:Nervous System [Body System]
+   790   C0422837:NERVOUS SYSTEM [Finding]
+   790   C1269560:Nervous system [Body System]
+   753   C0027769:Nervous [Sign or Symptom]
+   753   C0205099:Central [Spatial Concept]
+   753   C0449913:System [Functional Concept]
+   753   C0599851:Nervous [Functional Concept]
+   753   C1553451:System [Manufactured Object]
+   753   C1704459:System [Medical Device]
+   753   C1879652:Central - [Laboratory Procedure]
+   734 E C0205494:Neurologic [Qualitative Concept]
+
+Phrase: "in response"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0871261:Response [Organism Attribute]
+  1000   C1704632:Response [Finding]
+  1000   C1706817:Response [Intellectual Product]
+  1000   C2911692:Response [Mental Process]
+
+Phrase: "to systemic insults"
+
+Phrase: "such as infection"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0009450:Infection, NOS [Disease or Syndrome]
+   928 E C0439663:Infected [Functional Concept]
+   888 E C0030657:infectivity [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "inflammation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0021368:Inflammation [Pathologic Function]
+
+Phrase: "and"
+
+Phrase: "act as mediators of an array of host defence responses,"
+Meta Candidates (Total=13; Excluded=4; Pruned=0; Remaining=9)
+   760   C0520990:Host defence [Organ or Tissue Function]
+   743   C1154988:defence response [Organism Function]
+   741   C0301872:Host response [Organ or Tissue Function]
+   739   C0079613:ACT [Therapeutic or Preventive Procedure]
+   739   C0127400:mediators [Organic Chemical,Pharmacologic Substance]
+   739   C0871261:responses [Organism Attribute]
+   739   C1167395:Host [Organism]
+   739   C1510941:Array [Spatial Concept]
+   739   C1880266:Defense [Conceptual Entity]
+   706 E C1363844:Mediator [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   706 E C1704632:Response [Finding]
+   706 E C1706817:Response [Intellectual Product]
+   706 E C2911692:Response [Mental Process]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "fever,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0015967:Fever [Finding]
+
+Phrase: "appetite suppression"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0858274:appetite suppression [Finding]
+  1000   C1818983:appetite suppression [Organism Function]
+  1000   C2825056:Appetite Suppression [Physiologic Function]
+   861   C0221103:Suppression [Pathologic Function]
+   861   C0301625:Suppression [Organism Function]
+   861   C0439181:% suppression [Quantitative Concept]
+   861   C0728721:suppression [Mental Process]
+
+Phrase: "and"
+
+Phrase: "neuroendocrine changes."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0392747:changes [Functional Concept]
+   861   C0443172:changes [Quantitative Concept]
+   827 E C1705241:Change [Quantitative Concept]
+Processing 00000000.tx.18: Even though cytokine production does not lead to overt neurodegeneration, there is evidence that systemic infections worsen clinical neurological conditions such as stroke and multiple sclerosis. 
+
+Phrase: "Even"
+
+Phrase: "though"
+
+Phrase: "cytokine production"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1327413:cytokine production [Organism Function]
+   861   C0033268:production [Occupational Activity]
+
+Phrase: "does"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "lead to overt neurodegeneration,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   770   C0027746:Neurodegeneration [Cell or Molecular Dysfunction]
+   770   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   770   C1522538:Lead [Functional Concept]
+   770   C2348269:Lead [Element, Ion, or Isotope]
+   770   C3275067:LEAD [Therapeutic or Preventive Procedure]
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332120:Evidence [Functional Concept]
+
+Phrase: "that systemic infections"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0243026:Systemic infections [Disease or Syndrome]
+   861   C0009450:Infections [Disease or Syndrome]
+   777 E C0439663:Infected [Functional Concept]
+   745 E C0030657:infectivity [Qualitative Concept]
+
+Phrase: "worsen"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332271:worsen [Qualitative Concept]
+  1000   C1279889:worsen [Finding]
+
+Phrase: "clinical neurological conditions such as stroke"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   719   C0012634:condition [Disease or Syndrome]
+   719   C0348080:Condition [Qualitative Concept]
+   719   C1705253:Condition [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "multiple sclerosis."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+  1000   C0026769:Multiple Sclerosis [Disease or Syndrome]
+  1000   C1417325:multiple sclerosis [Gene or Genome]
+   861   C0036429:Sclerosis [Pathologic Function]
+   861   C0439064:Multiple [Quantitative Concept]
+   789 E C0334135:Sclerotic [Functional Concept]
+Processing 00000000.tx.19: Consequently, in otherwise healthy brains cytokine production may have no deleterious effect, but when neuronal damage is present they may enhance neurodegenerative processes. 
+
+Phrase: "Consequently,"
+
+Phrase: "in otherwise healthy brains cytokine production"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   840   C1327413:cytokine production [Organism Function]
+   804   C0033268:production [Occupational Activity]
+
+Phrase: "may"
+
+Phrase: "have"
+
+Phrase: "no deleterious effect,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1280500:Effect [Qualitative Concept]
+   861   C2348382:Effect [Qualitative Concept]
+
+Phrase: "but"
+
+Phrase: "when"
+
+Phrase: "neuronal damage"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0010957:Damage [Injury or Poisoning]
+   861   C1883709:Damage [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "present"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0150312:Present [Quantitative Concept]
+  1000   C0449450:Present [Idea or Concept]
+
+Phrase: "they"
+
+Phrase: "may"
+
+Phrase: "enhance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2349975:Enhance [Activity]
+
+Phrase: "neurodegenerative processes."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1184743:Process [Body Part, Organ, or Organ Component]
+   827   C1522240:Process [Phenomenon or Process]
+Processing 00000000.tx.20: The neurotrophic properties of IGF-I are wide ranging. 
+
+Phrase: "The neurotrophic properties of IGF-I"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+   753   C0871161:properties [Qualitative Concept]
+   753   C1292721:properties [Functional Concept]
+   719 E C1882134:Property [Conceptual Entity]
+   719 E C2347695:Property [Entity]
+
+Phrase: "are"
+
+Phrase: "wide ranging."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0332464:Wide [Spatial Concept]
+   827   C1514721:Range [Quantitative Concept]
+   827   C2348147:Range [Quantitative Concept]
+   827   C3542016:Range [Intellectual Product]
+Processing 00000000.tx.21: Animal studies demonstrate that it regulates stem cell differentiation into neurons (Brooker et al, 2000) and induces neurogenesis of the hippocampus (Aberg et al, 2000). 
+
+Phrase: "Animal studies"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0683949:animal studies [Animal]
+   861   C0003062:Animal [Animal]
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "demonstrate"
+
+Phrase: "that"
+
+Phrase: "it"
+
+Phrase: "regulates"
+
+Phrase: "stem cell differentiation into neurons"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   862   C1514964:Stem Cell Differentiation [Cell Function]
+   806   C0007589:Cell Differentiation [Cell Function]
+           Differentiation
+   781   C1159970:neuron differentiation [Cell Function]
+   760   C1511938:Differentiation [Clinical Attribute]
+   760   C2945687:Differentiation [Functional Concept]
+   756 E C1518294:Neuronal Differentiation [Finding]
+
+Phrase: "(Brooker et al,"
+
+Phrase: "2000"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "induces"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "neurogenesis of the hippocampus"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0814002:Neurogenesis [Cell Function,Organism Function]
+
+Phrase: "(Aberg et al,"
+
+Phrase: "2000"
+
+Phrase: ")."
+Processing 00000000.tx.22: Further studies support the neuro-protective role of these peptides (De Marinis et al, 1999) in finding a reversible increase in IGF-I, mirrored by changes in somatostatin in post-head-injury comatose patients. 
+
+Phrase: "Further studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+
+Phrase: "support"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0183683:Support [Medical Device]
+  1000   C1521721:Support [Conceptual Entity]
+
+Phrase: "the neuro-protective role of these peptides"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0035820:Role [Social Behavior]
+   748   C1705810:Role [Conceptual Entity]
+
+Phrase: "(De Marinis et al,"
+
+Phrase: "1999"
+
+Phrase: ")"
+
+Phrase: "in finding"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0037088:Finding [Sign or Symptom]
+  1000   C0243095:Finding [Finding]
+  1000   C2825141:Finding [Finding]
+
+Phrase: "a reversible increase in IGF-I,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0442805:Increase [Functional Concept]
+
+Phrase: "mirrored by changes"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+   790   C0181868:mirrored [Manufactured Object]
+   790   C0392747:changes [Functional Concept]
+   790   C0443172:changes [Quantitative Concept]
+   756 E C1705241:Change [Quantitative Concept]
+   756 E C1706183:Mirror [Manufactured Object]
+
+Phrase: "in somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   916 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "in post-head-injury comatose patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.23: The release of both hormones is closely linked to feedback mechanisms within the growth-hormone-releasing hormone/somatostatingrowth hormoneIGF-I axis. 
+
+Phrase: "The release of both hormones"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0030685:Release [Health Care Activity]
+   760   C0391871:Release [Functional Concept]
+   760   C0439180:% release [Quantitative Concept]
+   760   C0680255:release [Health Care Activity]
+   760   C1283071:Release [Functional Concept]
+   760   C1963578:Release [Therapeutic or Preventive Procedure]
+
+Phrase: "is"
+
+Phrase: "closely"
+
+Phrase: "linked to feedback mechanisms"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   770   C0015744:Feedback [Phenomenon or Process]
+   770   C0441712:Mechanisms [Functional Concept]
+   770   C2911691:Feedback [Mental Process]
+   737   C1517892:Link [Intellectual Product]
+   737   C1704666:Link [Intellectual Product]
+   737 E C1706376:Mechanism [Manufactured Object]
+
+Phrase: "within the growth-hormone-releasing hormone/somatostatingrowth hormoneIGF-I axis."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   793   C0004457:Axis [Body Part, Organ, or Organ Component]
+   793   C0999597:Axis [Mammal]
+   793   C1522496:Axis [Spatial Concept]
+Processing 00000000.tx.24: There is evidence that both somatostatin and IGF-I may have a role in the pathogenesis of Alzheimer's disease. 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332120:Evidence [Functional Concept]
+
+Phrase: "that"
+
+Phrase: "both somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   916 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:IGF I [Gene or Genome]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "may"
+
+Phrase: "have"
+
+Phrase: "a role in the pathogenesis of Alzheimer's disease."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   744   C0035820:Role [Social Behavior]
+   744   C1705810:Role [Conceptual Entity]
+Processing 00000000.tx.25: Both cerebrospinal fluid levels and brain somatostatin are reduced in Alzheimer's disease and other dementias (Leake & Ferrier, 1993). 
+
+Phrase: "Both cerebrospinal fluid levels"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   901   C0007806:Cerebrospinal Fluid [Body Substance]
+   901   C0007807:cerebrospinal fluid [Functional Concept]
+   827   C0005889:FLUID [Body Substance]
+   827   C0302908:fluid [Substance]
+   827   C0441889:Levels [Qualitative Concept]
+   827   C0444611:Fluid [Qualitative Concept]
+   827   C1704353:Fluid [Substance]
+   793 E C0456079:Level [Classification]
+   793 E C1547707:Level [Geographic Area]
+   793 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "brain somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   861   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   861   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   777 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "are"
+
+Phrase: "reduced in Alzheimer's disease"
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   833   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   833   C1521724:Alzheimer's Disease [Pathologic Function]
+   770   C0012634:Disease [Disease or Syndrome]
+   770   C0392756:Reduced [Qualitative Concept]
+   715 E C1836721:MALS [Finding]
+   715 E C3538764:MALS [Gene or Genome]
+   715 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "other dementias"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0497327:Dementias [Mental or Behavioral Dysfunction]
+   966 E C0011265:dementia [Mental or Behavioral Dysfunction]
+   893 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "(Leake & Ferrier,"
+
+Phrase: "1993"
+
+Phrase: ")."
+Processing 00000000.tx.26: There is also a selective reduction of somatostatin receptor type 2 (SSRT-2) in the frontal cortex and hippocampus of patients with Alzheimer's disease (Krantic et al, 1992). 
+
+Phrase: "There"
+
+Phrase: "is"
+
+Phrase: "also"
+
+Phrase: "a selective reduction of somatostatin receptor type 2 (SSRT-2)"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0301630:Reduction [Natural Phenomenon or Process]
+   744   C0392756:Reduction [Qualitative Concept]
+   744   C0441610:Reduction [Therapeutic or Preventive Procedure]
+
+Phrase: "in the frontal cortex"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0016733:Frontal cortex [Body Part, Organ, or Organ Component]
+   861   C0007776:Cortex [Body Part, Organ, or Organ Component]
+   861   C0205123:Frontal [Spatial Concept]
+   861   C1176472:Cortex [Body Part, Organ, or Organ Component]
+   861   C2700441:Cortex [Plant]
+
+Phrase: "and"
+
+Phrase: "hippocampus of patients"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0019564:Hippocampus [Body Part, Organ, or Organ Component]
+   790   C0949582:Hippocampus [Fish]
+   790   C1029104:Hippocampus [Fish]
+   790   C1284077:Hippocampus [Body Part, Organ, or Organ Component]
+
+Phrase: "with Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(Krantic et al,"
+
+Phrase: "1992"
+
+Phrase: ")."
+Processing 00000000.tx.27: Hong & Lee (1997) have demonstrated that IGF-I reduces -phosphorylation and has been shown to protect and even to rescue neurons from -amyloid peptides (Dore et al, 1997). 
+
+Phrase: "Hong & Lee"
+
+Phrase: "(1997"
+
+Phrase: ")"
+
+Phrase: "have"
+
+Phrase: "demonstrated"
+
+Phrase: "that IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:IGF I [Gene or Genome]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "reduces -"
+
+Phrase: "phosphorylation"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0031715:Phosphorylation [Molecular Function]
+  1000   C1158886:Phosphorylation [Molecular Function]
+
+Phrase: "and"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "protect"
+
+Phrase: "and"
+
+Phrase: "even to"
+
+Phrase: "rescue"
+
+Phrase: "neurons from -amyloid peptides"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0027882:Neurons [Cell]
+
+Phrase: "(Dore et al,"
+
+Phrase: "1997"
+
+Phrase: ")."
+Processing 00000000.tx.28: The inhibitory effects of IGF-I on cell death (anti-apoptotic effects) are compromised by presenilin-1 mutations (Tanii et al, 2000), processes that have been implicated in the aetiology of Alzheimer's disease. 
+
+Phrase: "The inhibitory effects of IGF-I"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   753   C1280500:effects [Qualitative Concept]
+   719 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "on cell death"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0007587:Cell Death [Cell Function]
+   861   C0007634:Cell [Cell]
+   861   C0011065:Death [Organism Function]
+   861   C1269647:Cell [Cell]
+   861   C1306577:Death, NOS [Finding]
+   861   C1704653:Cell [Medical Device]
+   861   C1948049:Cell [Spatial Concept]
+
+Phrase: "(anti-apoptotic effects"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   827   C1280500:effects [Qualitative Concept]
+   793 E C2348382:Effect [Qualitative Concept]
+
+Phrase: ")"
+
+Phrase: "are"
+
+Phrase: "compromised by presenilin-1 mutations"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   806   C0299212:Presenilin-1 [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   806   C1418985:PRESENILIN 1 [Gene or Genome]
+   760   C0026882:Mutations [Genetic Function]
+   760   C0872078:Presenilin [Amino Acid, Peptide, or Protein,Receptor]
+   726 E C1705285:Mutation [Cell or Molecular Dysfunction]
+   726   C2945640:compromise [Finding]
+
+Phrase: "(Tanii et al,"
+
+Phrase: "2000"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "processes"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C1184743:Process [Body Part, Organ, or Organ Component]
+   966   C1522240:Process [Phenomenon or Process]
+
+Phrase: "that"
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "implicated in the aetiology of Alzheimer's disease."
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   778   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   778   C1521724:Alzheimer's Disease [Pathologic Function]
+   774   C1314792:disease etiology [Functional Concept]
+           Aetiology
+   748   C0012634:Disease [Disease or Syndrome]
+   748   C0015127:aetiology [Functional Concept]
+   748   C1524003:Etiology [Conceptual Entity]
+Processing 00000000.tx.29: Also, significant reductions in serum IGF-I have been found in some familial Alzheimer's disease yet normal levels are found in the carriers who do not develop this condition (Mustafa et al, 1999). 
+
+Phrase: "Also,"
+
+Phrase: "significant reductions in serum IGF-I"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   753   C0301630:reductions [Natural Phenomenon or Process]
+   753   C0441610:reductions [Therapeutic or Preventive Procedure]
+   719 E C0392756:Reduction [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "found in some familial Alzheimer's disease yet normal levels"
+Meta Candidates (Total=17; Excluded=5; Pruned=0; Remaining=12)
+   790   C0276496:Alzheimer disease, familial [Disease or Syndrome]
+   764   C0002395:Alzheimer's Disease [Disease or Syndrome]
+   764   C1521724:Alzheimer's Disease [Pathologic Function]
+   762   C0277558:Familial disease [Disease or Syndrome]
+   742   C0012634:Disease [Disease or Syndrome]
+   742   C0015576:familial [Family Group]
+   742   C0150312:Found [Quantitative Concept]
+   742   C0205307:Normal [Qualitative Concept]
+   742   C0241888:Familial [Functional Concept]
+   742   C0439166:% normal [Quantitative Concept]
+   742   C0441889:Levels [Qualitative Concept]
+   742   C2347086:% Normal [Quantitative Concept]
+   726 E C0344339:disease family [Finding]
+   708 E C0243095:Find [Finding]
+   708 E C0456079:Level [Classification]
+   708 E C1547707:Level [Geographic Area]
+   708 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "are"
+
+Phrase: "found in the carriers"
+Meta Candidates (Total=6; Excluded=4; Pruned=0; Remaining=2)
+   770   C0007294:carriers [Finding]
+   770   C0150312:Found [Quantitative Concept]
+   737 E C0243095:Find [Finding]
+   737 E C0560175:Carrier [Finding]
+   737 E C1706209:Carrier [Medical Device]
+   737 E C3273162:Carrier [Intellectual Product]
+
+Phrase: "who"
+
+Phrase: "do"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "develop"
+
+Phrase: "this condition"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0012634:condition [Disease or Syndrome]
+  1000   C0348080:Condition [Qualitative Concept]
+  1000   C1705253:Condition [Conceptual Entity]
+   928 E C0009647:Conditioned [Mental Process]
+   928 E C1701901:Conditional [Qualitative Concept]
+   928 E C1963686:Conditional [Functional Concept]
+   900 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "(Mustafa et al,"
+
+Phrase: "1999"
+
+Phrase: ")."
+Processing 00000000.tx.30: IMPLICATIONS AND RESEARCH OPPORTUNITIES Somatostatin and IGF-I would appear to be important peptides in relation to cognitive function. 
+
+Phrase: "IMPLICATIONS"
+
+Phrase: "AND"
+
+Phrase: "RESEARCH OPPORTUNITIES Somatostatin"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   827   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   827   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   743 E C0373723:somatostatins [Laboratory Procedure]
+   717   C0683937:research opportunity [Research Activity]
+
+Phrase: "and"
+
+Phrase: "IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:IGF I [Gene or Genome]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "would"
+
+Phrase: "appear"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0700364:APPEAR [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "important peptides in relation to cognitive function."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0030956:Peptides [Amino Acid, Peptide, or Protein]
+Processing 00000000.tx.31: Infusion of a somatostatin analogue has been found to improve memory in patients with Alzheimer's disease (Craft et al, 1999) and IGF-I administration attenuates the cognitive deficit in brain-injured rats (Saatman et al, 1997). 
+
+Phrase: "Infusion of a somatostatin analogue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0574032:Infusion [Therapeutic or Preventive Procedure]
+   760   C1827465:Infusion [Functional Concept]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "found"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0150312:Found [Quantitative Concept]
+   966 E C0243095:Find [Finding]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "improve"
+
+Phrase: "memory in patients"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0025260:Memory [Mental Process]
+   790   C0700327:memory [Finding]
+   790   C1706377:Memory [Manufactured Object]
+   734 E C0679055:mnemonic [Mental Process]
+
+Phrase: "with Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(Craft et al,"
+
+Phrase: "1999"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "IGF-I administration"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C0001554:Administration [Occupational Activity]
+   827   C1533734:Administration [Therapeutic or Preventive Procedure]
+   734   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   734   C1334089:IGF I [Gene or Genome]
+
+Phrase: "attenuates"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0599946:Attenuate [Activity]
+
+Phrase: "the cognitive deficit in brain-injured rats"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   778   C0679466:cognitive deficit [Mental or Behavioral Dysfunction]
+   748   C0162429:Deficit, NOS [Disease or Syndrome]
+   748   C2987487:Deficit [Qualitative Concept]
+
+Phrase: "(Saatman et al,"
+
+Phrase: "1997"
+
+Phrase: ")."
+Processing 00000000.tx.32: Reversible somatostatin reduction has been found in delirious patients with no overt CNS disease, suggesting a temporary and reversible involvement of somatostatinergic neurons during and immediately after delirium (Kaponen et al, 1994). 
+
+Phrase: "Reversible somatostatin reduction"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0301630:Reduction [Natural Phenomenon or Process]
+   827   C0392756:Reduction [Qualitative Concept]
+   827   C0441610:Reduction [Therapeutic or Preventive Procedure]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "found in delirious patients"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   770   C0011206:Delirious [Mental or Behavioral Dysfunction]
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C0150312:Found [Quantitative Concept]
+   737 E C0243095:Find [Finding]
+
+Phrase: "with no overt CNS disease,"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   937   C0007682:Central Nervous System Disease [Disease or Syndrome]
+   884   C0027765:Nervous system disease [Disease or Syndrome]
+           Nerve Diseases
+   804   C0012634:Disease [Disease or Syndrome]
+   804   C0442893:Systemic disease [Disease or Syndrome]
+   748 E C1836721:MALS [Finding]
+   748 E C3538764:MALS [Gene or Genome]
+   748 E C3540595:MAL [Gene or Genome]
+   717   C0927232:Central Nervous System [Body System]
+   717   C1269563:Central nervous system [Body System]
+
+Phrase: "suggesting"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1705535:Suggest [Idea or Concept]
+
+Phrase: "a temporary"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205374:Temporary [Temporal Concept]
+  1000   C1548539:Temporary [Idea or Concept]
+  1000   C3245481:temporary [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "reversible involvement of somatostatinergic neurons"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C1314939:Involvement [Functional Concept]
+
+Phrase: "during"
+
+Phrase: "and"
+
+Phrase: "immediately"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205548:Immediately [Temporal Concept]
+
+Phrase: "after"
+
+Phrase: "delirium"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0011206:Delirium [Mental or Behavioral Dysfunction]
+
+Phrase: "(Kaponen et al,"
+
+Phrase: "1994"
+
+Phrase: ")."
+Processing 00000000.tx.33: The relationship between delirium, exercise and these neurotrophic agents presents some intriguing associations. 
+
+Phrase: "The relationship between delirium,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0439849:Relationship [Qualitative Concept]
+   770   C1705630:Relationship [Idea or Concept]
+   770   C1706279:Relationship [Idea or Concept]
+   770   C3540605:Relationship [Intellectual Product]
+
+Phrase: "exercise"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015259:Exercise [Daily or Recreational Activity]
+  1000   C1522704:Exercise [Therapeutic or Preventive Procedure]
+
+Phrase: "and"
+
+Phrase: "these neurotrophic agents"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0450442:Agent [Chemical Viewed Functionally]
+   827   C1254351:Agent [Pharmacologic Substance]
+   827   C1521826:Agent [Intellectual Product]
+
+Phrase: "presents"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0150312:Present [Quantitative Concept]
+  1000   C0449450:Present [Idea or Concept]
+
+Phrase: "some intriguing associations."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0004083:Associations [Mental Process]
+   827 E C0439849:Association [Qualitative Concept]
+   827 E C0596306:Association [Phenomenon or Process]
+   827 E C0699792:association [Social Behavior]
+Processing 00000000.tx.34: Exercise is known to increase plasma IGF-I and growth hormone levels. 
+
+Phrase: "Exercise"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0015259:Exercise [Daily or Recreational Activity]
+  1000   C1522704:Exercise [Therapeutic or Preventive Procedure]
+
+Phrase: "is"
+
+Phrase: "known"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205309:Known [Qualitative Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "increase"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C0442805:Increase [Functional Concept]
+   944 E C1517378:Gain [Quantitative Concept]
+   916 E C0205217:Increased [Quantitative Concept]
+   916 E C0439661:Acquired [Temporal Concept]
+   916 E C0442808:Increasing [Functional Concept]
+   916 E C1301820:Obtain [Functional Concept]
+   916 E C1706701:Acquire [Activity]
+   916 E C3245488:acquired [Intellectual Product]
+
+Phrase: "plasma IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   901   C1334089:IGF I [Gene or Genome]
+   827   C0021966:I- [Inorganic Chemical]
+   827   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   827   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "and"
+
+Phrase: "growth hormone levels."
+Meta Candidates (Total=15; Excluded=5; Pruned=0; Remaining=10)
+  1000   C0428400:growth hormone levels [Laboratory or Test Result]
+   966 E C0202056:Growth hormone level [Laboratory Procedure]
+   901   C0037663:Growth Hormone [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   901   C0169964:Growth hormone [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   901   C1287355:hormone levels [Laboratory or Test Result]
+   827   C0018270:'growth' NOS [Organism Function]
+   827   C0019932:Hormone [Hormone]
+   827   C0220844:growth [Physiologic Function]
+   827   C0441889:Levels [Qualitative Concept]
+   827   C1621966:Growth [Organ or Tissue Function]
+   827   C2911660:Growth [Activity]
+   793 E C0456079:Level [Classification]
+   793 E C1547707:Level [Geographic Area]
+   793 E C2946261:Level [Pharmacologic Substance]
+   755 E C0458083:Hormonal [Qualitative Concept]
+Processing 00000000.tx.35: Carro et al (2000) examined these issues further in rats, demonstrating that physical activity increased IGF-I uptake by the brain. 
+
+Phrase: "Carro et al (2000"
+
+Phrase: ")"
+
+Phrase: "examined"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332128:Examined [Finding]
+
+Phrase: "these issues further in rats,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   726   C0033213:Issue [Finding]
+   726   C1706387:Issue [Intellectual Product]
+
+Phrase: "demonstrating"
+
+Phrase: "that physical activity"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+  1000   C0026606:Physical activity [Daily or Recreational Activity]
+   861   C0031809:Physical [Health Care Activity]
+   861   C0205177:Activity [Functional Concept]
+   861   C0205485:Physical [Functional Concept]
+   861   C0439167:% activity [Quantitative Concept]
+   861   C0441655:Activity [Activity]
+   861   C1509143:Physical [Finding]
+   861   C1561536:*Activity [Idea or Concept]
+
+Phrase: "increased"
+Meta Candidates (Total=8; Excluded=6; Pruned=0; Remaining=2)
+  1000   C0205217:Increased [Quantitative Concept]
+  1000   C0442805:Increased [Functional Concept]
+   928 E C1517378:Gain [Quantitative Concept]
+   907 E C0439661:Acquired [Temporal Concept]
+   907 E C0442808:Increasing [Functional Concept]
+   907 E C1301820:Obtain [Functional Concept]
+   907 E C1706701:Acquire [Activity]
+   907 E C3245488:acquired [Intellectual Product]
+
+Phrase: "IGF-I uptake by the brain."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0243144:Uptake [Physiologic Function]
+   753   C0347980:% uptake [Quantitative Concept]
+Processing 00000000.tx.36: A large clinical study subsequently demonstrated a potentially protective role of exercise in the management of delirium in medically ill in-patients (Inouye, 2000), implicating a neuroprotective role of IGF-I. 
+
+Phrase: "A large clinical study subsequently"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0008972:Clinical Study [Research Activity]
+   812   C0205210:Clinical [Qualitative Concept]
+   812   C0557651:Study [Manufactured Object]
+   812   C2603343:Study [Research Activity]
+
+Phrase: "demonstrated"
+
+Phrase: "a potentially protective role of exercise"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035820:Role [Social Behavior]
+   753   C1705810:Role [Conceptual Entity]
+
+Phrase: "in the management"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0001554:Management [Occupational Activity]
+  1000   C0376636:management [Health Care Activity]
+  1000   C1273870:Management [Occupational Activity]
+  1000   C3273539:Management [Occupation or Discipline]
+
+Phrase: "of delirium"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0011206:Delirium [Mental or Behavioral Dysfunction]
+
+Phrase: "in medically ill in-patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "(Inouye,"
+
+Phrase: "2000"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "implicating"
+
+Phrase: "a neuroprotective role of IGF-I."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035820:Role [Social Behavior]
+   753   C1705810:Role [Conceptual Entity]
+Processing 00000000.tx.37: This is a rapidly developing field. 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: "a rapidly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1637379:Rapidly [Qualitative Concept]
+
+Phrase: "developing"
+
+Phrase: "field."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0440042:Field's [Indicator, Reagent, or Diagnostic Aid]
+  1000   C1521738:Field [Conceptual Entity]
+  1000   C2346620:Field [Conceptual Entity]
+  1000   C2349184:Field [Conceptual Entity]
+  1000   C3539073:FIELD [Spatial Concept]
+Processing 00000000.tx.38: We have attempted to draw together some of the evidence concerning the relationship between cytokines, the neuroprotective roles of IGF-I and somatostatin, cognitive function, Alzheimer's disease and delirium. 
+
+Phrase: "We"
+
+Phrase: "have"
+
+Phrase: "attempted"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1516084:Attempt [Event]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "draw"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0013113:Draw [Intellectual Product]
+
+Phrase: "together"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883357:Together [Qualitative Concept]
+
+Phrase: "some of the evidence"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   819   C0332120:Evidence of [Functional Concept]
+           Evidence
+   770   C0205392:Some [Quantitative Concept]
+   770   C3540770:Some [Intellectual Product]
+
+Phrase: "concerning"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: "the relationship between cytokines,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0439849:Relationship [Qualitative Concept]
+   770   C1705630:Relationship [Idea or Concept]
+   770   C1706279:Relationship [Idea or Concept]
+   770   C3540605:Relationship [Intellectual Product]
+
+Phrase: "the neuroprotective roles of IGF-I"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   753   C0035820:Roles [Social Behavior]
+   719 E C1705810:Role [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "somatostatin,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   916 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "cognitive function,"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C0392335:cognitive function [Mental Process]
+   861   C0031843:function [Physiologic Function]
+   861   C0542341:Function [Functional Concept]
+   861   C0700205:FUNCTION [Classification]
+   861   C1516691:Cognitive [Functional Concept]
+   861   C1705273:Function [Intellectual Product]
+   789 E C0205245:Functional [Functional Concept]
+   789 E C2700217:Functional [Conceptual Entity]
+
+Phrase: "Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "delirium."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0011206:Delirium [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.39: Elevated levels of IGF-I and somatostatin may represent a general neuroprotective response to brain injury. 
+
+Phrase: "Elevated levels of IGF-I"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   797   C0441925:i levels [Intellectual Product]
+   760   C0441889:Levels [Qualitative Concept]
+   726 E C0456079:Level [Classification]
+   726 E C1547707:Level [Geographic Area]
+   726 E C2946261:Level [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   916 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "may"
+
+Phrase: "represent"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1882932:Represent [Activity]
+
+Phrase: "a general neuroprotective response to brain injury."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   748   C0871261:Response [Organism Attribute]
+   748   C1704632:Response [Finding]
+   748   C1706817:Response [Intellectual Product]
+   748   C2911692:Response [Mental Process]
+Processing 00000000.tx.40: If this is the case, then they have a potential role in the treatment or prevention of delirium (Saatman et al, 1997; Craft et al, 1999). 
+
+Phrase: "If"
+
+Phrase: "this"
+
+Phrase: "is"
+
+Phrase: "the case,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0868928:Case [Functional Concept]
+  1000   C1706255:CASE [Medical Device]
+  1000   C1706256:Case [Conceptual Entity]
+
+Phrase: "then"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883708:Then [Temporal Concept]
+
+Phrase: "they"
+
+Phrase: "have"
+
+Phrase: "a potential role in the treatment"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035820:Role [Social Behavior]
+   753   C1705810:Role [Conceptual Entity]
+
+Phrase: "or"
+
+Phrase: "prevention of delirium"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0199176:Prevention [Therapeutic or Preventive Procedure]
+   790   C1706420:PREVENTION [Research Activity]
+   790   C2700409:prevention [Qualitative Concept]
+
+Phrase: "(Saatman et al,"
+
+Phrase: "1997"
+
+Phrase: "; Craft et al,"
+
+Phrase: "1999"
+
+Phrase: ")."
+Processing 00000000.tx.41: They may have a role also in the treatment of related conditions such as Alzheimer's disease (Dore et al, 1997), stroke disease (Gluckman et al, 1998) and head injury (Hatton et al, 1997). 
+
+Phrase: "They"
+
+Phrase: "may"
+
+Phrase: "have"
+
+Phrase: "a role also in the treatment of related conditions"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C0035820:Role [Social Behavior]
+   742   C1705810:Role [Conceptual Entity]
+
+Phrase: "such as Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(Dore et al,"
+
+Phrase: "1997"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "stroke disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(Gluckman et al,"
+
+Phrase: "1998"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "head injury"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+  1000   C0018674:Head injury [Injury or Poisoning]
+   861   C0018670:Head [Body Location or Region]
+   861   C1281590:Head [Body Part, Organ, or Organ Component]
+   861   C1706305:Head [Manufactured Object]
+   861   C3263722:Injury [Injury or Poisoning]
+   861   C3263723:Injury [Injury or Poisoning]
+   805 E C0205096:Cephalic [Spatial Concept]
+
+Phrase: "(Hatton et al,"
+
+Phrase: "1997"
+
+Phrase: ")."
+Processing 00000000.tx.42: REFERENCES Aberg, M. 
+
+Phrase: "REFERENCES"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Aberg,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.43: A., Aberg, N. 
+
+Phrase: "A.,"
+
+Phrase: "Aberg,"
+
+Phrase: "N."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+Processing 00000000.tx.44: D., Hedbacker, H., et al (2000) Peripheral infusion of IGF-I selectively induces neurogenesis in the adult rat hippocampus. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Hedbacker,"
+
+Phrase: "H.,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+
+Phrase: "et al (2000"
+
+Phrase: ")"
+
+Phrase: "Peripheral infusion of IGF-I selectively"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0574032:Infusion [Therapeutic or Preventive Procedure]
+   753   C1827465:Infusion [Functional Concept]
+
+Phrase: "induces"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205263:Induce [Functional Concept]
+
+Phrase: "neurogenesis in the adult rat hippocampus."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0814002:Neurogenesis [Cell Function,Organism Function]
+Processing 00000000.tx.45: Journal of Neuroscience, 20, 2896 -2903.[Abstract/Free FullText] Brooker, G. 
+
+Phrase: "Journal of Neuroscience,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "20,"
+
+Phrase: "2896 -2903."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Brooker,"
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.46: J., Kalloniatis, M., Russo, V. 
+
+Phrase: "J.,"
+
+Phrase: "Kalloniatis,"
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "Russo,"
+
+Phrase: "V."
+Processing 00000000.tx.47: C., et al (2000) Endogenous IGF-I regulates the differentiation of adult stem cells. 
+
+Phrase: "C., et al (2000"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1553033:[c] [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "Endogenous IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   901   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   901   C1334089:IGF I [Gene or Genome]
+   827   C0021966:I- [Inorganic Chemical]
+   827   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   827   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "regulates"
+
+Phrase: "the differentiation of adult stem cells."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   804   C1514964:Stem Cell Differentiation [Cell Function]
+   783   C0007589:cells differentiation [Cell Function]
+           Differentiation
+   753   C1511938:Differentiation [Clinical Attribute]
+   753   C2945687:Differentiation [Functional Concept]
+Processing 00000000.tx.48: Journal of Neuroscience Research, 59, 332 -341.[CrossRef][Medline] Carro, E., Nunez, A., Busiguina, S., et al (2000) Circulating insulin-like growth factor-I mediates effects of exercise on the brain. 
+
+Phrase: "Journal of Neuroscience Research,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "59,"
+
+Phrase: "332 -341."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Carro,"
+
+Phrase: "E.,"
+
+Phrase: "Nunez,"
+
+Phrase: "A.,"
+
+Phrase: "Busiguina,"
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "et al (2000"
+
+Phrase: ")"
+
+Phrase: "Circulating insulin-like growth factor-I"
+Meta Candidates (Total=20; Excluded=2; Pruned=0; Remaining=18)
+   947   C0021665:Insulin-Like Growth Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   947   C1334089:INSULIN-LIKE GROWTH FACTOR I [Gene or Genome]
+   901   C0037657:Insulin-like growth factor [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   901   C1753359:insulin-like growth factor [Molecular Function]
+   848   C3180941:Iletin I [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   827   C0016006:Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   827   C0018284:Growth Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   799   C0018270:'growth' NOS [Organism Function]
+   799   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   799   C0021966:I- [Inorganic Chemical]
+   799   C0220844:growth [Physiologic Function]
+   799   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   799   C1521761:Factor [Functional Concept]
+   799   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   799   C1579433:Insulin [Pharmacologic Substance]
+   799   C1621966:Growth [Organ or Tissue Function]
+   799   C2827422:Factor [Conceptual Entity]
+   799   C2911660:Growth [Activity]
+   743 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   716 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "mediates"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0086597:Mediate [Social Behavior]
+
+Phrase: "effects of exercise"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   790   C1280500:effects [Qualitative Concept]
+   756 E C2348382:Effect [Qualitative Concept]
+
+Phrase: "on the brain."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0006104:Brain [Body Part, Organ, or Organ Component]
+  1000   C1269537:Brain [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.49: Journal of Neuroscience, 20, 2926 -2933.[Abstract/Free FullText] Craft, S., Asthana, M. 
+
+Phrase: "Journal of Neuroscience,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "20,"
+
+Phrase: "2926 -2933."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Craft,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0870369:craft [Manufactured Object]
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Asthana,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.50: D., Newcomer, J. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Newcomer,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0680250:newcomer [Population Group]
+
+Phrase: "J."
+Processing 00000000.tx.51: W., et al (1999) Enhancement of memory in Alzheimer's disease with insulin and somatostatin but not glucose. 
+
+Phrase: "W., et al (1999"
+
+Phrase: ")"
+
+Phrase: "Enhancement of memory"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C1627358:Enhancement [Therapeutic or Preventive Procedure]
+   790   C2349975:Enhancement [Activity]
+
+Phrase: "in Alzheimer's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0002395:Alzheimer's Disease [Disease or Syndrome]
+  1000   C1521724:Alzheimer's Disease [Pathologic Function]
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "with insulin"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1579433:Insulin [Pharmacologic Substance]
+   944 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   916 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   916 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "but"
+
+Phrase: "not glucose."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0017725:Glucose [Biologically Active Substance,Carbohydrate,Pharmacologic Substance]
+Processing 00000000.tx.52: Archives of General Psychiatry, 56, 1135 -1140.[Abstract/Free FullText] De Marinis, L., Mancini, D., Valle, A., et al (1999) Hypothalamic derangement in traumatised patients: growth hormone and prolactin response to thyrotrophin-releasing hormone and GHRH. 
+
+Phrase: "Archives of General Psychiatry,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0003738:Archives [Manufactured Object]
+   770   C0033872:Psychiatry [Professional or Occupational Group]
+   770   C0033873:Psychiatry [Biomedical Occupation or Discipline]
+   770   C0205246:General [Spatial Concept]
+   770   C1553889:General [Idea or Concept]
+   770   C1554162:Archive [Idea or Concept]
+
+Phrase: "56,"
+
+Phrase: "1135 -1140."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] De Marinis,"
+
+Phrase: "L.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+
+Phrase: "Mancini,"
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Valle,"
+
+Phrase: "A.,"
+
+Phrase: "et al (1999"
+
+Phrase: ")"
+
+Phrase: "Hypothalamic derangement in traumatised patients"
+
+Phrase: ":"
+
+Phrase: "growth hormone"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+  1000   C0037663:Growth Hormone [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C0169964:Growth hormone [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   861   C0018270:'growth' NOS [Organism Function]
+   861   C0019932:Hormone [Hormone]
+   861   C0220844:growth [Physiologic Function]
+   861   C1621966:Growth [Organ or Tissue Function]
+   861   C2911660:Growth [Activity]
+   789 E C0458083:Hormonal [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "prolactin response to thyrotrophin-releasing hormone"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   753   C0871261:Response [Organism Attribute]
+   753   C1704632:Response [Finding]
+   753   C1706817:Response [Intellectual Product]
+   753   C2911692:Response [Mental Process]
+
+Phrase: "and"
+
+Phrase: "GHRH."
+Processing 00000000.tx.53: Clinical Endocrinology, 50, 741 -747.[CrossRef][Medline] Dore, S., Kar, S., Quiron, R., et al (1997) Rediscovering an old friend, IGF-I: potential use in the treatment of neurodegenerative diseases. 
+
+Phrase: "Clinical Endocrinology,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C1516609:Clinical Endocrinology [Biomedical Occupation or Discipline]
+   861   C0014137:Endocrinology [Biomedical Occupation or Discipline]
+   789 E C0694557:endocrinologic [Functional Concept]
+
+Phrase: "50,"
+
+Phrase: "741 -747."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Dore,"
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Kar,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1324112:KAR [Molecular Function]
+  1000   C1425673:KAR [Gene or Genome]
+  1000   C1862520:KAR [Disease or Syndrome]
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Quiron,"
+
+Phrase: "R.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+
+Phrase: "et al (1997"
+
+Phrase: ")"
+
+Phrase: "Rediscovering"
+
+Phrase: "an old friend,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0079382:friend [Population Group]
+
+Phrase: "IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:IGF I [Gene or Genome]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: ":"
+
+Phrase: "potential use in the treatment of neurodegenerative diseases."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   767   C1524063:Use of [Functional Concept]
+   744   C0042153:use [Functional Concept]
+   744   C0457083:Use [Functional Concept]
+   744   C1947944:Use [Intellectual Product]
+Processing 00000000.tx.54: Trends in Neurosciences, 20, 326 -331.[CrossRef][Medline] Gluckman, P. 
+
+Phrase: "Trends in Neurosciences,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0040833:trends [Temporal Concept]
+   790   C1521798:Trends [Temporal Concept]
+
+Phrase: "20,"
+
+Phrase: "326 -331."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Gluckman,"
+
+Phrase: "P."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+Processing 00000000.tx.55: D., Guan, J., Williams, C., et al (1998) Asphyxial brain injury  the role of the IGF system. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Guan,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0325602:Guan [Bird]
+
+Phrase: "J.,"
+
+Phrase: "Williams,"
+
+Phrase: "C.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1553033:[c] [Quantitative Concept]
+
+Phrase: "et al (1998"
+
+Phrase: ")"
+
+Phrase: "Asphyxial brain injury"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C0270611:Brain Injury [Injury or Poisoning]
+   827   C3263722:Injury [Injury or Poisoning]
+   827   C3263723:Injury [Injury or Poisoning]
+
+Phrase: "the role of the IGF system."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035820:Role [Social Behavior]
+   753   C1705810:Role [Conceptual Entity]
+Processing 00000000.tx.56: Molecular and Cellular Endocrinology, 140, 95-99.[CrossRef][Medline] Hatton, J., Rapp, R. 
+
+Phrase: "Molecular"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1521991:Molecular [Qualitative Concept]
+   928 E C0567416:Molecule [Substance]
+
+Phrase: "and"
+
+Phrase: "Cellular Endocrinology,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0014137:Endocrinology [Biomedical Occupation or Discipline]
+   789 E C0694557:endocrinologic [Functional Concept]
+
+Phrase: "140,"
+
+Phrase: "95-99."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Hatton,"
+
+Phrase: "J.,"
+
+Phrase: "Rapp,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.57: P., Kudsk, K. 
+
+Phrase: "P.,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+
+Phrase: "Kudsk,"
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.58: A., et al (1997) Intravenous insulin-like growth factor-I (IGF-I) in moderate-to-severe head injury: a phase II safety and efficacy trial. 
+
+Phrase: "A.,"
+
+Phrase: "et al (1997"
+
+Phrase: ")"
+
+Phrase: "Intravenous insulin-like growth factor-I"
+Meta Candidates (Total=20; Excluded=2; Pruned=0; Remaining=18)
+   947   C0021665:Insulin-Like Growth Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   947   C1334089:INSULIN-LIKE GROWTH FACTOR I [Gene or Genome]
+   901   C0037657:Insulin-like growth factor [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   901   C1753359:insulin-like growth factor [Molecular Function]
+   848   C3180941:Iletin I [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   827   C0016006:Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   827   C0018284:Growth Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   799   C0018270:'growth' NOS [Organism Function]
+   799   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   799   C0021966:I- [Inorganic Chemical]
+   799   C0220844:growth [Physiologic Function]
+   799   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   799   C1521761:Factor [Functional Concept]
+   799   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   799   C1579433:Insulin [Pharmacologic Substance]
+   799   C1621966:Growth [Organ or Tissue Function]
+   799   C2827422:Factor [Conceptual Entity]
+   799   C2911660:Growth [Activity]
+   743 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   716 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "(IGF-I"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0021665:IGF-I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:IGF I [Gene or Genome]
+   861   C0021966:I- [Inorganic Chemical]
+   861   C0037657:IGF [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   861   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: ")"
+
+Phrase: "in moderate-to-severe head injury"
+Meta Candidates (Total=10; Excluded=1; Pruned=0; Remaining=9)
+   911   C1282311:Moderate head injury [Injury or Poisoning]
+   884   C1299393:Moderate to severe [Qualitative Concept]
+   840   C0018674:Head injury [Injury or Poisoning]
+   804   C0018670:Head [Body Location or Region]
+   804   C0205082:Severe [Qualitative Concept]
+   804   C1281590:Head [Body Part, Organ, or Organ Component]
+   804   C1706305:Head [Manufactured Object]
+   804   C3263722:Injury [Injury or Poisoning]
+   804   C3263723:Injury [Injury or Poisoning]
+   748 E C0205096:Cephalic [Spatial Concept]
+
+Phrase: ":"
+
+Phrase: "a phase II safety"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0036043:Safety [Human-caused Phenomenon or Process]
+   827   C1705187:SAFETY [Research Activity]
+
+Phrase: "and"
+
+Phrase: "efficacy trial."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0008976:Trial [Research Activity]
+Processing 00000000.tx.59: Journal of Neurosurgery, 86, 779 -786.[Medline] Hong, M. 
+
+Phrase: "Journal of Neurosurgery,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "86,"
+
+Phrase: "779 -786."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Hong,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.60: & Lee, V. 
+
+Phrase: "& Lee,"
+
+Phrase: "V."
+Processing 00000000.tx.61: M-Y. 
+
+Phrase: "M-"
+
+Phrase: "Y."
+Processing 00000000.tx.62: (1997) Insulin and insulin-like growth factor-I regulate tau phosphorylation in cultured human neurons. 
+
+Phrase: "(1997"
+
+Phrase: ")"
+
+Phrase: "Insulin"
+Meta Candidates (Total=5; Excluded=2; Pruned=0; Remaining=3)
+  1000   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1579433:Insulin [Pharmacologic Substance]
+   944 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   916 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "insulin-like growth factor-I"
+Meta Candidates (Total=20; Excluded=2; Pruned=0; Remaining=18)
+  1000   C0021665:Insulin-Like Growth Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:INSULIN-LIKE GROWTH FACTOR I [Gene or Genome]
+   937   C0037657:Insulin-like growth factor [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   937   C1753359:insulin-like growth factor [Molecular Function]
+   870   C3180941:Iletin I [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   840   C0016006:Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   840   C0018284:Growth Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   804   C0018270:'growth' NOS [Organism Function]
+   804   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C0021966:I- [Inorganic Chemical]
+   804   C0220844:growth [Physiologic Function]
+   804   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C1521761:Factor [Functional Concept]
+   804   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C1579433:Insulin [Pharmacologic Substance]
+   804   C1621966:Growth [Organ or Tissue Function]
+   804   C2827422:Factor [Conceptual Entity]
+   804   C2911660:Growth [Activity]
+   748 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   721 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "regulate"
+
+Phrase: "tau phosphorylation in cultured human neurons."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0031715:Phosphorylation [Molecular Function]
+   753   C1158886:Phosphorylation [Molecular Function]
+Processing 00000000.tx.63: Journal of Biological Chemistry, 272, 19547 -19553.[Abstract/Free FullText] Inouye, S. 
+
+Phrase: "Journal of Biological Chemistry,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "272,"
+
+Phrase: "19547 -19553."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Inouye,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.64: K. 
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.65: (2000) Prevention of delirium in hospitalized older patients: risk factors and targeted intervention strategies. 
+
+Phrase: "(2000"
+
+Phrase: ")"
+
+Phrase: "Prevention of delirium"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0199176:Prevention [Therapeutic or Preventive Procedure]
+   790   C1706420:PREVENTION [Research Activity]
+   790   C2700409:prevention [Qualitative Concept]
+
+Phrase: "in hospitalized older patients"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   913   C0870668:hospitalized patients [Patient or Disabled Group]
+   827   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: ":"
+
+Phrase: "risk factors"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0035648:risk factors [Quantitative Concept]
+  1000   C1553898:risk factors [Idea or Concept]
+   861   C0035647:Risk [Qualitative Concept]
+   827   C1521761:Factor [Functional Concept]
+   827   C2827422:Factor [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "targeted intervention strategies."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C1948041:Intervention Strategies [Therapeutic or Preventive Procedure]
+   827   C0679199:strategies [Mental Process]
+Processing 00000000.tx.66: Annals of Medicine, 32, 257 -263.[Medline] Kaponen, H. 
+
+Phrase: "Annals of Medicine,"
+
+Phrase: "32,"
+
+Phrase: "257 -263."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Kaponen,"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.67: J., Leinonen, E., Lepola, U., et al (1994) A long term follow up study of cerebrospinal somatostatin in delirium. 
+
+Phrase: "J.,"
+
+Phrase: "Leinonen,"
+
+Phrase: "E.,"
+
+Phrase: "Lepola,"
+
+Phrase: "U.,"
+
+Phrase: "et al (1994"
+
+Phrase: ")"
+
+Phrase: "A long term follow up study of cerebrospinal somatostatin"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   818   C1517942:Long-term Follow-up [Health Care Activity]
+   790   C0016441:Follow-up Study [Research Activity]
+   784   C0023981:long-term study [Research Activity]
+   764   C0589120:Follow-up [Finding]
+   764   C1522577:follow-up [Health Care Activity]
+   764   C1704685:FOLLOW-UP [Intellectual Product]
+   764   C3274571:FOLLOW-UP [Health Care Activity]
+   742   C0332283:follow [Temporal Concept]
+   742   C0557651:Study [Manufactured Object]
+   742   C1719822:Follow [Intellectual Product]
+   742   C2603343:Study [Research Activity]
+
+Phrase: "in delirium."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0011206:Delirium [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.68: Acta Psychiatrica Scandinavica, 89, 329 -334.[Medline] Krantic, S., Robitaille, Y. 
+
+Phrase: "Acta Psychiatrica Scandinavica,"
+
+Phrase: "89,"
+
+Phrase: "329 -334."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Krantic,"
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Robitaille,"
+
+Phrase: "Y."
+Processing 00000000.tx.69: & Quiron, R. 
+
+Phrase: "& Quiron,"
+
+Phrase: "R."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0205090:R- [Spatial Concept]
+  1000   C0684010:R. [Professional or Occupational Group]
+  1000   C2603358:R' [Clinical Attribute]
+Processing 00000000.tx.70: (1992) Deficits in the SS2 receptor subtype in frontal and temporal cortices in Alzheimer's disease. 
+
+Phrase: "(1992"
+
+Phrase: ")"
+
+Phrase: "Deficits in the SS2 receptor subtype"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   753   C2987487:deficits [Qualitative Concept]
+   719 E C0162429:Deficit, NOS [Disease or Syndrome]
+
+Phrase: "in frontal"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205123:Frontal [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "temporal cortices in Alzheimer's disease."
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   773   C0039485:Temporal cortex [Body Part, Organ, or Organ Component]
+   760   C0442043:Temporal [Spatial Concept]
+   760   C2362314:Temporal [Temporal Concept]
+   726   C0007776:Cortex [Body Part, Organ, or Organ Component]
+   726   C1176472:Cortex [Body Part, Organ, or Organ Component]
+   726   C2700441:Cortex [Plant]
+Processing 00000000.tx.71: Brain Research, 573, 299 -304.[Medline] Leake, A. 
+
+Phrase: "Brain Research,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0035168:research [Research Activity]
+   861   C0242481:Research [Research Activity]
+
+Phrase: "573,"
+
+Phrase: "299 -304."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Leake,"
+
+Phrase: "A."
+Processing 00000000.tx.72: & Ferrier, I. 
+
+Phrase: "& Ferrier,"
+
+Phrase: "I."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0021966:I- [Inorganic Chemical]
+  1000   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+Processing 00000000.tx.73: N. 
+
+Phrase: "N."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+Processing 00000000.tx.74: (1993) Alterations in neuropeptides in aging and disease. 
+
+Phrase: "(1993"
+
+Phrase: ")"
+
+Phrase: "Alterations in neuropeptides"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   756   C1515926:Alteration [Idea or Concept]
+
+Phrase: "in aging"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001811:Ageing [Organism Function]
+
+Phrase: "and"
+
+Phrase: "disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C0012634:Disease [Disease or Syndrome]
+   944 E C1836721:MALS [Finding]
+   944 E C3538764:MALS [Gene or Genome]
+   944 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.75: Pathophysiology and potential for clinical intervention. 
+
+Phrase: "Pathophysiology"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0031847:pathophysiology [Functional Concept]
+  1000   C0277785:Pathophysiology [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "potential for clinical intervention."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C3245505:Potential [Qualitative Concept]
+Processing 00000000.tx.76: Drugs and Aging, 3, 408-427.[Medline] Loddick, S. 
+
+Phrase: "Drugs"
+Meta Candidates (Total=5; Excluded=4; Pruned=0; Remaining=1)
+  1000   C0013227:Drugs [Pharmacologic Substance]
+   966 E C1254351:Drug [Pharmacologic Substance]
+   928 E C0031336:Pharmaceutical [Biomedical Occupation or Discipline]
+   928 E C1135440:pharmaceutical [Therapeutic or Preventive Procedure]
+   900 E C0456386:Medicament [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "Aging,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001811:Ageing [Organism Function]
+
+Phrase: "3,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "408-427."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Loddick,"
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.77: A. 
+
+Phrase: "A."
+Processing 00000000.tx.78: & Rothwell, N. 
+
+Phrase: "& Rothwell,"
+
+Phrase: "N."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441922:N+ [Intellectual Product]
+  1000   C1553036:[n] [Quantitative Concept]
+Processing 00000000.tx.79: J. 
+
+Phrase: "J."
+Processing 00000000.tx.80: (1999) Mechanisms of tumor necrosis factor action on neurodegeneration: Interaction with insulin-like growth factor-I (commentary). 
+
+Phrase: "(1999"
+
+Phrase: ")"
+
+Phrase: "Mechanisms of tumor necrosis factor action"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   809   C0031327:mechanism of action [Physiologic Function]
+   809   C1524059:mechanism of action [Functional Concept]
+   753   C0441712:Mechanisms [Functional Concept]
+   719 E C1706376:Mechanism [Manufactured Object]
+
+Phrase: "on neurodegeneration"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0027746:Neurodegeneration [Cell or Molecular Dysfunction]
+
+Phrase: ":"
+
+Phrase: "Interaction with insulin-like growth factor-I"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C1704675:Interaction [Functional Concept]
+   731   C0021665:Insulin-Like Growth Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   731   C1334089:INSULIN-LIKE GROWTH FACTOR I [Gene or Genome]
+
+Phrase: "(commentary"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0282411:Commentary [Intellectual Product]
+
+Phrase: ")."
+Processing 00000000.tx.81: Proceedings of the National Academy of Sciences of the United States of America, 96, 9449 -9451.[Free FullText] Mustafa, A., Lannfelt, L., Lilius, L., et al (1999) Decreased plasma insulin-like growth factor-I level in familial Alzheimer's disease patients carrying the Swedish APP 670/671 mutation. 
+
+Phrase: "Proceedings of the National Academy of Sciences of the United States of America,"
+
+Phrase: "96,"
+
+Phrase: "9449 -9451."
+
+Phrase: "[Free FullText"
+
+Phrase: "] Mustafa,"
+
+Phrase: "A.,"
+
+Phrase: "Lannfelt,"
+
+Phrase: "L.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+
+Phrase: "Lilius,"
+
+Phrase: "L.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+
+Phrase: "et al (1999"
+
+Phrase: ")"
+
+Phrase: "Decreased plasma insulin-like growth factor-I level"
+Meta Candidates (Total=32; Excluded=2; Pruned=0; Remaining=30)
+   894   C1295676:Decreased insulin level [Finding]
+   890   C0021665:Insulin-Like Growth Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   890   C1334089:INSULIN-LIKE GROWTH FACTOR I [Gene or Genome]
+   883   C1276042:Plasma insulin level [Laboratory Procedure]
+   864   C0202098:Insulin level [Laboratory Procedure]
+   864   C0428405:insulin level [Laboratory or Test Result]
+   861   C0037657:Insulin-like growth factor [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   861   C1753359:insulin-like growth factor [Molecular Function]
+   850   C0151686:Decreased growth [Pathologic Function]
+   822   C3180941:Iletin I [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   812   C0016006:Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   812   C0018284:Growth Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   812   C0857690:plasma insulin [Laboratory Procedure]
+   793   C0018270:'growth' NOS [Organism Function]
+   793   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   793   C0021966:I- [Inorganic Chemical]
+   793   C0032105:Plasma [Body Substance]
+   793   C0220844:growth [Physiologic Function]
+   793   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   793   C0441889:Level [Qualitative Concept]
+   793   C0456079:Level [Classification]
+   793   C1521761:Factor [Functional Concept]
+   793   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   793   C1547707:Level [Geographic Area]
+   793   C1550098:Plasma, NOS (not otherwise specified) [Body Substance]
+   793   C1579433:Insulin [Pharmacologic Substance]
+   793   C1621966:Growth [Organ or Tissue Function]
+   793   C2827422:Factor [Conceptual Entity]
+   793   C2911660:Growth [Activity]
+   793   C2946261:Level [Pharmacologic Substance]
+   737 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   710 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "in familial Alzheimer's disease patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0030705:Patients [Patient or Disabled Group]
+   756   C0276496:Alzheimer disease, familial [Disease or Syndrome]
+   708   C0277558:Familial disease [Disease or Syndrome]
+
+Phrase: "carrying"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0206243:Carrying [Activity]
+   966 E C0699809:carry [Finding]
+
+Phrase: "the Swedish APP 670/671 mutation."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C0026882:Mutation [Genetic Function]
+   804   C1705285:Mutation [Cell or Molecular Dysfunction]
+Processing 00000000.tx.82: Dementia and Geriatric Cognitive Disorders, 10, 446 -451.[CrossRef][Medline] O'Keefe, S. 
+
+Phrase: "Dementia"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0011265:dementia [Mental or Behavioral Dysfunction]
+  1000   C0497327:Dementia [Mental or Behavioral Dysfunction]
+   900 E C0860630:dement [Mental or Behavioral Dysfunction]
+
+Phrase: "and"
+
+Phrase: "Geriatric Cognitive Disorders,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C0009241:cognitive disorders [Mental or Behavioral Dysfunction]
+   896   C0679383:geriatric disorder [Disease or Syndrome]
+   827   C0012634:Disorders [Disease or Syndrome]
+
+Phrase: "10,"
+
+Phrase: "446 -451."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] O'Keefe,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439114:O NOS [Intellectual Product]
+
+Phrase: "S."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2603362:S' [Clinical Attribute]
+Processing 00000000.tx.83: & Lavan, J. 
+
+Phrase: "& Lavan,"
+
+Phrase: "J."
+Processing 00000000.tx.84: (1997) The prognostic significance of delirium in older hospitalised patients. 
+
+Phrase: "(1997"
+
+Phrase: ")"
+
+Phrase: "The prognostic significance of delirium"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0237881:Significance [Quantitative Concept]
+   760   C0750502:Significance [Idea or Concept]
+
+Phrase: "in older hospitalised patients."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.85: Journal of the American Geriatrics Society, 45, 247 -248.[Medline] Rosenberg, S., Loetz, M. 
+
+Phrase: "Journal of the American Geriatrics Society,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0162443:Journal [Intellectual Product,Manufactured Object]
+
+Phrase: "45,"
+
+Phrase: "247 -248."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Rosenberg,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1979969:Rosenberg [Spatial Concept]
+
+Phrase: "S."
+
+Phrase: ","
+
+Phrase: "Loetz,"
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.86: & Yang, J. 
+
+Phrase: "& Yang,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2945617:yang [Idea or Concept]
+
+Phrase: "J."
+Processing 00000000.tx.87: (1989) Experience with the use of high-dose interleukin-2 in the treatment of 652 cancer patients. 
+
+Phrase: "(1989"
+
+Phrase: ")"
+
+Phrase: "Experience with the use of high-dose interleukin-2"
+Meta Candidates (Total=18; Excluded=0; Pruned=0; Remaining=18)
+   764   C0021756:Interleukin-2 [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   764   C0444956:High dose [Quantitative Concept]
+   764   C0879590:INTERLEUKIN 2 [Gene or Genome]
+   764   C1522405:Interleukin-2 [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   764   C1524063:Use of [Functional Concept]
+   742   C0021764:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   742   C0042153:use [Functional Concept]
+   742   C0178602:Dose [Quantitative Concept]
+   742   C0205250:High [Qualitative Concept]
+   742   C0237607:experience [Mental Process]
+   742   C0457083:Use [Functional Concept]
+   742   C0596545:Experience [Mental Process]
+   742   C0869039:Dose [Quantitative Concept]
+   742   C1114758:Dose # [Clinical Attribute]
+   742   C1299351:High [Qualitative Concept]
+   742   C1527200:Interleukin [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   742   C1947944:Use [Intellectual Product]
+   742   C2700149:HIGH [Intellectual Product]
+
+Phrase: "in the treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0039798:treatment [Functional Concept]
+  1000   C0087111:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treatment [Functional Concept]
+  1000   C1533734:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1705169:Treatment [Conceptual Entity]
+  1000   C3538994:TREATMENT [Research Activity]
+
+Phrase: "of 652 cancer patients."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   884   C1516213:Cancer Patient [Patient or Disabled Group]
+   827   C0030705:Patients [Patient or Disabled Group]
+Processing 00000000.tx.88: Annals of Surgery, 210, 474 -484.[Medline] Saatman, K. 
+
+Phrase: "Annals of Surgery,"
+
+Phrase: "210,"
+
+Phrase: "474 -484."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Saatman,"
+
+Phrase: "K."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0597277:K+ [Element, Ion, or Isotope,Pharmacologic Substance]
+  1000   C1708601:K' [Quantitative Concept]
+Processing 00000000.tx.89: E., Contreras, P. 
+
+Phrase: "E.,"
+
+Phrase: "Contreras,"
+
+Phrase: "P."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+Processing 00000000.tx.90: C., Smith, D. 
+
+Phrase: "C., Smith,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0554249:Smith [Professional or Occupational Group]
+
+Phrase: "D."
+Processing 00000000.tx.91: H., et al (1997) Insulin-like growth factor-I improves both neurological motor and cognitive outcome following experimental brain injury. 
+
+Phrase: "H.,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+
+Phrase: "et al (1997"
+
+Phrase: ")"
+
+Phrase: "Insulin-like growth factor-I"
+Meta Candidates (Total=20; Excluded=2; Pruned=0; Remaining=18)
+  1000   C0021665:Insulin-Like Growth Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+  1000   C1334089:INSULIN-LIKE GROWTH FACTOR I [Gene or Genome]
+   937   C0037657:Insulin-like growth factor [Amino Acid, Peptide, or Protein,Hormone,Neuroreactive Substance or Biogenic Amine]
+   937   C1753359:insulin-like growth factor [Molecular Function]
+   870   C3180941:Iletin I [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   840   C0016006:Factor I [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   840   C0018284:Growth Factor [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   804   C0018270:'growth' NOS [Organism Function]
+   804   C0021641:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C0021966:I- [Inorganic Chemical]
+   804   C0220844:growth [Physiologic Function]
+   804   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C1521761:Factor [Functional Concept]
+   804   C1533581:Insulin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   804   C1579433:Insulin [Pharmacologic Substance]
+   804   C1621966:Growth [Organ or Tissue Function]
+   804   C2827422:Factor [Conceptual Entity]
+   804   C2911660:Growth [Activity]
+   748 E C0020884:Iletin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   721 E C3537244:Insulins [Pharmacologic Substance]
+
+Phrase: "improves"
+
+Phrase: "both neurological motor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1513492:Motor [Functional Concept]
+   861   C1705994:Motor [Manufactured Object]
+
+Phrase: "and"
+
+Phrase: "cognitive outcome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1274040:Outcome [Functional Concept]
+
+Phrase: "following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "experimental brain injury."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   901   C0270611:Brain Injury [Injury or Poisoning]
+   827   C3263722:Injury [Injury or Poisoning]
+   827   C3263723:Injury [Injury or Poisoning]
+Processing 00000000.tx.92: Experimental Neurology, 147, 418 -427.[CrossRef][Medline] Tanii, H., Ankarcrona, M., Flood, F., et al (2000) Alzheimer's disease presenilin-I exon 9 deletion and L250S mutations sensitize SH-SY5Y neuroblastoma cells to hyperosmotic stress induced apoptosis. 
+
+Phrase: "Experimental Neurology,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+   861   C0027855:Neurology [Biomedical Occupation or Discipline]
+   789 E C0205494:Neurologic [Qualitative Concept]
+   789 E C2707261:Neurological [Clinical Attribute]
+   768 E C0027763:Nervous System [Body System]
+   768 E C0422837:NERVOUS SYSTEM [Finding]
+   768 E C1269560:Nervous system [Body System]
+
+Phrase: "147,"
+
+Phrase: "418 -427."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Tanii,"
+
+Phrase: "H.,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+
+Phrase: "Ankarcrona,"
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "Flood,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0016248:Flood [Natural Phenomenon or Process]
+  1000   C0375741:Flood [Injury or Poisoning]
+
+Phrase: "F.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+  1000   C0439133:(f) [Intellectual Product]
+  1000   C1553038:[f] [Quantitative Concept]
+
+Phrase: "et al (2000"
+
+Phrase: ")"
+
+Phrase: "Alzheimer's disease presenilin-I exon 9 deletion"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   795   C1442161:Deletion [Cell or Molecular Dysfunction]
+   795   C1511760:Deletion [Genetic Function]
+   795   C1880274:Deletion [Activity]
+   717   C1837149:Alzheimer Disease 9 [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "L250S mutations"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0026882:Mutations [Genetic Function]
+   827 E C1705285:Mutation [Cell or Molecular Dysfunction]
+
+Phrase: "sensitize"
+
+Phrase: "SH-SY5Y neuroblastoma cells to hyperosmotic stress induced apoptosis."
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   748   C0815000:neuroblastoma cell [Cell]
+   742   C0007634:Cells [Cell]
+   742   C3282337:Cells [Cell]
+   708 E C1269647:Cell [Cell]
+   708 E C1704653:Cell [Medical Device]
+   708 E C1948049:Cell [Spatial Concept]
+Processing 00000000.tx.93: Neuroscience, 95, 593 -601.[CrossRef][Medline] Tarowski, E., Rosengren, L., Blomstrand, C., et al (1995) Early intrathecal production of interleukin-6 predicts the size of brain lesion in stroke. 
+
+Phrase: "Neuroscience,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0027910:Neuroscience [Biomedical Occupation or Discipline]
+  1000   C1552241:Neuroscience [Professional or Occupational Group]
+  1000   C1555991:Neuroscience [Professional or Occupational Group]
+
+Phrase: "95,"
+
+Phrase: "593 -601."
+
+Phrase: "[CrossRef"
+
+Phrase: "]"
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Tarowski,"
+
+Phrase: "E.,"
+
+Phrase: "Rosengren,"
+
+Phrase: "L.,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+
+Phrase: "Blomstrand,"
+
+Phrase: "C.,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1553033:[c] [Quantitative Concept]
+
+Phrase: "et al (1995"
+
+Phrase: ")"
+
+Phrase: "Early intrathecal production of interleukin-6"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   820   C1819459:interleukin-6 production [Organism Function]
+   783   C3159141:interleukin production [Organism Function]
+   753   C0033268:production [Occupational Activity]
+
+Phrase: "predicts"
+
+Phrase: "the size of brain lesion"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   844   C0449453:Size of lesion [Spatial Concept]
+           Lesion size
+   797   C0870226:brain size [Quantitative Concept]
+   760   C0456389:size [Spatial Concept]
+
+Phrase: "in stroke."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0038454:Stroke [Disease or Syndrome]
+Processing 00000000.tx.94: Stroke, 26, 1393 -1398.[Abstract/Free FullText] ten Bokum, A. 
+
+Phrase: "Stroke,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0038454:Stroke [Disease or Syndrome]
+
+Phrase: "26,"
+
+Phrase: "1393 -1398."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] ten Bokum,"
+
+Phrase: "A."
+Processing 00000000.tx.95: M., Hofland, L. 
+
+Phrase: "M."
+
+Phrase: ","
+
+Phrase: "Hofland,"
+
+Phrase: "L."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439394:l's [Quantitative Concept]
+  1000   C1706495:L- [Intellectual Product]
+  1000   C3642217:/L [Quantitative Concept]
+Processing 00000000.tx.96: J. 
+
+Phrase: "J."
+Processing 00000000.tx.97: & van Hagen, P. 
+
+Phrase: "& van Hagen,"
+
+Phrase: "P."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369773:P NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C2603361:P' [Clinical Attribute]
+Processing 00000000.tx.98: M. 
+
+Phrase: "M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.99: (2000) Somatostatin and somatostatin receptors in the immune system: a review. 
+
+Phrase: "(2000"
+
+Phrase: ")"
+
+Phrase: "Somatostatin"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+  1000   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   916 E C0373723:somatostatins [Laboratory Procedure]
+
+Phrase: "and"
+
+Phrase: "somatostatin receptors in the immune system"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   790   C0074830:Receptors, Somatostatin [Amino Acid, Peptide, or Protein,Receptor]
+   767   C0034817:immune receptor [Amino Acid, Peptide, or Protein,Immunologic Factor,Receptor]
+   753   C0037659:Somatostatin [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+   753   C0597357:receptors [Amino Acid, Peptide, or Protein,Receptor]
+   753   C1881011:Somatostatin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: ":"
+
+Phrase: "a review."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0282443:Review [Intellectual Product]
+  1000   C1552617:Review [Idea or Concept]
+Processing 00000000.tx.100: European Cytokine Network, II, 161 -176. 
+
+Phrase: "European Cytokine Network,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C1511615:Cytokine Network [Molecular Function]
+   827   C1513822:Network [Professional or Occupational Group]
+   827   C1705739:Network [Manufactured Object]
+   827   C1882071:Network [Conceptual Entity]
+
+Phrase: "II,"
+
+Phrase: "161 -176."
+Processing 00000000.tx.101: Venters, H. 
+
+Phrase: "Venters,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0224086:Venter [Body Part, Organ, or Organ Component]
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.102: D., Tang, Q., Liu, Q., et al (1999) A new mechanism of neurodegeneration: a proinflammatory cytokine inhibits receptor signalling by a survival peptide. 
+
+Phrase: "D."
+
+Phrase: ","
+
+Phrase: "Tang,"
+
+Phrase: "Q.,"
+
+Phrase: "Liu,"
+
+Phrase: "Q.,"
+
+Phrase: "et al (1999"
+
+Phrase: ")"
+
+Phrase: "A new mechanism of neurodegeneration"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0441712:Mechanism [Functional Concept]
+   760   C1706376:Mechanism [Manufactured Object]
+
+Phrase: ":"
+
+Phrase: "a proinflammatory cytokine"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0079189:cytokine [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "inhibits"
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+   944   C0018790:arrested [Disease or Syndrome]
+   944   C0237477:Arrest [Temporal Concept]
+   944   C0392351:arrest [Governmental or Regulatory Activity]
+   944   C0521111:Retarded [Qualitative Concept]
+   916 E C0311403:Inhibited [Qualitative Concept]
+   916 E C3463820:Inhibiting [Activity]
+
+Phrase: "receptor signalling by a survival peptide."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   803   C0074511:signal peptide receptor [Amino Acid, Peptide, or Protein,Receptor]
+   767   C0037081:Signal Peptide [Amino Acid Sequence]
+   753   C3537152:signalling [Biologic Function]
+   719 E C1710082:Signal [Phenomenon or Process]
+Processing 00000000.tx.103: Proceedings of the National Academy of Sciences of the United States of America, 96, 9879 -9884.[Abstract/Free FullText] Received for publication December 15, 2000. 
+
+Phrase: "Proceedings of the National Academy of Sciences of the United States of America,"
+
+Phrase: "96,"
+
+Phrase: "9879 -9884."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "]"
+
+Phrase: "Received for publication December 15,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1514756:Received [Qualitative Concept]
+   760   C1704324:Publication [Intellectual Product]
+
+Phrase: "2000."
+Processing 00000000.tx.104: Revision received April 26, 2001. 
+
+Phrase: "Revision"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439617:Revision [Temporal Concept]
+  1000   C0558347:Revision [Therapeutic or Preventive Procedure]
+  1000   C1527075:Revision [Therapeutic or Preventive Procedure]
+
+Phrase: "received"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514756:Received [Qualitative Concept]
+
+Phrase: "April 26,"
+
+Phrase: "2001."
+Processing 00000000.tx.105: Accepted for publication May 1, 2001.
+
+Phrase: "Accepted for publication May 1,"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   760   C0034036:Publication [Intellectual Product,Manufactured Object]
+   760   C0034037:Publication [Occupational Activity]
+   760   C1272684:Accepted [Qualitative Concept]
+   760   C1548435:Accepted [Idea or Concept]
+   760   C1704324:Publication [Intellectual Product]
+   726 E C1548601:Accept [Idea or Concept]
+
+Phrase: "2001."
+

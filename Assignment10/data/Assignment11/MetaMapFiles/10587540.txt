@@ -1,0 +1,5118 @@
+Processing 00000000.tx.1: Behet's syndrome C. 
+
+Phrase: "Behet's syndrome C."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   901   C0796095:syndrome c [Disease or Syndrome]
+Processing 00000000.tx.2: G. 
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.3: Barnes and H. 
+
+Phrase: "Barnes"
+
+Phrase: "and"
+
+Phrase: "H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0033727:H+ [Element, Ion, or Isotope]
+  1000   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+  1000   C0441932:H+ [Classification]
+  1000   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.4: Yazici1 The Royal London Hospital, London E1 1BB, UK and 1 Division of Rheumatology, Department of Medicine, Cerrahpasa Medical Faculty, University of Istanbul, Turkey Correspondence to: C. 
+
+Phrase: "Yazici1"
+
+Phrase: "The Royal London Hospital,"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0019994:Hospital, NOS [Health Care Related Organization,Manufactured Object]
+   827   C1510665:Hospital [Qualitative Concept]
+   743 E C1609061:Hospitals [Intellectual Product]
+
+Phrase: "London E1 1BB,"
+
+Phrase: "UK"
+
+Phrase: "and"
+
+Phrase: "1 Division of Rheumatology,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C1293097:Division [Therapeutic or Preventive Procedure]
+   770   C2919030:Division [Organization]
+   770   C2919031:Division [Activity]
+
+Phrase: "Department of Medicine,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C1704729:Department [Organization]
+
+Phrase: "Cerrahpasa Medical Faculty,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   901   C0015537:Faculty, Medical [Professional or Occupational Group]
+   827   C0015535:Faculty [Professional or Occupational Group]
+
+Phrase: "University of Istanbul,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0041740:University [Manufactured Object,Organization]
+
+Phrase: "Turkey Correspondence to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0282413:Correspondence [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "C."
+Processing 00000000.tx.5: G. 
+
+Phrase: "G."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439267:g% [Quantitative Concept]
+Processing 00000000.tx.6: Barnes, Little Hoopern, Chagford, Devon TQ13 8BZ, UK. 
+
+Phrase: "Barnes,"
+
+Phrase: "Little Hoopern,"
+
+Phrase: "Chagford,"
+
+Phrase: "Devon TQ13 8BZ,"
+
+Phrase: "UK."
+Processing 00000000.tx.7: It may be asked why rheumatologists have interested themselves in Behet's syndrome (BS). 
+
+Phrase: "It"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "asked"
+
+Phrase: "why rheumatologists"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0334889:rheumatologists [Professional or Occupational Group]
+
+Phrase: "have"
+
+Phrase: "interested"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0543488:Interested [Mental Process]
+
+Phrase: "themselves in Behet's syndrome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0039082:Syndrome [Disease or Syndrome]
+
+Phrase: "(BS"
+
+Phrase: ")."
+Processing 00000000.tx.8: The obvious answer must be that BS is a vasculitis and a common feature with which it may present is an inflammatory arthritis. 
+
+Phrase: "The obvious answer"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1706817:Answer [Intellectual Product]
+
+Phrase: "must"
+
+Phrase: "be"
+
+Phrase: "that BS"
+
+Phrase: "is"
+
+Phrase: "a vasculitis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042384:Vasculitis [Disease or Syndrome]
+  1000   C1963274:Vasculitis [Finding]
+
+Phrase: "and"
+
+Phrase: "a common feature with which"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C1521970:Feature [Qualitative Concept]
+   760   C1706388:Feature [Conceptual Entity]
+   760   C2346469:Feature [Qualitative Concept]
+   760   C2348519:Feature [Qualitative Concept]
+
+Phrase: "it"
+
+Phrase: "may"
+
+Phrase: "present"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0150312:Present [Quantitative Concept]
+  1000   C0449450:Present [Idea or Concept]
+
+Phrase: "is"
+
+Phrase: "an inflammatory arthritis."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0003864:Inflammatory arthritis [Disease or Syndrome]
+           Arthritis
+   768 E C0018099:Gout [Disease or Syndrome]
+Processing 00000000.tx.9: Most papers on BS start with a statement that it is a multi-system inflammatory disease of uncertain aetiology, now classified as a vasculitis. 
+
+Phrase: "Most papers on BS start"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   760   C0030351:Papers [Manufactured Object]
+   726 E C1547566:Paper [Idea or Concept]
+
+Phrase: "with a statement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1710187:Statement [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "a multi-system inflammatory disease of uncertain aetiology,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C1290884:Inflammatory disease [Disease or Syndrome]
+   767   C1314792:disease etiology [Functional Concept]
+   744   C0012634:Disease [Disease or Syndrome]
+   731   C0442893:Systemic disease [Disease or Syndrome]
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "classified as a vasculitis."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0008902:Classified [Classification]
+   770   C0042384:Vasculitis [Disease or Syndrome]
+   770   C1963274:Vasculitis [Finding]
+Processing 00000000.tx.10: It has been shown to be uncommon in western Europe and the USA, while being much more prevalent in the eastern Mediterranean countries, South East Asia and Japan in particular. 
+
+Phrase: "It"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "uncommon in western Europe"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0522498:Uncommon [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "the USA,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0041703:USA [Geographic Area]
+
+Phrase: "while"
+
+Phrase: "being"
+
+Phrase: "much more prevalent in the eastern Mediterranean countries,"
+
+Phrase: "South East Asia"
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+  1000   C0003983:South East Asia [Geographic Area]
+   916 E C0238697:ASIAN, SOUTHEAST [Population Group]
+   901   C0015631:East Asia [Geographic Area]
+   877   C1519427:South Asian [Population Group]
+   827   C0003980:Asia [Geographic Area]
+   827   C1707877:East [Spatial Concept]
+   827   C1710133:South [Spatial Concept]
+   755 E C0078988:Asian [Population Group]
+
+Phrase: "and"
+
+Phrase: "Japan in particular."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0022341:Japan [Geographic Area]
+Processing 00000000.tx.11: Young onset (before the age of 25 yr) and males have been shown to have more severe disease [1, 2]. 
+
+Phrase: "Young onset"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332162:Onset [Qualitative Concept]
+
+Phrase: "("
+
+Phrase: "before the age"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0001779:Age [Organism Attribute]
+
+Phrase: "of 25 yr)"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439234:yr [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "males"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0024554:Males [Finding]
+  1000   C0086582:Males [Population Group]
+   966 E C1706180:Male [Qualitative Concept]
+   966 E C1706428:Male [Qualitative Concept]
+   966 E C1706429:Male [Organism Attribute]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "have"
+
+Phrase: "more severe disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "[1,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0740116:+2 [Quantitative Concept]
+  1000   C2827735:2+ [Quantitative Concept]
+  1000   C2981700:2+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.12: Although the commonest age of development is in the third decade of life, children may be affected with apparently identical features [3]. 
+
+Phrase: "Although"
+
+Phrase: "the commonest age of development"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   762   C2733260:Developmental age [Organism Attribute]
+   760   C0001779:Age [Organism Attribute]
+
+Phrase: "is in the third decade of life,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   748   C0205437:Third [Quantitative Concept]
+   748   C0376558:Life [Idea or Concept]
+   748   C2981279:Decade [Quantitative Concept]
+
+Phrase: "children"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0008059:Children [Age Group]
+  1000   C0680063:Children [Family Group]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "affected with apparently identical features"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   760   C0205280:Identical [Qualitative Concept]
+   760   C0392760:Affected [Functional Concept]
+   760   C0750541:apparently [Idea or Concept]
+   760   C1314939:Affected [Functional Concept]
+   726 E C0001721:Affect [Mental Process]
+   726   C1521970:Feature [Qualitative Concept]
+   726   C1706388:Feature [Conceptual Entity]
+   726   C2346469:Feature [Qualitative Concept]
+   726   C2348519:Feature [Qualitative Concept]
+
+Phrase: "[3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: "]."
+Processing 00000000.tx.13: It may seem curious that there remains a debate on which terminology, Behet's syndrome (BS) or Behet's disease (BD), is preferable. 
+
+Phrase: "It"
+
+Phrase: "may"
+
+Phrase: "seem"
+
+Phrase: "curious"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   928   C0010472:Curiosities [Individual Behavior]
+
+Phrase: "that there"
+
+Phrase: "remains"
+
+Phrase: "a debate on which terminology,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0870392:debate [Activity]
+
+Phrase: "Behet's syndrome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0039082:Syndrome [Disease or Syndrome]
+
+Phrase: "(BS)"
+
+Phrase: "or"
+
+Phrase: "Behet's disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "(BD"
+
+Phrase: ")"
+
+Phrase: ","
+
+Phrase: "is"
+
+Phrase: "preferable."
+Processing 00000000.tx.14: Although these two terms are sometimes thought to be readily exchangeable they are also the subject of debate and disagreement. 
+
+Phrase: "Although"
+
+Phrase: "these two terms"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C1515273:Term [Temporal Concept]
+   827   C1705313:Term [Idea or Concept]
+   827   C2826302:TERM [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: "sometimes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1998882:Sometimes [Temporal Concept]
+
+Phrase: "thought"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039869:Thought [Mental Process]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "readily exchangeable"
+
+Phrase: "they"
+
+Phrase: "are"
+
+Phrase: "also"
+
+Phrase: "the subject of debate"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0681850:Subject [Group]
+   770   C1550501:{Subject} [Idea or Concept]
+   770   C1706203:Subject [Idea or Concept]
+   770   C2349001:Subject [Human]
+   770   C2697811:Subject [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "disagreement."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0680238:Disagreement [Social Behavior]
+Processing 00000000.tx.15: Some colleagues regard BD as a specific disease and should be accepted as such. 
+
+Phrase: "Some colleagues"
+
+Phrase: "regard"
+
+Phrase: "BD as a specific disease"
+
+Phrase: "and"
+
+Phrase: "should"
+
+Phrase: "be"
+
+Phrase: "accepted as such."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C1272684:Accepted [Qualitative Concept]
+   790   C1548435:Accepted [Idea or Concept]
+   756 E C1548601:Accept [Idea or Concept]
+Processing 00000000.tx.16: To others, including the authors, the lack of a known pathogenesis or a definitive diagnostic test, and the variability in prevalence and incidence of the condition and its constituent manifestations, suggest that the terminology BS is preferable. 
+
+Phrase: "To others,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C1955473:Others [Finding]
+   966 E C0205394:Other [Qualitative Concept]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "the authors,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0221193:Authors [Professional or Occupational Group]
+
+Phrase: "the lack of a known pathogenesis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0332268:lack [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "a definitive diagnostic test,"
+Meta Candidates (Total=8; Excluded=1; Pruned=0; Remaining=7)
+   901   C0086143:diagnostic test [Diagnostic Procedure]
+   901   C0430022:Diagnostic Test [Diagnostic Procedure]
+   859 E C1263440:diagnostic tests [Medical Device]
+   827   C0011900:Diagnostic [Finding]
+   827   C0022885:Test [Laboratory Procedure]
+   827   C0039593:Test [Functional Concept]
+   827   C0348026:Diagnostic [Functional Concept]
+   827   C0392366:test [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "the variability in prevalence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C2827666:Variability [Conceptual Entity]
+
+Phrase: "and"
+
+Phrase: "incidence of the condition"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0021149:Incidence [Quantitative Concept]
+   770   C0220856:incidence [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "its constituent manifestations,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205319:manifestations [Functional Concept]
+   861   C1280464:manifestations [Qualitative Concept]
+
+Phrase: "suggest"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1705535:Suggest [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "the terminology BS"
+
+Phrase: "is"
+
+Phrase: "preferable."
+Processing 00000000.tx.17: As with many eponymous titles Behet was not the first to describe the condition; 
+
+Phrase: "As with many eponymous titles Behet"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   719   C1519530:Title [Idea or Concept]
+   719   C1704446:title [Idea or Concept]
+   719   C1705823:Title [Intellectual Product]
+   719   C1705824:TITLE [Intellectual Product]
+
+Phrase: "was"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "the first to"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205435:First [Quantitative Concept]
+   861   C1279901:First [Qualitative Concept]
+
+Phrase: "describe"
+
+Phrase: "the condition"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0012634:condition [Disease or Syndrome]
+  1000   C0348080:Condition [Qualitative Concept]
+  1000   C1705253:Condition [Conceptual Entity]
+   928 E C0009647:Conditioned [Mental Process]
+   928 E C1701901:Conditional [Qualitative Concept]
+   928 E C1963686:Conditional [Functional Concept]
+   900 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: ";"
+Processing 00000000.tx.18: that can probably be credited to Hippocrates in the 5th century BC , while descriptions of almost certainly the same condition were published from Europe and the Far East in the early 20th century [414]. 
+
+Phrase: "that"
+
+Phrase: "can"
+
+Phrase: "probably"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750492:Probably [Idea or Concept]
+
+Phrase: "be"
+
+Phrase: "credited to Hippocrates"
+
+Phrase: "in the 5th century BC ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C2984916:BC [Quantitative Concept]
+
+Phrase: "while"
+
+Phrase: "descriptions of almost certainly"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0678257:descriptions [Idea or Concept]
+
+Phrase: "the same condition"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   861   C0012634:condition [Disease or Syndrome]
+   861   C0348080:Condition [Qualitative Concept]
+   861   C1705253:Condition [Conceptual Entity]
+   789 E C0009647:Conditioned [Mental Process]
+   789 E C1701901:Conditional [Qualitative Concept]
+   789 E C1963686:Conditional [Functional Concept]
+   761 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "were"
+
+Phrase: "published from Europe"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0015176:Europe [Geographic Area]
+   790   C0034037:Published [Occupational Activity]
+   790   C1704324:Published [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "the Far East in the early 20th century"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0015631:Far East [Geographic Area]
+   744   C0205108:far [Spatial Concept]
+   744   C1707877:East [Spatial Concept]
+
+Phrase: "[414"
+
+Phrase: "]."
+Processing 00000000.tx.19: Traditionally the manifestations of BS have been divided into major and minor (Table 1) based on their frequency, although that differs in different parts of the world, and not on their clinical severity. 
+
+Phrase: "Traditionally"
+
+Phrase: "the manifestations of BS"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   816   C1280464:Manifestation of [Qualitative Concept]
+           manifestations
+   770   C0205319:manifestations [Functional Concept]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "divided into major"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0205164:Major [Qualitative Concept]
+   790   C0332849:Divided [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "minor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0026193:Minor [Population Group]
+  1000   C0205165:Minor [Qualitative Concept]
+
+Phrase: "(Table 1"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "based on their frequency,"
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+   770   C0376249:frequency [Quantitative Concept]
+   770   C0439603:Frequency [Temporal Concept]
+   770   C0871396:Frequency [Quantitative Concept]
+   770   C1527178:Based [Functional Concept]
+   770   C1561548:Frequency [Qualitative Concept]
+   770   C1705502:Frequency [Quantitative Concept]
+   770   C1705938:Based [Idea or Concept]
+   737 E C0002055:base [Inorganic Chemical]
+   737 E C0178499:Base [Chemical Viewed Functionally]
+   737 E C1880279:Base [Biomedical or Dental Material]
+
+Phrase: "although"
+
+Phrase: "that"
+
+Phrase: "differs in different parts of the world,"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   762   C1292711:Part of [Spatial Concept]
+   748   C0449719:parts [Spatial Concept]
+   748   C1705242:Different [Qualitative Concept]
+   748   C1709471:PARTS [Quantitative Concept]
+   748   C2700280:World [Population Group]
+
+Phrase: "and"
+
+Phrase: "not on their clinical severity."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0205210:Clinical [Qualitative Concept]
+   760   C0439793:Severity [Qualitative Concept]
+   760   C1518422:Not [Functional Concept]
+   760   C2983285:Severity [Intellectual Product]
+Processing 00000000.tx.20: Thus, vasculitic lesions, neurological involvement and arthritis are classified as `minor'. 
+
+Phrase: "Thus,"
+
+Phrase: "vasculitic lesions,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C0221198:lesions [Finding]
+   827 E C1546698:Lesion [Intellectual Product]
+
+Phrase: "neurological involvement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1314939:Involvement [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "arthritis"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003864:Arthritis [Disease or Syndrome]
+   907 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "are"
+
+Phrase: "classified"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0008902:Classified [Classification]
+
+Phrase: "as `"
+
+Phrase: "minor'."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0026193:Minor [Population Group]
+  1000   C0205165:Minor [Qualitative Concept]
+Processing 00000000.tx.21: However, vasculitis may be clinically severe or even life-threatening and arthritis occurs in ~45% of patients and may be destructive in a minority. 
+
+Phrase: "However,"
+
+Phrase: "vasculitis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042384:Vasculitis [Disease or Syndrome]
+  1000   C1963274:Vasculitis [Finding]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "clinically severe"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205082:Severe [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "even life-threatening"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   901   C1546953:Life threatening [Idea or Concept]
+   901   C2826244:Life Threatening [Finding]
+   901   C3537125:LIFE THREATENING [Finding]
+   827   C0376558:Life [Idea or Concept]
+   743 E C0595998:lives [Finding]
+
+Phrase: "and"
+
+Phrase: "arthritis"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003864:Arthritis [Disease or Syndrome]
+   907 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "occurs"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1709305:Occur [Activity]
+  1000   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "in ~45% of patients"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   770   C0030705:Patients [Patient or Disabled Group]
+   770   C0150312:In [Quantitative Concept]
+   770   C0332285:In [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "destructive in a minority."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0233520:Destructive [Individual Behavior]
+Processing 00000000.tx.22: From the list of manifestations it can be seen that patients may be referred from primary care, or may present, to about a dozen different medical or surgical specialities, so that not only is this a multi-system condition, but it also requires multi-disciplinary co-operation. 
+
+Phrase: "From the list"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0745732:List [Conceptual Entity]
+  1000   C3272378:LIST [Intellectual Product]
+
+Phrase: "of manifestations"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205319:manifestations [Functional Concept]
+  1000   C1280464:manifestations [Qualitative Concept]
+
+Phrase: "it"
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "seen"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0205397:Seen [Qualitative Concept]
+   966 E C0042789:see [Organism Function]
+   966 E C1947903:See [Activity]
+
+Phrase: "that patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "referred from primary care,"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   833   C0033137:Primary Care [Health Care Activity]
+   819   C0150106:REFERRED CARE [Health Care Activity]
+   770   C0205225:Primary [Qualitative Concept]
+   770   C0205543:referred [Functional Concept]
+   770   C0439631:Primary [Therapeutic or Preventive Procedure]
+   770   C1691010:Referred [Functional Concept]
+   770   C1947933:Care [Activity]
+
+Phrase: "or"
+
+Phrase: "may"
+
+Phrase: "present"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0150312:Present [Quantitative Concept]
+  1000   C0449450:Present [Idea or Concept]
+
+Phrase: ","
+
+Phrase: "to about"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1883351:To [Qualitative Concept]
+
+Phrase: "a dozen different medical"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0205476:Medical [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "surgical specialities,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   983   C0037781:Surgical speciality [Biomedical Occupation or Discipline]
+   777   C0205555:Special [Qualitative Concept]
+
+Phrase: "so"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0037640:SO [Geographic Area]
+
+Phrase: "that"
+
+Phrase: "not only"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205171:Only [Quantitative Concept]
+   861   C1518422:Not [Functional Concept]
+   861   C1720467:Only [Intellectual Product]
+
+Phrase: "is"
+
+Phrase: "this a multi-system condition,"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   827   C0012634:condition [Disease or Syndrome]
+   827   C0348080:Condition [Qualitative Concept]
+   827   C1705253:Condition [Conceptual Entity]
+   755 E C0009647:Conditioned [Mental Process]
+   755 E C1701901:Conditional [Qualitative Concept]
+   755 E C1963686:Conditional [Functional Concept]
+   727 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "but"
+
+Phrase: "it also"
+
+Phrase: "requires"
+
+Phrase: "multi-disciplinary co-operation."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0543467:Operation [Health Care Activity]
+   812   C3241922:Operation [Activity]
+Processing 00000000.tx.23: Some of the distinguishing features of clinical manifestations are shown in Table 2. 
+
+Phrase: "Some of the distinguishing features of clinical manifestations"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   750   C1280464:Manifestation of [Qualitative Concept]
+           manifestations
+   744   C0205210:Clinical [Qualitative Concept]
+   744   C0205319:manifestations [Functional Concept]
+   744   C0205392:Some [Quantitative Concept]
+   744   C3540770:Some [Intellectual Product]
+   711   C1521970:Feature [Qualitative Concept]
+   711   C1706388:Feature [Conceptual Entity]
+   711   C2346469:Feature [Qualitative Concept]
+   711   C2348519:Feature [Qualitative Concept]
+
+Phrase: "are"
+
+Phrase: "shown in Table 2."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C0039224:Table [Manufactured Object]
+   770   C1706073:Table [Medical Device]
+   770   C1706074:Table [Intellectual Product]
+   737   C1547282:Show [Intellectual Product]
+Processing 00000000.tx.24: Nevertheless the most common feature is recurrent oral ulceration, major, minor or aphthous, occurring in 9798% of patients. 
+
+Phrase: "Nevertheless"
+
+Phrase: "the most common feature"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   827   C1521970:Feature [Qualitative Concept]
+   827   C1706388:Feature [Conceptual Entity]
+   827   C2346469:Feature [Qualitative Concept]
+   827   C2348519:Feature [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "recurrent oral ulceration,"
+Meta Candidates (Total=9; Excluded=3; Pruned=0; Remaining=6)
+  1000   C0554021:Recurrent oral ulceration [Disease or Syndrome]
+   901   C0149745:ORAL ULCERATION [Disease or Syndrome]
+   827   C0041582:Ulceration [Pathologic Function]
+   827   C0442027:Oral [Spatial Concept]
+   827   C1963256:Ulceration [Finding]
+   827   C2945760:Recurrent [Temporal Concept]
+   755 E C0034897:Recurrence [Phenomenon or Process]
+   755 E C1458156:recurrence [Neoplastic Process]
+   755 E C2825055:Recurrence [Pathologic Function]
+
+Phrase: "major,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205164:Major [Qualitative Concept]
+
+Phrase: "minor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0026193:Minor [Population Group]
+  1000   C0205165:Minor [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "aphthous,"
+
+Phrase: "occurring in 9798% of patients."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0030705:Patients [Patient or Disabled Group]
+   726   C1709305:Occur [Activity]
+   726   C2745955:OCCUR [Temporal Concept]
+Processing 00000000.tx.25: Therefore, although oral aphthous ulceration has been shown to occur in up to 20% of the normal Western population [15], its presence may be considered to be an essential enquiry in history taking. 
+
+Phrase: "Therefore,"
+
+Phrase: "although"
+
+Phrase: "oral aphthous ulceration"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   913   C0149745:ORAL ULCERATION [Disease or Syndrome]
+   901   C0038363:Aphthous ulceration [Disease or Syndrome]
+   901   C1959869:Aphthous ulceration [Disease or Syndrome]
+   827   C0041582:Ulceration [Pathologic Function]
+   827   C1963256:Ulceration [Finding]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "shown"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "occur in"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   833   C1709305:Occur [Activity]
+   833   C2745955:OCCUR [Temporal Concept]
+
+Phrase: "up to 20%"
+
+Phrase: "of the normal Western population"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0032659:Population [Quantitative Concept]
+   827   C1257890:Population [Population Group]
+
+Phrase: "[15"
+
+Phrase: "],"
+
+Phrase: "its presence"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0392148:Presence [Therapeutic or Preventive Procedure]
+   928 E C0150312:Present [Quantitative Concept]
+   928 E C0449450:Present [Idea or Concept]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "considered"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0750591:considered [Idea or Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "an essential enquiry in history taking."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0035168:inquiry [Research Activity]
+   753   C2987583:Inquiry [Activity]
+Processing 00000000.tx.26: View this table: [in this window] [in a new window]  TABLE 1. 
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "this table"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0039224:Table [Manufactured Object]
+  1000   C1706073:Table [Medical Device]
+  1000   C1706074:Table [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  TABLE 1."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+Processing 00000000.tx.27: Major and minor manifestations of Behet's syndrome (prevalence %)  View this table: [in this window] [in a new window]  TABLE 2. 
+
+Phrase: "Major"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205164:Major [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "minor manifestations of Behet's syndrome"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C1280464:Manifestation of [Qualitative Concept]
+           manifestations
+   760   C0205319:manifestations [Functional Concept]
+
+Phrase: "(prevalence %"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0033105:Prevalence [Quantitative Concept]
+  1000   C0220900:prevalence [Quantitative Concept]
+
+Phrase: ")"
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "this table"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0039224:Table [Manufactured Object]
+  1000   C1706073:Table [Medical Device]
+  1000   C1706074:Table [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  TABLE 2."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+Processing 00000000.tx.28: International criteria for the classification of Behet's disease  Diagnosis has always depended on the grouping together of sufficient features in the individual patient to satisfy the physician that a secure diagnosis can be made. 
+
+Phrase: "International criteria for the classification of Behet's disease  Diagnosis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C0243161:criteria [Intellectual Product]
+
+Phrase: "has"
+
+Phrase: "always"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C2003902:Always [Temporal Concept]
+
+Phrase: "depended on the grouping together of sufficient features"
+Meta Candidates (Total=14; Excluded=6; Pruned=0; Remaining=8)
+   744   C0205410:Sufficient [Qualitative Concept]
+   744   C1522242:Grouping [Functional Concept]
+   744   C1883357:Together [Qualitative Concept]
+   711 E C0441833:Group [Idea or Concept]
+   711 E C0687744:group [Population Group]
+   711   C0725813:depend [Medical Device]
+   711 E C1257890:Group [Population Group]
+   711   C1521970:Feature [Qualitative Concept]
+   711 E C1552516:Group [Health Care Related Organization]
+   711 E C1705428:Group [Conceptual Entity]
+   711 E C1705429:Group [Population Group]
+   711   C1706388:Feature [Conceptual Entity]
+   711   C2346469:Feature [Qualitative Concept]
+   711   C2348519:Feature [Qualitative Concept]
+
+Phrase: "in the individual patient to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0030705:*^patient [Patient or Disabled Group]
+
+Phrase: "satisfy"
+
+Phrase: "the physician"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0031831:Physician [Professional or Occupational Group]
+  1000   C0804815:Physician [Clinical Attribute]
+
+Phrase: "that"
+
+Phrase: "a secure diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0011900:Diagnosis [Finding]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "can"
+
+Phrase: "be"
+
+Phrase: "made."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C1881534:Make [Functional Concept]
+Processing 00000000.tx.29: Various schemes have been in use over the years requiring, for example, three major features, or two major and two minor  a positive pathergy test. 
+
+Phrase: "Various schemes"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1519193:Scheme [Intellectual Product]
+
+Phrase: "have"
+
+Phrase: "been"
+
+Phrase: "in use over the years"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   760   C0042153:use [Functional Concept]
+   760   C0150312:In [Quantitative Concept]
+   760   C0332285:In [Spatial Concept]
+   760   C0457083:Use [Functional Concept]
+   760   C1947944:Use [Intellectual Product]
+
+Phrase: "requiring"
+
+Phrase: ","
+
+Phrase: "for example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "three major features,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   793   C1521970:Feature [Qualitative Concept]
+   793   C1706388:Feature [Conceptual Entity]
+   793   C2346469:Feature [Qualitative Concept]
+   793   C2348519:Feature [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "two major"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0205164:Major [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "two minor"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0026193:Minor [Population Group]
+   861   C0205165:Minor [Qualitative Concept]
+
+Phrase: "a positive pathergy test."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0022885:Test [Laboratory Procedure]
+   827   C0039593:Test [Functional Concept]
+   827   C0392366:test [Intellectual Product]
+Processing 00000000.tx.30: However, it must be emphasized that in the absence of any specific diagnostic feature, or clinical or laboratory test, diagnosis must depend on the clinical acumen of the physician [1623]. 
+
+Phrase: "However,"
+
+Phrase: "it"
+
+Phrase: "must"
+
+Phrase: "be"
+
+Phrase: "emphasized"
+
+Phrase: "that in the absence of any specific diagnostic feature,"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   742   C0011900:Diagnostic [Finding]
+   742   C0205369:Specific [Qualitative Concept]
+   742   C0332197:absence [Quantitative Concept]
+   742   C0348026:Diagnostic [Functional Concept]
+   742   C1521970:Feature [Qualitative Concept]
+   742   C1552740:specific [Intellectual Product]
+   742   C1689985:Absence [Anatomical Abnormality]
+   742   C1706388:Feature [Conceptual Entity]
+   742   C2346469:Feature [Qualitative Concept]
+   742   C2348519:Feature [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "clinical"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205210:Clinical [Qualitative Concept]
+
+Phrase: "or"
+
+Phrase: "laboratory test,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0022885:Laboratory test [Laboratory Procedure]
+           Test
+   861   C0022877:Laboratory [Manufactured Object,Organization]
+   861   C0039593:Test [Functional Concept]
+   861   C0392366:test [Intellectual Product]
+   861   C3244292:laboratory [Functional Concept]
+
+Phrase: "diagnosis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0011900:Diagnosis [Finding]
+  1000   C1704338:diagnosis [Qualitative Concept]
+  1000   C1704656:DIAGNOSIS [Research Activity]
+
+Phrase: "must"
+
+Phrase: "depend on the clinical acumen of the physician"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   744   C0031831:Physician [Professional or Occupational Group]
+   744   C0205210:Clinical [Qualitative Concept]
+   744   C0725813:depend [Medical Device]
+   744   C0804815:Physician [Clinical Attribute]
+
+Phrase: "[1623"
+
+Phrase: "]."
+Processing 00000000.tx.31: Awareness of the existence, and a knowledge, of the condition, clinical suspicion and clinical judgement are the basis for diagnosis, although assistance may be obtained from diagnostic criteria or a diagnostic tree as has been developed in Iran [24]. 
+
+Phrase: "Awareness of the existence,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0004448:Awareness [Mental Process]
+
+Phrase: "and"
+
+Phrase: "a knowledge,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0376554:Knowledge [Intellectual Product]
+
+Phrase: "of the condition,"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0012634:condition [Disease or Syndrome]
+  1000   C0348080:Condition [Qualitative Concept]
+  1000   C1705253:Condition [Conceptual Entity]
+   928 E C0009647:Conditioned [Mental Process]
+   928 E C1701901:Conditional [Qualitative Concept]
+   928 E C1963686:Conditional [Functional Concept]
+   900 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "clinical suspicion"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   861   C0242114:Suspicion [Mental Process]
+   789 E C0750493:suspicious [Idea or Concept]
+   761 E C0233519:Suspiciousness [Finding]
+
+Phrase: "and"
+
+Phrase: "clinical judgement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0022423:Judgement [Mental Process]
+
+Phrase: "are"
+
+Phrase: "the basis for diagnosis,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C1527178:Basis [Functional Concept]
+   770   C1874451:Basis [Pharmacologic Substance]
+
+Phrase: "although"
+
+Phrase: "assistance"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0018896:Assistance [Social Behavior]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "obtained from diagnostic criteria"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   833   C0679228:diagnostic criteria [Intellectual Product]
+   770   C0011900:Diagnostic [Finding]
+   770   C0243161:criteria [Intellectual Product]
+   770   C0348026:Diagnostic [Functional Concept]
+   770   C1301820:Obtained [Functional Concept]
+   737 E C1706701:Obtain [Activity]
+
+Phrase: "or"
+
+Phrase: "a diagnostic tree"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0679508:diagnostic tree [Intellectual Product]
+   861   C0040811:Tree [Plant]
+   861   C0699032:Tree [Functional Concept]
+   861   C2362913:Tree [Spatial Concept]
+
+Phrase: "as"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "developed in Iran"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0022065:Iran [Geographic Area]
+
+Phrase: "[24"
+
+Phrase: "]."
+Processing 00000000.tx.32: International classification criteria have now been developed (Table 2) to ensure comparability of groups of patients entered into epidemiological, clinical, laboratory or therapeutic studies. 
+
+Phrase: "International classification criteria"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0243161:criteria [Intellectual Product]
+
+Phrase: "have"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "been"
+
+Phrase: "developed"
+
+Phrase: "(Table 2"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "ensure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0218063:Ensure [Food]
+
+Phrase: "comparability of groups of patients"
+
+Phrase: "entered into epidemiological, clinical, laboratory"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   760   C0014507:Epidemiological [Biomedical Occupation or Discipline]
+   760   C0022877:Laboratory [Manufactured Object,Organization]
+   760   C0205210:Clinical [Qualitative Concept]
+   760   C1521975:Entered [Qualitative Concept]
+   760   C3244292:laboratory [Functional Concept]
+   726 E C1522196:ENTER [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "therapeutic studies."
+Meta Candidates (Total=6; Excluded=2; Pruned=0; Remaining=4)
+  1000   C1515402:Therapeutic Studies [Research Activity]
+   861   C0039796:Therapeutic [Therapeutic or Preventive Procedure]
+   861   C0302350:Therapeutic [Functional Concept]
+   861   C0947630:studies [Laboratory Procedure]
+   827 E C0557651:Study [Manufactured Object]
+   827 E C2603343:Study [Research Activity]
+Processing 00000000.tx.33: Whether such studies are undertaken in a single research unit, or as part of a multi-centre and possibly international study, it is mandatory that the patients studied, and hence the results obtained, are comparable and acceptable [2527]. 
+
+Phrase: "Whether"
+
+Phrase: "such studies"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0947630:studies [Laboratory Procedure]
+   966 E C0557651:Study [Manufactured Object]
+   966 E C2603343:Study [Research Activity]
+
+Phrase: "are"
+
+Phrase: "undertaken in a single research unit,"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   753   C0035168:research [Research Activity]
+   753   C0037179:Single [Population Group]
+   753   C0087136:single [Finding]
+   753   C0205171:Single [Quantitative Concept]
+   753   C0242481:Research [Research Activity]
+   753   C0439148:Unit [Quantitative Concept]
+   753   C1519795:Unit [Quantitative Concept]
+   753   C1704753:Unit [Manufactured Object]
+   753   C1880519:Unit [Quantitative Concept]
+
+Phrase: "or as part of a multi-centre"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   778   C1292711:Part of [Spatial Concept]
+   748   C0205099:Center [Spatial Concept]
+   748   C0439064:Multi [Quantitative Concept]
+   748   C0449719:Part [Spatial Concept]
+   748   C1709471:Part [Quantitative Concept]
+
+Phrase: "and"
+
+Phrase: "possibly international study,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0557651:Study [Manufactured Object]
+   827   C2603343:Study [Research Activity]
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "mandatory"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1514873:Mandatory [Functional Concept]
+  1000   C1554132:Mandatory [Idea or Concept]
+  1000   C1619643:Mandatory [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "the patients"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "studied"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   966   C0557651:Study [Manufactured Object]
+   966   C2603343:Study [Research Activity]
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "hence"
+
+Phrase: "the results"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   966   C1274040:Result [Functional Concept]
+   966   C1546471:Result [Idea or Concept]
+   966   C2825142:Result [Finding]
+
+Phrase: "obtained"
+Meta Candidates (Total=8; Excluded=7; Pruned=0; Remaining=1)
+  1000   C1301820:Obtained [Functional Concept]
+   966 E C1706701:Obtain [Activity]
+   928 E C1517378:Gain [Quantitative Concept]
+   907 E C0205217:Increased [Quantitative Concept]
+   907 E C0439661:Acquired [Temporal Concept]
+   907 E C0442805:Increase [Functional Concept]
+   907 E C0442808:Increasing [Functional Concept]
+   907 E C3245488:acquired [Intellectual Product]
+
+Phrase: ","
+
+Phrase: "are"
+
+Phrase: "comparable"
+
+Phrase: "and"
+
+Phrase: "acceptable"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C1879533:Acceptable [Qualitative Concept]
+  1000   C3539083:Acceptable [Qualitative Concept]
+   928 E C0814633:acceptability [Qualitative Concept]
+   928 E C3645535:Acceptability [Qualitative Concept]
+
+Phrase: "[2527"
+
+Phrase: "]."
+Processing 00000000.tx.34: Again it is important to stress that these classification criteria are not to be used for the diagnosis of the individual patient and this follows the pattern of classification criteria for rheumatoid arthritis [28], systemic lupus erythematosus [29], ankylosing spondylitis [30] and osteoarthritis [31]. 
+
+Phrase: "Again"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "important to stress"
+
+Phrase: "that"
+
+Phrase: "these classification criteria"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0243161:criteria [Intellectual Product]
+
+Phrase: "are"
+
+Phrase: "not to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1518422:Not [Functional Concept]
+
+Phrase: "be"
+
+Phrase: "used for the diagnosis of the individual patient"
+Meta Candidates (Total=11; Excluded=3; Pruned=0; Remaining=8)
+   750   C1524063:Use of [Functional Concept]
+   744   C0011900:Diagnosis [Finding]
+   744   C0027361:Individual [Population Group]
+   744   C0030705:*^patient [Patient or Disabled Group]
+   744   C0237401:Individual [Human]
+   744   C1273517:used [Finding]
+   744   C1704338:diagnosis [Qualitative Concept]
+   744   C1704656:DIAGNOSIS [Research Activity]
+   711 E C0042153:use [Functional Concept]
+   711 E C0457083:Use [Functional Concept]
+   711 E C1947944:Use [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "this"
+
+Phrase: "follows"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0332283:follow [Temporal Concept]
+  1000   C1719822:Follow [Intellectual Product]
+
+Phrase: "the pattern of classification criteria"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0449774:Pattern [Spatial Concept]
+
+Phrase: "for rheumatoid arthritis"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+  1000   C0003873:Rheumatoid Arthritis [Disease or Syndrome]
+  1000   C2697391:RHEUMATOID ARTHRITIS [Gene or Genome]
+   861   C0003864:Arthritis [Disease or Syndrome]
+   768 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: "[28"
+
+Phrase: "],"
+
+Phrase: "systemic lupus erythematosus"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0024141:Lupus Erythematosus, Systemic [Disease or Syndrome]
+  1000   C2984317:Systemic lupus erythematosus [Functional Concept]
+   901   C0409974:Lupus Erythematosus [Disease or Syndrome]
+           Lupus
+   827   C0024131:Lupus [Disease or Syndrome]
+   827   C0024138:lupus [Disease or Syndrome]
+   827   C0205373:Systemic [Functional Concept]
+
+Phrase: "[29"
+
+Phrase: "],"
+
+Phrase: "ankylosing spondylitis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0038013:Ankylosing spondylitis [Disease or Syndrome]
+   861   C0038012:Spondylitis [Disease or Syndrome]
+
+Phrase: "[30"
+
+Phrase: "]"
+
+Phrase: "and"
+
+Phrase: "osteoarthritis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0029408:Osteoarthritis [Disease or Syndrome]
+
+Phrase: "[31"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450355:31 [Intellectual Product]
+
+Phrase: "]."
+Processing 00000000.tx.35: The pathergy test [32, 33] has often proved to be a problem in terms of the way in which it is performed, its specificity and its geographical variability. 
+
+Phrase: "The pathergy test"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0022885:Test [Laboratory Procedure]
+   861   C0039593:Test [Functional Concept]
+   861   C0392366:test [Intellectual Product]
+
+Phrase: "[32,"
+
+Phrase: "33"
+
+Phrase: "]"
+
+Phrase: "has"
+
+Phrase: "often"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332183:Often [Temporal Concept]
+
+Phrase: "proved"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "a problem in terms of the way"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0033213:Problem [Finding]
+
+Phrase: "in which"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "performed"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0884358:Performed [Functional Concept]
+   966 E C2947996:Perform [Pharmacologic Substance]
+
+Phrase: ","
+
+Phrase: "its specificity"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0037791:Specificity [Quantitative Concept]
+  1000   C1511884:Specificity [Quantitative Concept]
+   928 E C0205369:Specific [Qualitative Concept]
+   928 E C1552740:specific [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "its geographical variability."
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   861   C2827666:Variability [Conceptual Entity]
+   789 E C0439828:Variable [Qualitative Concept]
+Processing 00000000.tx.36: It is now internationally recommended that the test should be performed by insertion of a 20-gauge needle through the skin under sterile conditions, without injection of saline, and read for erythema, papule or pustule formation at 48 h. 
+
+Phrase: "It"
+
+Phrase: "is"
+
+Phrase: "now internationally"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1948052:Now [Temporal Concept]
+
+Phrase: "recommended"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0034866:Recommended [Idea or Concept]
+
+Phrase: "that"
+
+Phrase: "the test"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0022885:Test [Laboratory Procedure]
+  1000   C0039593:Test [Functional Concept]
+  1000   C0392366:test [Intellectual Product]
+
+Phrase: "should"
+
+Phrase: "be"
+
+Phrase: "performed by insertion of a 20-gauge needle"
+Meta Candidates (Total=14; Excluded=1; Pruned=0; Remaining=13)
+   770   C0450403:20 gauge [Quantitative Concept]
+   770   C1550369:Performed By [Qualitative Concept]
+   767   C3640175:Needle Gauge [Quantitative Concept]
+   744   C0021107:Insertion [Therapeutic or Preventive Procedure]
+   744   C0027551:Needle [Medical Device]
+   744   C0441587:Insertion [Health Care Activity]
+   744   C0456564:Gauge [Spatial Concept]
+   744   C0884358:Performed [Functional Concept]
+   744   C1512796:Insertion [Genetic Function]
+   744   C1521879:GAGE [Immunologic Factor]
+   744   C1704318:Needle [Medical Device]
+   744   C1882041:Needle [Spatial Concept]
+   744   C1883719:Insertion [Functional Concept]
+   711 E C2947996:Perform [Pharmacologic Substance]
+
+Phrase: "through the skin"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0444099:Skin [Body Substance]
+  1000   C1123023:Skin [Body System]
+  1000   C1278993:Skin [Body System]
+   944 E C0221912:Cutaneous [Spatial Concept]
+   944 E C0221928:Dermal [Qualitative Concept]
+   944 E C1522447:Cutaneous [Functional Concept]
+   877 E C0011646:Dermis [Tissue]
+
+Phrase: "under sterile conditions,"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   827   C0012634:condition [Disease or Syndrome]
+   827   C0348080:Condition [Qualitative Concept]
+   827   C1705253:Condition [Conceptual Entity]
+   777 E C0009647:Conditioned [Mental Process]
+   777 E C1701901:Conditional [Qualitative Concept]
+   777 E C1963686:Conditional [Functional Concept]
+   755 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "without injection"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0021485:injection [Therapeutic or Preventive Procedure]
+  1000   C1272883:Injection [Biomedical or Dental Material]
+  1000   C1533685:Injection [Therapeutic or Preventive Procedure]
+  1000   C1828121:Injection [Functional Concept]
+
+Phrase: "of saline,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0036082:Saline [Substance]
+
+Phrase: "and"
+
+Phrase: "read for erythema,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   790   C0034754:Read [Daily or Recreational Activity]
+   790   C0041834:Erythema [Sign or Symptom]
+   790   C1705179:read [Finding]
+
+Phrase: "papule"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0332563:Papule [Finding]
+  1000   C1519353:Papule [Finding]
+   928 E C0332564:Papular [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "pustule formation at 48 h."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   760   C0220781:formation [Biologic Function]
+   760   C0439634:formation [Spatial Concept]
+   760   C1522492:Formation [Functional Concept]
+Processing 00000000.tx.37: Rheumatologically we are concerned with the presentation of joint disease and vasculitis in particular, diagnosis and the severity of the condition in terms of both morbidity and possible mortality in the individual patient [34]. 
+
+Phrase: "Rheumatologically"
+
+Phrase: "we"
+
+Phrase: "are"
+
+Phrase: "concerned with the presentation of joint disease"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   804   C0022408:Disease of joint [Disease or Syndrome]
+           DISEASES OF THE JOINTS
+           Joint disease
+   774   C3274800:Disease Presentation [Clinical Attribute]
+   748   C0012634:Disease [Disease or Syndrome]
+   748   C0022417:Joint [Body Space or Junction]
+   748   C0392905:Joint, NOS [Body System]
+   748   C0449450:Presentation [Idea or Concept]
+   748   C1269611:Joint [Body Space or Junction]
+   748   C1706309:Joint [Medical Device]
+   714   C2699424:Concern [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "vasculitis in particular, diagnosis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0042384:Vasculitis [Disease or Syndrome]
+   770   C1963274:Vasculitis [Finding]
+
+Phrase: "and"
+
+Phrase: "the severity of the condition"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   797   C1292730:Condition severity [Functional Concept]
+   760   C0439793:Severity [Qualitative Concept]
+   760   C2983285:Severity [Intellectual Product]
+
+Phrase: "in terms of both morbidity"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0026538:Morbidity [Quantitative Concept]
+  1000   C0220880:morbidity [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "possible mortality in the individual patient"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0026565:Mortality [Quantitative Concept]
+   753   C0026566:mortality [Quantitative Concept]
+
+Phrase: "[34"
+
+Phrase: "]."
+Processing 00000000.tx.38: However, differential diagnosis has rarely been addressed in discussions of BS. 
+
+Phrase: "However,"
+
+Phrase: "differential diagnosis"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0011906:Differential Diagnosis [Diagnostic Procedure]
+  1000   C0220820:differential diagnosis [Functional Concept]
+   861   C0011900:Diagnosis [Finding]
+   861   C0443199:Differential [Qualitative Concept]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+   861   C1705242:Differential [Qualitative Concept]
+
+Phrase: "has"
+
+Phrase: "rarely"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0522498:Rarely [Qualitative Concept]
+
+Phrase: "been"
+
+Phrase: "addressed in discussions of BS."
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   760   C0557061:discussions [Therapeutic or Preventive Procedure]
+   726   C0376649:Address [Intellectual Product]
+   726   C1442065:Address [Spatial Concept]
+   726 E C2584313:Discussion [Social Behavior]
+Processing 00000000.tx.39: In the past BS has been grouped with the seronegative spondarthropathies but this is now recognized to be incorrect. 
+
+Phrase: "In the past BS"
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "grouped with the seronegative spondarthropathies"
+Meta Candidates (Total=8; Excluded=6; Pruned=0; Remaining=2)
+   760   C0439745:Grouped [Spatial Concept]
+   760   C0521144:Seronegative [Qualitative Concept]
+   726 E C0441833:Group [Idea or Concept]
+   726 E C0687744:group [Population Group]
+   726 E C1257890:Group [Population Group]
+   726 E C1552516:Group [Health Care Related Organization]
+   726 E C1705428:Group [Conceptual Entity]
+   726 E C1705429:Group [Population Group]
+
+Phrase: "but"
+
+Phrase: "this"
+
+Phrase: "is"
+
+Phrase: "now"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1948052:Now [Temporal Concept]
+
+Phrase: "recognized"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "incorrect."
+Processing 00000000.tx.40: The important features to be taken into consideration in differential diagnosis are (Table 3): View this table: [in this window] [in a new window]  TABLE 3. 
+
+Phrase: "The important features to"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   793   C1521970:Feature [Qualitative Concept]
+   793   C1706388:Feature [Conceptual Entity]
+   793   C2346469:Feature [Qualitative Concept]
+   793   C2348519:Feature [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "taken into consideration"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   790   C0518609:consideration [Finding]
+   790   C1883727:Taken [Conceptual Entity]
+   756 E C1515187:Take [Health Care Activity]
+
+Phrase: "in differential diagnosis"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+  1000   C0011906:Differential Diagnosis [Diagnostic Procedure]
+  1000   C0220820:differential diagnosis [Functional Concept]
+   861   C0011900:Diagnosis [Finding]
+   861   C0443199:Differential [Qualitative Concept]
+   861   C1704338:diagnosis [Qualitative Concept]
+   861   C1704656:DIAGNOSIS [Research Activity]
+   861   C1705242:Differential [Qualitative Concept]
+
+Phrase: "are ("
+
+Phrase: "Table 3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "View"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0449911:View [Spatial Concept]
+
+Phrase: "this table"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0039224:Table [Manufactured Object]
+  1000   C1706073:Table [Medical Device]
+  1000   C1706074:Table [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "["
+
+Phrase: "in this window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0557702:Window [Manufactured Object]
+  1000   C1272706:Window [Temporal Concept]
+  1000   C1704674:Window [Manufactured Object]
+
+Phrase: "]"
+
+Phrase: "["
+
+Phrase: "in a new window"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0557702:Window [Manufactured Object]
+   861   C1272706:Window [Temporal Concept]
+   861   C1704674:Window [Manufactured Object]
+
+Phrase: "]  TABLE 3."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0039224:Table [Manufactured Object]
+   861   C1706073:Table [Medical Device]
+   861   C1706074:Table [Intellectual Product]
+Processing 00000000.tx.41: Highlights of the clinical manifestations of Behet's syndrome and differential diagnosis  Sacroiliitis and spinal joint involvement are not features of BS. 
+
+Phrase: "Highlights of the clinical manifestations of Behet's syndrome"
+
+Phrase: "and"
+
+Phrase: "differential diagnosis  Sacroiliitis"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0574960:SACROILEITIS [Disease or Syndrome]
+   734   C0011906:Differential Diagnosis [Diagnostic Procedure]
+   734   C0220820:differential diagnosis [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "spinal joint involvement"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   913   C0444534:Spinal involvement [Body Location or Region]
+   827   C1314939:Involvement [Functional Concept]
+
+Phrase: "are"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "features of BS."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C1521970:Feature [Qualitative Concept]
+   790   C1706388:Feature [Conceptual Entity]
+   790   C2346469:Feature [Qualitative Concept]
+   790   C2348519:Feature [Qualitative Concept]
+Processing 00000000.tx.42: The vasculitis of BS includes thrombophlebitis, seldom if ever with embolization, and arteritis with occlusion and aneurysm formation. 
+
+Phrase: "The vasculitis of BS"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0042384:Vasculitis [Disease or Syndrome]
+   770   C1963274:Vasculitis [Finding]
+
+Phrase: "includes"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:Includes [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "thrombophlebitis,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0040046:Thrombophlebitis [Disease or Syndrome]
+
+Phrase: "seldom"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0522498:Seldom [Qualitative Concept]
+
+Phrase: "if"
+
+Phrase: "ever with embolization,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0013931:Embolisation [Therapeutic or Preventive Procedure]
+
+Phrase: "and"
+
+Phrase: "arteritis with occlusion"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0003860:Arteritis [Pathologic Function]
+
+Phrase: "and"
+
+Phrase: "aneurysm formation."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0220781:formation [Biologic Function]
+   861   C0439634:formation [Spatial Concept]
+   861   C1522492:Formation [Functional Concept]
+Processing 00000000.tx.43: This is, therefore, distinct from, for example, the aortitis and aortic valve involvement of ankylosing spondylitis. 
+
+Phrase: "This"
+
+Phrase: "is"
+
+Phrase: ","
+
+Phrase: "therefore,"
+
+Phrase: "distinct from,"
+
+Phrase: "for example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "the aortitis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0003509:Aortitis [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "aortic valve involvement of ankylosing spondylitis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1314939:Involvement [Functional Concept]
+Processing 00000000.tx.44: The formation of pulmonary artery aneurysms with, often fatal, haemoptysis is typical of severe, vasculitic BS [35]. 
+
+Phrase: "The formation of pulmonary artery aneurysms"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0220781:formation [Biologic Function]
+   753   C0439634:formation [Spatial Concept]
+   753   C1522492:Formation [Functional Concept]
+
+Phrase: "with,"
+
+Phrase: "often fatal, haemoptysis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0019079:Haemoptysis [Sign or Symptom]
+
+Phrase: "is"
+
+Phrase: "typical of severe, vasculitic BS [35"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C3538928:Typical [Qualitative Concept]
+
+Phrase: "]."
+Processing 00000000.tx.45: The skin lesions of BS do not include psoriasis but do include erythema nodosum-like lesions and acne. 
+
+Phrase: "The skin lesions of BS"
+Meta Candidates (Total=9; Excluded=4; Pruned=0; Remaining=5)
+   797   C0037284:lesions skin [Disease or Syndrome]
+   760   C0221198:lesions [Finding]
+   760   C0444099:Skin [Body Substance]
+   760   C1123023:Skin [Body System]
+   760   C1278993:Skin [Body System]
+   726 E C1546698:Lesion [Intellectual Product]
+   704 E C0221912:Cutaneous [Spatial Concept]
+   704 E C0221928:Dermal [Qualitative Concept]
+   704 E C1522447:Cutaneous [Functional Concept]
+
+Phrase: "do"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "include"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:include [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "psoriasis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0033860:Psoriasis [Disease or Syndrome]
+
+Phrase: "but"
+
+Phrase: "do"
+
+Phrase: "include"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:include [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "erythema nodosum-"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0014743:Erythema Nodosum [Disease or Syndrome]
+   861   C0041834:Erythema [Sign or Symptom]
+
+Phrase: "like lesions"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0221198:lesions [Finding]
+   966 E C1546698:Lesion [Intellectual Product]
+
+Phrase: "and"
+
+Phrase: "acne."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0001144:Acne [Disease or Syndrome]
+  1000   C0702166:Acne [Disease or Syndrome]
+Processing 00000000.tx.46: Gastrointestinal involvement with ileocaecal ulceration and sometime colonic perforation is distinct from typical inflammatory bowel disease (ulcerative colitis and Crohn's disease). 
+
+Phrase: "Gastrointestinal involvement with ileocaecal ulceration"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C1314939:Involvement with [Functional Concept]
+           Involvement
+
+Phrase: "and"
+
+Phrase: "sometime colonic perforation"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   901   C0347646:Colonic perforation [Injury or Poisoning]
+   827   C0009368:Colonic [Body Part, Organ, or Organ Component]
+   827   C0549099:Perforation [Finding]
+   827   C1881710:PERFORATION [Phenomenon or Process]
+
+Phrase: "is"
+
+Phrase: "distinct from typical inflammatory bowel disease"
+
+Phrase: "(ulcerative colitis"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0009324:Ulcerative Colitis [Disease or Syndrome]
+   861   C0009319:Colitis [Disease or Syndrome]
+   861   C0041582:Ulcerative [Pathologic Function]
+   861   C1963084:Colitis [Finding]
+
+Phrase: "and"
+
+Phrase: "Crohn's disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+  1000   C0010346:Crohn Disease [Disease or Syndrome]
+           Crohn's
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ")."
+Processing 00000000.tx.47: Ocular involvement is typically panuveitis, with or without hypopyon, and retinal vasculitis, thus different from the uveitis of the seronegative arthropathies. 
+
+Phrase: "Ocular involvement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1314939:Involvement [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "typically panuveitis,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0030343:Panuveitis [Disease or Syndrome]
+
+Phrase: "with"
+
+Phrase: "or without hypopyon,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0020641:Hypopyon [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "retinal vasculitis,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0152026:Retinal Vasculitis [Disease or Syndrome]
+   861   C0035298:Retinal [Body Part, Organ, or Organ Component]
+   861   C0042384:Vasculitis [Disease or Syndrome]
+   861   C1963274:Vasculitis [Finding]
+
+Phrase: "thus different from the uveitis of the seronegative arthropathies."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   742   C1705242:Different [Qualitative Concept]
+Processing 00000000.tx.48: BS is associated with the histocompatibility type HLA-B5(51) which may be associated with ophthalmic and more severe disease, in contrast to the association of HLA-B27 with the spondarthropathies. 
+
+Phrase: "BS"
+
+Phrase: "is"
+
+Phrase: "associated with the histocompatibility type HLA-B5"
+Meta Candidates (Total=9; Excluded=2; Pruned=0; Remaining=7)
+   778   C0062826:HLA-B5 [Immunologic Factor]
+   778   C0332281:Associated with [Qualitative Concept]
+           Associated
+   774   C0242318:hla type [Laboratory Procedure]
+   748   C0019627:Histocompatibility [Qualitative Concept]
+   748   C0332307:Type [Qualitative Concept]
+   748   C1547052:*Type [Quantitative Concept]
+   714 E C0750490:Associate [Idea or Concept]
+   714 E C1706221:Associate [Professional or Occupational Group]
+
+Phrase: "(51"
+
+Phrase: ")"
+
+Phrase: "which"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "associated with ophthalmic"
+Meta Candidates (Total=10; Excluded=6; Pruned=0; Remaining=4)
+   882   C0332281:Associated with [Qualitative Concept]
+           Associated
+   756 E C0750490:Associate [Idea or Concept]
+   756 E C1706221:Associate [Professional or Occupational Group]
+   734   C0015392:Eye [Body Part, Organ, or Organ Component]
+   734   C1280202:Eye [Body Part, Organ, or Organ Component]
+   718 E C0014236:Ophthalmia [Disease or Syndrome]
+   706 E C0029144:optic [Occupation or Discipline]
+   706 E C0042789:Ocular [Organism Function]
+   706 E C1299003:Ocular [Spatial Concept]
+
+Phrase: "and"
+
+Phrase: "more severe disease,"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "in contrast to the association"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0004083:Association [Mental Process]
+  1000   C0439849:Association [Qualitative Concept]
+  1000   C0596306:Association [Phenomenon or Process]
+  1000   C0699792:association [Social Behavior]
+
+Phrase: "of HLA-B27"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0019740:HLA-B27 [Immunologic Factor]
+   861   C1537935:B27 [Gene or Genome]
+
+Phrase: "with the spondarthropathies."
+Processing 00000000.tx.49: Urethral discharge is not a feature of BS whereas recurrent scrotal/vulval ulceration, which may be painful, and epididymitis are typical. 
+
+Phrase: "Urethral discharge"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+  1000   C0152447:Urethral discharge [Sign or Symptom]
+   861   C0012621:Discharge [Body Substance]
+   861   C0030685:Discharge [Health Care Activity]
+   861   C0041967:Urethral [Body Part, Organ, or Organ Component]
+   861   C2926602:Discharge [Body Substance]
+   789 E C1281574:Urethra [Body Part, Organ, or Organ Component]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "a feature of BS"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   770   C1521970:Feature [Qualitative Concept]
+   770   C1706388:Feature [Conceptual Entity]
+   770   C2346469:Feature [Qualitative Concept]
+   770   C2348519:Feature [Qualitative Concept]
+
+Phrase: "whereas"
+
+Phrase: "recurrent scrotal/vulval ulceration,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   875   C0268948:SCROTAL ULCERATION [Disease or Syndrome]
+   812   C0041582:Ulceration [Pathologic Function]
+   812   C1963256:Ulceration [Finding]
+   811   C0156339:Vulvar ulceration [Pathologic Function]
+
+Phrase: "which"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "painful,"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0030193:Painful [Sign or Symptom]
+   928 E C1962977:Pain NOS [Finding]
+
+Phrase: "and"
+
+Phrase: "epididymitis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0014534:Epididymitis [Disease or Syndrome]
+
+Phrase: "are"
+
+Phrase: "typical."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3538928:Typical [Qualitative Concept]
+Processing 00000000.tx.50: Therefore, BS is a condition which produces distressing symptoms of, often painful, recurrent orogenital ulceration and skin lesions with an inflammatory arthritis which occasionally may be destructive, due to a vasculitis which may include potential fatal involvement of major arteries and veins and the central nervous system [36], and which may lead to blindness. 
+
+Phrase: "Therefore,"
+
+Phrase: "BS"
+
+Phrase: "is"
+
+Phrase: "a condition"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0012634:condition [Disease or Syndrome]
+  1000   C0348080:Condition [Qualitative Concept]
+  1000   C1705253:Condition [Conceptual Entity]
+   928 E C0009647:Conditioned [Mental Process]
+   928 E C1701901:Conditional [Qualitative Concept]
+   928 E C1963686:Conditional [Functional Concept]
+   900 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "which"
+
+Phrase: "produces"
+
+Phrase: "distressing symptoms of,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0683368:symptoms [Functional Concept]
+   790   C1457887:Symptoms [Sign or Symptom]
+
+Phrase: "often painful, recurrent orogenital ulceration"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C0041582:Ulceration [Pathologic Function]
+   804   C1963256:Ulceration [Finding]
+
+Phrase: "and"
+
+Phrase: "skin lesions with an inflammatory arthritis"
+Meta Candidates (Total=6; Excluded=1; Pruned=0; Remaining=5)
+   783   C0037284:lesions skin [Disease or Syndrome]
+   753   C0221198:lesions [Finding]
+   753   C0444099:Skin [Body Substance]
+   753   C1123023:Skin [Body System]
+   753   C1278993:Skin [Body System]
+   719 E C1546698:Lesion [Intellectual Product]
+
+Phrase: "which occasionally"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1998882:Occasionally [Temporal Concept]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "destructive,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0233520:Destructive [Individual Behavior]
+
+Phrase: "due to a vasculitis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042384:Vasculitis [Disease or Syndrome]
+  1000   C1963274:Vasculitis [Finding]
+
+Phrase: "which"
+
+Phrase: "may"
+
+Phrase: "include"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0332257:include [Functional Concept]
+  1000   C1552866:include [Idea or Concept]
+  1000   C2700399:Include [Activity]
+
+Phrase: "potential fatal involvement of major arteries"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C1314939:Involvement [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "veins"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0042449:Veins [Body Part, Organ, or Organ Component]
+   966 E C1278960:Vein [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "the central nervous system"
+Meta Candidates (Total=19; Excluded=7; Pruned=0; Remaining=12)
+  1000   C0927232:Central Nervous System [Body System]
+  1000   C1269563:Central nervous system [Body System]
+   901   C0027763:Nervous System [Body System]
+   901   C0422837:NERVOUS SYSTEM [Finding]
+   901   C1269560:Nervous system [Body System]
+   845 E C0205494:Neurologic [Qualitative Concept]
+   827   C0027769:Nervous [Sign or Symptom]
+   827   C0205099:Central [Spatial Concept]
+   827   C0449913:System [Functional Concept]
+   827   C0599851:Nervous [Functional Concept]
+   827   C1553451:System [Manufactured Object]
+   827   C1704459:System [Medical Device]
+   827   C1879652:Central - [Laboratory Procedure]
+   808 E C0027855:Neurology [Biomedical Occupation or Discipline]
+   790 E C2707261:Neurological [Clinical Attribute]
+   755 E C0205373:Systemic [Functional Concept]
+   711 E C0027740:Nerve [Tissue]
+   711 E C0027757:NERVE [Tissue]
+   711 E C1280541:Nerve [Body Part, Organ, or Organ Component]
+
+Phrase: "[36"
+
+Phrase: "],"
+
+Phrase: "and"
+
+Phrase: "which"
+
+Phrase: "may"
+
+Phrase: "lead to blindness."
+Meta Candidates (Total=8; Excluded=2; Pruned=0; Remaining=6)
+   790   C0023175:???lead [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   790   C0456909:Blindness [Disease or Syndrome]
+   790   C1442948:lead [Inorganic Chemical,Pharmacologic Substance]
+   790   C1522538:Lead [Functional Concept]
+   790   C2348269:Lead [Element, Ion, or Isotope]
+   790   C3275067:LEAD [Therapeutic or Preventive Procedure]
+   718 E C0150108:Blind [Research Activity]
+   718 E C0525065:blind [Patient or Disabled Group]
+Processing 00000000.tx.51: Management, in the absence of knowledge of a cure of a condition of uncertain aetiology, must consist of the control of symptoms and suppression of the inflammatory vasculitis [37, 38]. 
+
+Phrase: "Management,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0001554:Management [Occupational Activity]
+  1000   C0376636:management [Health Care Activity]
+  1000   C1273870:Management [Occupational Activity]
+  1000   C3273539:Management [Occupation or Discipline]
+
+Phrase: "in the absence"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0332197:absence [Quantitative Concept]
+  1000   C1689985:Absence [Anatomical Abnormality]
+   928 E C2699517:ABSENT [Finding]
+
+Phrase: "of knowledge"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0376554:Knowledge [Intellectual Product]
+
+Phrase: "of a cure"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1880198:Cure [Conceptual Entity]
+
+Phrase: "of a condition"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0012634:condition [Disease or Syndrome]
+  1000   C0348080:Condition [Qualitative Concept]
+  1000   C1705253:Condition [Conceptual Entity]
+   928 E C0009647:Conditioned [Mental Process]
+   928 E C1701901:Conditional [Qualitative Concept]
+   928 E C1963686:Conditional [Functional Concept]
+   900 E C1519605:Conditionality [Conceptual Entity]
+
+Phrase: "of uncertain aetiology,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0015127:aetiology [Functional Concept]
+   861   C1314792:Aetiology [Functional Concept]
+   861   C1524003:Etiology [Conceptual Entity]
+
+Phrase: "must"
+
+Phrase: "consist of the control of symptoms"
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   783   C1274136:control symptoms [Therapeutic or Preventive Procedure]
+   753   C0243148:control [Qualitative Concept]
+   753   C0332529:CONSIST [Qualitative Concept]
+   753   C0683368:symptoms [Functional Concept]
+   753   C1457887:Symptoms [Sign or Symptom]
+   753   C1550141:Control [Substance]
+   753   C1882979:Control [Conceptual Entity]
+   753   C2587213:Control [Functional Concept]
+   753   C3274648:Control [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "suppression of the inflammatory vasculitis"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0221103:Suppression [Pathologic Function]
+   760   C0301625:Suppression [Organism Function]
+   760   C0439181:% suppression [Quantitative Concept]
+   760   C0728721:suppression [Mental Process]
+
+Phrase: "[37,"
+
+Phrase: "38"
+
+Phrase: "]."
+Processing 00000000.tx.52: Treatment may, therefore, be considered under three broad categories: symptomatic treatment of mucosal and skin lesions and arthritis; 
+
+Phrase: "Treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0039798:treatment [Functional Concept]
+  1000   C0087111:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treatment [Functional Concept]
+  1000   C1533734:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1705169:Treatment [Conceptual Entity]
+  1000   C3538994:TREATMENT [Research Activity]
+
+Phrase: "may"
+
+Phrase: ","
+
+Phrase: "therefore,"
+
+Phrase: "be"
+
+Phrase: "considered under three broad categories"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   760   C0205449:Three [Quantitative Concept]
+   760   C0332464:Broad [Spatial Concept]
+   760   C0683312:Categories [Intellectual Product]
+   760   C0750591:considered [Idea or Concept]
+   726 E C1555713:category [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "symptomatic treatment of mucosal"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C0231220:Symptomatic [Functional Concept]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "and"
+
+Phrase: "skin lesions"
+Meta Candidates (Total=10; Excluded=5; Pruned=0; Remaining=5)
+   966   C0037284:Skin lesion [Disease or Syndrome]
+   861   C0221198:lesions [Finding]
+   861   C0444099:Skin [Body Substance]
+   861   C1123023:Skin [Body System]
+   861   C1278993:Skin [Body System]
+   827 E C1546698:Lesion [Intellectual Product]
+   805 E C0221912:Cutaneous [Spatial Concept]
+   805 E C0221928:Dermal [Qualitative Concept]
+   805 E C1522447:Cutaneous [Functional Concept]
+   738 E C0011646:Dermis [Tissue]
+
+Phrase: "and"
+
+Phrase: "arthritis"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0003864:Arthritis [Disease or Syndrome]
+   907 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";"
+Processing 00000000.tx.53: treatment of inflammatory eye disease; 
+
+Phrase: "treatment of inflammatory eye disease"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0039798:treatment [Functional Concept]
+   760   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   760   C1522326:Treatment [Functional Concept]
+   760   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   760   C1705169:Treatment [Conceptual Entity]
+   760   C3538994:TREATMENT [Research Activity]
+
+Phrase: ";"
+Processing 00000000.tx.54: suppression of clinically relevant vasculitis, including management of thrombosis and central nervous system disease. 
+
+Phrase: "suppression of clinically relevant vasculitis,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0221103:Suppression [Pathologic Function]
+   760   C0301625:Suppression [Organism Function]
+   760   C0439181:% suppression [Quantitative Concept]
+   760   C0728721:suppression [Mental Process]
+
+Phrase: "including"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332257:Including [Functional Concept]
+   966 E C1552866:include [Idea or Concept]
+   966 E C2700399:Include [Activity]
+
+Phrase: "management of thrombosis"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   790   C0001554:Management [Occupational Activity]
+   790   C0376636:management [Health Care Activity]
+   790   C1273870:Management [Occupational Activity]
+   790   C3273539:Management [Occupation or Discipline]
+
+Phrase: "and"
+
+Phrase: "central nervous system disease."
+Meta Candidates (Total=10; Excluded=3; Pruned=0; Remaining=7)
+  1000   C0007682:Central Nervous System Disease [Disease or Syndrome]
+   923   C0027765:Nervous system disease [Disease or Syndrome]
+           Nerve Diseases
+   825   C0442893:Systemic disease [Disease or Syndrome]
+   812   C0012634:Disease [Disease or Syndrome]
+   756   C0927232:Central Nervous System [Body System]
+   756   C1269563:Central nervous system [Body System]
+   756 E C1836721:MALS [Finding]
+   756 E C3538764:MALS [Gene or Genome]
+   756 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.55: Symptomatic treatment consists of anti-inflammatory analgesics for joint involvement, there being no convincing evidence that, for example, immunosuppressives have any beneficial effect on this aspect of the condition. 
+
+Phrase: "Symptomatic treatment"
+Meta Candidates (Total=7; Excluded=0; Pruned=0; Remaining=7)
+   861   C0039798:treatment [Functional Concept]
+   861   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   861   C0231220:Symptomatic [Functional Concept]
+   861   C1522326:Treatment [Functional Concept]
+   861   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   861   C1705169:Treatment [Conceptual Entity]
+   861   C3538994:TREATMENT [Research Activity]
+
+Phrase: "consists of anti-inflammatory analgesics"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   862   C0002773:Analgesics, Anti-Inflammatory [Pharmacologic Substance]
+   806   C0003209:Anti-inflammatory [Pharmacologic Substance]
+   806   C1515999:Anti-inflammatory [Qualitative Concept]
+   760   C0002771:Analgesics [Pharmacologic Substance]
+   760   C0332529:CONSIST [Qualitative Concept]
+   760   C0333348:Inflammatory [Functional Concept]
+
+Phrase: "for joint involvement,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1314939:Involvement [Functional Concept]
+
+Phrase: "there"
+
+Phrase: "being"
+
+Phrase: "no convincing evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "that,"
+
+Phrase: "for example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "immunosuppressives"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0021081:Immunosuppressives [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: "have"
+
+Phrase: "any beneficial effect on this aspect of the condition."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   742   C1280500:Effect [Qualitative Concept]
+   742   C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.56: Orogenital ulceration may be treated with local corticosteroid preparations (e.g. adcortyl in orabase) and very rarely is severe enough to require thalidomide [39, 40]. 
+
+Phrase: "Orogenital ulceration"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0041582:Ulceration [Pathologic Function]
+   861   C1963256:Ulceration [Finding]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "treated with local corticosteroid preparations"
+Meta Candidates (Total=10; Excluded=1; Pruned=0; Remaining=9)
+   806   C0332293:Treated with [Therapeutic or Preventive Procedure]
+           treated
+   790   C1445654:Corticosteroid preparation [Hormone,Organic Chemical,Pharmacologic Substance]
+   760   C0001617:corticosteroid [Hormone,Pharmacologic Substance,Steroid]
+   760   C0205276:Local [Spatial Concept]
+   760   C1522326:Treated [Functional Concept]
+   760   C3536709:Corticosteroid [Pharmacologic Substance]
+   726   C0455052:Preparation [Health Care Activity]
+   726 E C1292734:TREAT [Functional Concept]
+   726   C1521827:Preparation [Functional Concept]
+
+Phrase: "("
+
+Phrase: "e.g. adcortyl in orabase"
+
+Phrase: ")"
+
+Phrase: "and"
+
+Phrase: "very rarely"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0442824:Very [Qualitative Concept]
+   861   C0522498:Rarely [Qualitative Concept]
+
+Phrase: "is"
+
+Phrase: "severe enough to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0205082:Severe [Qualitative Concept]
+
+Phrase: "require"
+
+Phrase: "thalidomide"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039736:Thalidomide [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+
+Phrase: "[39,"
+
+Phrase: "40"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: "]."
+Processing 00000000.tx.57: Colchicine has been recommended as basic treatment of BS but recently it has again been confirmed in a controlled trial that it is only effective in relieving arthralgia/arthritis, erythema nodosum and orogenital ulceration, the latter mainly in females [41, 42]. 
+
+Phrase: "Colchicine"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0009262:Colchicine [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "has"
+
+Phrase: "been"
+
+Phrase: "recommended as basic treatment of BS"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+   753   C0034866:Recommended [Idea or Concept]
+   753   C0039798:treatment [Functional Concept]
+   753   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   753   C1522326:Treatment [Functional Concept]
+   753   C1527178:Basic [Functional Concept]
+   753   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   753   C1705169:Treatment [Conceptual Entity]
+   753   C3538994:TREATMENT [Research Activity]
+
+Phrase: "but"
+
+Phrase: "recently"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332185:Recently [Temporal Concept]
+
+Phrase: "it"
+
+Phrase: "has"
+
+Phrase: "again"
+
+Phrase: "been"
+
+Phrase: "confirmed in a controlled trial"
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   760   C0008976:Trial [Research Activity]
+   760   C0521093:confirmed [Qualitative Concept]
+   760   C0750484:Confirmed [Idea or Concept]
+   760   C2587213:Controlled [Functional Concept]
+   726 E C1456348:Confirm [Qualitative Concept]
+
+Phrase: "that"
+
+Phrase: "it"
+
+Phrase: "is"
+
+Phrase: "only effective in relieving arthralgia/arthritis,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1280519:effective [Qualitative Concept]
+   753   C1704419:Effective [Qualitative Concept]
+
+Phrase: "erythema nodosum"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0014743:Erythema Nodosum [Disease or Syndrome]
+   861   C0041834:Erythema [Sign or Symptom]
+
+Phrase: "and"
+
+Phrase: "orogenital ulceration,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0041582:Ulceration [Pathologic Function]
+   861   C1963256:Ulceration [Finding]
+
+Phrase: "the latter mainly in females"
+
+Phrase: "[41,"
+
+Phrase: "42"
+
+Phrase: "]."
+Processing 00000000.tx.58: Inflammatory eye disease if retinal involvement is not detected, and thus only consists of modest panuveitis, may be treated with local corticosteroid drops only. 
+
+Phrase: "Inflammatory eye disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   913   C1290884:Inflammatory disease [Disease or Syndrome]
+   901   C0015397:Eye Disease [Disease or Syndrome]
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "if"
+
+Phrase: "retinal involvement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1314939:Involvement [Functional Concept]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "detected"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0442726:Detected [Finding]
+  1000   C1511790:Detected [Therapeutic or Preventive Procedure]
+
+Phrase: ","
+
+Phrase: "and"
+
+Phrase: "thus only"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0205171:Only [Quantitative Concept]
+   861   C1720467:Only [Intellectual Product]
+
+Phrase: "consists of modest panuveitis,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0030343:Panuveitis [Disease or Syndrome]
+   770   C0332529:CONSIST [Qualitative Concept]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "treated with local corticosteroid"
+Meta Candidates (Total=7; Excluded=1; Pruned=0; Remaining=6)
+   833   C0332293:Treated with [Therapeutic or Preventive Procedure]
+           treated
+   770   C0001617:corticosteroid [Hormone,Pharmacologic Substance,Steroid]
+   770   C0205276:Local [Spatial Concept]
+   770   C1522326:Treated [Functional Concept]
+   770   C3536709:Corticosteroid [Pharmacologic Substance]
+   737 E C1292734:TREAT [Functional Concept]
+
+Phrase: "drops"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0991568:Drops [Biomedical or Dental Material]
+  1000   C1321095:Drop [Quantitative Concept]
+  1000   C1705648:Drop [Activity]
+  1000   C2347093:Drop [Quantitative Concept]
+  1000   C2348338:Drop [Quantitative Concept]
+
+Phrase: "only."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0205171:Only [Quantitative Concept]
+  1000   C1720467:Only [Intellectual Product]
+Processing 00000000.tx.59: However, there is good evidence that, while cyclosporin may control acute severe uveitis, azathioprine is effective in treating established uveitis/retinitis, preventing recurrences and the development of de novo involvement of an unaffected eye, and in the preservation of vision [38, 43, 44]. 
+
+Phrase: "However,"
+
+Phrase: "there"
+
+Phrase: "is"
+
+Phrase: "good evidence"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0332120:Evidence [Functional Concept]
+
+Phrase: "that,"
+
+Phrase: "while"
+
+Phrase: "cyclosporin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0010592:Ciclosporin [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: "may"
+
+Phrase: "control"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0243148:control [Qualitative Concept]
+  1000   C1550141:Control [Substance]
+  1000   C1882979:Control [Conceptual Entity]
+  1000   C2587213:Control [Functional Concept]
+  1000   C3274648:Control [Qualitative Concept]
+
+Phrase: "acute severe uveitis,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0042164:Uveitis [Disease or Syndrome]
+   827   C1963266:Uveitis [Finding]
+
+Phrase: "azathioprine"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0004482:Azathioprine [Organic Chemical,Pharmacologic Substance]
+   944 E C0699279:Imuran [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "is"
+
+Phrase: "effective in treating established uveitis/retinitis,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1280519:effective [Qualitative Concept]
+   753   C1704419:Effective [Qualitative Concept]
+
+Phrase: "preventing"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   966   C0309872:PREVENT [Pharmacologic Substance]
+
+Phrase: "recurrences"
+Meta Candidates (Total=4; Excluded=2; Pruned=0; Remaining=2)
+  1000   C0034897:recurrences [Phenomenon or Process]
+  1000   C2825055:Recurrences [Pathologic Function]
+   966 E C1458156:recurrence [Neoplastic Process]
+   916 E C2945760:Recurrent [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "the development of de novo involvement of an unaffected eye,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   757   C1517080:Eye Development [Organ or Tissue Function]
+   739   C0243107:development [Physiologic Function]
+   739   C0678723:Development [Organism Function]
+   739   C1527148:Development [Functional Concept]
+
+Phrase: "and in the preservation of vision"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   753   C0033085:Preservation [Laboratory Procedure]
+   753   C0042789:Vision [Organism Function]
+   753   C1514402:Preservation [Laboratory Procedure]
+   753   C1515981:And [Idea or Concept]
+   753   C2707266:Vision [Clinical Attribute]
+
+Phrase: "[38,"
+
+Phrase: "43,"
+
+Phrase: "44"
+
+Phrase: "]."
+Processing 00000000.tx.60: At the same time high-dose corticosteroids and cyclophosphamide may be required to control acute and severe exacerbations. 
+
+Phrase: "At the same time high-dose corticosteroids"
+Meta Candidates (Total=9; Excluded=1; Pruned=0; Remaining=8)
+   840   C0444956:High dose [Quantitative Concept]
+   804   C0001617:Corticosteroids [Hormone,Pharmacologic Substance,Steroid]
+   804   C0178602:Dose [Quantitative Concept]
+   804   C0205250:High [Qualitative Concept]
+   804   C0869039:Dose [Quantitative Concept]
+   804   C1114758:Dose # [Clinical Attribute]
+   804   C1299351:High [Qualitative Concept]
+   804   C2700149:HIGH [Intellectual Product]
+   771 E C3536709:Corticosteroid [Pharmacologic Substance]
+
+Phrase: "and"
+
+Phrase: "cyclophosphamide"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0010583:Cyclophosphamide [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699319:Cytoxan [Organophosphorus Compound,Pharmacologic Substance]
+   944 E C0699320:Endoxan [Organophosphorus Compound,Pharmacologic Substance]
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "required"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1514873:Required [Functional Concept]
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "control"
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0243148:control [Qualitative Concept]
+  1000   C1550141:Control [Substance]
+  1000   C1882979:Control [Conceptual Entity]
+  1000   C2587213:Control [Functional Concept]
+  1000   C3274648:Control [Qualitative Concept]
+
+Phrase: "acute"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0205178:acute [Temporal Concept]
+
+Phrase: "and"
+
+Phrase: "severe exacerbations."
+Processing 00000000.tx.61: Alpha interferon seems to be emerging as a potentially useful drug in the treatment of the inflammatory eye disease of BS [38, 45]. 
+
+Phrase: "Alpha interferon"
+Meta Candidates (Total=8; Excluded=0; Pruned=0; Remaining=8)
+  1000   C0002199:alpha-Interferon [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+  1000   C0751598:Alpha Interferon [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+  1000   C1610033:alpha interferon [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0021747:Interferon [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   861   C0439095:Alpha [Intellectual Product]
+   861   C0733470:Interferon [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   861   C2003941:Alpha [Intellectual Product]
+   861   C2350010:Alpha [Qualitative Concept]
+
+Phrase: "seems"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "be"
+
+Phrase: "emerging as a potentially useful drug"
+
+Phrase: "in the treatment"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+  1000   C0039798:treatment [Functional Concept]
+  1000   C0087111:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treatment [Functional Concept]
+  1000   C1533734:Treatment [Therapeutic or Preventive Procedure]
+  1000   C1705169:Treatment [Conceptual Entity]
+  1000   C3538994:TREATMENT [Research Activity]
+
+Phrase: "of the inflammatory eye disease"
+Meta Candidates (Total=6; Excluded=3; Pruned=0; Remaining=3)
+   913   C1290884:Inflammatory disease [Disease or Syndrome]
+   901   C0015397:Eye Disease [Disease or Syndrome]
+   827   C0012634:Disease [Disease or Syndrome]
+   771 E C1836721:MALS [Finding]
+   771 E C3538764:MALS [Gene or Genome]
+   771 E C3540595:MAL [Gene or Genome]
+
+Phrase: "of BS [38,"
+
+Phrase: "45"
+
+Phrase: "]."
+Processing 00000000.tx.62: Vasculitis is treated following conventional methods of using combinations of corticosteroids, orally or parenterally, with immunosuppressives. 
+
+Phrase: "Vasculitis"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0042384:Vasculitis [Disease or Syndrome]
+  1000   C1963274:Vasculitis [Finding]
+
+Phrase: "is"
+
+Phrase: "treated"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0332293:treated [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treated [Functional Concept]
+   966 E C1292734:TREAT [Functional Concept]
+
+Phrase: "following"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0332282:Following [Temporal Concept]
+   966 E C0332283:follow [Temporal Concept]
+   966 E C1719822:Follow [Intellectual Product]
+
+Phrase: "conventional methods of"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0025663:Methods [Intellectual Product]
+   790   C0025664:methods [Intellectual Product]
+   790   C0449851:Methods [Functional Concept]
+   756 E C0871511:METHOD [Intellectual Product]
+
+Phrase: "using"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+  1000   C1524063:Using [Functional Concept]
+   966 E C0042153:use [Functional Concept]
+   966 E C0457083:Use [Functional Concept]
+   966 E C1947944:Use [Intellectual Product]
+
+Phrase: "combinations of corticosteroids,"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   790   C0453882:Combinations [Manufactured Object]
+   756 E C0205195:Combination [Qualitative Concept]
+   756 E C1947911:Combination [Physical Object]
+
+Phrase: "orally"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0442027:Orally [Spatial Concept]
+
+Phrase: "or"
+
+Phrase: "parenterally,"
+
+Phrase: "with immunosuppressives."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0021081:Immunosuppressives [Immunologic Factor,Pharmacologic Substance]
+Processing 00000000.tx.63: In that the thrombophlebitis of BS is not believed to embolize, anti-coagulation is not recommended and may be positively contraindicated in, for example, the presence of pulmonary artery aneurysm formation because of the fear of fatal haemorrhage. 
+
+Phrase: "In"
+
+Phrase: "that"
+
+Phrase: "the thrombophlebitis of BS"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0040046:Thrombophlebitis [Disease or Syndrome]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "believed"
+
+Phrase: "to"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: "embolize"
+
+Phrase: ","
+
+Phrase: "anti-coagulation"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C3537050:Anti-coagulation [Physiologic Function]
+   861   C0005778:Coagulation [Organ or Tissue Function]
+   861   C0441509:Coagulation [Therapeutic or Preventive Procedure]
+   861   C1328723:coagulation [Physiologic Function]
+
+Phrase: "is"
+
+Phrase: "not"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1518422:Not [Functional Concept]
+
+Phrase: "recommended"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0034866:Recommended [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "may"
+
+Phrase: "be"
+
+Phrase: "positively"
+
+Phrase: "contraindicated in,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   833   C1444657:Contraindicated [Finding]
+
+Phrase: "for example,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707959:Example [Conceptual Entity]
+
+Phrase: "the presence of pulmonary artery aneurysm formation"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0392148:Presence [Therapeutic or Preventive Procedure]
+
+Phrase: "because of the fear"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+  1000   C0015726:Fear [Mental Process]
+   928 E C0458278:Fearful [Qualitative Concept]
+
+Phrase: "of fatal haemorrhage."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0019080:Haemorrhage [Pathologic Function]
+Processing 00000000.tx.64: In conclusion the treatment of the mucocutaneous and eye manifestations of BS has become much more effective in recent years but the same cannot be claimed for venous thrombosis, arterial involvement or neurological manifestations. 
+
+Phrase: "In conclusion"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C1707478:Conclusion [Idea or Concept]
+
+Phrase: "the treatment of the mucocutaneous"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   760   C0039798:treatment [Functional Concept]
+   760   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   760   C1522326:Treatment [Functional Concept]
+   760   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   760   C1705169:Treatment [Conceptual Entity]
+   760   C3538994:TREATMENT [Research Activity]
+
+Phrase: "and"
+
+Phrase: "eye manifestations of BS"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   833   C0015411:Eye Manifestations [Sign or Symptom]
+   816   C1280464:Manifestation of [Qualitative Concept]
+           manifestations
+   770   C0205319:manifestations [Functional Concept]
+
+Phrase: "has"
+
+Phrase: "become"
+
+Phrase: "much more effective in recent years"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C1280519:effective [Qualitative Concept]
+   753   C1704419:Effective [Qualitative Concept]
+
+Phrase: "but"
+
+Phrase: "the same"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0445247:Same [Qualitative Concept]
+
+Phrase: "cannot"
+
+Phrase: "be"
+
+Phrase: "claimed for venous thrombosis,"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   833   C0042487:Venous Thrombosis [Pathologic Function]
+   833   C0517555:venous thrombosis [Finding]
+   833   C3160733:VENOUS THROMBOSIS [Finding]
+   770   C0040053:Thrombosis [Pathologic Function]
+   770   C0042449:Venous [Body Part, Organ, or Organ Component]
+   770   C0348013:Venous [Spatial Concept]
+
+Phrase: "arterial involvement"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1314939:Involvement [Functional Concept]
+
+Phrase: "or"
+
+Phrase: "neurological manifestations."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+  1000   C0027854:Neurological Manifestations [Finding]
+   861   C0205319:manifestations [Functional Concept]
+   861   C0205494:Neurological [Qualitative Concept]
+   861   C1280464:manifestations [Qualitative Concept]
+   861   C2707261:Neurological [Clinical Attribute]
+Processing 00000000.tx.65: References Yazici H, Yurdakul S, Tzn Y et al. 
+
+Phrase: "References"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C1514811:Reference [Idea or Concept]
+  1000   C1706462:Reference [Conceptual Entity]
+
+Phrase: "Yazici H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Yurdakul S,"
+
+Phrase: "Tzn Y et al."
+Processing 00000000.tx.66: Influence of age and onset and patient's sex on the prevalence and severity of manifestations of Behet's syndrome. 
+
+Phrase: "Influence of age"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   718   C0021399:influential [Idea or Concept]
+
+Phrase: "and"
+
+Phrase: "onset"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0332162:Onset [Qualitative Concept]
+
+Phrase: "and"
+
+Phrase: "patient's sex on the prevalence"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   806   C0150831:Patient sex [Organism Attribute]
+   760   C0009253:Sex [Organism Function]
+   760   C0036864:Sex [Behavior]
+   760   C0079399:sex [Organism Attribute]
+   760   C1314687:Sex [Finding]
+   760   C1522384:sex [Organism Attribute]
+
+Phrase: "and"
+
+Phrase: "severity of manifestations of Behet's syndrome."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0439793:Severity [Qualitative Concept]
+   753   C2983285:Severity [Intellectual Product]
+Processing 00000000.tx.67: Ann Rheum Dis 1984;43:7839.[Abstract] Yazici H, Tzn Y, Tanman AB et al. 
+
+Phrase: "Ann Rheum Dis 1984"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0035431:Rheum [Plant]
+   812   C0451119:DIS [Intellectual Product]
+   812   C1444662:DIS [Finding]
+
+Phrase: ";43"
+
+Phrase: ":"
+
+Phrase: "7839."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Yazici H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Tzn Y,"
+
+Phrase: "Tanman AB et al."
+Processing 00000000.tx.68: Male patients with Behet's syndrome have stronger pathergy reactions. 
+
+Phrase: "Male patients with Behet's syndrome"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   806   C0150904:male patients [Organism Attribute]
+   760   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: "have"
+
+Phrase: "stronger pathergy reactions."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   793   C0443286:Reaction [Functional Concept]
+   793   C1114821:Reaction [Clinical Attribute]
+Processing 00000000.tx.69: Clin Exp Rheumatol 1985;3:13741.[ISI][Medline] Kone-Paut I, Yurdakul S, Bahabari SA et al. 
+
+Phrase: "Clin Exp Rheumatol 1985"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C1315013:CLIN [Intellectual Product]
+   812   C1417055:EXP [Gene or Genome]
+
+Phrase: ";3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ":"
+
+Phrase: "13741."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Kone-Paut I,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0021966:I- [Inorganic Chemical]
+   827   C0221138:I NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: "Yurdakul S,"
+
+Phrase: "Bahabari SA et al."
+Processing 00000000.tx.70: Clinical features of Behet's disease in children: an international collaborative study of 86 cases. 
+
+Phrase: "Clinical features of Behet's disease"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   726   C1521970:Feature [Qualitative Concept]
+   726   C1706388:Feature [Conceptual Entity]
+   726   C2346469:Feature [Qualitative Concept]
+   726   C2348519:Feature [Qualitative Concept]
+
+Phrase: "in children"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0008059:Children [Age Group]
+  1000   C0680063:Children [Family Group]
+
+Phrase: ":"
+
+Phrase: "an international collaborative study of 86 cases."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   778   C0681804:collaborative study [Research Activity]
+   757   C0085973:Case Study [Intellectual Product]
+   748   C0282116:collaborative [Social Behavior]
+   748   C0557651:Study [Manufactured Object]
+   748   C2603343:Study [Research Activity]
+Processing 00000000.tx.71: J Pediatr 1998;132:7215.[ISI][Medline] Adams F. 
+
+Phrase: "J Pediatr 1998"
+
+Phrase: ";132"
+
+Phrase: ":"
+
+Phrase: "7215."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Adams F."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+Processing 00000000.tx.72: The genuine works of Hippocrates, translated from the Greek. 
+
+Phrase: "The genuine works of Hippocrates,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0043227:works [Occupational Activity]
+
+Phrase: "translated from the Greek."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   770   C0040710:translated [Occupational Activity]
+   770   C0337806:GREEK [Population Group]
+Processing 00000000.tx.73: London: Sydenham Society, 1849:4034. 
+
+Phrase: "London"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: ":"
+
+Phrase: "Sydenham Society,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0037455:society [Organization]
+
+Phrase: "1849"
+
+Phrase: ":"
+
+Phrase: "4034."
+Processing 00000000.tx.74: Feigenbaum A. 
+
+Phrase: "Feigenbaum A."
+Processing 00000000.tx.75: Description of Behet's syndrome in the Hippocratic third book of endemic diseases. 
+
+Phrase: "Description of Behet's syndrome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0678257:Description [Idea or Concept]
+
+Phrase: "in the Hippocratic third book"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0006002:Book [Intellectual Product]
+
+Phrase: "of endemic diseases."
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+  1000   C0277550:Endemic Diseases [Disease or Syndrome]
+   861   C0012634:Diseases [Disease or Syndrome]
+   789 E C1836721:MALS [Finding]
+   789 E C3538764:MALS [Gene or Genome]
+   789 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.76: Br J Ophthalmol 1956;40:3557. 
+
+Phrase: "Br J Ophthalmol 1956"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1704648:Br. [Conceptual Entity]
+
+Phrase: ";40"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: ":"
+
+Phrase: "3557."
+Processing 00000000.tx.77: Adamantiades B. 
+
+Phrase: "Adamantiades B."
+Processing 00000000.tx.78: Sur un cas d'iritis  hypopyon rcidivant. 
+
+Phrase: "Sur un cas"
+
+Phrase: "d'"
+
+Phrase: "iritis  hypopyon rcidivant."
+Processing 00000000.tx.79: Ann Oculist 1931;168:2718. 
+
+Phrase: "Ann Oculist 1931"
+
+Phrase: ";168"
+
+Phrase: ":"
+
+Phrase: "2718."
+Processing 00000000.tx.80: Dascoupoulos N. 
+
+Phrase: "Dascoupoulos N."
+Processing 00000000.tx.81: Sur deux cas d'uveite rcidivante. 
+
+Phrase: "Sur deux cas"
+
+Phrase: "d'"
+
+Phrase: "uveite rcidivante."
+Processing 00000000.tx.82: Ann Oculist 1932;169:387. 
+
+Phrase: "Ann Oculist 1932"
+
+Phrase: ";169"
+
+Phrase: ":"
+
+Phrase: "387."
+Processing 00000000.tx.83: Gilbert W. ber die rezidivierende eitrige Iridozyklitis (I. septica) und ihre Beziehungen zur septischen Allgemeinerkrankung. 
+
+Phrase: "Gilbert W. ber"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C1075351:ber [Plant]
+   827   C1158530:BER [Genetic Function]
+
+Phrase: "die"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+   944   C0011065:Expired [Organism Function]
+   944   C0231800:Expired [Organ or Tissue Function]
+   944   C1704631:Expire [Idea or Concept]
+   916 E C0184532:dying [Organism Function]
+   916 E C1546956:Died [Finding]
+   916 E C1553404:terminated [Idea or Concept]
+   916 E C2348570:Terminated [Functional Concept]
+
+Phrase: "rezidivierende eitrige Iridozyklitis"
+
+Phrase: "(I. septica"
+
+Phrase: ")"
+
+Phrase: "und ihre Beziehungen zur septischen Allgemeinerkrankung."
+Processing 00000000.tx.84: Arch Augenheilkd 1920;86:2949. 
+
+Phrase: "Arch Augenheilkd 1920"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0230467:arch [Body Location or Region]
+   827   C0741204:ARCH [Body Space or Junction]
+
+Phrase: ";86"
+
+Phrase: ":"
+
+Phrase: "2949."
+Processing 00000000.tx.85: Planner H, Remenovsky F. 
+
+Phrase: "Planner H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Remenovsky F."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+Processing 00000000.tx.86: Beitrag zur Kenntnis der ulcerationen am ausseren weiblichen Genitalien. 
+
+Phrase: "Beitrag zur Kenntnis der ulcerationen"
+
+Phrase: "am"
+
+Phrase: "ausseren weiblichen Genitalien."
+Processing 00000000.tx.87: Arch Dermatol Syph (Berlin) 1922;111:16288. 
+
+Phrase: "Arch Dermatol Syph"
+
+Phrase: "(Berlin"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0005125:Berlin [Geographic Area]
+
+Phrase: ")"
+
+Phrase: "1922"
+
+Phrase: ";111"
+
+Phrase: ":"
+
+Phrase: "16288."
+Processing 00000000.tx.88: Shigeta T. 
+
+Phrase: "Shigeta T."
+Processing 00000000.tx.89: Recurrent iritis with hypopyon and its pathological findings. 
+
+Phrase: "Recurrent iritis with hypopyon"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0022081:Iritis [Disease or Syndrome]
+
+Phrase: "and"
+
+Phrase: "its pathological findings."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   950   C1317598:Pathologic findings [Finding]
+   861   C2607943:findings [Functional Concept]
+   861   C2926606:Findings [Clinical Attribute]
+   861   C3539655:Findings [Intellectual Product]
+   827 E C0037088:Finding [Sign or Symptom]
+   827 E C0243095:Finding [Finding]
+   827 E C2825141:Finding [Finding]
+Processing 00000000.tx.90: Acta Soc Ophthalmol Jpn 1924;28:516. 
+
+Phrase: "Acta Soc Ophthalmol Jpn 1924"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   804   C0022341:JPN [Geographic Area]
+
+Phrase: ";28"
+
+Phrase: ":"
+
+Phrase: "516."
+Processing 00000000.tx.91: Whitwell GPB. 
+
+Phrase: "Whitwell GPB."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C1415192:GPB [Gene or Genome]
+   861   C1415374:GPB [Gene or Genome]
+Processing 00000000.tx.92: Recurrent buccal and vulval ulcers with associated embolic phenomena in the skin and eye. 
+
+Phrase: "Recurrent buccal"
+Meta Candidates (Total=5; Excluded=3; Pruned=0; Remaining=2)
+   861   C0442010:Buccal [Spatial Concept]
+   861   C1540415:Buccal [Body Location or Region]
+   805 E C0007966:Cheek [Body Location or Region]
+   805 E C1279153:Cheek [Body Part, Organ, or Organ Component]
+   777 E C0043539:Malar [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "vulval ulcers with associated embolic phenomena"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   753   C0041582:ULCERS [Pathologic Function]
+   748   C0156339:ulcers vulva [Pathologic Function]
+
+Phrase: "in the skin"
+Meta Candidates (Total=7; Excluded=4; Pruned=0; Remaining=3)
+  1000   C0444099:Skin [Body Substance]
+  1000   C1123023:Skin [Body System]
+  1000   C1278993:Skin [Body System]
+   944 E C0221912:Cutaneous [Spatial Concept]
+   944 E C0221928:Dermal [Qualitative Concept]
+   944 E C1522447:Cutaneous [Functional Concept]
+   877 E C0011646:Dermis [Tissue]
+
+Phrase: "and"
+
+Phrase: "eye."
+Meta Candidates (Total=7; Excluded=5; Pruned=0; Remaining=2)
+  1000   C0015392:Eye [Body Part, Organ, or Organ Component]
+  1000   C1280202:Eye [Body Part, Organ, or Organ Component]
+   944 E C0029144:optic [Occupation or Discipline]
+   944 E C0042789:Ocular [Organism Function]
+   944 E C1299003:Ocular [Spatial Concept]
+   907 E C0014236:Ophthalmia [Disease or Syndrome]
+   907 E C0700042:Oculus [Body Location or Region]
+Processing 00000000.tx.93: Br J Dermatol 1934;46:414. 
+
+Phrase: "Br J Dermatol 1934"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1704648:Br. [Conceptual Entity]
+
+Phrase: ";46"
+
+Phrase: ":"
+
+Phrase: "414."
+Processing 00000000.tx.94: Behet H. ber rezidivierende Aphthose, durch ein Virus verursachte Geschwre am Mund, am Auge und an Genitalien. 
+
+Phrase: "Behet H. ber rezidivierende Aphthose,"
+
+Phrase: "durch ein Virus verursachte Geschwre"
+
+Phrase: "am"
+
+Phrase: "Mund,"
+
+Phrase: "am"
+
+Phrase: "Auge und"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1413574:UND [Gene or Genome]
+
+Phrase: "an Genitalien."
+Processing 00000000.tx.95: Dermatol Wochenschr 1937;105:11527. 
+
+Phrase: "Dermatol Wochenschr 1937"
+
+Phrase: ";105"
+
+Phrase: ":"
+
+Phrase: "11527."
+Processing 00000000.tx.96: Behet H. 
+
+Phrase: "Behet H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.97: Considerations sur les lesions aphtheuses de la bouche at des parties genitales, ainsi que sur les manifestations oculaires d'origine probablement virutique et observations concernant leur foyer d'infection. 
+
+Phrase: "Considerations sur les"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0227192:LES [Body Part, Organ, or Organ Component]
+   827   C1414864:Les [Gene or Genome]
+
+Phrase: "lesions"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0221198:Lesion [Finding]
+  1000   C1546698:Lesion [Intellectual Product]
+
+Phrase: "aphtheuses de la bouche at des parties genitales,"
+
+Phrase: "ainsi que sur les manifestations oculaires"
+
+Phrase: "d'"
+
+Phrase: "origine probablement virutique et observations concernant leur foyer"
+
+Phrase: "d'"
+
+Phrase: "infection."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+  1000   C0009450:Infection, NOS [Disease or Syndrome]
+   928 E C0439663:Infected [Functional Concept]
+   888 E C0030657:infectivity [Qualitative Concept]
+Processing 00000000.tx.98: Arch Dermatol Syph 1937;234:15219. 
+
+Phrase: "Arch Dermatol Syph 1937"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C0230467:arch [Body Location or Region]
+   812   C0741204:ARCH [Body Space or Junction]
+
+Phrase: ";234"
+
+Phrase: ":"
+
+Phrase: "15219."
+Processing 00000000.tx.99: Behet H. 
+
+Phrase: "Behet H."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+Processing 00000000.tx.100: Some observations on clinical picture of the so-called triple symptom complex. 
+
+Phrase: "Some observations on clinical picture of the so-called triple symptom complex."
+Meta Candidates (Total=5; Excluded=1; Pruned=0; Remaining=4)
+   736   C0302523:observations [Research Activity]
+   736   C0700325:observations [Health Care Activity]
+   736   C3244290:observations [Functional Concept]
+   734   C2986892:Clinical Observation [Idea or Concept]
+   703 E C1964257:Observation [Diagnostic Procedure]
+Processing 00000000.tx.101: Dermatologica Basel 1940;81:7383. 
+
+Phrase: "Dermatologica Basel 1940"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C0331779:Basel [Health Care Related Organization]
+
+Phrase: ";81"
+
+Phrase: ":"
+
+Phrase: "7383."
+Processing 00000000.tx.102: Sircus W, Church R, Kelleher J. 
+
+Phrase: "Sircus W,"
+
+Phrase: "Church R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Kelleher J."
+Processing 00000000.tx.103: Recurrent ulceration of the mouth. 
+
+Phrase: "Recurrent ulceration of the mouth."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   817   C0554021:Recurrent oral ulceration [Disease or Syndrome]
+   797   C0149745:Mouth ulceration [Disease or Syndrome]
+   760   C0041582:Ulceration [Pathologic Function]
+   760   C1963256:Ulceration [Finding]
+Processing 00000000.tx.104: Q J Med 1957;26:23549.[Medline] Mason RM, Barnes CG. 
+
+Phrase: "Q J Med 1957"
+
+Phrase: ";26"
+
+Phrase: ":"
+
+Phrase: "23549."
+
+Phrase: "[Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Mason RM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2951520:RM [Body Location or Region]
+
+Phrase: "Barnes CG."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0054868:CG [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C3540479:CG [Gene or Genome]
+Processing 00000000.tx.105: Behet's syndrome with arthritis. 
+
+Phrase: "Behet's syndrome with arthritis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0039082:Syndrome [Disease or Syndrome]
+Processing 00000000.tx.106: Ann Rheum Dis 1969;28:95103.[ISI][Medline] Behet's Disease Research Committee of Japan (1972)quoted by Shimizu T. 
+
+Phrase: "Ann Rheum Dis 1969"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   812   C0035431:Rheum [Plant]
+   812   C0451119:DIS [Intellectual Product]
+   812   C1444662:DIS [Finding]
+
+Phrase: ";28"
+
+Phrase: ":"
+
+Phrase: "95103."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Behet's Disease Research Committee of Japan"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C2699414:Committee [Group]
+
+Phrase: "(1972"
+
+Phrase: ")"
+
+Phrase: "quoted by Shimizu T."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   737   C2981735:Quote [Manufactured Object]
+Processing 00000000.tx.107: Clinicopathological studies on Behet's disease. 
+
+Phrase: "Clinicopathological studies on Behet's disease."
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   760   C0947630:studies [Laboratory Procedure]
+   726 E C0557651:Study [Manufactured Object]
+   726 E C2603343:Study [Research Activity]
+Processing 00000000.tx.108: In: Dilsen N, Konice M, Ovul C, eds. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Dilsen N,"
+
+Phrase: "Konice M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Ovul C,"
+
+Phrase: "eds."
+Processing 00000000.tx.109: Behet's disease. 
+
+Phrase: "Behet's disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.110: Amsterdam: Excerpta Medica International Congress Series no. 
+
+Phrase: "Amsterdam"
+
+Phrase: ":"
+
+Phrase: "Excerpta Medica International Congress Series"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   804   C0205549:Series [Quantitative Concept]
+   804   C2348044:Series [Intellectual Product]
+
+Phrase: "no."
+Processing 00000000.tx.111: 467, 1979:943. 
+
+Phrase: "467,"
+
+Phrase: "1979"
+
+Phrase: ":"
+
+Phrase: "943."
+Processing 00000000.tx.112: Behet's Disease Research Committee of Japan. 
+
+Phrase: "Behet's Disease Research Committee of Japan."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C2699414:Committee [Group]
+Processing 00000000.tx.113: Behet's disease: guide to diagnosis of Behet's disease. 
+
+Phrase: "Behet's disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: ":"
+
+Phrase: "guide to diagnosis of Behet's disease."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   753   C0181090:Guide [Professional or Occupational Group]
+   753   C0302614:Guide [Medical Device]
+   753   C1706050:Guide [Manufactured Object]
+Processing 00000000.tx.114: Jpn J Ophthalmol 1974;18:2914.[ISI] Mizushima Y. 
+
+Phrase: "Jpn J Ophthalmol 1974"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0022341:JPN [Geographic Area]
+
+Phrase: ";18"
+
+Phrase: ":"
+
+Phrase: "2914."
+
+Phrase: "[ISI] Mizushima Y."
+Processing 00000000.tx.115: Recent research into Behet's disease in Japan. 
+
+Phrase: "Recent research into Behet's disease"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   760   C0035168:research [Research Activity]
+   760   C0242481:Research [Research Activity]
+
+Phrase: "in Japan."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0022341:Japan [Geographic Area]
+Processing 00000000.tx.116: Int J Tissue React 1998;10:5965. 
+
+Phrase: "Int J Tissue"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0040300:Tissue [Tissue]
+   827   C1547928:Tissue [Intellectual Product]
+
+Phrase: "React"
+
+Phrase: "1998"
+
+Phrase: ";10"
+
+Phrase: ":"
+
+Phrase: "5965."
+Processing 00000000.tx.117: O'Duffy JD. 
+
+Phrase: "O'Duffy JD."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1549972:JD [Intellectual Product]
+Processing 00000000.tx.118: Critres proposs pour le diagnostic de la maladie de Behet et notes thrapeutiques. 
+
+Phrase: "Critres proposs"
+
+Phrase: "pour"
+
+Phrase: "le diagnostic de la maladie de Behet"
+
+Phrase: "et"
+
+Phrase: "notes"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C1316572:Note [Clinical Attribute]
+  1000   C1317574:Note [Intellectual Product]
+  1000   C1369612:Note [Clinical Attribute]
+
+Phrase: "thrapeutiques."
+Processing 00000000.tx.119: Rev Med 1974;36:23719. 
+
+Phrase: "Rev Med 1974"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C2347961:Rev. [Professional or Occupational Group]
+
+Phrase: ";36"
+
+Phrase: ":"
+
+Phrase: "23719."
+Processing 00000000.tx.120: O'Duffy JD. 
+
+Phrase: "O'Duffy JD."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1549972:JD [Intellectual Product]
+Processing 00000000.tx.121: Suggested criteria for diagnosis of Behet's disease. 
+
+Phrase: "Suggested criteria for diagnosis of Behet's disease."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   748   C0243161:criteria [Intellectual Product]
+Processing 00000000.tx.122: J Rheumatol 1974;1(Suppl. 
+
+Phrase: "J Rheumatol 1974"
+
+Phrase: ";1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: "(Suppl."
+Processing 00000000.tx.123: 1):Abstr. 
+
+Phrase: "1"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C2827734:1+ [Quantitative Concept]
+  1000   C2981698:1+ [Classification]
+
+Phrase: ")"
+
+Phrase: ":"
+
+Phrase: "Abstr."
+Processing 00000000.tx.124: 32:18. 
+
+Phrase: "32"
+
+Phrase: ":"
+
+Phrase: "18."
+Processing 00000000.tx.125: Chen, SP. 
+
+Phrase: "Chen,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0999213:Chen [Bird]
+
+Phrase: "SP."
+Processing 00000000.tx.126: Some special clinical manifestations of Behet's diseasereport of illustrative cases and review of literature (author's translation) (in Chinese). 
+
+Phrase: "Some special clinical manifestations of Behet's diseasereport of illustrative cases"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   743   C1280464:Manifestation of [Qualitative Concept]
+           manifestations
+   739   C0205319:manifestations [Functional Concept]
+
+Phrase: "and"
+
+Phrase: "review of literature"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+  1000   C0282441:Review of Literature [Intellectual Product]
+           Review Literature
+   790   C0282443:Review [Intellectual Product]
+   790   C1552617:Review [Idea or Concept]
+
+Phrase: "(author's translation"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0040712:Translation [Intellectual Product]
+   861   C0597295:translation [Molecular Function]
+   861   C1519614:Translation [Genetic Function]
+
+Phrase: ")"
+
+Phrase: "("
+
+Phrase: "in Chinese"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0008120:chinese [Language]
+  1000   C0152035:Chinese [Population Group]
+
+Phrase: ")."
+Processing 00000000.tx.127: Chinese J Int Med 1980;19:1522. 
+
+Phrase: "Chinese J Int Med 1980"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   804   C0008120:chinese [Language]
+   804   C0063789:INT [Organic Chemical]
+   804   C0152035:Chinese [Population Group]
+   804   C3272375:INT [Intellectual Product]
+
+Phrase: ";19"
+
+Phrase: ":"
+
+Phrase: "1522."
+Processing 00000000.tx.128: Dilsen N, Konice M, Aral O. 
+
+Phrase: "Dilsen N,"
+
+Phrase: "Konice M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Aral O."
+Processing 00000000.tx.129: Our diagnostic criteria of Behet's diseasean overview. 
+
+Phrase: "Our diagnostic criteria of Behet's diseasean overview."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   778   C0679228:diagnostic criteria [Intellectual Product]
+   748   C0243161:criteria [Intellectual Product]
+Processing 00000000.tx.130: In: Lehner T, Barnes CG, eds. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Lehner T,"
+
+Phrase: "Barnes CG,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0054868:CG [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C3540479:CG [Gene or Genome]
+
+Phrase: "eds."
+Processing 00000000.tx.131: Recent advances in Behet's disease. 
+
+Phrase: "Recent advances in Behet's disease."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   726   C0725066:Advance [Medical Device]
+Processing 00000000.tx.132: London: Royal Society of Medicine Services: International Congress and Symposium Series 103, 1986:17780. 
+
+Phrase: "London"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0023973:London [Geographic Area]
+
+Phrase: ":"
+
+Phrase: "Royal Society of Medicine Services"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   804   C0557854:Services [Occupational Activity]
+   771 E C2825316:Service [Manufactured Object]
+   771 E C3245478:service [Idea or Concept]
+
+Phrase: ":"
+
+Phrase: "International Congress"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0009753:Congress [Organization]
+
+Phrase: "and"
+
+Phrase: "Symposium Series 103,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   827   C0086047:symposium [Human-caused Phenomenon or Process]
+   827   C0205549:Series [Quantitative Concept]
+   827   C2348044:Series [Intellectual Product]
+
+Phrase: "1986"
+
+Phrase: ":"
+
+Phrase: "17780."
+Processing 00000000.tx.133: Davatchi F, Shahram M, Akbarian M et al. 
+
+Phrase: "Davatchi F,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0016327:F- [Inorganic Chemical,Pharmacologic Substance]
+   861   C0439133:(f) [Intellectual Product]
+   861   C1553038:[f] [Quantitative Concept]
+
+Phrase: "Shahram M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Akbarian M et al."
+Processing 00000000.tx.134: Classification tree for the diagnosis of Behet's disease. 
+
+Phrase: "Classification tree for the diagnosis of Behet's disease."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   744   C0040811:Tree [Plant]
+   744   C0699032:Tree [Functional Concept]
+   744   C2362913:Tree [Spatial Concept]
+Processing 00000000.tx.135: In: Wechsler B, Godeau P, eds. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Wechsler B,"
+
+Phrase: "Godeau P,"
+
+Phrase: "eds."
+Processing 00000000.tx.136: Behet's disease. 
+
+Phrase: "Behet's disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.137: Amsterdam: Excerpta Medica International Congress Series 1037, 1993:2458. 
+
+Phrase: "Amsterdam"
+
+Phrase: ":"
+
+Phrase: "Excerpta Medica International Congress Series 1037,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   799   C0009753:Congress [Organization]
+   799   C0205549:Series [Quantitative Concept]
+   799   C1512888:International [Idea or Concept]
+   799   C2348044:Series [Intellectual Product]
+
+Phrase: "1993"
+
+Phrase: ":"
+
+Phrase: "2458."
+Processing 00000000.tx.138: International Study Group for Behet's Disease. 
+
+Phrase: "International Study Group for Behet's Disease."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   753   C0441833:Group [Idea or Concept]
+   753   C0557651:Study [Manufactured Object]
+   753   C0687744:group [Population Group]
+   753   C1257890:Group [Population Group]
+   753   C1512888:International [Idea or Concept]
+   753   C1552516:Group [Health Care Related Organization]
+   753   C1705428:Group [Conceptual Entity]
+   753   C1705429:Group [Population Group]
+   753   C2603343:Study [Research Activity]
+Processing 00000000.tx.139: Criteria for diagnosis of Behet's disease. 
+
+Phrase: "Criteria for diagnosis of Behet's disease."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   753   C0243161:criteria [Intellectual Product]
+Processing 00000000.tx.140: Lancet 1990; 
+
+Phrase: "Lancet 1990"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0777169:Lancet [Medical Device]
+
+Phrase: ";"
+Processing 00000000.tx.141: 335:107880.[ISI][Medline] International Study Group for Behet's Disease. 
+
+Phrase: "335"
+
+Phrase: ":"
+
+Phrase: "107880."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] International Study Group for Behet's Disease."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   753   C0441833:Group [Idea or Concept]
+   753   C0557651:Study [Manufactured Object]
+   753   C0687744:group [Population Group]
+   753   C1257890:Group [Population Group]
+   753   C1512888:International [Idea or Concept]
+   753   C1552516:Group [Health Care Related Organization]
+   753   C1705428:Group [Conceptual Entity]
+   753   C1705429:Group [Population Group]
+   753   C2603343:Study [Research Activity]
+Processing 00000000.tx.142: Evaluation of diagnostic (classification) criteria in Behet's diseasetowards internationally agreed criteria. 
+
+Phrase: "Evaluation of diagnostic"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   790   C0220825:Evaluation [Functional Concept]
+   790   C1261322:Evaluation [Health Care Activity]
+
+Phrase: "(classification"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0008902:Classification [Classification]
+  1000   C0008903:classification [Functional Concept]
+  1000   C0678229:classification [Occupational Activity]
+
+Phrase: ")"
+
+Phrase: "criteria in Behet's diseasetowards internationally agreed criteria."
+Processing 00000000.tx.143: Br J Rheumatol 1992;31:299308.[ISI][Medline] Barnes CG. 
+
+Phrase: "Br J Rheumatol 1992"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1704648:Br. [Conceptual Entity]
+
+Phrase: ";31"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450355:31 [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "299308."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Barnes CG."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0054868:CG [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C3540479:CG [Gene or Genome]
+Processing 00000000.tx.144: Diagnostic (classification) criteria in Behet's syndrome. 
+
+Phrase: "Diagnostic"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0011900:Diagnostic [Finding]
+  1000   C0348026:Diagnostic [Functional Concept]
+
+Phrase: "(classification"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0008902:Classification [Classification]
+  1000   C0008903:classification [Functional Concept]
+  1000   C0678229:classification [Occupational Activity]
+
+Phrase: ")"
+
+Phrase: "criteria in Behet's syndrome."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   770   C0243161:criteria [Intellectual Product]
+Processing 00000000.tx.145: In: Hamza M, ed. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Hamza M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "ed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3538926:ED [Idea or Concept]
+Processing 00000000.tx.146: Behet's disease, Tunis: Pud Adhoua, 1997:20911. 
+
+Phrase: "Behet's disease,"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "Tunis"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0445341:Tunis [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "Pud Adhoua,"
+
+Phrase: "1997"
+
+Phrase: ":"
+
+Phrase: "20911."
+Processing 00000000.tx.147: Arnett FC, Edworthy SM, Bloch DA, McShane DJ, Fries JF, Cooper NS et al. 
+
+Phrase: "Arnett FC,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2983605:FC [Activity]
+
+Phrase: "Edworthy SM,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0036154:SM [Geographic Area]
+
+Phrase: "Bloch DA,"
+
+Phrase: "McShane DJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0012836:DJ [Geographic Area]
+
+Phrase: "Fries JF,"
+
+Phrase: "Cooper NS et al."
+Processing 00000000.tx.148: The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis. 
+
+Phrase: "The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   735   C0243161:criteria [Intellectual Product]
+Processing 00000000.tx.149: Arthritis Rheum 1988;31:31524.[ISI][Medline] Tan EM, Cohen AS, Fries JF, Masi AT, McShane DJ, Rothfield NF et al. 
+
+Phrase: "Arthritis Rheum 1988"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";31"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450355:31 [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "31524."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Tan EM,"
+
+Phrase: "Cohen AS,"
+
+Phrase: "Fries JF,"
+
+Phrase: "Masi AT,"
+
+Phrase: "McShane DJ,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0012836:DJ [Geographic Area]
+
+Phrase: "Rothfield NF et al."
+Processing 00000000.tx.150: The 1982 revised criteria for the classification of systemic lupus erythematosus. 
+
+Phrase: "The 1982 revised criteria for the classification of systemic lupus erythematosus."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   738   C0243161:criteria [Intellectual Product]
+Processing 00000000.tx.151: Arthritis Rheum 1982;25:12717.[ISI][Medline] Bennet PM, Wood PHN. 
+
+Phrase: "Arthritis Rheum 1982"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";25"
+
+Phrase: ":"
+
+Phrase: "12717."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Bennet PM, Wood PHN."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0032768:phn [Disease or Syndrome]
+Processing 00000000.tx.152: Recommendationsankylosing spondylitis. 
+
+Phrase: "Recommendationsankylosing spondylitis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0038012:Spondylitis [Disease or Syndrome]
+Processing 00000000.tx.153: In: Bennet PM, Wood PHN, eds. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Bennet PM, Wood PHN,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C0032768:phn [Disease or Syndrome]
+
+Phrase: "eds."
+Processing 00000000.tx.154: Population studies of the rheumatic diseases. 
+
+Phrase: "Population studies of the rheumatic diseases."
+Meta Candidates (Total=7; Excluded=3; Pruned=0; Remaining=4)
+   790   C0681876:population studies [Research Activity]
+   767 E C2348561:Study Population [Population Group]
+   753   C0032659:Population [Quantitative Concept]
+   753   C0947630:studies [Laboratory Procedure]
+   753   C1257890:Population [Population Group]
+   719 E C0557651:Study [Manufactured Object]
+   719 E C2603343:Study [Research Activity]
+Processing 00000000.tx.155: Amsterdam: Excerpta Medica Foundation, International Congress Series 148, Ch. 
+
+Phrase: "Amsterdam"
+
+Phrase: ":"
+
+Phrase: "Excerpta Medica Foundation,"
+Meta Candidates (Total=6; Excluded=5; Pruned=0; Remaining=1)
+   827   C0016617:Foundation [Organization]
+   743 E C0002055:base [Inorganic Chemical]
+   743 E C0178499:Base [Chemical Viewed Functionally]
+   743 E C1626935:Bases [Quantitative Concept]
+   743 E C1880279:Base [Biomedical or Dental Material]
+   721 E C0205112:Basal [Spatial Concept]
+
+Phrase: "International Congress Series 148,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   812   C0009753:Congress [Organization]
+   812   C0205549:Series [Quantitative Concept]
+   812   C1512888:International [Idea or Concept]
+   812   C2348044:Series [Intellectual Product]
+
+Phrase: "Ch."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0558269:Ch. [Professional or Occupational Group]
+  1000   C1552984:[Ch] [Quantitative Concept]
+Processing 00000000.tx.156: 64, 1966:4567. 
+
+Phrase: "64,"
+
+Phrase: "1966"
+
+Phrase: ":"
+
+Phrase: "4567."
+Processing 00000000.tx.157: Altman R, Asch E, Bloch D, Bole G, Borenstein D, Brandt K et al. 
+
+Phrase: "Altman R,"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   861   C0205090:R- [Spatial Concept]
+   861   C0684010:R. [Professional or Occupational Group]
+   861   C2603358:R' [Clinical Attribute]
+
+Phrase: "Asch E,"
+
+Phrase: "Bloch D,"
+
+Phrase: "Bole G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Borenstein D,"
+
+Phrase: "Brandt K et al."
+Processing 00000000.tx.158: Development of criteria for the classification and reporting of osteoarthritis. 
+
+Phrase: "Development of criteria"
+Meta Candidates (Total=4; Excluded=1; Pruned=0; Remaining=3)
+   790   C0243107:development [Physiologic Function]
+   790   C0678723:Development [Organism Function]
+   790   C1527148:Development [Functional Concept]
+   718 E C0458003:Developmental [Qualitative Concept]
+
+Phrase: "for the classification"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0008902:Classification [Classification]
+  1000   C0008903:classification [Functional Concept]
+  1000   C0678229:classification [Occupational Activity]
+
+Phrase: "and"
+
+Phrase: "reporting of osteoarthritis."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   790   C0700287:Reporting [Health Care Activity]
+Processing 00000000.tx.159: Arthritis Rheum 1986;29:103949.[ISI][Medline] Dilsen N, Konie M, Aral O, Gl A, cal L. 
+
+Phrase: "Arthritis Rheum 1986"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";29"
+
+Phrase: ":"
+
+Phrase: "103949."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Dilsen N,"
+
+Phrase: "Konie M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Aral O,"
+
+Phrase: "Gl A,"
+
+Phrase: "cal L."
+Processing 00000000.tx.160: Important implications of skin pathergy in Behet's disease. 
+
+Phrase: "Important implications of skin pathergy"
+
+Phrase: "in Behet's disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.161: In: Wechsler B, Godeau P, eds. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "Wechsler B,"
+
+Phrase: "Godeau P,"
+
+Phrase: "eds."
+Processing 00000000.tx.162: Behet's disease. 
+
+Phrase: "Behet's disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.163: Amsterdam: Excerpta Medica International Congress Series 1037, 1993:22933. 
+
+Phrase: "Amsterdam"
+
+Phrase: ":"
+
+Phrase: "Excerpta Medica International Congress Series 1037,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   799   C0009753:Congress [Organization]
+   799   C0205549:Series [Quantitative Concept]
+   799   C1512888:International [Idea or Concept]
+   799   C2348044:Series [Intellectual Product]
+
+Phrase: "1993"
+
+Phrase: ":"
+
+Phrase: "22933."
+Processing 00000000.tx.164: Budak-Alpdogan T, Demircay Z, Alpdogan O et al. 
+
+Phrase: "Budak-Alpdogan T,"
+
+Phrase: "Demircay Z,"
+
+Phrase: "Alpdogan O et al."
+Processing 00000000.tx.165: Skin hyperreactivity of Behet's patients (pathergy reaction) is also positive in interferon alpha treated chronic myeloid leukemia patients, indicating similarly altered neutrophil functions in both disorders. 
+
+Phrase: "Skin hyperreactivity of Behet's patients"
+
+Phrase: "(pathergy reaction"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0443286:Reaction [Functional Concept]
+   861   C1114821:Reaction [Clinical Attribute]
+
+Phrase: ")"
+
+Phrase: "is"
+
+Phrase: "also positive in interferon alpha"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0439178:% Positive [Quantitative Concept]
+   760   C1446409:Positive [Qualitative Concept]
+   760   C1514241:Positive [Finding]
+   760   C2825490:Positive [Qualitative Concept]
+
+Phrase: "treated"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+  1000   C0332293:treated [Therapeutic or Preventive Procedure]
+  1000   C1522326:Treated [Functional Concept]
+   966 E C1292734:TREAT [Functional Concept]
+
+Phrase: "chronic myeloid leukemia patients,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   812   C0030705:Patients [Patient or Disabled Group]
+   756   C0023473:Chronic myeloid leukaemia [Neoplastic Process]
+   756   C2984277:Chronic myeloid leukemia [Functional Concept]
+   708   C1279296:Chronic leukaemia [Neoplastic Process]
+
+Phrase: "indicating"
+
+Phrase: "similarly altered neutrophil"
+Meta Candidates (Total=3; Excluded=2; Pruned=0; Remaining=1)
+   827   C0027950:Neutrophile [Cell]
+   755 E C0746885:neutrophilic [Cell Function]
+   727 E C0151683:Neutrophilia [Finding]
+
+Phrase: "functions in both disorders."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   770   C0012634:Disorders [Disease or Syndrome]
+   770   C0031843:function [Physiologic Function]
+   770   C0542341:Function [Functional Concept]
+   770   C0700205:FUNCTION [Classification]
+   770   C1705273:Function [Intellectual Product]
+Processing 00000000.tx.166: Br J Rheumatol 1998;37:114856.[ISI][Medline] Yazici H, Basaran G, Hamuryudan V et al. 
+
+Phrase: "Br J Rheumatol 1998"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1704648:Br. [Conceptual Entity]
+
+Phrase: ";37"
+
+Phrase: ":"
+
+Phrase: "114856."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Yazici H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Basaran G,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0439267:g% [Quantitative Concept]
+
+Phrase: "Hamuryudan V et al."
+Processing 00000000.tx.167: The ten-year mortality in Behet's syndrome. 
+
+Phrase: "The ten-year mortality in Behet's syndrome."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   748   C0026565:Mortality [Quantitative Concept]
+   748   C0026566:mortality [Quantitative Concept]
+Processing 00000000.tx.168: Br J Rheumatol 1996;35:13941.[ISI][Medline] Hamuryudan V, Yurdakul S, Moral F et al. 
+
+Phrase: "Br J Rheumatol 1996"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1704648:Br. [Conceptual Entity]
+
+Phrase: ";35"
+
+Phrase: ":"
+
+Phrase: "13941."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Hamuryudan V,"
+
+Phrase: "Yurdakul S,"
+
+Phrase: "Moral F et al."
+Processing 00000000.tx.169: Pulmonary artery aneurysms in Behet's syndrome: a report of 24 cases. 
+
+Phrase: "Pulmonary artery aneurysms in Behet's syndrome"
+Meta Candidates (Total=10; Excluded=0; Pruned=0; Remaining=10)
+   799   C0155676:Pulmonary artery aneurysm [Anatomical Abnormality]
+   790   C0034052:Pulmonary Artery [Body Part, Organ, or Organ Component]
+   790   C1269026:Pulmonary artery [Body Part, Organ, or Organ Component]
+   754   C0340613:Arterial aneurysms [Anatomical Abnormality]
+   753   C0002940:ANEURYSMS [Disease or Syndrome]
+   753   C0003842:Artery [Body Part, Organ, or Organ Component]
+   753   C0024109:pulmonary [Body Part, Organ, or Organ Component]
+   753   C0226004:artery [Body System]
+   753   C2707265:Pulmonary [Clinical Attribute]
+   753   C2709248:Pulmonary [Qualitative Concept]
+
+Phrase: ":"
+
+Phrase: "a report of 24 cases."
+Meta Candidates (Total=5; Excluded=0; Pruned=0; Remaining=5)
+   781   C0007320:case report [Intellectual Product]
+   781   C0085973:Case Report [Intellectual Product]
+   760   C0684224:Report [Intellectual Product]
+   760   C0700287:Report [Health Care Activity]
+   760   C3273238:Report [Intellectual Product]
+Processing 00000000.tx.170: Br J Rheumatol 1994;33:4851.[ISI][Medline] Serdaroglu P. 
+
+Phrase: "Br J Rheumatol 1994"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1704648:Br. [Conceptual Entity]
+
+Phrase: ";33"
+
+Phrase: ":"
+
+Phrase: "4851."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Serdaroglu P."
+Processing 00000000.tx.171: Behet's disease and the nervous system. 
+
+Phrase: "Behet's disease"
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+
+Phrase: "and"
+
+Phrase: "the nervous system."
+Meta Candidates (Total=15; Excluded=7; Pruned=0; Remaining=8)
+  1000   C0027763:Nervous System [Body System]
+  1000   C0422837:NERVOUS SYSTEM [Finding]
+  1000   C1269560:Nervous system [Body System]
+   944 E C0205494:Neurologic [Qualitative Concept]
+   907 E C0027855:Neurology [Biomedical Occupation or Discipline]
+   888 E C2707261:Neurological [Clinical Attribute]
+   861   C0027769:Nervous [Sign or Symptom]
+   861   C0449913:System [Functional Concept]
+   861   C0599851:Nervous [Functional Concept]
+   861   C1553451:System [Manufactured Object]
+   861   C1704459:System [Medical Device]
+   789 E C0205373:Systemic [Functional Concept]
+   745 E C0027740:Nerve [Tissue]
+   745 E C0027757:NERVE [Tissue]
+   745 E C1280541:Nerve [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.172: J Neurol 1998;245:1506. 
+
+Phrase: "J Neurol 1998"
+
+Phrase: ";245"
+
+Phrase: ":"
+
+Phrase: "1506."
+Processing 00000000.tx.173: Yazici H, Yurdakul S, Hamuryudan V. 
+
+Phrase: "Yazici H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Yurdakul S,"
+
+Phrase: "Hamuryudan V."
+Processing 00000000.tx.174: The management of Behet's syndrome: how are we doing? 
+
+Phrase: "The management of Behet's syndrome"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0001554:Management [Occupational Activity]
+   760   C0376636:management [Health Care Activity]
+   760   C1273870:Management [Occupational Activity]
+   760   C3273539:Management [Occupation or Discipline]
+
+Phrase: ":"
+
+Phrase: "how"
+
+Phrase: "are"
+
+Phrase: "we"
+
+Phrase: "doing?"
+Processing 00000000.tx.175: Clin Exp Rheumatol 1999;17:1457.[ISI][Medline] Yazici H, Ozyazgan Y. 
+
+Phrase: "Clin Exp Rheumatol 1999"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   812   C1315013:CLIN [Intellectual Product]
+   812   C1417055:EXP [Gene or Genome]
+
+Phrase: ";17"
+
+Phrase: ":"
+
+Phrase: "1457."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Yazici H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Ozyazgan Y."
+Processing 00000000.tx.176: Medical management of Behet's syndrome. 
+
+Phrase: "Medical management of Behet's syndrome."
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   760   C0001554:Management [Occupational Activity]
+   760   C0376636:management [Health Care Activity]
+   760   C1273870:Management [Occupational Activity]
+   760   C3273539:Management [Occupation or Discipline]
+Processing 00000000.tx.177: In: BenEzra D, ed. 
+
+Phrase: "In"
+
+Phrase: ":"
+
+Phrase: "BenEzra D,"
+
+Phrase: "ed."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C3538926:ED [Idea or Concept]
+Processing 00000000.tx.178: Uveitis update. 
+
+Phrase: "Uveitis update."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C1519814:Update [Temporal Concept]
+Processing 00000000.tx.179: Dev Ophthalmol 1999;3:11831. 
+
+Phrase: "Dev Ophthalmol 1999"
+
+Phrase: ";3"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0439086:<3 [Quantitative Concept]
+  1000   C2827736:3+ [Quantitative Concept]
+  1000   C2981702:3+ [Classification]
+
+Phrase: ":"
+
+Phrase: "11831."
+Processing 00000000.tx.180: Hamza M. 
+
+Phrase: "Hamza M."
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+Processing 00000000.tx.181: Treatment of Behet's disease with thalidomide. 
+
+Phrase: "Treatment of Behet's disease"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "with thalidomide."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0039736:Thalidomide [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Processing 00000000.tx.182: Clin Rheumatol 1986;5:36571.[ISI][Medline] Hamuryudan V, Mat C, Saip S et al. 
+
+Phrase: "Clin Rheumatol 1986"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   827   C1315013:CLIN [Intellectual Product]
+
+Phrase: ";5"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+  1000   C0439084:>5 [Quantitative Concept]
+  1000   C0728893:+5 [Quantitative Concept]
+
+Phrase: ":"
+
+Phrase: "36571."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Hamuryudan V,"
+
+Phrase: "Mat C,"
+
+Phrase: "Saip S et al."
+Processing 00000000.tx.183: Thalidomide in the treatment of mucocutaneous lesions of the Behet syndrome: a randomized, double-blind, placebo-controlled trial. 
+
+Phrase: "Thalidomide in the treatment of mucocutaneous lesions of the Behet syndrome"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   738   C0039736:Thalidomide [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+
+Phrase: ":"
+
+Phrase: "a randomized, double-blind, placebo-controlled trial."
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+   904   C0282440:randomized controlled trial [Intellectual Product,Research Activity]
+   904   C1096777:Randomized Controlled Trial [Intellectual Product,Research Activity]
+   799   C0008976:Trial [Research Activity]
+Processing 00000000.tx.184: Ann Intern Med 1998;128:44350.[Abstract/Free FullText] Aktulga A, Altac M, Muftuoglu A et al. 
+
+Phrase: "Ann Intern Med 1998"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   812   C1144859:INTERN [Professional or Occupational Group]
+
+Phrase: ";128"
+
+Phrase: ":"
+
+Phrase: "44350."
+
+Phrase: "[Abstract/Free FullText"
+
+Phrase: "] Aktulga A,"
+
+Phrase: "Altac M,"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   861   C0369637:M NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441923:M+ [Intellectual Product]
+
+Phrase: "Muftuoglu A et al."
+Processing 00000000.tx.185: A double blind study of colchicine in Behet's disease. 
+
+Phrase: "A double blind study of colchicine"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   833   C0013072:Double-Blind Study [Research Activity]
+           DOUBLE BLIND
+   790   C2347038:blind study [Research Activity]
+   753   C0150108:Blind [Research Activity]
+   753   C0205173:Double [Functional Concept]
+   753   C0456909:Blind [Disease or Syndrome]
+   753   C0525065:blind [Patient or Disabled Group]
+   753   C0557651:Study [Manufactured Object]
+   753   C1705764:Double [Activity]
+   753   C1705765:Double [Qualitative Concept]
+   753   C2603343:Study [Research Activity]
+
+Phrase: "in Behet's disease."
+Meta Candidates (Total=4; Excluded=3; Pruned=0; Remaining=1)
+   861   C0012634:Disease [Disease or Syndrome]
+   805 E C1836721:MALS [Finding]
+   805 E C3538764:MALS [Gene or Genome]
+   805 E C3540595:MAL [Gene or Genome]
+Processing 00000000.tx.186: Haematologica 1980;65:399402.[ISI][Medline] Yurdakul S, Mat C, Ozyazgan Y et al. 
+
+Phrase: "Haematologica 1980"
+
+Phrase: ";65"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0450385:65 [Intellectual Product]
+
+Phrase: ":"
+
+Phrase: "399402."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Yurdakul S,"
+
+Phrase: "Mat C,"
+
+Phrase: "Ozyazgan Y et al."
+Processing 00000000.tx.187: A double blind study of colchicine in Behet's syndrome. 
+
+Phrase: "A double blind study of colchicine"
+Meta Candidates (Total=11; Excluded=0; Pruned=0; Remaining=11)
+   833   C0013072:Double-Blind Study [Research Activity]
+           DOUBLE BLIND
+   790   C2347038:blind study [Research Activity]
+   753   C0150108:Blind [Research Activity]
+   753   C0205173:Double [Functional Concept]
+   753   C0456909:Blind [Disease or Syndrome]
+   753   C0525065:blind [Patient or Disabled Group]
+   753   C0557651:Study [Manufactured Object]
+   753   C1705764:Double [Activity]
+   753   C1705765:Double [Qualitative Concept]
+   753   C2603343:Study [Research Activity]
+
+Phrase: "in Behet's syndrome."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0039082:Syndrome [Disease or Syndrome]
+Processing 00000000.tx.188: Arthritis Rheum 1998;suppl. 
+
+Phrase: "Arthritis Rheum 1998"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";suppl."
+Processing 00000000.tx.189: 41:S356. 
+
+Phrase: "41"
+
+Phrase: ":"
+
+Phrase: "S356."
+Processing 00000000.tx.190: Yazici H, Pazarli H, Barnes CG et al. 
+
+Phrase: "Yazici H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Pazarli H,"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   861   C0033727:H+ [Element, Ion, or Isotope]
+   861   C0369286:H NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   861   C0441932:H+ [Classification]
+   861   C0564385:/h [Quantitative Concept]
+
+Phrase: "Barnes CG et al."
+Processing 00000000.tx.191: A controlled trial of azathioprine in Behet's syndrome. 
+
+Phrase: "A controlled trial of azathioprine"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   760   C0008976:Trial [Research Activity]
+
+Phrase: "in Behet's syndrome."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0039082:Syndrome [Disease or Syndrome]
+Processing 00000000.tx.192: N Engl J Med 1990;322:2815.[Abstract] Hamuryudan V, Ozyazgan Y, Hizli N et al. 
+
+Phrase: "N Engl J Med 1990"
+Meta Candidates (Total=4; Excluded=0; Pruned=0; Remaining=4)
+   804   C0369718:N NOS [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C0441922:N+ [Intellectual Product]
+   804   C1414400:ENGL [Gene or Genome]
+   804   C1553036:[n] [Quantitative Concept]
+
+Phrase: ";322"
+
+Phrase: ":"
+
+Phrase: "2815."
+
+Phrase: "[Abstract"
+Meta Candidates (Total=3; Excluded=0; Pruned=0; Remaining=3)
+  1000   C0000857:Abstract [Occupational Activity]
+  1000   C0600678:Abstract [Intellectual Product]
+  1000   C1552863:Abstract [Idea or Concept]
+
+Phrase: "] Hamuryudan V,"
+
+Phrase: "Ozyazgan Y,"
+
+Phrase: "Hizli N et al."
+Processing 00000000.tx.193: Azathioprine in Behet's syndrome; 
+
+Phrase: "Azathioprine in Behet's syndrome"
+Meta Candidates (Total=2; Excluded=1; Pruned=0; Remaining=1)
+   770   C0004482:Azathioprine [Organic Chemical,Pharmacologic Substance]
+   715 E C0699279:Imuran [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ";"
+Processing 00000000.tx.194: effects on long term prognosis. 
+
+Phrase: "effects on long term prognosis."
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   844   C0023983:Long-Term Effects [Phenomenon or Process]
+   760   C1280500:effects [Qualitative Concept]
+   726 E C2348382:Effect [Qualitative Concept]
+Processing 00000000.tx.195: Arthritis Rheum 1997;40:76974.[ISI][Medline] Zouboulis CS, Orfanos CE. 
+
+Phrase: "Arthritis Rheum 1997"
+Meta Candidates (Total=3; Excluded=1; Pruned=0; Remaining=2)
+   827   C0003864:Arthritis [Disease or Syndrome]
+   827   C0035431:Rheum [Plant]
+   734 E C0018099:Gout [Disease or Syndrome]
+
+Phrase: ";40"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+  1000   C0439509:/40 [Temporal Concept]
+
+Phrase: ":"
+
+Phrase: "76974."
+
+Phrase: "[ISI][Medline"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C0025141:MEDLINE [Intellectual Product]
+
+Phrase: "] Zouboulis CS,"
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C3540510:cs [Quantitative Concept]
+
+Phrase: "Orfanos CE."
+Meta Candidates (Total=1; Excluded=0; Pruned=0; Remaining=1)
+   861   C2827664:CE [Idea or Concept]
+Processing 00000000.tx.196: Treatment of AdamantiadesBehet disease with systemic interferon alfa. 
+
+Phrase: "Treatment of AdamantiadesBehet disease"
+Meta Candidates (Total=6; Excluded=0; Pruned=0; Remaining=6)
+   770   C0039798:treatment [Functional Concept]
+   770   C0087111:Treatment [Therapeutic or Preventive Procedure]
+   770   C1522326:Treatment [Functional Concept]
+   770   C1533734:Treatment [Therapeutic or Preventive Procedure]
+   770   C1705169:Treatment [Conceptual Entity]
+   770   C3538994:TREATMENT [Research Activity]
+
+Phrase: "with systemic interferon alfa."
+Meta Candidates (Total=9; Excluded=0; Pruned=0; Remaining=9)
+   901   C0002199:Interferon Alfa [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   901   C0751598:Interferon Alfa [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   901   C1610033:Interferon Alpha [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   901   C2825023:Interferon alfa [Pharmacologic Substance]
+   827   C0021747:Interferon [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   827   C0439095:Alpha [Intellectual Product]
+   827   C0733470:Interferon [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   827   C2003941:Alpha [Intellectual Product]
+   827   C2350010:Alpha [Qualitative Concept]
+Processing 00000000.tx.197: Arch Dermatol 1998;134:19106.
+
+Phrase: "Arch Dermatol 1998"
+Meta Candidates (Total=2; Excluded=0; Pruned=0; Remaining=2)
+   827   C0230467:arch [Body Location or Region]
+   827   C0741204:ARCH [Body Space or Junction]
+
+Phrase: ";134"
+
+Phrase: ":"
+
+Phrase: "19106."
+

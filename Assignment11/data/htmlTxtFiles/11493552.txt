@@ -1,0 +1,804 @@
+
+
+Physiological rationale for responsiveness of mouse embryonic stem cells to gp130 cytokines
+
+
+
+Jennifer Nichols1,*, 
+Ian Chambers1, 
+Tetsuya Taga2 and 
+Austin Smith1
+
+
+
+
+1 Centre for Genome Research, University of Edinburgh, Kings Buildings, West Mains Road, Edinburgh EH9 3JQ, UK
+
+2 Department of Cell Fate Modulation, Institute of Molecular Embryology and Genetics, Kumamoto University, 2-2-1, Honjo, Kumamoto, 860-0811, Japan
+
+
+
+
+*Author for correspondence (e-mail: jenny.nichols{at}ed.ac.uk)
+
+
+
+
+
+Accepted April  9, 2001
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+SUMMARY
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+Embryonic stem cells are established directly from the pluripotent epiblast of the preimplantation mouse embryo. Their derivation and propagation are dependent upon cytokine-stimulated activation of gp130 signal transduction. Embryonic stem cells maintain a close resemblance to epiblast in developmental potency and gene expression profile. The presumption of equivalence between embryonic stem cells and epiblast is challenged, however, by the finding that early embryogenesis can proceed in the absence of gp130. To explore this issue further, we have examined the capacity of gp130 mutant embryos to accommodate perturbation of normal developmental progression. Mouse embryos arrest at the late blastocyst stage when implantation is prevented. This process of diapause occurs naturally in lactating females or can be induced experimentally by removal of the ovaries. We report that gp130-/- embryos survive unimplanted in the uterus after ovariectomy but, in contrast to wild-type or heterozygous embryos, are subsequently unable to resume development. Inner cell masses explanted from gp130-/- delayed blastocysts produce only parietal endoderm, a derivative of the hypoblast. Intact mutant embryos show an absence of epiblast cells, and Hoechst staining and TUNEL analysis reveal a preceding increased incidence of cell death. These findings establish that gp130 signalling is essential for the prolonged maintenance of epiblast in vivo, which is commonly required of mouse embryos in the wild. We propose that the responsiveness of embryonic stem cells to gp130 signalling has its origin in this adaptive physiological function. 
+
+
+
+
+
+
+
+Key words: Pluripotency, Blastocyst, Diapause, Epiblast, Self-renewal, Stem cell, Mouse
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+INTRODUCTION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+The epiblast is a transient population of pluripotent cells from which the entire mammalian foetus is derived (Gardner and Beddington, 1988; Hogan et al., 1994). The pluripotent capacity of the epiblast normally persists for only 4-5 days in early mouse embryogenesis. However, a potential for prolonged propagation of epiblast can be revealed by culturing embryos in the presence of the cytokine leukaemia inhibitory factor (LIF), which results in the establishment of embryonic stem (ES) cell lines (Brook and Gardner, 1997; Evans and Kaufman, 1981; Martin, 1981; Nichols et al., 1990). The continued propagation of pluripotent ES cells in culture is sustained by LIF provided either by co-culture with a feeder layer of embryonic fibroblasts (Rathjen et al., 1990), or as a recombinant protein added to the culture medium (Rathjen et al., 1990; Smith et al., 1988; Williams et al., 1988). These cells can be expanded indefinitely in culture whilst retaining the full differentiation capacity of the epiblast. They also express various antigenic and gene markers characteristic of the epiblast. Most impressively, ES cells have the ability to respond appropriately to developmental cues in the blastocyst and re-enter embryonic development (Beddington and Robertson, 1989; Bradley et al., 1984). ES cells thus appear to be in vitro counterparts of the early epiblast (Gardner and Brook, 1997; Smith, 2001). 
+
+
+
+In the absence of LIF, ES cells differentiate and pluripotency cannot be maintained. LIF acts by engaging a heterodimeric cell surface receptor complex comprising the LIF receptor subunit (LIFR) (Gearing et al., 1991) and glycoprotein 130 (gp130; also known as Il6st) (Davis et al., 1993). A family of related cytokines, including cardiotrophin 1, oncostatin M and ciliary neurotrophic factor, that interact with the LIFR/gp130 complex can substitute for LIF and support ES cell self-renewal (Conover et al., 1993; Pennica et al., 1995; Rose et al., 1994). Alternatively, the combination of interleukin 6 and soluble interleukin 6 receptor activates gp130 homodimers and can be used to derive and maintain ES cells without involvement of LIFR (Nichols et al., 1994; Yoshida et al., 1994). 
+
+
+
+LIF, LIFR and gp130 mRNAs are all expressed in the mouse blastocyst, and moreover in a reciprocal pattern between the trophectoderm and the inner cell mass (ICM) (Nichols et al., 1996). This is suggestive of a paracrine interaction whereby cytokine production by the trophectoderm would act to sustain embryonic pluripotency. However, embryos lacking LIF, LIFR or gp130 develop normally, at least until mid-gestation. Lif mutants are viable into adulthood, although homozygous females are sterile due to a failure of the uterus to support implantation (Stewart et al., 1992). Lifr-/- embryos die around the time of birth with severe deficits in motor neuron and glial cell populations (Li et al., 1995; Ware et al., 1995). Gp130 mutants exhibit defects in placental, cardiac and haematopoietic development in addition to the nervous system and die between 12 and 18 days post coitum (d.p.c.), depending on genetic background (Nakashima et al., 1999; Yoshida et al., 1996). No evidence for early embryo loss has been reported for any of these mutations. In contrast to the dependency of ES cells on gp130 signalling, therefore, the epiblast in vivo does not appear to rely on this pathway in the course of unperturbed development. 
+
+
+
+Embryogenesis in mice can be arrested temporarily at the blastocyst stage. This phenomenon of diapause has evolved in certain mammals to overcome sub-optimal conditions for reproduction associated with climate or demands on maternal nutrients due to the presence of a suckling litter (Mantalenakis and Ketchel, 1966; Yoshinaga and Adams, 1966). Under such conditions embryos develop to the hatched blastocyst stage, but then cease development and remain unimplanted in the uterus. In the mouse this state of diapause may persist for several weeks throughout which the blastocysts remain capable of resuming development once restored to an oestrogen-rich environment. Diapause can be induced experimentally by removal of the ovaries after fertilisation. Following ovariectomy embryos progress through blastocyst formation, hatch from the zona pellucida, and then arrest. When transferred to a primed recipient such embryos can implant and develop normally. This alteration of the normal schedule of development necessitates extended maintenance of the epiblast. Interestingly, ES cells were first established from embryos in diapause (Evans and Kaufman, 1981) and this generally appears to facilitate their derivation (Brook and Gardner, 1997).  
+
+
+
+We have examined Lifr and gp130 mutant embryos for their ability to support maintenance of epiblast cells during embryonic diapause. Whereas normal embryos can produce foetuses after several weeks in diapause, we find that this capacity is completely lost in the mutants. These findings establish a cryptic but critical role for gp130 receptor signalling in the mouse epiblast in vivo and thus provide an explanation for the responsiveness of ES cells to this pathway. 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+MATERIALS AND METHODS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Embryos
+
+
+Mice carrying targeted deletions of the gp130 (Yoshida et al., 1996) or Lifr (Li et al., 1995) genes were maintained on both 129 Ola (inbred) and CD-1 (outbred) backgrounds. As no difference was observed in the phenotypes on either background, results have been pooled. Compound heterozygous lines were established by crossing the single heterozygotes on a CD-1 background. Experimental embryos were generated by natural intercross matings of heterozygotes. The morning of detection of a vaginal plug was designated 0.5 d.p.c. 
+
+
+
+Delaying implantation of embryos and analysis of developmental potential
+
+
+Embryonic diapause was induced by surgical removal of the ovaries of pregnant female mice at 2.5 d.p.c. and subcutaneous administration of 0.5 mg of Depo provera. Diapause commences 2 days later, just before the normal time for implantation (4.5 d.p.c.). The ability of delayed blastocysts to resume development was investigated by flushing embryos from the uterus at the designated time and transferring them to pseudopregnant recipients at 2.5 d.p.c. Dissections were performed 7 days later (9.5 d.p.c. recipient age). Intact embryos were examined by light microscopy and genotyped by Southern blotting, as described previously (Li et al., 1995; Yoshida et al., 1996). All subsequent genotyping on embryos, ICMs and trophectoderm lysates was performed using polymerase chain reaction (PCR). 
+
+
+
+PCR genotyping
+
+
+Gp130 genotypes were determined by PCR using an oligonucleotide located at the gp130 initiation codon 5'-AGATGTCAGCACCAAGGATTTGGCTA-3', in combination with oligonucleotides located in the second intron of gp130 5'-CCCCAACCTTAACATTATGGAGGTAG-3' or in the tk promoter of tk neo 5'-CCGACTGCATCTGCGTGTTCGAATT-3'. This generated products of 300 base pairs (bp) for wild-type and 450 bp for mutant allelles respectively. Embryos or trophectoderm debris were lysed as previously described (Nichols et al., 1998). Amplification was carried out on 1-7 l of DNA for 35 cycles (following 95C hot start for 10 minutes) of 94C, 15 seconds; 60C, 12 seconds; 72C, 60 seconds, with a final extension at 72C for 10 minutes. Reaction products were resolved by agarose gel electrophoresis. 
+
+
+
+Immunosurgery
+
+
+Immunosurgical isolation of internal cell populations (Solter and Knowles, 1975) was carried out on freshly flushed delayed blastocysts. Whole anti-mouse antiserum was used at 20% (v/v) in phosphate-buffered medium 1 (PB1; Whittingham and Wales, 1969). Embryos were incubated in this at 37C for 2-3 hours, rinsed in PB1 containing 10% foetal calf serum (FCS), then exposed to 20% rat serum (non-heat inactivated as a source of complement) in PB1 at 37C for 15 minutes. Embryos were then transferred individually to drops of Glasgow modified Eagles medium (GMEM) with 10% FCS under mineral oil for a further hour. Trophectodermal debris was then separated and transferred into individual tubes containing 10 l of lysis buffer for PCR genotyping. 
+
+
+
+SSEA-1 immunofluorescence
+
+
+Freshly isolated ICMs were rinsed in PB1 with 0.15% BSA and incubated in anti-SSEA-1 (stage-specific embryonic antigen-1) supernatant (1/1000 dilution) at 4C for 45 minutes. After rinsing in PB1 with BSA they were transferred to FITC-conjugated rabbit anti-mouse IgM (1/10 dilution) for 30 minutes at 4C. They were then rinsed and observed using a fluorescence microscope. ICMs were then processed separately for genotyping by PCR. The anti-SSEA-1 monoclonal antibody developed by Solter and Knowles was obtained from the Developmental Studies Hybridoma Bank developed under the auspices of the NICHD and maintained by the University of Iowa, Department of Biological Sciences, Iowa City, IA 52242 (Solter and Knowles, 1978). 
+
+
+
+Outgrowth of isolated ICMs in culture
+
+
+Following immunosurgery residual inside cell clumps were transferred to individual gelatinised wells in 4-well plates containing GMEM + 20% FCS. Outgrowths were monitored daily and cultures were fixed for in situ hybridisation analysis after 5 days in culture. 
+
+
+
+In situ hybridisation
+
+
+In situ hybridisation was carried out according to the protocol described by Rosen and Beddington (Rosen and Beddington, 1993) adapted for use on cell cultures. The digoxigenin-labelled antisense riboprobe corresponds to nucleotides 7-1013 of SPARC (secreted acidic cysteine rich glycoprotein; GenBank accession number 04017). 
+
+
+
+ICM cell counts
+
+
+Cell counts were facilitated by disaggregating freshly isolated ICMs into single cells or doublets. Five minutes incubation in 0.5% pronase in PBS was followed by at least 20 minutes in Ca2+- and Mg2+-free KSOM (Bhatnagar et al., 1995) until the cells could be separated easily. 
+
+
+
+Detection of dead cells
+
+
+Hoechst staining was used to identify condensed or fragmented nuclei, indicative of dead cells. Blastocysts undergoing diapause were flushed from uteri, rinsed in PBS, then incubated in 0.05 mM Hoechst in absolute ethanol at 4C for at least an hour. Before observation they were rinsed in absolute ethanol for 30 minutes, then placed individually into drops of glycerol on a glass slide, each covered with a fragment of siliconised coverslip for fluorescence microscopy. After observation and scoring for dead cells each delayed blastocyst was rinsed in PBS and placed in 10 l of PCR buffer for genotyping. In subsequent experiments fragmented DNA was detected by TdT-mediated dUTP nick end labelling (TUNEL) according to the manufacturers protocol (Roche Molecular Biochemicals). 
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+RESULTS
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+Gp130/LIFR are required for recovery from embryonic diapause
+
+
+The capacity of embryos lacking LIFR and/or gp130 to maintain developmental competence when the preimplantation period is extended was investigated by experimental induction of diapause (delayed implantation). Compound heterozygotes for gp130 and Lifr were intercrossed and pregnant females ovariectomised at 2.5 d.p.c. Thirty two blastocysts were recovered after 6 days in delay and transferred directly to the uteri of pseudopregnant females. Twenty-eight implantation sites were dissected 7 days after transfer (equivalent to 9.5 d.p.c. of normal embryo development) and foetuses examined and genotyped. Of 17 conceptuses recovered, 4 were Lifr-/- (Fig. 1). Two of these were normal and 2 abnormal. The remaining 13 embryos carried at least one wild-type allele for both gp130 and Lifr. No gp130 null embryos were recovered (see below). In addition there were 11 empty implantation sites. 
+
+
+
+
+
+
+
+
+
+
+View larger version (22K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 1. The number and genotypes of embryos dissected from 9.5d.p.c. implantation sites generated by transfer of blastocysts from Lifr and gp130 double heterozygous intercross matings that were in diapause for 6 days. The numbers for wild type (+/+) and heterozygous (+/-) genotypes are combined (+). *Two of the four embryos were abnormal.
+
+
+
+
+
+&nbsp;
+
+
+
+Using intercross matings between Lifr heterozygotes the period in delay was extended to 12 days. Of 26 implantation sites produced after transfer of 31 blastocysts, 19 contained normal foetuses, but on genotyping none of these was found to be Lifr-/-. The remaining 7 implantation sites were empty and presumably attributable to null embryos that had implanted in the uterus, but failed to resume development. We conclude that gp130 is required for recovery from even a relatively brief period of diapause and that a requirement for LIFR becomes evident during prolonged diapause. 
+
+
+
+Gp130-/- embryos are unable to resume embryogenesis after diapause
+
+
+The observation that mutant foetuses could not be recovered from recipient females after uterine transfer of delayed blastocysts could be due to embryo loss during diapause or to inability to reinitiate development. The incidence of empty decidua after transfer suggested that mutant embryos had implanted in the host uterus but failed to develop subsequently (Fig. 1). To confirm this, embryos were flushed from pregnant females of gp130 heterozygous intercross matings after 6 days in diapause and genotyped by PCR. The predicted Mendelian ratio for the three genotypes was obtained (15 +/+, 24 +/-, 13 -/-), establishing that gp130-/- blastocysts do persist during diapause. Gp130 signalling therefore plays a specific role in maintaining the developmental potential of the embryo during implantation delay. 
+
+
+
+Pluripotent cells are absent in gp130-/- blastocysts after diapause
+
+
+Internal cell populations were isolated immunosurgically (Solter and Knowles, 1975) from blastocysts generated by heterozygous intercross matings after 6 days in diapause. Expression of the epiblast-specific marker SSEA-1 (Solter and Knowles, 1978) was examined by whole-mount immunofluorescence staining, followed by PCR genotyping. Whereas ICMs from wild-type or heterozygous embryos exhibited a distinct region of fluorescence representing the epiblast component of the embryo (Fig. 2A,B), gp130-/- ICMs showed no immunoreactivity (5/5; Table 1). This implies that although gp130-/- embryos can survive diapause, the epiblast compartment is not maintained. 
+
+
+
+
+
+
+
+
+
+
+View larger version (100K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 2. SSEA-1 immunostaining on ICMs isolated from blastocysts delayed for 6 days. (A) phase contrast, (B) fluorescence (x40 objective). In situ hybridisation for Sparc mRNA on cultured ICMs from blastocysts delayed for 6 days. (C) gp130+/-, (D) gp130-/- (x10 objective). ICM, proliferating inner cell mass; VE, visceral endoderm; PE, parietal endoderm.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+View this table:
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Table 1. 
+
+&nbsp;
+
+
+
+To examine directly the differentiation potential of the internal cells in gp130-/- blastocysts after diapause, ICMs isolated as described above were cultured under conditions that allow attachment and growth (Nichols et al., 1998). Wild-type and heterozygous embryos generally maintained a prominent mass of cells derived from the ICM with a distinct rind and core structure (62/68). They also gave rise to outgrowing parietal and visceral endoderm cells (hypoblast derivatives; Fig. 2C; Table 2). In contrast, inner cells from homozygous mutant embryos did not exhibit a central mass and produced only dispersed refractile cells of stellate morphology (10/10 of gp130-/- outgrowths; Fig. 2D; Table 2). Subsequent whole-mount in situ hybridisation analysis for SPARC mRNA (Murray et al., 1990; Rothstein et al., 1992) substantiated the morphological identification of these dispersed cells as parietal endoderm, the primary derivative of the hypoblast. Thus, the pluripotent epiblast cells are not maintained during diapause, and the residual ICM is composed entirely of hypoblast or its derivatives. 
+
+
+
+
+
+
+
+View this table:
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Table 2. 
+
+&nbsp;
+
+
+
+Gp130-/- embryos have reduced inside cell numbers after 6 days of diapause
+
+
+ICMs from gp130-/- delayed blastocysts appear smaller than their wild-type or heterozygous littermates (Fig. 2A). This is likely to reflect a reduced number of cells in mutant embryos. To confirm this quantitatively, cells were counted from isolated ICMs from intercross embryos delayed for 2 days and 6 days (Fig. 3). After 2 days in delay there was no significant difference between the number of inside cells in wild type or heterozygous versus homozygous null embryos (P&gt;0.1 by Students t-test). During the following 4 days the inside cell number in wild-type and heterozygous embryos showed an apparent modest increase. Conversely, in homozygotes the number of inside cells declined significantly (P&lt;0.002 by Students t-test), such that the average inside cell number of homozygous mutant delayed blastocysts is less than half that of wild-type or heterozygous embryos (P&lt;0.001). This suggests that the epiblast cells of gp130-/- embryos may be dying during diapause. 
+
+
+
+
+
+
+
+
+
+
+View larger version (40K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 3. Comparison of cell numbers of ICMs of blastocysts generated from intercross matings of mice heterozygous for gp130, in diapause for 2 or 6 days. Wt/het, combined gp130+/+ and gp130+/- genotypes; null, gp130-/-. Error bars denote standard deviation. For 2 days of delay there is no significant difference in the mean inside cell number (P&gt;0.1 by Students t-test). For 6 days of delay there is a highly significant difference between the mean numbers of inside cells by Students t-test (P&lt;0.001). Comparing mean inside cell numbers from null embryos delayed for 2 days with those delayed for 6 days the difference is significant by Students t-test (P&lt;0.002).
+
+
+
+
+
+&nbsp;
+
+
+
+Gp130-/- embryos are subject to increased cell death during delayed implantation
+
+
+Fluorescent DNA stains can be used to detect dead cells, since their nuclei may appear condensed or fragmented. We therefore applied Hoechst staining to gp130 intercross embryos during delayed implantation. After 3 days of diapause blastocysts were flushed from uteri, stained with Hoechst, scored for the presence of condensed or fragmented nuclei, and subsequently genotyped by PCR. As shown in Fig. 5, significantly more dead cells were detected in embryos lacking gp130 than in wild-type or heterozygous embryos (P&lt;0.002 by Students t-test). 
+
+
+
+
+
+
+
+
+
+
+View larger version (22K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 5. Number of dead cells detected by TUNEL analysis and Hoechst staining of blastocysts from gp130+/- intercross matings delayed for 3 days. Wt/het, combined gp130+/+ and gp1+/-; null, gp130-/-. Error bars denote standard deviation. Using Students t-test significantly more dead cells per embryo are detected in the gp130-/- category: P&lt;0.01 using TUNEL analysis; P&lt;0.002 by Hoechst staining.
+
+
+
+
+
+&nbsp;
+
+
+
+These findings were extended using an alternative detection method. Blastocysts from intercross matings were flushed from uteri after 3 days in delay and examined in whole-mount for DNA strand breaks by means of TUNEL. DNA fragmentation is characteristic of cells undergoing apoptosis. Fluorescently labelled cells were counted (Fig. 4), and each blastocyst was subsequently genotyped by PCR. Significantly more labelled cells were detected in mutant embryos than in those of their wild-type or heterozygous littermates (P&lt;0.01 by Students t-test; Fig. 5). It is therefore likely that the dead cells detected using Hoechst staining are arising as a result of apoptosis. The greater window for detection of DNA fragmentation compared with the overt morphological appearance of condensed or fragmented nuclei probably accounts for the greater number of TUNEL-positive cells. 
+
+
+
+
+
+
+
+
+
+
+View larger version (188K):
+
+[in this window]
+
+[in a new window]
+&nbsp;
+
+Fig. 4. Composite bright-field and fluorescence image of blastocyst delayed for 3 days and stained for TUNEL. Dead cells fluoresce. Subsequent PCR analysis revealed that this embryo was gp130-/-. Images were collected using a x40 objective and Open Lab imaging software.
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+DISCUSSION
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+The ability of embryos bearing mutations in the components of the LIF pathway to undergo apparently normal epiblast expansion leading to egg cylinder formation and gastrulation (Li et al., 1995; Stewart et al., 1992; Yoshida et al., 1996) appears in conflict with the central role of gp130 in maintaining embryonic stem cells. This paradox can be resolved by the finding that blastocysts lacking gp130 are unable to resume development after diapause specifically because of a loss of the epiblast component. Absence of epiblast was demonstrated by consistent failure to detect SSEA-1 immunofluorescence in gp130-/- delayed blastocysts, and by the corresponding restricted in vitro differentiation potential in this group of embryos. The loss of the epiblast component was found to occur by cell death with evidence of DNA fragmentation, a diagnostic hallmark of apoptosis. These observations define a function for gp130 in vivo that is consistent with its role in the maintenance of pluripotent ES cells in vitro. 
+
+
+
+The loss of epiblast identity in gp130-/- embryos after 6 days in delay was indicated by the lack of SSEA-1 immunostaining on freshly isolated ICMs (Fig. 2A,B). These ICMs produced only parietal endoderm in culture (Fig. 2D), whereas ICMs from wild-type or heterozygous blastocysts exhibited a prominent mass of epiblast and outgrew both visceral and parietal endoderm (Fig. 2C). Formation of visceral endoderm requires sustained contact with the epiblast (Hogan and Tilly, 1981). Therefore the absence of visceral endoderm in outgrowths from gp130-/- ICMs provides further evidence for the lack of a functional epiblast. 
+
+
+
+The reduction in the number of ICM cells in gp130-/- embryos during delayed implantation (Fig. 3) implicates cell death rather than inappropriate differentiation as the likely mechanism for loss of the epiblast in gp130-/- embryos during diapause. The elevated numbers of dead cells detected in the gp130-/- embryos compared with their wild-type and heterozygous littermates substantiates this interpretation (Fig. 5). The detection of a number of dead cells in wild-type and heterozygous delayed blastocysts indicates that the cell death observed during normal blastocyst development (Copp, 1978; El-Shershaby and Hinchliffe, 1974) is also ongoing during diapause, albeit at a lower level. Overall there is a modest increase in ICM cell numbers in normal embryos during diapause, as previously suggested by Evans and Kaufman (Evans and Kaufman, 1981). It is striking that we have never observed mutant embryos with more than four dead or dying cells at any one time. Thus the loss of epiblast does not appear to occur simultaneously, but rather to be progressive. Trophectoderm cells in the blastocyst have been shown to exhibit phagocytic activity (Rassoulzadegan et al., 2000). It is possible that dead cell debris is rapidly removed by the trophectoderm and degraded so that only nascent dead cells are detectable, and a cumulative increase in the number of dead cells therefore is not observed. TUNEL-positive cells appearing in the trophectoderm region of delayed blastocysts may also be attributable to trophectoderm phagocytic activity. 
+
+
+
+There are two possible reasons why epiblast cells might enter into apoptosis in the absence of gp130 signalling. One possibility is that gp130 provides a direct cell survival signal. STAT3, which is activated downstream of gp130, has been shown to have anti-apoptotic activity in some circumstances (Hirano et al., 2000). However, although gp130 signalling can enhance ES cell viability under sub-optimal conditions, its main function in these cells in vitro is to suppress differentiation (Smith, 2001). Therefore an alternative explanation for the diapause phenotype could be that, in the absence of gp130, epiblast cells may begin to differentiate inappropriately and that this subsequently results in apoptosis. 
+
+
+
+During unperturbed development gp130 and Lifr are expressed in the ICM of the blastocyst, and this expression is maintained during diapause (Nichols et al., 1996, and unpublished data). As shown in Fig. 1, some Lifr-/- embryos are able to resume development after 6 days in delay, although embryogenesis may be compromised. After 12 days of diapause, however, no Lifr-/- embryos were found following transfer, although wild-type or heterozygous embryos were still viable. These data indicate that epiblast maintenance during delayed implantation shows a more acute dependence on gp130 than LIFR. This implies that the action of LIF or related cytokines that signal through the LIFR/gp130 heterodimeric complex, are augmented, at least for a limited period, by a cytokine acting through a separate gp130 receptor complex that does not include LIFR. Interleukin 6 (IL6), which acts via gp130 homodimers is a candidate, since IL6 and IL6R mRNAs have been detected in blastocysts (Murray et al., 1990; Rothstein et al., 1992). We have previously shown that IL6/sIL6R can support both the derivation and propagation of ES cells with similar efficiency to LIF (Nichols et al., 1994; Yoshida et al., 1994). 
+
+
+
+Diapause is observed in many different mammals. The hormonal mechanisms, growth characteristics, stimuli (lactational, seasonal or nutritional) and potential duration are sufficiently diverse to imply that this phenomenon has been adopted independently during evolution (Renfree and Shaw, 2000). A speculative possibility is that there may be a relationship between the persistence of gp130/LIFR expression and the distinct duration of diapause seen in different species. The finding that gp130 signalling serves a highly evolved adaptive function is consistent with the proposal that an alternative pathway plays the primary role in supporting normal transient propagation of the epiblast (Dani et al., 1998; Lake et al., 2000; Rathjen et al., 1999). It is noteworthy that mouse epiblast cells appear more amenable to conversion into ES cells if they have been subjected to diapause (Brook and Gardner, 1997; Robertson, 1987). This may be related to the activation of dependency on gp130 signalling that could prime the cells for continued self-renewal. However, ES cell derivation is a multifactorial process (Smith, 2001) and imposition of diapause alone is not sufficient in non-permissive mouse strains or other rodents such as the rat. 
+
+
+
+The results presented here may have implications for attempts to derive and propagate ES cell equivalents from mammals that do not undergo diapause. Primate blastocyst-derived stem cells have been reported not to respond to gp130 cytokines and to be more difficult to propagate than mouse ES cells (Reubinoff et al., 2000; Thomson et al., 1998). However, the generality of these observations is not certain (Schuldiner et al., 2000). It is worth noting that LIFR and gp130 mRNAs have been detected in blastocysts of various species including humans (Geisterfer and Gauldie, 1996; Nichols et al., 1996; Sharkey et al., 1995). Therefore, the expression of these components has been conserved, but whether this extends to complete or only partial functionality remains to be determined. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+ACKNOWLEDGMENTS
+
+&nbsp;
+
+
+We are grateful to Frances Stenhouse, Joanne Povey and Carol Manson for excellent technical assistance; to Graham Brown for help with photography, and to Marios Stravridis and Jeremy Quirk for helpful advice. This work was supported by the Biotechnology and Biological Sciences Research Council of the United Kingdom and the Human Frontiers Science Program Organisation. 
+
+
+
+
+
+
+
+
+
+ 
+ &nbsp;&nbsp;
+REFERENCES
+
+
+TOP
+
+SUMMARY
+
+INTRODUCTION
+
+MATERIALS AND METHODS
+
+RESULTS
+
+DISCUSSION
+
+REFERENCES
+
+
+&nbsp;
+
+
+
+
+
+
+Beddington, R. S. P. and Robertson, E. J. (1989). An assessment of the developmental potential of embryonic stem cells in the midgestation mouse embryo. Development 105, 733-737.[Abstract]
+
+
+
+Bhatnagar, P., Papaioannou, V. E. and Biggers, J. D. (1995). CSF-1 and mouse preimplantation development in vitro. Development 121, 1333-1339.[Abstract/Free Full&nbsp;Text]
+
+
+
+Bradley, A., Evans, M. J., Kaufman, M. H. and Robertson, E. (1984). Formation of germ-line chimaeras from embryo-derived teratocarcinoma cell lines. Nature 309, 255-256.[Medline]
+
+
+
+Brook, F. A. and Gardner, R. L. (1997). The origin and efficient derivation of embryonic stem cells in the mouse. Proc. Natl. Acad. Sci. USA 94, 5709-5712.[Abstract/Free Full&nbsp;Text]
+
+
+
+Conover, J. C., Ip, N. Y., Poueymirou, W. T., Bates, B., Goldfarb, M. P., DeChiara, T. M. and Yancopoulos, G. D. (1993). Ciliary neurotrophic factor maintains the pluripotentiality of embryonic stem cells. Development 119, 559-565.[Abstract/Free Full&nbsp;Text]
+
+
+
+Copp, A. J. (1978). Interaction between inner cell mass and trophectoderm of the mouse blastocyst. I. A study of cellular proliferation. J. Embryol. Exp. Morphol. 48, 109-125.[Medline]
+
+
+
+Dani, C., Chambers, I., Johnstone, S., Robertson, M., Ebrahimi, B., Saito, M., Taga, T., Li, M., Burdon, T., Nichols, J. et al. (1998). Paracrine induction of stem cell renewal by LIF-deficient cells: a new ES cell regulatory pathway. Dev. Biol. 203, 149-162.[Medline]
+
+
+
+Davis, S., Aldrich, T. H., Stahl, N., Pan, L., Taga, T., Kishimoto, T., Ip, N. Y. and Yancopoulos, G. D. (1993). LIFR and gp130 as heterodimerizing signal transducers of the tripartite CNTF receptor. Science 260, 1805-1808.[Medline]
+
+
+
+El-Shershaby, A. M. and Hinchliffe, J. R. (1974). Cell redundancy in the zona-intact preimplantation mouse blastocyst: a light and electron microscope study of dead cells and their fate. J. Embryol. Exp. Morphol. 31, 643-54.[Medline]
+
+
+
+Evans, M. J. and Kaufman, M. (1981). Establishment in culture of pluripotential cells from mouse embryos. Nature 292, 154-156.[Medline]
+
+
+
+Gardner, R. L. and Beddington, R. S. (1988). Multi-lineage stem cells in the mammalian embryo. J. Cell Sci. Suppl. 10, 11-27.
+
+
+
+Gardner, R. L. and Brook, F. A. (1997). Reflections on the biology of embryonic stem cells. Int. J. Dev. Biol. 41, 235-243.[Medline]
+
+
+
+Gearing, D. P., Thut, C. J., VandenBos, T., Gimpel, S. D., Delaney, P. B., King, J., Price, V., Cosman, D. and Beckman, M. P. (1991). Leukemia inhibitory factor receptor is structurally related to the Il-6 signal transducer, gp130. EMBO J. 10, 2839-2848.[Abstract]
+
+
+
+Geisterfer, M. and Gauldie, J. (1996). Regulation of signal transducer, GP13O and the LIF receptor in acute inflammation in vivo. Cytokine 8, 283-287.[Medline]
+
+
+
+Hirano, T., Ishihara, K. and Hibi, M. (2000). Roles of STAT3 in mediating the cell growth, differentiation and survival signals relayed through the IL-6 family of cytokine receptors. Oncogene 19, 2548-2556.[Medline]
+
+
+
+Hogan, B., Beddington, R., Costantini, F. and Lacy, E. (1994). Manipulating the Mouse Embryo: A Laboratory Manual. New York: Cold Spring Harbour Laboratory Press.
+
+
+
+Hogan, B. L. and Tilly, R. (1981). Cell interactions and endoderm differentiation in cultured mouse embryos. J. Embryol. Exp. Morphol. 62, 379-394.[Medline]
+
+
+
+Lake, J., Rathjen, J., Remiszewski, J. and Rathjen, P. D. (2000). Reversible programming of pluripotent cell differentiation. J. Cell Sci. 113, 555-566.[Abstract/Free Full&nbsp;Text]
+
+
+
+Li, M., Sendtner, M. and Smith, A. (1995). Essential function of LIF receptor in motor neurons. Nature 378, 724-727.[Medline]
+
+
+
+Mantalenakis, S. J. and Ketchel, M. M. (1966). Frequency and extent of delayed implantation in lactating rats and mice. J. Reprod. Fertil. 12, 391-394.[Medline]
+
+
+
+Martin, G. R. (1981). Isolation of a pluripotent cell line from early mouse embryos cultured in medium conditioned by teratocarcinoma stem cells. Proc. Natl. Acad. Sci. USA 78, 7634-7638.[Abstract]
+
+
+
+Murray, R., Lee, F. and Chiu, C.-P. (1990). The genes for leukemia inhibitory factor and interleukin-6 are expressed in mouse blastocysts prior to the onset of haemopoiesis. Mol. Cell. Biol. 10, 4953-4956.[Medline]
+
+
+
+Nakashima, K., Wiese, S., Yanagisawa, M., Arakawa, H., Kimura, N., Hisatsune, T., Yoshida, K., Kishimoto, T., Sendtner, M. and Taga, T. (1999). Developmental requirement of gp130 signaling in neuronal survival and astrocyte differentiation. J, Neurosci. 19, 5429-5434.[Abstract/Free Full&nbsp;Text]
+
+
+
+Nichols, J., Chambers, I. and Smith, A. (1994). Derivation of germline competent embryonic stem cells with combination of interleukin-6 and soluble interleukin-6 receptor. Exp. Cell Res. 215, 237-239.[Medline]
+
+
+
+Nichols, J., Davidson, D., Taga, T., Yoshida, K., Chambers, I. and Smith, A. G. (1996). Complementary tissue-specific expression of LIF and LIF-receptor mRNAs in early mouse embryogenesis. Mech. Dev. 57, 123-131.[Medline]
+
+
+
+Nichols, J., Evans, E. P. and Smith, A. G. (1990). Establishment of germ-line competent embryonic stem (ES) cells using differentiation inhibiting activity. Development 110, 1341-1348.[Abstract]
+
+
+
+Nichols, J., Zevnik, B., Anastassiadis, K., Niwa, H., Klewe-Nebenius, D., Chambers, I., Scholer, H. and Smith, A. (1998). Formation of pluripotent stem cells in the mammalian embryo depends on the POU transcription factor Oct-4. Cell 95, 379-391.[Medline]
+
+
+
+Pennica, D., Shaw, K. J., Swanson, T. A., Moore, M. W., Shelton, D. L., Zioncheck, K. A., Rosenthal, A., Taga, T., Paoni, N. F. and Wood, W. I. (1995). Cardiotrophin-1. Biological activities and binding to the leukemia inhibitory factor receptor/gp130 signaling complex. J. Biol. Chem. 270, 10915-10922.[Abstract/Free Full&nbsp;Text]
+
+
+
+Rassoulzadegan, M., Rosen, B. S., Gillot, I. and Cuzin, F. (2000). Phagocytosis reveals a reversible differentiated state early in the development of the mouse embryo. EMBO J. 19, 3295-303.[Abstract/Free Full&nbsp;Text]
+
+
+
+Rathjen, J., Lake, J. A., Bettess, M. D., Washington, J. M., Chapman, G. and Rathjen, P. D. (1999). Formation of a primitive ectoderm like cell population, EPL cells, from ES cells in response to biologically derived factors. J. Cell Sci. 112, 601-612.[Abstract/Free Full&nbsp;Text]
+
+
+
+Rathjen, P. D., Toth, S., Willis, A., Heath, J. K. and Smith, A. G. (1990). Differentiation inhibiting activity is produced in matrix-associated and diffusible forms that are generated by alternate promoter usage. Cell 62, 1105-1114.[Medline]
+
+
+
+Renfree, M. B. and Shaw, G. (2000). Diapause. Annu. Rev. Physiol. 62, 353-375.[Medline]
+
+
+
+Reubinoff, B. E., Pera, M. F., Fong, C. Y., Trounson, A. and Bongso, A. (2000). Embryonic stem cell lines from human blastocysts: somatic differentiation in vitro [see comments] [published erratum appears in Nat. Biotechnol. 18(5), 559]. Nat. Biotechnol. 18, 399-404.[Medline]
+
+
+
+Robertson, E. J. (1987). Embryo-derived stem cell lines. In Teratocarcinomas and Embryonic Stem Cells: A Practical Approach (ed. E. J. Robertson), pp. 71-112. Oxford: IRL Press.
+
+
+
+Rose, T. M., Weiford, D. M., Gunderson, N. L. and Bruce, A. G. (1994). Oncostatin M (OSM) inhibits the differentiation of pluripotent embryonic stem cells in vitro. Cytokine 6, 48-54.[Medline]
+
+
+
+Rosen, B. and Beddington, R. S. P. (1993). Whole-mount in situ hybridization in the mouse embryo: gene expression in three dimensions. Trends Genet. 9, 162-167.[Medline]
+
+
+
+Rothstein, J. L., Johnson, D., DeLoia, J. A., Skowronski, J., Solter, D. and Knowles, B. (1992). Gene expression during preimplantation mouse development. Genes Dev. 6, 1190-201.[Abstract]
+
+
+
+Schuldiner, M., Yanuka, O., Itskovitz-Eldor, J., Melton, D. A. and Benvenisty, N. (2000). From the cover: effects of eight growth factors on the differentiation of cells derived from human embryonic stem cells. Proc. Natl. Acad. Sci. USA 97, 11307-11312.[Abstract/Free Full&nbsp;Text]
+
+
+
+Sharkey, A. M., Dellow, K. and Blayney, M. (1995). Stage-specific expression of cytokine and receptor messenger ribonucleic acids in human preimplantation embryos. Biol. Reprod. 53, 955-962.
+
+
+
+Smith, A. G. (2001). Embryonic Stem Cells. In Stem Cell Biology, vol. 40 (ed. D. R. Marshak, R. L. Gardner and D. Gottleib), pp. 205-230. New York: Cold Spring Harbor Laboratory Press.
+
+
+
+Smith, A. G., Heath, J. K., Donaldson, D. D., Wong, G. G., Moreau, J., Stahl, M. and Rogers, D. (1988). Inhibition of pluripotential embryonic stem cell differentiation by purified polypeptides. Nature 336, 688-690.[Medline]
+
+
+
+Solter, D. and Knowles, B. (1975). Immunosurgery of mouse blastocyst. Proc. Natl. Acad. Sci. USA 72, 5099-5102.[Abstract]
+
+
+
+Solter, D. and Knowles, B. B. (1978). Monoclonal antibody defining a stage-specific mouse embryonic antigen (SSEA-1). Proc. Natl. Acad. Sci. USA 75, 5565-5569.[Abstract]
+
+
+
+Stewart, C. L., Kaspar, P., Brunet, L. J., Bhatt, H., Gadi, I., Kontgen, F. and Abbondanzo, S. J. (1992). Blastocyst implantation depends on maternal expression of leukaemia inhibitory factor. Nature 359, 76-79.[Medline]
+
+
+
+Thomson, J. A., Itskovitz-Eldor, J., Shapiro, S. S., Waknitz, M. A., Swiergiel, J. J., Marshall, V. S. and Jones, J. M. (1998). Embryonic stem cell lines derived from human blastocysts. Science 282, 1145-7.[Abstract/Free Full&nbsp;Text]
+
+
+
+Ware, C. B., Horowitz, M. C., Renshaw, B. R., Hunt, J. S., Liggit, D., Koblar, S. A., Gliniak, B. C., McKenna, H. J., Papayannopoulou, T., Thoma, B. et al. (1995). Targeted disruption of the low-affinity leukemia inhibitory factor receptor gene causes placental, skeletal, neural and metabolic defects and results in perinatal death. Development 121, 1283-1299.[Abstract/Free Full&nbsp;Text]
+
+
+
+Whittingham, D. G. and Wales, R. G. (1969). Storage of two-cell mouse embryos in vitro. Aust. J. Biol. Sci. 22, 1065-1068.[Medline]
+
+
+
+Williams, R. L., Hilton, D. J., Pease, S., Willson, T. A., Stewart, C. L., Gearing, D. P., Wagner, E. F., Metcalf, D., Nicola, N. A. and Gough, N. M. (1988). Myeloid leukaemia inhibitory factor maintains the developmental potential of embryonic stem cells. Nature 336, 684-687.[Medline]
+
+
+
+Yoshida, K., Chambers, I., Nichols, J., Smith, A., Saito, M., Yasukawa, K., Shoyab, M., Taga, T. and Kishimoto, T. (1994). Maintenance of the pluripotential phenotype of embryonic stem cells through direct activation of gp130 signalling pathways. Mech. Dev. 45, 163-171.[Medline]
+
+
+
+Yoshida, K., Taga, T., Saito, M., Suematsu, S., Kumanogoh, A., Tanaka, T., Fujiwara, H., Hirata, M., Yamagami, T., Nakahata, T. et al. (1996). Targeted disruption of gp130, a common signal transducer for the interleukin 6 family of cytokines, leads to myocardial and hematological disorders. Proc. Natl. Acad. Sci. USA 93, 407-411.[Abstract/Free Full&nbsp;Text]
+
+
+
+Yoshinaga, K. and Adams, C. E. (1966). Delayed implantation in the spayed, progesterone treated adult mouse. J. Reprod. Fertil. 12, 593-595.[Medline]
+
+
+ 
+		
+        
+        
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
